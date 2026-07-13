@@ -73,7 +73,7 @@ I am a computational macroeconomist. Use this productively, but watch the hazard
 | Task | Convention |
 |---|---|
 | Reconstruction critique | I paste the reconstruction; you pressure-test it per the four-part Practice A structure (claim / support / directed-against / presuppositions) plus the dialogue-moment objection. |
-| Editing plan documents | Use the diagnostic-refinement workflow when the edit is non-trivial. Respect the fixed/revisable distinction in `bridge_document.md` §8. Preserve [Economist's note] markers. Preserve [MX]/Phase IV-connection flags. |
+| Editing plan documents | Use the diagnostic-refinement workflow when the edit is non-trivial. Respect the fixed/revisable distinction in `bridge_document.md` §6 (Class A/B/C parameter table). Preserve [Economist's note] markers. Preserve [MX]/Phase IV-connection flags. |
 | Iterating on reading practices | This is open territory. Tell me what's likely to fail at my hours/week and German-fluent profile, and suggest specifically — not "consider doing X" but "replace §Y with Z." |
 | Drafting (Phase III) | Conference abstracts, workshop talks, journal drafts, scholar correspondence. Frankfurt-tradition voice; clean German or English; not LLM-flavoured. |
 | Reading companion Q&A | Concise. If the question is "what does Honneth mean by *Missachtung* in this passage," answer that — don't survey the entire recognition debate unless asked. |

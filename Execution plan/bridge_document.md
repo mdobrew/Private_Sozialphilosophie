@@ -192,13 +192,9 @@ Each week should specify:
 
 ### 3.3 Checkpoint and Milestone Architecture
 
-The execution plan distinguishes two related but distinct kinds of "comprehension checks" that were originally conflated:
+**(a) Module-close comprehension checks.** Structural requirement: every module close includes a written self-test of the module's capability targets (~2–3h), testing argumentative understanding, not recall. Cadence per execution_plan.md §D.2. Canonical definition: reading_practices.md, "Module-close practices — canonical definitions" (Part III). *[2026-07-13: definition moved to reading_practices.md per single-ownership rule.]*
 
-**(a) Module-close comprehension checks** (canonical definition — referenced from `reading_practices.md` Part III and `execution_plan.md` §D.2). At each module close, brief written answers (~2–3h) to the capability targets listed at module start ("after this module you should be able to..."). These test argumentative understanding, not recall, and serve as a fast self-test of "do I have the apparatus?" — complementing (not duplicating) Dialogue Moments (§3.7), H1 light-discrimination notes, C1/C2 seminar questions, and 🗺 Practice D debate maps. Module-close cadence per execution_plan.md §D.2 schedule (Phase I: W17, W25, W28, W32, W41, W46, W54; Phase II under M48 rebuild: M20, M25, M30, M32, M34; Phase III boundaries as scheduled in execution_plan).
-
-**(b) Quarterly milestones (QM, ~5 across the programme).** A brief field-test self-assessment anchored to module boundaries, NOT a strict 13-week cadence (the original 13-week framing was empirically replaced by module-boundary anchoring during execution-plan construction). Format: attempt to read 1 recent article from *WestEnd*, *DZfPh*, or *Constellations* and note (a) what you can follow, (b) what you can't yet, (c) what specific concepts or thinkers you're missing. ~2–3h; replaces one week's bonus reading. Cadence anchored to module boundaries per execution_plan.md §D.2 (shifted with the M48 rebuild's Phase II extension; exact week/month assignments live in the execution plan, not here).
-
-**The two are different.** Module-close comprehension checks are *every-module* self-tests of capability targets; QMs are *every-quarter-ish* field-tests of growth measured against external journal articles. The first asks "did I absorb the apparatus?"; the second asks "can I follow current debates I couldn't before?". Both feed the year-end review.
+**(b) Quarterly milestones (QM, ~5 across the programme).** Structural requirement: roughly quarterly, module-boundary-anchored field-tests against a current journal article (~2–3h, replacing that week's bonus reading). Scheduling per execution_plan.md §D.2. Canonical definition: reading_practices.md, "Module-close practices — canonical definitions" (Part III). *[2026-07-13: definition moved to reading_practices.md per single-ownership rule.]*
 
 **The existing Motivational Checkpoint** (at ~months 14–15, after Part I) is retained. It replaces two weeks of core reading, not adds to it. It functions as a milestone-grade field test (per (b)) but at higher resolution: Journal Test (~8–10h) + Field Report (~8–10h, the W3.2 seed).
 
@@ -214,19 +210,9 @@ Operational falling-behind protocols (2/4/8-week triggers, seasonal adjustments,
 
 Pacing norms (pp/h × class × language) live canonically in the Style × Tier matrix at [reading_practices.md Appendix C §C.2](reading_practices.md) and [execution_plan.md Appendix A](execution_plan.md). The session-structure hints (dense / systematic / accessible / writing-block) live in [execution_plan.md Appendix B](execution_plan.md).
 
-### 3.6 Dialogue Moments (canonical definition; cadence: every module close)
+### 3.6 Dialogue Moments (absorbed into the adversarial module note)
 
-**Canonical definition.** `reading_practices.md` Part III cross-references this section as the canonical definition site for Dialogue Moments (DM). The substantive content lives here.
-
-**Cadence (post-Pass-7 reading-practices coverage audit 2026-05-19).** Originally specified as "3–4 points during Phases I–II"; this proved too thin once the execution plan was constructed. The operative cadence is **every module close**: ~7 DMs in Phase I (one per Phase I module close: W17, W25, W28, W32, W41, W46, W54) + Phase II DMs at each module close per the M48-rebuild execution plan (Module 6 M20, Module 7 M25, Module 8 M30, Modules 9+10 M32, Module 8A bridge M34) + Phase III DMs where module-close points exist. Total ~12+ DMs across the programme. The execution plan's §D.2 module-close checklist lists DM as a default item.
-
-**Format.** After completing a module's comprehension check, formulate the single strongest objection to the argument you've just reconstructed and try to answer it. ~1h. Three execution channels: (a) **with Claude** — present the reconstruction, ask for identification of misreadings and undefended assumptions per `reading_practices.md` Claude Use 1 (inline callout at Practice A); (b) **with a philosophically inclined colleague** when feasible; (c) **in writing** as a 200–300 word note filed with the reconstruction.
-
-**Distinct from other module-close practices.** DM is a *peer-defense simulation* — it tests whether the apparatus survives challenge. It complements (does not duplicate) H1 (external→internal critique translation), C1 (in-author tensions), C2 (cross-thinker positioning), Practice D (whole-debate landscape), and comprehension check (capability self-test). See execution plan §D.2 for the full module-close checklist.
-
-**Limitations of this approach (stated honestly).** Claude can identify whether a reconstruction is internally consistent and matches the standard scholarly reading, but cannot say "this is an original and interesting misreading worth developing" — which is what a good advisor does. DMs are pressure tests, not seminars. They catch errors; they don't generate insights. The community engagement track (Phase II onward) is the real compensatory mechanism.
-
-**Hallucination caveat (per `reading_practices.md` Claude Use 4 (inline callout at Practice H)).** When using Claude for DMs, treat its objections and steelmans as hypotheses to verify against the text, not as ground truth. Require citation of specific passages; verify each one.
+Structural requirement: every module close includes stating the single strongest objection to the module's central argument and attempting to answer it (~1h; with Claude, a colleague, or in writing). Since the 2026-07-13 practices audit this is subsection (ii), *Objection*, of the adversarial module note. Canonical definition: reading_practices.md, Practice H1 (adversarial module note). *[2026-07-13: definition moved to reading_practices.md per single-ownership rule.]*
 
 ### 3.7 Concentrated time blocks
 
