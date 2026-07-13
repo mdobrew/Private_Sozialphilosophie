@@ -98,16 +98,18 @@ Programme-week and programme-month numbers are invariant under start-date shift.
 
 ---
 
-**Calibration trigger (two-gate).** Part 0 (W1–W8) is a deliberate ramp absorbing expected private-commitment load in Months 1–2; pacing in this stretch is *not* diagnostic. The calibration window is **W9–W13** — the first stretch with non-orientation primary reading (Neuhouser systematic + Rechtsphilosophie dense). Three metrics are logged in the reading log over W9–W13:
+**Calibration trigger (two-gate).** Part 0 (W1–W8) is a deliberate ramp absorbing expected private-commitment load in Months 1–2; pacing in this stretch is *not* diagnostic. The calibration window is **W9–W13** — the first stretch with non-orientation primary reading (Neuhouser transparent-English + Rechtsphilosophie dense-German). Three metrics are logged in the reading log over W9–W13:
 
-- *Systematic pp/h (German):* Neuhouser chs. 2–7. Bottom-of-range target 6–8 pp/h; midpoint 4–6 pp/h.
+- *Transparent pp/h (English):* Neuhouser chs. 2–7. Bottom-of-range target 15–20 pp/h; midpoint 13–15 pp/h. **[Revised 2026-07-13 (plan audit):** this metric previously read "Systematic pp/h (German) … bottom-of-range target 6–8 pp/h; midpoint 4–6 pp/h" — a misclassification. Neuhouser is **Transparent class, English** per [text_classification.md](text_classification.md) (band 15–20 pp/h at the fast end; Appendix A: EN slow 13.5). Under the old numbers a reader at 7 pp/h — half the intended pace — would have *passed* the gate. Midpoint (the Gate 1 concern level) re-derived per the same convention as the other two lines: slow-end to low-bottom-band.**]**
 - *Dense pp/h (German):* RP Preface + §§1–33. Bottom-of-range target 4–5 pp/h; midpoint 2.5–4 pp/h.
-- *Full-tier overhead multiplier:* Honneth Full reconstruction (W5) — total hours all-in ÷ nominal reading hours. Target ~1.55×; concern level ~1.8× or higher.
+- *Full-tier overhead multiplier:* Honneth Full reconstruction (W5) — total hours all-in ÷ nominal reading hours. Target ~1.55×; concern level ~1.8× or higher. **[Revised 2026-07-13 (plan audit):** the measured overhead must be **workflow-inclusive** — count the full [reading_practices.md](reading_practices.md) §L.12 session-close workflow (steps 1–7; 60–120 min per session-close), not the 30–45-min reconstruction-writing figure alone. An overhead computed on writing time only systematically under-measures and will fail to fire the gate.**]**
 
 **Gate 1 — trigger fires** if, at end of W13, *any* of the three metrics falls at midpoint or slower.
 **Gate 2 — response gated on capacity.** Trigger activates the 4-week protocol at W18 (Module 1 boundary) **only if capacity has reached steady-state** (≥7h/week for the prior 2 consecutive weeks). If capacity is still suppressed by lingering private commitments, defer the response to W17–W18 and re-measure pacing in W14–W17; the protocol activates only if midpoint pacing persists *once capacity has returned*. Slow pacing under low hours is not strong evidence; slow pacing under steady-state hours is decisive.
 
 **R1 capacity check (W8).** Review hours-per-week actually invested W1–W7. If any 2 of the 4 most-recent weeks fell below 4h *and* private commitments are expected to persist past W12, extend the ramp by 2 weeks (W9–W10 become continued Part 0 / Neuhouser intro at reduced pace) and defer the W13 measurement window to W15. Otherwise proceed as planned.
+
+**W30 second calibration checkpoint (Dense-German re-measure). [Revised 2026-07-13 (plan audit):** with Neuhouser correctly classed as Transparent-English, the W9–W13 window contains no genuinely Dense German at volume — RP Preface + §§1–33 (~40pp over two part-weeks) is too thin a sample to carry the Dense-German verdict alone. At **W30**, re-measure Dense-German pp/h on Lukács Section I (Module 3A; ~70pp of Dense German read W29–W30) against the same bands (bottom-of-range 4–5 pp/h; midpoint 2.5–4 pp/h). ~30 min of logging alongside QM2 — no new reading. Purpose: validate or correct the W13 Dense-German verdict *before* the Module-5 commitment (*EuI* W50–52, the next big Dense-German block) and the Phase II Dense load. If W30 contradicts W13 in either direction, the W30 value governs; if W30 lands at midpoint or slower under steady-state capacity, apply the Gate 2 response logic at the Module 3A → Module 4 boundary.**]**
 
 ---
 
@@ -133,7 +135,7 @@ A single running document — the *Reading log* — is the spine of the comprehe
 - *Pages per hour* (pp/h) on the active dense and systematic texts, recorded per session or week.
 - *Full-tier overhead multiplier* (every Full reconstruction week): total all-in hours ÷ nominal reading hours. Compare against the Section A target of ~1.55×.
 
-The W9–W13 **calibration log** is a focused subset of Track 2 used to evaluate the two-gate trigger at W13: systematic pp/h on Neuhouser, dense pp/h on RP Preface + §§1–33, and the Full-tier overhead multiplier from the W5 Honneth reconstruction. The W13 evaluation result (trigger fires or doesn't) is written into the log either way — "no trigger" is also a finding.
+The W9–W13 **calibration log** is a focused subset of Track 2 used to evaluate the two-gate trigger at W13: transparent-English pp/h on Neuhouser **[Revised 2026-07-13 (plan audit):** was "systematic pp/h" — see the corrected metric in the calibration-trigger section**]**, dense pp/h on RP Preface + §§1–33, and the Full-tier overhead multiplier from the W5 Honneth reconstruction (workflow-inclusive per §L.12). The W13 evaluation result (trigger fires or doesn't) is written into the log either way — "no trigger" is also a finding. **[Revised 2026-07-13 (plan audit):** a second, ~30-min calibration checkpoint at **W30** re-measures Dense-German pp/h on Lukács Section I — see the W30 checkpoint in the calibration-trigger section.**]**
 
 Beyond the calibration window, the log's metrics function is to keep you honest about pacing drift (the §A falling-behind triggers all depend on it) and to surface module-level patterns that the at-a-glance tables won't show — e.g., systematic slowness on Adorno that doesn't appear on Hegel.
 
@@ -149,7 +151,7 @@ Beyond the calibration window, the log's metrics function is to keep you honest 
 
 **Phase I goal.** Complete Part 0 + Part I (Modules 1–5, 3A, 4A) + Motivational Checkpoint. By end of Phase I, you can track the main argumentative moves of a recent journal article in Sozialphilosophie, recognise positions invoked, and identify where you're missing Habermas (whom you're about to read).
 
-**Phase I reading-only target:** ~483h (bottom-of-range). Plus ~54h across R1–R3 (consolidation, not new reading). Plus ~22h productive practice additions (4 Anwendungen + 7 H1 notes). Plus ~10h for 3 quarterly milestones. Plus ~15–20h Motivational Checkpoint.
+**Phase I reading-only target:** ~483h (bottom-of-range). Plus ~54h across R1–R3 (consolidation, not new reading). Plus ~22h productive practice additions (4 Anwendungen + 7 H1 notes). Plus ~10h for 3 quarterly milestones. Plus ~18–23h Motivational Checkpoint **[Revised 2026-07-13 (plan audit): +~3h external-calibration letter]**.
 
 **Phase I production budget:** **33 chapter/section-level Full reconstructions** across 11 Full-tier texts + **38 Light reconstructions** + 4 Anwendungen + 7 H1 notes + 0 Skizzen (begins Phase II) + 0 H2 evaluations (begins Phase II Module 6).
 
@@ -163,12 +165,12 @@ Beyond the calibration window, the log's metrics function is to keep you honest 
 | Module 1 — Hegel             | W9–17  | ~66 | 9 Full (Neuhouser *Foundations*)<br>1 Full (Hegel *Phän* IV.A)<br>5 Light (Hegel *RP*)<br>⚖ W13 calibration<br>📋 QM1, DM1, ✏ H1 |
 | Module 2 — Marx              | W18–25 | ~55 | 1 Full (Marx ÖpM)<br>4 Full (Marx *Kapital* ch. 1 §§1–4)<br>3 Light (*Kapital* chs. 2, 3, 10)<br>5 Light (Heinrich)<br>🔧 Anwendung #1, DM2, ✏ H1 |
 | Module 3 — Weber             | W26–28 | ~23 | 1 Light (Weber "Wissenschaft")<br>1 Light (Weber "Objektivität")<br>2 Light (W&G §§1–10, §§11–17)<br>✏ H1 |
-| Module 3A — Lukács           | W29–32 | ~36 | 3 Full (Lukács Verdinglichung I/II/III)<br>3 Light (Feenberg chs. 3–5)<br>🔧 Anwendung #2, 📋 QM2, DM3, ✏ H1 |
+| Module 3A — Lukács           | W29–32 | ~36 | 3 Full (Lukács Verdinglichung I/II/III)<br>3 Light (Feenberg chs. 3–5)<br>⚖ W30 second calibration checkpoint (Dense-DE re-measure) **[Revised 2026-07-13 (plan audit)]**<br>🔧 Anwendung #2, 📋 QM2, DM3, ✏ H1 |
 | ⛰ R2 retreat                 | W33–34 | ~17 | Hegel–Marx synthesis (~4pp) |
 | Module 4 — Frankfurt School  | W35–41 | ~77 | 1 Full (Horkheimer)<br>1 Light (Freud *Unbehagen*)<br>2 Light (DdA Begriff + Odysseus)<br>1 Light (Pollock)<br>1 Light (MM aphorisms)<br>5 Light (Freyenhagen chs. 1–5)<br>1 Light (Benjamin Theses)<br>1 Light (Benjamin Kunstwerk)<br>⚠ W38 ND decision<br>🔧 Anwendung #3, DM4, ✏ H1 |
 | Module 4A — Pragmatism       | W42–46 | ~40 | 5 Full (Dewey *Public and Its Problems* chs. 1–5)<br>1 Full (Mead Part III)<br>3 Light (Joas chs. 3–5)<br>✏ H1 |
 | Module 5 — Positivismusstreit| W47–54 | ~78 | 3 Full (McCarthy chs. 1–3)<br>1 Light (Habermas "Universalitätsanspruch")<br>4 Full (EuI chs. 1–3 + Nachwort)<br>2 Light (Positivismusstreit: Adorno + Habermas)<br>🔧 *Anwendung #4 [BONUS]*, DM5, ✏ H1 |
-| Motivational Checkpoint      | W55–57 | ~20 | 📋 Field Report (W57) |
+| Motivational Checkpoint      | W55–57 | ~23 | 📋 Field Report (W57)<br>📋 External-calibration letter (W57; ~3h) **[Revised 2026-07-13 (plan audit)]** |
 | ⛰ R3 retreat                 | W63–64 | ~17 | Part I synthesis (~6pp) |
 | **Phase I total**            |        | **~493h** | **33 Full + 39 Light = 72 chapter/section Recons** |
 
@@ -321,7 +323,7 @@ Part 0 is orientation, not foundation — its job is to give you a *map* of wher
 | 1.4 | Pippin, *Hegel's Practical Philosophy*, chs. 1–3 | EN | ~80 | (bonus) | [NE] → Skip/Bonus | W10–13 |
 | 1.6 | Khurana, *Das Leben der Freiheit*, **Einleitung only** (*Teil II* deferred → Module 7 pre-block) | DE | ~20 | ~2–3 | [O] → Orientation | W18 |
 
-**Deferred:** *Rechtsphilosophie* §§257–360 (*Staat*) → Phase III re-read.
+**Deferred:** *Rechtsphilosophie* §§257–360 (*Staat*) → Phase III re-read. **[Revised 2026-07-13 (plan audit):** the re-read is now actually scheduled — it lives as a conditional line in [P3.Inv.6](#phase-iii-heuristic-inv-10-bucket-structure) (~8–10h; fires only if the topic committed at R5/M38 is Hegelian/recognition-theoretic). Previously the deferral pointed at "Phase III" but Phase III never scheduled it.**]**
 
 **Opt-in (layer-divergence from syllabus):** *Rechtsphilosophie* §§34–141 (*abstraktes Recht* + *Moralität*) is now part of the canonical Module 1 selection in the syllabus (Module 1 item 1.2 + [Appendix I.4.1](sozialphilosophie_syllabus.md)), but is kept opt-in here to protect the calibrated Phase I hours. Read it in the Phase III RP re-read alongside §§257–360, or as bonus (~15–25h) only if W13 calibration shows surplus. The *Moralität* critique of Kantian "empty formalism" (§§105–141) is the load-bearing part — it underwrites the Honneth/Jaeggi appeals to the insufficiency of abstract moral standpoints. See the **L_H** opt-in tier in the programme overview.
 
@@ -388,7 +390,7 @@ Honneth's recognition theory, Jaeggi's concept of immanent critique, and the ent
 - **Bonus (optional, ~3h):** Pippin (1.4) chs. 2–3 if you went there in W10.
 
 > [!warning] W13 — Calibration trigger evaluation
-> Tally the three metrics from the W9–W13 calibration log (systematic pp/h on Neuhouser; dense pp/h on RP Preface + §§1–33; Full-tier overhead multiplier from the Honneth W5 reconstruction). Apply Gate 1 (any metric at midpoint or slower → trigger fires) and Gate 2 (capacity steady-state → activate 4-week protocol at W18; capacity not yet steady → defer response to W17–W18 and re-measure W14–W17). Write the result into the reading log. "No trigger" is a finding — record it. ~30 min, end of week.
+> Tally the three metrics from the W9–W13 calibration log (transparent-English pp/h on Neuhouser — **[Revised 2026-07-13 (plan audit):** was "systematic"; target 15–20 pp/h, midpoint 13–15, per the corrected calibration-trigger metric**]** — dense pp/h on RP Preface + §§1–33; Full-tier overhead multiplier from the Honneth W5 reconstruction, workflow-inclusive per §L.12). Apply Gate 1 (any metric at midpoint or slower → trigger fires) and Gate 2 (capacity steady-state → activate 4-week protocol at W18; capacity not yet steady → defer response to W17–W18 and re-measure W14–W17). Write the result into the reading log. "No trigger" is a finding — record it. ~30 min, end of week. The Dense-German verdict is provisional until the **W30 re-measure on Lukács** confirms it.
 >
 > **If the trigger fires AND capacity is at steady-state, the planned cascade is:**
 > 1. **Phase I slips ~8 weeks** under midpoint pacing (~30–40% slower than bottom-of-range). Module 1 close W17 → W21; Module 2 close W25 → W29; Module 5 close W54 → W62; Motivational Checkpoint W55–W57 → W63–W65; R3 W63–W64 → W71–W72 ≈ end of October 2027.
@@ -652,6 +654,7 @@ Weber's diagnosis of modernity as a process of rationalisation culminating in th
 |     | 📚 Lukács Section I (Phänomen der Verdinglichung) begins | ~35 | ~3 |
 | W30 | 📚 Lukács Section I finish + **Section I Full Reconstruction** | ~35 | ~6 |
 |     | 📋 QM2 (recent articles re-compared against QM1) | — | ~2.5 |
+|     | ⚖ Second calibration checkpoint — Dense-German pp/h re-measure on Lukács Section I **[Revised 2026-07-13 (plan audit)]** | — | ~0.5 |
 | W31 | 📚 Lukács Section II (Antinomien des bürgerlichen Denkens) + **Section II Full Reconstruction** | ~35 | ~6 |
 |     | 📚 Feenberg ch. 5 | ~30 | ~2.5 |
 |     | Light note (Feenberg 3A.2) | — | ~0.5 |
@@ -702,6 +705,7 @@ Lukács's *Geschichte und Klassenbewußtsein* (1923) is the single most importan
 ### Week 30 | 📚 Lukács Section I + QM2
 - **Core:** Lukács Section I — finish (~35pp), ~5h. `[dense]`
 - **QM2 — Quarterly Milestone 2:** Read 1 recent article each from *WestEnd* and *DZfPh* / *Constellations*. Compare against QM1 (W17): how much *more* of the reference-network can you follow now that you have Marx + Weber? (~2.5h.)
+- **⚖ Second calibration checkpoint (Dense-German re-measure). [Revised 2026-07-13 (plan audit):** tally Dense-German pp/h on Lukács Section I from the W29–W30 reading-log entries (~70pp of Dense German — the first Dense-German sample at volume; the W13 window's RP Preface + §§1–33 was too thin to carry the verdict alone). Bands as at W13: bottom-of-range 4–5 pp/h; midpoint 2.5–4 pp/h. ~30 min of logging, no new reading. The W30 value validates or corrects the W13 Dense-German verdict before the Module-5 commitment (*EuI*, W50–52); on contradiction the W30 value governs — see the W30 checkpoint paragraph in the calibration-trigger section.**]**
 - **Practice:** None — Module 3A check at end.
 
 > [!tip] Phase IV → Appendix C item C.12 Kosík
@@ -1078,7 +1082,7 @@ This module covers the two major methodological confrontations that shaped Haber
 
 ---
 
-## Motivational Checkpoint (Month 14, Weeks 55–57; ~15–20h target)
+## Motivational Checkpoint (Month 14, Weeks 55–57; ~18–23h target **[Revised 2026-07-13 (plan audit): +~3h external-calibration letter]**)
 
 ### Schedule
 
@@ -1088,17 +1092,20 @@ This module covers the two major methodological confrontations that shaped Haber
 |     | Bonus / opt-in (Honneth *Verdinglichung* skim OR McCarthy chs. 4–5 prep) | — | ~2 |
 | W56 | 📋 Journal Test (2–3 recent diagnostic articles) | — | ~8–10 |
 | W57 | 📋 Field Report (1,500–2,000w diagnostic exercise on ECB phenomenon) | — | ~8–10 |
+|     | 📋 External-calibration letter (Field Report immanent-critique section → one-page question to one younger-generation scholar) **[Revised 2026-07-13 (plan audit)]** | — | ~3 |
 
 ### Module inventory
 
-Two consolidation exercises:
+Three consolidation exercises **[Revised 2026-07-13 (plan audit): third exercise added]**:
 - **Journal Test (W56):** 2–3 recent articles from *WestEnd*, *DZfPh*, *Constellations*, or *Critical Horizons*. Diagnostic content, not pure exegesis. ~8–10h.
 - **Field Report (W57):** 1,500–2,000 word diagnostic exercise on a phenomenon from your ECB world. ~8–10h.
+- **External-calibration letter (W57, ~3h):** distil the Field Report's immanent-critique section (part b) into a one-page *substantive question* and send it to **one** younger-generation scholar from the bridge document's interlocutor list — Vogelmann, Jütten, or von Redecker. This is a one-time forward-pull of the bridge's M22+ cold-email norm (substantive question, no paper attached, no follow-up pressure). Purpose: the first external calibration point in what is otherwise a ~22-month solo-reconstruction stretch — one datum on whether two years of reconstruction reads as competent to someone inside the field.
 
 ### Deliverables at Motivational Checkpoint close
 
 - [ ] 📋 Journal Test report (1–2 pages, W56)
 - [ ] 📋 Field Report (1,500–2,000 words, W57). **File alongside the Honneth and Horkheimer reconstructions. Re-read at end of Phase II and at start of Phase III W3.2 topic selection (M35 R5 retreat).**
+- [ ] 📋 External-calibration letter sent to one of {Vogelmann, Jütten, von Redecker} (W57; log any reply in the reading log and carry it into the R4 interlocutor-map work) **[Revised 2026-07-13 (plan audit)]**
 - [ ] Comparison against QM1 (W17) and QM2 (W30) reports to document growth
 
 ### Capability targets — by end of the Motivational Checkpoint you should be able to:
@@ -1136,6 +1143,7 @@ The Motivational Checkpoint is the Phase I hinge between historical foundations 
     (d) Note where your apparatus runs out — what concepts do you need that you don't yet have?
   - Part (d) generates motivated reading questions for Module 6 (Habermas). This is the *point* of the exercise.
 - **File the report alongside the Honneth and Horkheimer reconstructions. Return to it after Part II (end of Phase II).**
+- **External-calibration letter (~3h). [Revised 2026-07-13 (plan audit):** condense part (b) — the immanent-critique move — into a one-page substantive question and send it to ONE younger-generation scholar from the bridge interlocutor list (Vogelmann, Jütten, or von Redecker; pick by fit to the Field Report's phenomenon — Jütten if market/Honneth-*Markt* terrain, Vogelmann if critique/knowledge/capitalism, von Redecker if property/life-form). Form per the bridge's cold-email norms: specific question about *their* work as it bears on your case, no attachment, no follow-up if silent. This is a one-time forward-pull of the M22+ norm, not a new recurring track; its function is a first external calibration of two years of solo reconstruction before Phase II begins.**]**
 
 ---
 
@@ -1205,7 +1213,7 @@ The Motivational Checkpoint is the Phase I hinge between historical foundations 
 
 **Layer 2 first-cut candidates** if 4-week trigger fires: 7.13 Renault (~18h), 7.17 Bedorf (~14h), 9.7 Boltanski *OC* (~16h), 11A.1 Foucault *SuP* (~13h), 11A.2 Foucault 1976 lecture (~2h), 7.12 Fraser PSphere (~2h). **Layer 3 with override only** (interlocutor regressions): 9.6 Vogelmann (~21h), 14.8 von Redecker (~14h), 7.22 Jütten (~2h). See [Appendix A.1](#appendix-a1-cut-list-cascade).
 
-**Community engagement (bridge §2.4):** book review submission ~M27–M29 (~20–25h), cross-disciplinary short essay ~M28–M33 (~10–20h), interlocutor map ~M25 (~8–10h), discussant role at a workshop ~M23–M33 (~8–10h). **Context Layer:** ~15h (CL1 Horster + CL3 Bourdieu + CL4 Postone + CL5 Polanyi).
+**Community engagement (bridge §2.4):** book review submission ~M27–M29 (~20–25h), cross-disciplinary short essay ~M28–M33 (~10–20h), interlocutor map ~M25 (~8–10h), discussant role at a workshop ~M23–M33 (~8–10h), reading-group/colloquium join ~M22 with hard deliverable "attending regularly by M24" (~1h/month; see Module 7 M22 row) **[Revised 2026-07-13 (plan audit)]**. **Context Layer:** ~15h (CL1 Horster + CL3 Bourdieu + CL4 Postone + CL5 Polanyi).
 
 **Productive-practice budget:** Skizze cycle ~20h (4 mandatory + 1 bonus); Anwendung at ~8–10-week cadence ~20–25h; H2 evaluations begin Module 6, ~10h.
 
@@ -1326,7 +1334,7 @@ Habermas is the pivot between the first Frankfurt School and the current generat
 |-------|-----------|-------|-----|
 | M20   | 📚 Re-read Mead Part III<br>📚 Begin Honneth *KuA* (Intro + Hegel reception)<br>📚 11A.1 Foucault *Surveiller et punir* (Part I + Part III ch. 3) — Layer 2<br>📚 11A.2 Foucault 1976 lecture — Layer 2 | ~200 | ~28 |
 | M21   | ✍ Honneth *KuA* continues (Mead sociopsychology + recognition spheres)<br>📚 Honneth "Anerkennung als Ideologie"<br>📚 Fraser 1995 "From Redistribution to Recognition" | ~250 | ~30 |
-| M22   | ✍ Honneth *KuA* finish (Recons in progress)<br>📚 Fraser & Honneth book begins<br>📚 Honneth *RdF* selections begin | ~280 | ~32 |
+| M22   | ✍ Honneth *KuA* finish (Recons in progress)<br>📚 Fraser & Honneth book begins<br>📚 Honneth *RdF* selections begin<br>📋 Reading-group/colloquium join (bridge §2.4) — deliverable is *attending regularly by M24*, not searching; fallback: if no in-person Frankfurt/Rhein-Main group is joined by end of M23, join an online colloquium or standing reading group (ConTrust / IfS online offerings) **[Revised 2026-07-13 (plan audit)]** | — | ~1/month |
 | M23   | ✍ Fraser & Honneth book (Recons: Fraser-Honneth disagreement)<br>📚 Honneth *RdF* selections finish<br>📚 Forst *RauR* chs. 1–4 begin<br>📚 Renault *Souffrances sociales* begins — Layer 2 candidate | ~330 | ~32 |
 | M24   | 📚 Forst *RauR* chs. 1–4 finish<br>📚 Forst "Noumenal Power"<br>📚 Forst *N&P* selections<br>📚 Renault finish<br>📚 Fraser "Public Sphere" (7.12 — Layer 2 candidate)<br>📚 Jütten 7.22 + Neuhouser 7.23 (Honneth-*Markt* pressure-test, right after 7.5)<br>📚 Honneth *Anerkennung* 2018 partial begins | ~385 | ~29 |
 | M25   | 🎯 Honneth *Anerkennung* 2018 partial finish<br>📚 Bedorf *Verkennende Anerkennung* — Layer 2 candidate<br>Forst-tradition Recons filed · ✍ Skizze #1 · DM7 · QM4 · 📋 Interlocutor map (~8–10h) · Module close | ~150 | ~15 |
@@ -1388,6 +1396,7 @@ Habermas is the pivot between the first Frankfurt School and the current generat
 - [ ] Module 7 comprehension check
 - [ ] Dialogue Moment 7
 - [ ] 📋 QM4
+- [ ] 📋 Reading group / colloquium: **attending regularly by M24** (joined ~M22; if no in-person Frankfurt/Rhein-Main group by end of M23, the online-colloquium fallback has fired) **[Revised 2026-07-13 (plan audit)]**
 - [ ] ✏ Module 7 H1 light discrimination note — alternating cadence; file only if external impulse substantive
 - [ ] 📚 **Practice F targeted re-read**: Hegel *Rechtsphilosophie* §§142–180 in light of Honneth's recognition spheres. ~4h. Note where Honneth's "love" sphere diverges from §158.
 - [ ] ✏ H2 full evaluations on selected major texts
@@ -1687,7 +1696,7 @@ Five conditional MUST-Anchor promotions, each firing only if Phase III commits t
 | P3.Inv.3 | **Comparison Exercise — Phase B reading-pass** (Honneth *KuA* chs. 5–6 + *RdF* method intro + Jaeggi *KvL* chs. 3, 8–10 + Zurn + Allen *EoP* ch. 6) | Re-read tagged passages | ~6 | M37–38 | Excludes Phase A materials assembly (~3h) and Phase C essay drafting (~6–8h). |
 | P3.Inv.4 | **Layer C frontier set — 3-of-5 fires** (typical: 7.18 Full + 2 of {7.19, 8.12, 7.10, 14.9}) | Light + 1 conditional Full | ~83 | M41–43 | Pre-block, *contingent on R5 decision*. 7.18 Full ~21h + 2 Lights (avg ~30h each). Edge case 3-of-5 without 7.18 = ~50–70h Lights only. |
 | P3.Inv.5 | **Scheduled-in-advance Phase III MUSTs** (12.6 Mills *Racial Contract* + 15.3 Boltanski-Chiapello *Nouvel esprit* Pt I + theoretical chs.) | [P] → Light | ~20 | M41 | Mills ~10–12h Light + Boltanski-Chiapello selections ~10h Light. |
-| P3.Inv.6 | **Targeted research reading — topic-dependent** (feedback-conditional: *WestEnd*/*DZfPh* recent issues, interlocutor-flagged monographs, Appendix C / Phase IV early items pulled forward) | mixed Light / Orient | ~45 | M38–43 | Generic block; topic-conditional reading from M38 lock-in onward. |
+| P3.Inv.6 | **Targeted research reading — topic-dependent** (feedback-conditional: *WestEnd*/*DZfPh* recent issues, interlocutor-flagged monographs, Appendix C / Phase IV early items pulled forward) | mixed Light / Orient | ~45 (+~8–10 cond.) | M37–43 | Generic block; topic-conditional reading from M38 lock-in onward. **[Revised 2026-07-13 (plan audit):** (a) the block now opens at M37–38 with a **Layer C preemption pass** — Orientation-level read (*Einleitung* + *Schluss* of each; ~10–15h, funded from this bucket, no new hours) of the two modal Layer C monographs, 7.19 Honneth *Der arbeitende Souverän* and 8.12 Jaeggi *Fortschritt und Regression*, **before** the M38 topic lock-in (see the M37–38 Comparison Exercise section); the full Layer C Full/Light treatment at M41–43 is unchanged. (b) **Conditional line:** *Rechtsphilosophie* §§257–360 (*Staat*) re-read (+§§34–141 opt-in per the L_H note), ~8–10h — fires only if the topic committed at R5/M38 is Hegelian/recognition-theoretic; this is the Phase III home of the Module 1 deferral, previously unscheduled.**]** |
 | P3.Inv.7 | **W3.3 Critical Review reading** (one 2023–2025 monograph from Forst / Jaeggi / Honneth / Stahl / Celikates / Allen / newer voice) | [P] → Orient + selective | ~6 | M42 | Plus ~10h Schedule for review write. Add ~3–5h if optionally converted to 2nd book-review submission. |
 | P3.Inv.8 | **Tagung-prep secondary reading** (interlocutor publications at the chosen venue; recent state-of-debate pieces on W3.2 topic) | Orient | ~10 | M43–45 | Reading-side support for the formal presentation Q&A. Distinct from substantive revision hours. |
 | P3.Inv.9 | **Module 9 / Module 10 final re-skim** (Celikates + Taylor + Woodward in light of W3.2 landing) | Orient | ~5 | M46 | Already named in M46 Schedule row. |
@@ -1715,6 +1724,8 @@ Five conditional MUST-Anchor promotions, each firing only if Phase III commits t
 | **Total** | **~181h** | (~36h delta vs heuristic ~217h absorbed by R5-internal re-reading + integration overhead) |
 
 Reading peaks at M41–M43 (frontier-reading window).
+
+**[Revised 2026-07-13 (plan audit):** ~10–15h of the P3.Inv.6 block moves forward to M37–38 for the Layer C preemption pass (7.19 + 8.12, *Einleitung* + *Schluss*, Orientation); M37–38 reading rises correspondingly and the M39–43 topic-conditional research shrinks by the same amount. Total unchanged.**]**
 
 ---
 
@@ -1757,6 +1768,7 @@ Reading peaks at M41–M43 (frontier-reading window).
 | Month | Activities | Pages | Hrs |
 |-------|-----------|-------|-----|
 | M37   | 📋 Phase A — materials assembly (Module 7 + 8 Full Recons + Zurn + Laitinen-Särkelä + Method note)<br>📚 Phase B — reading-pass on flagged passages (Honneth *KuA* chs. 5–6; *RdF* method intro; Jaeggi *KvL* chs. 3, 8–10; Allen ch. 6)<br>📋 QM6 (article comparison vs QM5) | ~150 | ~10–12 |
+| M37–38 | 📚 Layer C preemption pass — 7.19 Honneth *Der arbeitende Souverän* + 8.12 Jaeggi *Fortschritt und Regression*, *Einleitung* + *Schluss* each (Orientation; from P3.Inv.6, no new hours) **[Revised 2026-07-13 (plan audit)]** | ~100 | ~10–15 |
 | M38   | ✍ Phase C — comparison essay (~3,000w)<br>📋 Phase D — filing; essay = proof-of-positioning gate for W3.2 | — | ~7–10 |
 
 ### Comparison Exercise design
@@ -1787,6 +1799,8 @@ Structure:
 
 **Phase D — Filing (~1h).**
 File the essay. **This essay is the proof-of-positioning that you need before W3.2.** It is also the first draft of part of W3.2's introduction.
+
+**Layer C preemption pass (M37–38, before topic lock-in). [Revised 2026-07-13 (plan audit):** alongside Phases B–C, read the *Einleitung* + *Schluss* of the two modal Layer C monographs — Honneth, *Der arbeitende Souverän* (7.19) and Jaeggi, *Fortschritt und Regression* (8.12) — at Orientation level (~10–15h total, funded from P3.Inv.6; no new hours). Rationale: the plan's previous order committed the W3.2 topic at M38 and only then read, at M41–43, the two 2023 monographs most likely to have preempted it — so preemption would be discovered *post-draft*. The Orientation pass is a preemption check, not the frontier engagement: it answers "does either book already occupy my candidate topic, or shift the terrain under it?" before lock-in. The full Layer C Full/Light treatment at M41–43 stays as designed; if R5 fired 7.19 or 8.12, this pass simply becomes their first read.**]**
 
 **Quarterly Milestone 6 (M37):** Read 1 article each from *WestEnd* and *DZfPh*/*Constellations*. Note the shift since QM5.
 
@@ -2227,8 +2241,8 @@ Phase I = heads-down; community engagement begins at Phase II opening.
 
 | Phase | Activity | Hours |
 |------|----------|-------|
-| Phase I | None. Heads-down. | 0 |
-| Phase II | Vorlesung (1 semester, ~15h); 3–5 public events at IfS / ConTrust / Goethe (~10–12h); interlocutor mapping task ~M25 (~4–5h). | ~25–30 |
+| Phase I | Heads-down, with one exception: external-calibration letter at W57 (Motivational Checkpoint) — one-page substantive question to one of {Vogelmann, Jütten, von Redecker} **[Revised 2026-07-13 (plan audit)]**. | ~3 |
+| Phase II | Vorlesung (1 semester, ~15h); 3–5 public events at IfS / ConTrust / Goethe (~10–12h); interlocutor mapping task ~M25 (~4–5h); reading-group/colloquium join ~M22 — deliverable "attending regularly by M24", online-colloquium fallback if no in-person group by end of M23 (~1h/month) **[Revised 2026-07-13 (plan audit)]**. | ~25–30 |
 | Phase III | Vorlesung or Oberseminar (~15h); informal working-group presentation (M41–43, ~10–15h incl. prep); formal Tagung / workshop presentation (M43–46, ~10–15h prep); substantive emails to 1–2 scholars (M46–48, ~3–5h). | ~25–30 |
 
 **Natural interlocutors:** Herzog (Groningen), Stahl (Groningen), Beckert (MPIfG Cologne), Forst (Goethe), Hartmann (Luzern).

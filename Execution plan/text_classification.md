@@ -58,6 +58,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 1.4 | Pippin | Hegel's Practical Philosophy, chs. 1–4 | EN | ~200 | Transparent | | 4 | [NE]. |
 | 1.5 | Wood | Hegel's Ethical Thought, chs. 1–4, 10–14 | EN | ~250 | Transparent | | 9 | [NE]. 4 + 5 chs. |
 | 1.6 | Khurana | Das Leben der Freiheit, Intro + Part I | DE | ~150 | Systematic | | 4 (est) | Suhrkamp monograph; Khurana's prose is dense-systematic. |
+| 1.7 | Honneth | Leiden an Unbestimmtheit | DE | ~130 | Systematic | | 3 (est) | **[Added 2026-07-13 (coverage audit).]** Special rule #3 — Honneth monograph → Systematic. Lecture-based, ~3 parts. |
 
 ### Module 2: Marx
 
@@ -68,6 +69,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 2.2b | Marx | Das Kapital Bd. 1 chs. 2–3 + ch. 10 | DE | ~160 | Dense | | 3 | Chs. 2, 3, 10. |
 | 2.3 | Heinrich | Kritik der politischen Ökonomie, chs. 1–5 | DE | ~200 | Transparent | | 5 | Special rule #1 — Heinrich is an intro text. |
 | 2.4 | Wood | Karl Marx, chs. 1–4, 9–12 | EN | ~250 | Transparent | | 8 | [NE]. |
+| 2.5 | Marx & Engels | Die deutsche Ideologie (Feuerbach-chapter selections) + Thesen über Feuerbach | DE | ~45 | Dense | | 2 (est) | **[Added 2026-07-13 (coverage audit).]** Marx primary → Dense per framework; Feuerbach selections + Thesen as 2 units. Read between 2.1 and 2.2a. |
 
 ### Module 3: Weber
 
@@ -102,6 +104,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 4.11 | Adorno | Drei Studien zu Hegel ("Aspekte" + "Skoteinos") | DE | ~120 | Dense | | 3 | **[Backfilled 2026-06-27 — present in syllabus/phase3 but absent from this table.]** Adorno → Dense per framework. |
 | 4.12 | Freud | Das Unbehagen in der Kultur | DE | ~80 | Layered | | 8 | **[Added 2026-06-27.]** Eight untitled sections. Freud's prose is lucid (Goethe-Prize stylist) but the argument is conceptually layered — Layered, not Dense. See borderline note. |
 | 4.13 | Nietzsche | Zur Genealogie der Moral, Abhandlungen I–II | DE | ~90 | Layered | | 2 | **[Added 2026-06-27.]** Two continuous essays (not aphoristic — no flag). Reads fast but argument-dense; borderline Dense — see note. |
+| 4.15 | Neumann | Behemoth (selections on totalitarian monopoly capitalism) | EN | ~25 | Layered | | 1 (est) | **[Added 2026-07-13 (coverage audit).]** Written in English. Institutional-economic Frankfurt analysis; clearer prose than Adorno — Layered, cf. Pollock 4.3. |
 
 ### Module 4A: Pragmatism
 
@@ -137,6 +140,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 6.4 | Habermas | TKH Bd. 1 chs. II–III | DE | ~200 | Systematic | | 2 | [RS] — Weber + Frankfurt School reconstructions. |
 | 6.5 | Habermas | TKH Bd. 2 ch. VI + ch. VIII | DE | ~150 | Systematic | | 2 | |
 | 6.6 | Habermas | Faktizität und Geltung, chs. 1–4 | DE | ~200 | Systematic | | 4 | [NE]. |
+| 6.9 | Habermas | Diskursethik — Notizen zu einem Begründungsprogramm | DE | ~75 (est) | Systematic | | 1 | **[Added 2026-07-13 (coverage audit).]** Habermas → Systematic per framework; single long programmatic essay (~60–90pp). Read between 6.5 and 6.6. |
 
 ### Module 7: Honneth
 
@@ -147,7 +151,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 7.3 | Fraser | From Redistribution to Recognition? (NLR article) | EN | ~25 | Analytic | | 1 | Fraser articles → Analytic. |
 | 7.4 | Fraser & Honneth | Umverteilung oder Anerkennung? | DE | ~300 | Systematic | | 4 (est) | Co-authored debate volume; treated as 4 sections (2 essays + 2 replies). |
 | 7.5 | Honneth | Das Recht der Freiheit (selections) | DE | ~150 | Systematic | | 3 | Methodological intro + Persönliche Beziehungen + Der Markt. |
-| 7.6 | Honneth | Verdinglichung | DE | ~80 | Layered | | 1 | [NE]. Essay-length monograph; Layered. |
+| 7.6 | Honneth | Verdinglichung (OUP 2008 Tanner ed., incl. Butler/Geuss/Lear commentaries + reply) | DE/EN | ~130 | Layered | | 5 (est) | [ES]. Essay-length monograph; Layered. **[Updated 2026-07-13 (coverage audit):** Tanner-Lectures edition — +~50pp for the three commentaries + Honneth's reply (commentaries in English); n_chapters 1 → 5 (lecture text + 3 commentaries + reply). Marker also corrected [NE] → [ES] per syllabus revision 2026-05-22.] |
 | 7.7 | Forst | Das Recht auf Rechtfertigung, chs. 1–4 | DE | ~150 | Systematic | | 4 | Forst monographs → Systematic. |
 | 7.8 | Forst | Noumenal Power (article) | EN | ~25 | Analytic | | 1 | Forst article → Analytic. |
 | 7.9 | Forst | Normativität und Macht, Part I + further chs. | DE/EN | ~180 | Systematic | | 5 (est) | Forst monograph. |
@@ -163,6 +167,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 7.19 | Honneth | Der arbeitende Souverän (Einleitung + Teil II + Schluss) | DE | ~250 | Systematic | | 5 (est) | Einleitung + Teil II (~3 chs.) + Schluss; Special rule #3. |
 | 7.22 | Jütten | Is the Market a Sphere of Social Freedom? (article) | EN | ~25 | Analytic | | 1 | [Relocated from 8.10, 2026-05-29 — Honneth item.] |
 | 7.23 | Neuhouser | Honneth's Theory of Social Freedom (essay) | EN | ~30 | Analytic | | 1 | [Relocated from 8.11, 2026-05-29.] Single essay in edited volume. |
+| 7.24 | Herzog | Inventing the Market (selections) | EN | ~150 (est) | Analytic | | 4 (est) | **[Added 2026-07-13 (coverage audit).]** OUP analytical political theory / philosophy of economics; Analytic (conservative — clear prose but argument-dense). |
 
 ### Module 8: Jaeggi
 
@@ -192,6 +197,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 8A.6 | Robinson | Black Marxism, Foreword + chs. 1 + 11 | EN | ~120 | Layered | | 3 | Historical-theoretical mix. |
 | 8A.7 | Wilderson | Afropessimism, Intro + chs. 1–2 | EN | ~120 | Layered | | 3 | |
 | 8A.8 | Mbembe | Critique de la raison nègre, Intro + chs. 1, 6 | FR/EN | ~100 | Transparent | | 3 | Mbembe's prose is comparatively clear; Transparent. |
+| 8A.9 | Fanon | Peau noire, masques blancs, ch. 5 + Hegel section of ch. 7 | FR/DE/EN | ~50 (est) | Layered | | 2 | **[Added 2026-07-13 (coverage audit).]** Original French; read in DE/EN translation. Phenomenological-essayistic; Layered, consistent with module. ~40–60pp edition-dependent. |
 
 ---
 
@@ -230,6 +236,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 11A.2 | Foucault | "Il faut défendre la société" (Lecture 14 Jan 1976) | FR/EN | ~25 | Layered | | 1 | Single lecture. |
 | 11A.3 | Habermas | Der philosophische Diskurs der Moderne, Lectures IX–X | DE | ~100 | Systematic | | 2 | Habermas monograph register. |
 | 11A.4 | Allen | Power, Subjectivity, and Agency (article) | EN | ~25 | Analytic | | 1 | |
+| 11A.5 | Foucault | Naissance de la biopolitique (ordoliberalism lectures, ~2 lectures) | FR/DE/EN | ~50 (est) | Layered | | 2 | **[Added 2026-07-13 (coverage audit).]** Lecture prose — Layered, consistent with 11A.2. |
 
 ### Module 11B: Luhmann
 
@@ -306,6 +313,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 14.13 | Engster | Das Geld als Maß, Mittel und Methode | DE | ~200 | Systematic | | 5 (est) | **[Added 2026-06-29 — branch B.]** Value-form-as-measurement; technical, German. |
 | 14.14 | Lapavitsas | Profiting Without Producing (Intro + chs. 1–4 + CB ch.) | EN | ~180 | Layered | | 6 (est) | **[Added 2026-06-29 — branch B.]** Marxist monetary theory; economist-accessible. |
 | 14.15 | Jaeggi & Loick (eds.) | Nach Marx (selected contributions) | DE | ~150 | Layered | | 4 (est) | **[Added 2026-06-29 — branch B.]** Essay collection; the recognition↔CPE bridge. |
+| 14.16 | Habermas + Offe | Legitimationsprobleme im Spätkapitalismus, Teil II + Offe selection | DE | ~70 (est) | Systematic | | 2 (est) | **[Added 2026-07-13 (coverage audit).]** Habermas → Systematic per framework; Offe selection rides in the same unit. Read before/with 14.1. |
 
 ### Module 15: Zeitdiagnose
 
@@ -535,6 +543,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | H.1.7 | Mitscherlich | Auf dem Weg zur vaterlosen Gesellschaft | DE | ~200 | Layered | | 6 (est) | **[Added 2026-06-27.]** [RS]. Essayistic-clinical German prose; ~200pp selection. |
 | H.1.8 | Layton | Toward a Social Psychoanalysis | EN | ~200 | Layered | | 6 (est) | **[Added 2026-06-29 — branch E.]** Normative unconscious processes. |
 | H.1.9 | Ikäheimo | Recognition and the Human Life-Form | EN | ~200 | Analytic | | 6 (est) | **[Added 2026-06-29 — branch E.]** Analytic recognition theory; cf. 7.15. |
+| H.1.10 | Allen | Critique on the Couch | EN | ~250 (est) | Layered | | 7 (est) | **[Added 2026-07-13 (coverage audit).]** Allen → Layered per framework. Verify subtitle (Columbia UP 2021). Read after H.1.8. |
 | H.2.1 | Gerhardt | Why Love Matters | EN | ~280 | Transparent | | 9 (est) | Popular-science synthesis. |
 | H.2.2 | Allen | The Politics of Our Selves, chs. 1–4 | EN | ~150 | Layered | | 4 | |
 | H.3.1 | Bhattacharya | Mapping Social Reproduction Theory | EN | ~30 | Layered | | 1 | Cross-ref to 14.3; primary there. |
@@ -560,6 +569,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | H.6.7 | Hurrelmann & Bauer | Einführung in die Sozialisationstheorie (12th ed.) | DE | ~300 | Transparent | | 8 (est) | Cross-ref to H.0.1; same text. *Do not double-count.* |
 | H.6.8 | Stojanov | Bildungsgerechtigkeit, chs. 1–4 | DE | ~120 | Analytic | | 4 | Analytic-philosophical-pedagogical register. |
 | H.6.9 | Drerup & Schweiger (eds.) | Philosophy and Child Poverty (selected essays) | EN | ~80 | Analytic | | 3 (est) | |
+| H.6.10 | Klafki | Neue Studien zur Bildungstheorie und Didaktik (selections) | DE | ~100 (est) | Layered | | 3 (est) | **[Added 2026-07-13 (coverage audit).]** German Pädagogik register, cf. Heydorn H.6.2 / Mollenhauer H.6.4 → Layered. Verify edition (1985, rev. 1991). Belongs to sub-section H.6a. |
 
 ---
 
