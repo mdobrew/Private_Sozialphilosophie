@@ -16,7 +16,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 |---|---|---|---|
 | **Dense** | 4–5 | 5–6 | Hegel (RP, Phän), Marx (Kapital, ÖpM), Adorno (DdA, MM, ND), Lukács, Mannheim, Horkheimer 1937, Weber methodological essays, Husserl |
 | **Systematic** | 6–8 | 8–10 | Habermas (TKH, EuI, *Philosophische Diskurs*), Gadamer, Forst monographs (RauR, *Normativität und Macht*, *Noumenal Republic*), Honneth monographs (KuA, RdF, *Anerkennung* 2018, *Arbeitende Souverän*), Khurana, Postone, Luhmann, Bourdieu monographs, Schütz, Boltanski/Thévenot |
-| **Layered** | 8–10 | 10–13 | Honneth essays (*Pathologien*, "Anerkennung als Ideologie"), Jaeggi (*Entfremdung*, KvL, *Fortschritt und Regression*), Celikates, Rosa, Renault, Stahl, Joas, Bedorf, Allen, Boltanski, Heinrich, Reckwitz, Federici, Beckert, Vogelmann, Wright, Brown, Henning, Heller, Márkus, Kosík, Heydorn, Mollenhauer |
+| **Layered** | 8–10 | 10–13 | Honneth essays (*Pathologien*, "Anerkennung als Ideologie"), Jaeggi (*Entfremdung*, KvL, *Fortschritt und Regression*), Celikates, Rosa, Renault, Stahl, Joas, Bedorf, Allen, Boltanski, Heinrich, Reckwitz, Federici, Beckert, Vogelmann, Wright, Brown, Henning, Heller, Márkus, Kosík, Heydorn, Mollenhauer, Freud, Nietzsche (*Genealogie*), Marcuse, Fromm, Mitscherlich |
 | **Analytic** | 12–15 | 14–18 | Forst articles (Noumenal Power), Fricker, Fraser articles, Zurn, Laitinen-Särkelä, Taylor, Hollis, Mead, Woodward, Anderson, Mills, List & Pettit, Epstein, Pettit, Cohen, Roemer, Putnam, Hempel, Elster, Coady, Searle, Bratman, Gilbert, Tuomela, Hindriks, Bicchieri, Hodgson, Guala, Hartsock, Harding, Khalidi, Hacking, Sugden, Reiss, Hausman, Goldman, Lackey, Felitti, Frega, Stojanov, Drerup/Schweiger, English |
 | **Transparent** | 15–18 | 15–20 | Neuhouser, McCarthy, Outhwaite, Feenberg, Jay, Dewey, Polanyi, Streeck, Pippin, Wood, Heinrich (intro text), Wiggershaus, Ringer, Freyenhagen, Hickel, Sennett, Bauman, Bell, Beck, Schimank/Volkmann, Joas/Knöbl, Hurrelmann/Bauer, Siegler textbook, Bowlby, Cassidy/Shaver, Vygotsky, Gerhardt, Shonkoff/Phillips, Freeman, Sayer, Bhaskar, SEP entries, Routledge handbooks, Graeber, Scott, Mbembe (relatively), Mignolo (relatively) |
 
@@ -99,6 +99,9 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 4.8 | Marcuse | One-Dimensional Man, chs. 1–6 | EN | ~200 | Layered | | 6 | Thesis-driven but conceptually layered; not transparent prose. |
 | 4.9 | Benjamin | Über den Begriff der Geschichte (Theses) | DE | ~15 | Dense | Aphoristic | 1 | Special rule #4 — aphoristic flag. |
 | 4.10 | Benjamin | Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit | DE | ~40 | Dense | | 1 | Special rule #4 — Kunstwerk essay = Dense, no aphoristic flag. |
+| 4.11 | Adorno | Drei Studien zu Hegel ("Aspekte" + "Skoteinos") | DE | ~120 | Dense | | 3 | **[Backfilled 2026-06-27 — present in syllabus/phase3 but absent from this table.]** Adorno → Dense per framework. |
+| 4.12 | Freud | Das Unbehagen in der Kultur | DE | ~80 | Layered | | 8 | **[Added 2026-06-27.]** Eight untitled sections. Freud's prose is lucid (Goethe-Prize stylist) but the argument is conceptually layered — Layered, not Dense. See borderline note. |
+| 4.13 | Nietzsche | Zur Genealogie der Moral, Abhandlungen I–II | DE | ~90 | Layered | | 2 | **[Added 2026-06-27.]** Two continuous essays (not aphoristic — no flag). Reads fast but argument-dense; borderline Dense — see note. |
 
 ### Module 4A: Pragmatism
 
@@ -152,12 +155,14 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 7.11 | Benjamin | The Bonds of Love, chs. 1–3 | EN | ~100 | Layered | | 3 | |
 | 7.12 | Fraser | Rethinking the Public Sphere (article) | EN | ~30 | Analytic | | 1 | |
 | 7.13 | Renault | Souffrances sociales / Leiden an der Gesellschaft | DE/FR | ~200 | Layered | | 5 (est) | Phenomenological-empirical apparatus; Layered. |
-| 7.14 | Allen & Mendieta eds. | From Alienation to Forms of Life (selected essays) | EN | ~150 | Layered | | 5 (est) | Mixed essays — Layered as composite. |
+| 7.14 | Taylor | "The Politics of Recognition" | EN | ~50 | Analytic | | 1 | **[Added 2026-06-27.]** Single essay (Gutmann volume). Taylor → Analytic per framework; cf. 10.3. |
 | 7.15 | Ikäheimo & Laitinen eds. | Recognition and Social Ontology (Intro + chs.) | EN | ~150 | Analytic | | 4 (est) | Analytic social-ontology in recognition idiom. |
 | 7.16 | Gregoratto | Selected essays on recognition & affect | EN | ~60 | Layered | | 3 (est) | 2–3 articles. |
 | 7.17 | Bedorf | Verkennende Anerkennung, chs. 1–3 | DE | ~120 | Layered | | 3 | Phenomenological-Levinasian register. |
 | 7.18 | Honneth | Anerkennung: Eine europäische Ideengeschichte (selections) | DE | ~250 | Systematic | | 5 | Intro + 3 tradition chs. (French / British / German) + concluding systematic chapter. |
 | 7.19 | Honneth | Der arbeitende Souverän (Einleitung + Teil II + Schluss) | DE | ~250 | Systematic | | 5 (est) | Einleitung + Teil II (~3 chs.) + Schluss; Special rule #3. |
+| 7.22 | Jütten | Is the Market a Sphere of Social Freedom? (article) | EN | ~25 | Analytic | | 1 | [Relocated from 8.10, 2026-05-29 — Honneth item.] |
+| 7.23 | Neuhouser | Honneth's Theory of Social Freedom (essay) | EN | ~30 | Analytic | | 1 | [Relocated from 8.11, 2026-05-29.] Single essay in edited volume. |
 
 ### Module 8: Jaeggi
 
@@ -172,9 +177,8 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 8.7 | Menke | Kritik der Rechte, Intro + Part I | DE | ~120 | Layered | | 4 (est) | [NE]. Adornian register; Layered. |
 | 8.8 | Stahl | Immanente Kritik, chs. 1–4 | DE | ~200 | Layered | | 4 | |
 | 8.9 | Rosa | Resonanz, Intro + Part I + Part IV | DE | ~200 | Layered | | 6 (est) | Intro + chs. 1–3 + chs. 12–13. |
-| 8.10 | Jütten | Is the Market a Sphere of Social Freedom? (article) | EN | ~25 | Analytic | | 1 | |
-| 8.11 | Neuhouser | Honneth's Theory of Social Freedom (essay) | EN | ~30 | Analytic | | 1 | Single essay in edited volume. |
 | 8.12 | Jaeggi | Fortschritt und Regression | DE | ~252 | Layered | | 6 (est) | Suhrkamp 2023; multi-part structure. |
+| 8.13 | Allen & Mendieta eds. | From Alienation to Forms of Life (selected essays) | EN | ~150 | Layered | | 5 (est) | [Relocated from 7.14, 2026-05-29 — Jaeggi volume.] Mixed essays — Layered as composite. |
 
 ### Module 8A: Außereuropäische Kritik
 
@@ -279,6 +283,9 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 13.3 | Gramsci | Quaderni del carcere (selections) | IT/EN | ~120 | Layered | | 3 | Three notebook-selections (Q11, Q6+Q25, Q22). Fragmentary but clearer than Adorno → Layered. |
 | 13.4 | Thomas | The Gramscian Moment, chs. 1–4 | EN | ~150 | Layered | | 4 | |
 | 13.5 | Althusser | Idéologie et appareils idéologiques d'État | FR/EN | ~40 | Layered | | 1 | |
+| 13.6 | Sohn-Rethel | Geistige und körperliche Arbeit (Intellectual and Manual Labour) | DE | ~150 | Dense | | 4 (est) | **[Added 2026-06-29 — branch B.]** Real-abstraction; epistemologically dense. Read German (Brill 2021 ed.). |
+| 13.7 | Arthur | The New Dialectic and Marx's Capital | EN | ~180 | Systematic | | 6 (est) | **[Added 2026-06-29 — branch B.]** Systematic dialectics; dense-but-structured. |
+| 13.8 | Bonefeld | Critical Theory and the Critique of Political Economy | EN | ~200 | Layered | | 7 (est) | **[Added 2026-06-29 — branch B.]** Open-Marxism / Adornian register. |
 
 ### Module 14: Capitalism as Social Form
 
@@ -294,6 +301,11 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 14.8 | Redecker | Selected articles + Revolution für das Leben | DE | ~120 | Layered | | 3 (est) | Articles + accessible companion. |
 | 14.9 | Aglietta | Régulation et crises du capitalisme, Intro + ch. 1 | FR/EN | ~120 | Layered | | 2 | Régulation-school technical-economic register; borderline Layered/Analytic — went Layered. |
 | 14.10 | Lordon | Capitalisme, désir et servitude, chs. 1–4 | FR/EN | ~100 | Layered | | 4 | |
+| 14.11 | Mau | Mute Compulsion (Intro + Parts I–II) | EN | ~180 | Layered | | 5 (est) | **[Backfilled 2026-06-29 — present in syllabus/phase3 but absent here.]** Marxist; accessible to economist. |
+| 14.12 | Castel | Les métamorphoses de la question sociale (Intro + Parts III–IV) | FR/DE | ~200 | Layered | | 4 (est) | **[Backfilled 2026-06-29.]** Sociology of work; long-historical. |
+| 14.13 | Engster | Das Geld als Maß, Mittel und Methode | DE | ~200 | Systematic | | 5 (est) | **[Added 2026-06-29 — branch B.]** Value-form-as-measurement; technical, German. |
+| 14.14 | Lapavitsas | Profiting Without Producing (Intro + chs. 1–4 + CB ch.) | EN | ~180 | Layered | | 6 (est) | **[Added 2026-06-29 — branch B.]** Marxist monetary theory; economist-accessible. |
+| 14.15 | Jaeggi & Loick (eds.) | Nach Marx (selected contributions) | DE | ~150 | Layered | | 4 (est) | **[Added 2026-06-29 — branch B.]** Essay collection; the recognition↔CPE bridge. |
 
 ### Module 15: Zeitdiagnose
 
@@ -518,6 +530,11 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | H.1.2 | Benjamin | The Bonds of Love, chs. 1–3 | EN | ~120 | Layered | | 3 | Cross-ref to 7.11; primary there. |
 | H.1.3 | Honneth | Objektbeziehungstheorie und postmoderne Identität (essay) | DE | ~25 | Layered | | 1 | |
 | H.1.4 | Whitebook | Perversion and Utopia, chs. 1–3 | EN | ~120 | Layered | | 3 | [NE]. |
+| H.1.5 | Marcuse | Triebstruktur und Gesellschaft (Eros and Civilization) | EN | ~180 | Layered | | 8 (est) | **[Added 2026-06-27.]** Freudo-Marxist counter to Freud 4.12; cf. 4.8 ODM (also Layered). ~180pp core selection. |
+| H.1.6 | Fromm | Die Furcht vor der Freiheit (Escape from Freedom) | EN | ~270 | Layered | | 7 | **[Added 2026-06-27.]** Orig. English (1941); accessible theoretical prose; 7 chapters + appendix. |
+| H.1.7 | Mitscherlich | Auf dem Weg zur vaterlosen Gesellschaft | DE | ~200 | Layered | | 6 (est) | **[Added 2026-06-27.]** [RS]. Essayistic-clinical German prose; ~200pp selection. |
+| H.1.8 | Layton | Toward a Social Psychoanalysis | EN | ~200 | Layered | | 6 (est) | **[Added 2026-06-29 — branch E.]** Normative unconscious processes. |
+| H.1.9 | Ikäheimo | Recognition and the Human Life-Form | EN | ~200 | Analytic | | 6 (est) | **[Added 2026-06-29 — branch E.]** Analytic recognition theory; cf. 7.15. |
 | H.2.1 | Gerhardt | Why Love Matters | EN | ~280 | Transparent | | 9 (est) | Popular-science synthesis. |
 | H.2.2 | Allen | The Politics of Our Selves, chs. 1–4 | EN | ~150 | Layered | | 4 | |
 | H.3.1 | Bhattacharya | Mapping Social Reproduction Theory | EN | ~30 | Layered | | 1 | Cross-ref to 14.3; primary there. |
@@ -525,6 +542,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | H.3.3 | Federici | Revolution at Point Zero (essays) | EN | ~80 | Layered | | 3 | Cross-ref to C.17 (primary). |
 | H.3.4 | Federici | Caliban and the Witch | EN | ~150 | Layered | | 4 | Cross-ref to C.16 (primary). |
 | H.3.5 | Dalla Costa & James | The Power of Women | EN | ~40 | Layered | | 1 | Cross-ref to C.17a (primary). |
+| H.3.6 | Winker | Care Revolution | DE | ~150 | Layered | | 5 (est) | **[Added 2026-06-29 — branch E.]** German care-revolution; SRT counterpart. |
 | H.4.1 | Plessner / Fischer | Stufen des Organischen (selection) | DE | ~150 | Layered | | 3 | Cross-ref to 18.1. |
 | H.4.2 | Gehlen | Der Mensch, chs. 1–5 | DE | ~180 | Layered | | 5 | Cross-ref to 18.2. |
 | H.5.1 | Siegler, Saffran & Gershoff | How Children Develop (selected chs.) | EN | ~250 | Transparent | | 5 | Chs. 1, 5, 9, 10, 11. |
@@ -580,6 +598,8 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 - 18.1 Plessner / Fischer — depends on which (substitute) is read; Layered as compromise.
 - 7.16 Gregoratto — Layered (composite of 2–3 articles); could vary.
 - G.4 Merleau-Ponty — Dense vs. Systematic. Went Dense.
+- 4.12 Freud *Unbehagen* — Layered vs. Transparent. Went Layered; lucid prose but a conceptually demanding primary theory, not an intro/secondary text.
+- 4.13 Nietzsche *Genealogie* I–II — Layered vs. Dense. Went Layered (German-fluent reader; vivid continuous prose, not Hegel-slow), but read slowly for the argument despite the surface pace.
 
 **Page-count anomalies in syllabus (listed verbatim per syllabus, but likely errors — flagged for downstream sanity-check):**
 - A.2.2 Harding chs. 1–5 listed as ~30 (syllabus column) — likely should be ~150–200. Listed verbatim.

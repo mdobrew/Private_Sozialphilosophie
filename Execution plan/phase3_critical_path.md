@@ -2,16 +2,19 @@
 
 **Version 2.1** — 2026-05-24 (bridge-update + top-5 Anchor upgrades pass). Prior: v2.0 (2026-05-22, ground-up reclassification of [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) under the v1.3 importance framework).
 
+> [!warning] Calendar anchors superseded by the M48 rebuild (2026-05-25) — re-anchor at next revision (v2.2)
+> This document (v2.1, 2026-05-24) predates the M48 schedule rebuild by one day, so **every month/week calendar anchor below is pre-rebuild and stale** — e.g. submission "M44", Phase III "17 months", R5 "M30", presentation "M37–M39", Tagung "M39–M42", Phase boundaries "post-M44". The **authoritative calendar is the [execution_plan.md](execution_plan.md) milestone table** (M48 baseline: R5 = M35, Comparison Exercise M37–38, W3.2 lock-in M38, CFP M39, Writing Block W1 = M40, presentations M41–46, Writing Block W2 = M47, submission M48; M50 fallback). The **importance classifications** (MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY) and tier derivations in this document are *not* affected by the rebuild and remain valid — only the dates are stale. (The "M44 = Jan 2030" recency-caveat reasoning in §1/point 5 holds *a fortiori* at M48 ≈ Jun 2030.)
+
 **v2.1 changes vs v2.0** (driven by [bridge_document.md](bridge_document.md) update 2026-05-24):
 1. **Top-5 MUST-Engage → MUST-Anchor upgrades applied**: 3A.1 Lukács, 5.2 Habermas *EuI*, 7.7 Forst *Recht auf Rechtfertigung*, 8.6 Allen *End of Progress*, 9.2 Fricker — per §8 discipline-flag review. §4 conditional-Anchor entries for these items removed (now baseline). §8 rewritten as a decision log.
 2. **Path D' Phase IV-default deferrals removed**: 7.13 Renault, 7.17 Bedorf, 9.6 Vogelmann, 9.7 Boltanski *On Critique*, 9.9 Harding, 14.9 Aglietta moved from `Phase IV default` to active `SHOULD` with capacity-deferral notes. Vogelmann un-deferring is reinforced by bridge §2.4 naming him as a Phase II–III interlocutor target. (Bridge §6 Class A flags a ~20% capacity overage that remains the user's open decision; SHOULD-deferral under capacity pressure is the cut-list route, not framework-locked Phase-IV defaulting.)
-3. **Interlocutor-target upgrades**: 8.10 Jütten, 14.8 von Redecker upgraded COULD Orient → SHOULD Light. Bridge §2.4 names both as Phase II–III contact targets; field-importance reads as SHOULD once the interlocutor argument lands.
+3. **Interlocutor-target upgrades**: 7.22 Jütten (was 8.10), 14.8 von Redecker upgraded COULD Orient → SHOULD Light. Bridge §2.4 names both as Phase II–III contact targets; field-importance reads as SHOULD once the interlocutor argument lands.
 4. **Context Layer designations re-tiered**: bridge §2.3 formally subsumes the Core/Context-Layer/Deferred/Bonus-opt-in 4-tier framing into Phase III classification. 11A.1, 11A.2, 11B.2, 11B.3 move `SHOULD Orientation` → `SHOULD Light` (re-derived from field-importance alone, ignoring the now-superseded Context-Layer routing). 11B.1 Horster, 14.9 Aglietta stay Orientation (their [O] tag drives tier).
 5. **Recency caveats softened**: M44 = Jan 2030 (not 2027) gives 5–7 years of reception for the 2023/2024-vintage texts (7.10, 7.18, 7.19, 8.12, 14.11, 14.12, 15.8). The reception-still-settling worry is now substantially weaker.
 6. **§1 Phase III deliverables updated**: months corrected (presentation M37–M39, Tagung M39–M42, submission M44); added Phase II outputs (book review M24–M26, cross-disciplinary short essay M25–M30) per bridge §2.4.
 7. **§6 cross-references**: bridge §2.3 → §2.2 for tier semantics; bridge §3.4 redirects to `execution_plan.md §A`.
 
-**v2.0 → v2.1 net hour impact**: +5 MUST-Anchors add ~50–80h Full-tier writing; +5 un-deferred SHOULDs add ~30–50h Light reading+writing baseline; Context-Layer re-tiering adds ~5–10h writing; 8.10/14.8 upgrades add ~3–5h. Net **~+90 to +140h all-in vs v2.0**. The bridge §6 Class A 20% capacity-overage flag becomes more acute; under falling-behind, the newly-un-deferred SHOULDs are the first cut.
+**v2.0 → v2.1 net hour impact**: +5 MUST-Anchors add ~50–80h Full-tier writing; +5 un-deferred SHOULDs add ~30–50h Light reading+writing baseline; Context-Layer re-tiering adds ~5–10h writing; 7.22/14.8 upgrades add ~3–5h. Net **~+90 to +140h all-in vs v2.0**. The bridge §6 Class A 20% capacity-overage flag becomes more acute; under falling-behind, the newly-un-deferred SHOULDs are the first cut.
 
 **v2.0 → v1.3 changes (carried over)**: (1) all IDs migrated to v6 numbering (Module 10/11A–D/12/13/14/16/17/18 reflect v6 placement; Part VI's K.x items now sit at v6 Module 14 14.1–14.10; new Module 13 carries the Marxist theoretical foundations promoted out of Appendix C); (2) all v6-new texts classified from scratch (4.11 *Drei Studien*, 6.1 Outhwaite, 6.6 *F&G* (now [ES]), 6.7 *Strukturwandel* (now [ES]), 6.8 Bohman/Estlund/Floyd, 7.6 *Verdinglichung* ([NE]→[ES] in v6), 7.20 Pilapil, 7.21 Allen *Politics of Our Selves*, 10.6 Hedström-Swedberg, 14.11 Mau, 14.12 Castel, 15.8 Reckwitz *Verlust*, 18.3 Graeber-Wengrow); (3) ~6 substantive class-revisions documented in §3.0; (4) new §8 MUST-Engage discipline appendix exposes every MUST-Engage to a one-line "why not Anchor" check, addressing the polite-skip risk.
 
@@ -128,7 +131,7 @@ For each item: Phase III class + default tier per §2.3 + 1-sentence field-impor
 | 9.7 | Boltanski *On Critique* | SHOULD *(Phase IV default per Path D')* | **SHOULD Light** *(deferrable under capacity)* | Same rationale as 7.13. |
 | 9.9 | Harding *Whose Science?* | COULD *(Phase IV default per Path D')* | **COULD Orientation** *(active, not pre-deferred)* | Path D' lock removed; baseline COULD restored. Promotes per §4 if standpoint-epistemology track commits. |
 | 14.9 | Aglietta *Capitalist Regulation* | SHOULD *(Phase IV Appendix C.IX baseline per Path D')* | **SHOULD Orientation** *(deferrable under capacity)* | Path D' lock removed; baseline SHOULD Orientation per [O] tag. Conditional promotion if capitalism-as-form via macroeconomic terrain commits. |
-| 8.10 | Jütten "Is the Market a Sphere of Social Freedom?" | COULD Orientation | **SHOULD Light** | Bridge §2.4 names Jütten as a Phase II–III interlocutor + future-co-authorship target ("precise fit for outsider-insider profile"). Field-importance upgrade follows the interlocutor reading. |
+| 7.22 | Jütten "Is the Market a Sphere of Social Freedom?" (was 8.10) | COULD Orientation | **SHOULD Light** | Bridge §2.4 names Jütten as a Phase II–III interlocutor + future-co-authorship target ("precise fit for outsider-insider profile"). Field-importance upgrade follows the interlocutor reading. |
 | 14.8 | von Redecker | COULD Orientation | **SHOULD Light** | Bridge §2.4 names von Redecker as a younger-generation, methodologically-permissive contact target — strong fit for short-essay route. Field-importance upgrade follows. |
 | 11A.1 | Foucault *Surveiller et punir* (selections) | SHOULD Orientation *(Context Layer)* | **SHOULD Light** | Bridge §2.3 subsumes Context Layer into Phase III framework. Re-derive: [P] tag + SHOULD field-importance → Light. |
 | 11A.2 | Foucault 1976 lecture | SHOULD Orientation *(Context Layer)* | **SHOULD Light** | Same rationale. [P] tag. |
@@ -167,6 +170,21 @@ Most v1.3 classifications carry over with mechanical renumbering to v6 IDs (e.g.
 | 12.2 | Rawls *A Theory of Justice* | DISCRETIONARY | DISCRETIONARY | v6 revises [P] → [NE]; v1.3 already had DISCRETIONARY. Freeman 12.1 + Young 12.3 suffice for the Sozialphilosophie trajectory. |
 
 **Mechanical renumbering not listed above** (no class change, only ID update): v5 Module 10 Social Phenomenology → v6 Module 16; v5 Module 11 Social Ontology → v6 Module 17; v5 Module 12 Phil. Social Science → v6 Module 10; v5 Modules 12A–12D Rival Paradigms → v6 Modules 11A–11D; v5 Module 13 Political Philosophy → v6 Module 12; v5 Module 14 Phil. Anthropology → v6 Module 18; v5 Module 7 sub-IDs 7.7–7.18 renumbered down-and-up to v6 7.7–7.19 per insertion of intra-Module items; v5 Part VI K.1–K.13 → v6 Module 14 14.1–14.10 + Appendix D for non-essential items.
+
+#### 3.0c Changes 2026-06-27 (Part-0 orientation review — literature additions)
+
+Six texts added to the syllabus after the Part-0 review of Honneth's "Pathologien des Sozialen" (0.2) surfaced absences (Freud's pathology-of-civilisation substrate; the recognition triangle's Taylor vertex; the primary-Nietzsche gap; and the Freudo-Marxist primaries making Appendix H.1 load-bearing). Not a reclassification pass — version stays v2.1; calendar re-anchor (v2.2) still pending per the warning box.
+
+| v6 ID | Item | Class | Tier | Rationale |
+|---|---|---|---|---|
+| 4.12 | Freud *Das Unbehagen in der Kultur* | SHOULD *(cond. MUST-Engage)* | Light | Freudian substrate of first-generation critical theory; short, high-leverage. Promote if Adornian social-pathology / socialisation track commits (§4). |
+| 4.13 | Nietzsche *Genealogie der Moral* I–II | COULD | Orientation | Genealogical-method template; feeds Module 4 (Adorno) + 11A (Foucault). Promote if genealogy/power track commits (§4). |
+| 7.14 | Taylor "The Politics of Recognition" | MUST-Engage *(cond. MUST-Anchor)* | Light | Third vertex of the recognition triangle; reviewer-expected. Reuses the 7.14 slot vacated 2026-05-29 (Allen & Mendieta → 8.13) — the documented gap is now closed. |
+| H.1.5 | Marcuse *Eros and Civilization* | COULD | Orientation | Freudo-Marxist counter to Freud 4.12; promote with the new §4 psychoanalytic-substrate trigger. |
+| H.1.6 | Fromm *Escape from Freedom* | COULD | Orientation | Authoritarian-character source; same trigger. |
+| H.1.7 | Mitscherlich *Vaterlose Gesellschaft* | COULD | Orientation | Postwar authority-diagnosis; same trigger. |
+
+New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritarian character / domination-internalisation."
 
 ### Part 0: Orientation
 
@@ -229,6 +247,8 @@ Most v1.3 classifications carry over with mechanical renumbering to v6 IDs (e.g.
 | 4.9 Benjamin Theses on history | SHOULD | Light | Background for Allen's *End of Progress* (8.6, on critical path). Aphoristic flag. |
 | 4.10 Benjamin Kunstwerk essay | SHOULD | Light | Historical anchorage for digital-society frontier questions. |
 | 4.11 Adorno *Drei Studien zu Hegel* | SHOULD | Light | **NEW in v6.** Hegel–Adorno bridge; load-bearing for the Reichelt 13.2 structural-homology argument and the Module 4 → Module 13 transition. |
+| 4.12 Freud *Das Unbehagen in der Kultur* | SHOULD *(conditional MUST-Engage if Adornian / social-psychology track)* | Light | **NEW 2026-06-27.** The Freudian substrate of first-generation critical theory (authoritarian personality, DdA's inward turn of domination); short, high-leverage. [P] → Light per §2.3. Conditional MUST-Engage if Phase III commits to Adornian social-pathology or socialisation terrain (§4). |
+| 4.13 Nietzsche *Zur Genealogie der Moral* I–II | COULD *(conditional SHOULD/MUST-Engage if genealogy / Adorno / Foucault-power track)* | Orientation | **NEW 2026-06-27.** Genealogical-method template; headwater of DdA's Nietzsche-engagement (Module 4) and Foucauldian genealogy (11A). [RS] → Orientation; promote if Phase III commits to genealogical / Adornian or power terrain (§4). |
 
 ### Module 4A: Pragmatism
 
@@ -280,7 +300,7 @@ Most v1.3 classifications carry over with mechanical renumbering to v6 IDs (e.g.
 | 7.11 Jessica Benjamin *Bonds of Love* | COULD | Orientation | Psychoanalytic dimension; promote if Phase III touches care/love sphere or socialisation (§4). [ES] tag — Orient under §2.3 extension. |
 | 7.12 Fraser public-sphere essay | SHOULD | Light | Exemplary immanent critique on a canonical Frankfurt concept. |
 | 7.13 Renault *Souffrances sociales* | SHOULD *(deferrable under capacity)* | Light | **Un-deferred v2.1.** Phenomenology of social suffering. Active SHOULD baseline; first-cut under falling-behind if capacity overage (bridge §6 Class A) is not resolved by topic trim. |
-| 7.14 Allen & Mendieta on Jaeggi | COULD | Orientation | Useful if Phase III touches Jaeggi-Allen debate directly. |
+| 7.14 Taylor "The Politics of Recognition" | MUST-Engage *(conditional MUST-Anchor if recognition/difference track)* | Light | **NEW 2026-06-27.** The third vertex of the recognition triangle (with Honneth 7.1, Fraser 7.3–7.4); reviewer-expected for any recognition-track piece. [P] → Light per §2.3 — coverage/positioning, not apparatus the user rebuilds. |
 | 7.15 Ikäheimo & Laitinen | COULD | Orientation | Social-ontology direction. |
 | 7.16 Gregoratto | COULD | Orientation | Affect/embodiment direction; promote if those themes commit. |
 | 7.17 Bedorf *Verkennende Anerkennung* | SHOULD *(deferrable under capacity)* | Light | **Un-deferred v2.1.** Phenomenological-Levinasian critic. Active SHOULD baseline; deferrable if capacity overage isn't resolved otherwise. |
@@ -288,6 +308,8 @@ Most v1.3 classifications carry over with mechanical renumbering to v6 IDs (e.g.
 | 7.19 Honneth *Der arbeitende Souverän* (2023) | MUST-Engage baseline | Light | Honneth's most recent major statement; ~7 years of reception by M44 (Jan 2030) — recency caveat substantially softened. The natural docking point for the ECB-economist Phase III piece. Conditional MUST-Anchor if Phase III commits to work/recognition/democratic-*Sittlichkeit* (§4). |
 | 7.20 Pilapil *Recognition and Critical Theory Today* | SHOULD | Light | **NEW in v6.** The constructive recognition-extender voice balancing the current critic-heavy line-up. Conditional MUST-Engage if recognition track commits (§4). |
 | 7.21 Allen *Politics of Our Selves* | MUST-Engage | Light | **NEW promotion vs v1.3.** v6 cross-listed from H.2.2: Allen is the second-major recognition+power critic alongside *End of Progress*; appendix-burial under-weighted her role. Reviewer-expected for any recognition/power debate. |
+| 7.22 Jütten on Honneth market | SHOULD | Light | **Upgraded v2.1 from COULD Orient; relocated from 8.10, 2026-05-29 (it is a Honneth item).** Bridge §2.4 names Jütten as a Phase II–III interlocutor + future-co-authorship target ("precise fit" for outsider-insider profile; already at the intersection of normative reconstruction and economic analysis). Direct test of Honneth 7.5 *Markt* chapter against empirical economics — the methodological-pressure-test of the Module 7 reading (scheduled in the Module 7 window, right after 7.5). |
+| 7.23 Neuhouser on Honneth method | COULD | Orientation | **Relocated from 8.11, 2026-05-29 (it is a Honneth item).** Methodological gap between reconstruction and social science. |
 
 ### Module 8: Jaeggi
 
@@ -302,9 +324,8 @@ Most v1.3 classifications carry over with mechanical renumbering to v6 IDs (e.g.
 | 8.7 Menke *Kritik der Rechte* | DISCRETIONARY | Skip | Hegelian-Adornian; departure from mainstream pathologies debate. |
 | 8.8 Stahl *Immanente Kritik* | SHOULD | Light | Bridges analytic ontology and Frankfurt critique. |
 | 8.9 Rosa *Resonanz* | SHOULD | Light | Direct rival diagnostic framework. |
-| 8.10 Jütten on Honneth market | SHOULD | Light | **Upgraded v2.1 from COULD Orient.** Bridge §2.4 names Jütten as a Phase II–III interlocutor + future-co-authorship target ("precise fit" for outsider-insider profile; already at the intersection of normative reconstruction and economic analysis). Direct test of Honneth 7.5 *Markt* chapter against empirical economics — the methodological-pressure-test of the Module 7 reading. |
-| 8.11 Neuhouser on Honneth method | COULD | Orientation | Methodological gap between reconstruction and social science. |
 | 8.12 Jaeggi *Fortschritt und Regression* (2023) | MUST-Engage baseline | Light | Jaeggi's first major monograph since 2014; ~7 years of reception by M44 — settled-reception by Jan 2030. Reads as engaging 2014-Jaeggi rather than current Jaeggi without it. Conditional MUST-Anchor per §4. |
+| 8.13 Allen & Mendieta on Jaeggi | COULD | Orientation | **Relocated from 7.14, 2026-05-29 (it is a volume on Jaeggi).** Useful if Phase III touches Jaeggi-Allen debate directly. |
 
 ### Module 8A: Außereuropäische Kritik
 
@@ -406,6 +427,9 @@ Most v1.3 classifications carry over with mechanical renumbering to v6 IDs (e.g.
 | 13.3 Gramsci *Quaderni* selections | SHOULD *(conditional MUST-Engage if hegemony fills Jaeggi gap)* | Light | Hegemony as mechanism for stabilising non-recognition of pathology — fills a gap in Jaeggi 8.2. Conditional MUST-Engage if hegemony-and-pathology terrain commits (§4). |
 | 13.4 Thomas *The Gramscian Moment* | COULD | Orientation | Best recent philosophical reconstruction; secondary depth. |
 | 13.5 Althusser "Ideology and ISAs" | SHOULD *(conditional MUST-Engage if interpellation / ideology-critique terrain)* | Light | Subject-constitution / interpellation thesis; sharpest formulation of the problem Celikates 9.3 / Jaeggi 9.4 respond to. |
+| 13.6 Sohn-Rethel *Intellectual and Manual Labour* | SHOULD *(conditional MUST-Anchor if value-form / real-abstraction track)* | Light | **NEW 2026-06-29 (branch B).** Real abstraction — the value-form↔Adorno hinge and the highest-leverage economist wedge (real abstraction as an *operation*). |
+| 13.7 Arthur *The New Dialectic and Marx's Capital* | COULD *(conditional SHOULD if systematic-dialectics reading commits)* | Orientation | **NEW 2026-06-29 (branch B).** Value-form-as-*Begriff* reading of *Kapital* ch.1; the rival to Heinrich 2.3. |
+| 13.8 Bonefeld *Critical Theory and the Critique of Political Economy* | SHOULD *(conditional MUST-Engage)* | Light | **NEW 2026-06-29 (branch B).** The strongest objection to the recognition spine (CPE *is* critical theory; the search for normative standards is itself ideological). Read as adversary. |
 
 ### Module 14: Capitalism as Social Form *(NEW v6 module — was Part VI K.x in v5)*
 
@@ -423,6 +447,9 @@ Most v1.3 classifications carry over with mechanical renumbering to v6 IDs (e.g.
 | 14.10 Lordon *Willing Slaves of Capital* | COULD | Orientation | Affective Spinozist extension; promote if affect/desire dimension commits. |
 | 14.11 Mau *Mute Compulsion* | SHOULD *(conditional MUST-Engage if impersonal-domination track)* | Light | **NEW in v6.** Most-discussed 2023 capitalism-critique monograph; ~7 years of reception by M44 — recency unproblematic. Accessible to economist-reader. Bridges Postone 14.4 to current Anglophone capitalism-critique reception. |
 | 14.12 Castel *Métamorphoses de la question sociale* | SHOULD *(conditional MUST-Engage if Arbeitende-Souverän track)* | Light | **NEW in v6.** (Castel 1995; no recency issue.) Empirical-sociological underpinning for Honneth 7.19; long-historical apparatus for precarisation-as-*Sittlichkeit*-transformation. If Phase III commits to work/recognition (§4), promote in tandem with 7.19. |
+| 14.13 Engster *Das Geld als Maß, Mittel und Methode* | COULD *(conditional SHOULD if money-as-measure / quantification wedge commits)* | Orientation | **NEW 2026-06-29 (branch B, economist wedge).** Value-form-as-measurement; German, almost no Anglophone engagement. |
+| 14.14 Lapavitsas *Profiting Without Producing* | SHOULD *(conditional MUST-Engage if financialisation / central-bank track)* | Light | **NEW 2026-06-29 (branch B, economist wedge).** Marxist monetary theory; the central-bank-as-institutional-form opening. |
+| 14.15 Jaeggi & Loick (eds.) *Nach Marx* | SHOULD *(conditional MUST-Engage)* | Light | **NEW 2026-06-29 (branch B, the bridge).** Stages the recognition↔value-form confrontation any branch-B piece must win (Honneth, Jaeggi, Stahl, Postone in one volume). |
 
 ### Module 15: Zeitdiagnose
 
@@ -555,7 +582,7 @@ All items MUST-Engage. C1 (immanent-critique method), C2 (exemplary diagnostics)
 | Sub-section | Class | Tier | Rationale |
 |---|---|---|---|
 | H.0 Orientation (Hurrelmann-Bauer, Koller, Tippelt-Schmidt-Hertha, *Handbuch Sozialisationsforschung*) | COULD | Orientation | Reference if socialisation/Bildung track commits. |
-| H.1 Psychoanalysis & critical theory (Whitebook, Benjamin — cross-listed at 7.11 — Honneth, Whitebook book) | COULD | Orientation | Promote if Phase III touches care/love sphere. |
+| H.1 Psychoanalysis & critical theory (Whitebook, Benjamin — cross-listed at 7.11 — Honneth, Whitebook; + **Freudo-Marxist primaries** Marcuse *Eros and Civilization* H.1.5, Fromm *Escape from Freedom* H.1.6, Mitscherlich H.1.7, added 2026-06-27) | COULD | Orientation | Promote if Phase III touches care/love sphere or commits to the Freud-substrate / authoritarian-character track (§4). Freud's *Unbehagen* itself now sits in the spine at 4.12. |
 | H.2.1 Gerhardt *Why Love Matters* | COULD | Orientation | Empirical material on early caregiving. |
 | H.2.2 Allen *Politics of Our Selves* | (cross-listed to 7.21) | — | See 7.21. |
 | H.3 Social reproduction (Bhattacharya, Arruzza-Bhattacharya-Fraser, Federici cross-refs) | COULD | Orientation | Promote with §4 social-reproduction trigger. Federici cross-listed to C.16/C.17. |
@@ -621,6 +648,21 @@ Part 0 (0.1–0.3) → Module 1 (Hegel: 1.1, 1.2, 1.3)
 - 13.3 Gramsci ← Module 2 + 11C.1 Bourdieu (soft)
 - 13.5 Althusser ← Module 2 + 9.3 Celikates (forward)
 
+### Endpoint branches (spines) — the map these promotions serve
+
+Modules 1–8 + Phase-I instrumental readings are the shared spine-core for branches A, C, D, E and largely B. The branch is committed at R5 (~M35), executed as the Phase III contribution, and deepened in Phase IV. Each branch = a spine/method + the §4 conditional promotions below + a set of additions to acquire. Full map, names, and venues: [field_map.md](field_map.md). **Current keepers: B and E** — their additions are folded into the syllabus; the other branches stay map-only until chosen.
+
+| Branch | Spine / method | Core (on syllabus) | Living frontier (to contribute) | Additions to acquire | Venue |
+|---|---|---|---|---|---|
+| **A** Recognition *(default)* | immanent reconstruction | Honneth (7), Jaeggi (8), Forst (7.7–7.10), Fraser (7.3/7.4), Taylor (7.14) | Ikäheimo (*Human Life-Form*, 2022), Laitinen, Pilapil (7.20) | — (baseline) | *Constellations* / *Critical Horizons* |
+| **B** Capitalism-as-form ★ | value-form / CPE | Module 13 (Backhaus, Reichelt), Module 14 (Streeck, Postone 14.4, Fraser), App. C (Heinrich…) | Bonefeld, Arthur, Bellofiore, Elbe, Engster, Lapavitsas, Best; *Nach Marx* | **folded in:** 13.6 Sohn-Rethel, 13.7 Arthur, 13.8 Bonefeld, 14.13 Engster, 14.14 Lapavitsas, 14.15 *Nach Marx* | *Historical Materialism* |
+| **C** Power / genealogy | genealogy, immanent power-critique | Foucault (11A.1–2), Allen (8.6, 11A.4, 7.21), Nietzsche (4.13) | Saar, Koopman, Owen, Lemke, Geuss; Honneth *Kritik der Macht* | *map-only:* Saar *Genealogie als Kritik* / *Was ist Sozialphilosophie?*, Foucault *Birth of Biopolitics*, Honneth *Kritik der Macht*, Koopman | *Foucault Studies* |
+| **D** Adornian negativism | determinate negation | DdA (4.2), MM (4.4), ND-sel. (4.5), Freyenhagen (4.6), Freud (4.12), Nietzsche (4.13) | Bernstein, O'Connor, Gordon, Hammer, Finlayson, Menke (2022); Allen | *map-only:* full *Negative Dialektik*, *Probleme der Moralphilosophie*, Gordon↔Freyenhagen; *Lebensphilosophie* reckoning (syllabus 4.14 — Benjamin *Erlebnis*/*Erfahrung*, Horkheimer on Bergson, ND's two failed revolts [Bergson + Husserl]; Lukács *Zerstörung der Vernunft* for structure only) | *Critical Horizons* / *Adorno Studies* |
+| **E** Socialisation / Bildung ★ | formation-of-persons | App. H: Freud (4.12), Heydorn (H.6.2), Humboldt (H.6.3), Adorno *Halbbildung* (H.6.1), J. Benjamin (H.1.2), Bowlby (H.5.2) | Stojanov, Koller, Marotzki, Layton, Winker, Ikäheimo, Frosh | **folded in:** H.1.8 Layton, H.1.9 Ikäheimo, H.3.6 Winker (Heydorn H.6.2 already core) | *J. Phil. Education* + Frankfurt-mainstream |
+| **F** Sub-tracks | (host spine) | 8A (decolonial); Renault 7.13 (suffering); Honneth 7.19 (work); Module 6 / Forst (deliberative) | per track (Lafont, Mau, Wilderson…) | per track | per track |
+
+★ = current keepers (2026-06-29). The §4 rows below give the per-item promotions each branch fires.
+
 ### Conditional promotions if Phase III topic commits
 
 Two distinct operations are separated: **class-change** (e.g., COULD → MUST-Engage) and **tier-change** (e.g., MUST-Engage → MUST-Anchor; Light → Full at constant class membership). Most topic-commit triggers fire both.
@@ -630,7 +672,7 @@ Two distinct operations are separated: **class-change** (e.g., COULD → MUST-En
 | **Recognition pathology / Hegelian freedom** | 1.6 Khurana → MUST-Engage; 7.11 J. Benjamin → SHOULD or MUST-Engage; 7.15 Ikäheimo-Laitinen → SHOULD; 7.16 Gregoratto → SHOULD; 7.17 Bedorf (un-defer); 7.20 Pilapil → MUST-Engage | 1.3 Hegel *Phän.* IV.A is already MUST-Anchor; **7.18 Honneth *Anerkennung* (2018) → MUST-Anchor** |
 | **Recognition + capitalism / work / democratic *Sittlichkeit*** | 14.2 Fraser CC (already MUST-Engage); 14.12 Castel → MUST-Engage | **7.19 Honneth *Der arbeitende Souverän* → MUST-Anchor**; 14.7 *Idee des Sozialismus* (already MUST-Engage) |
 | **Power / justification / democratic legitimacy** | 7.9 Forst *Normativität und Macht* (SHOULD → MUST-Engage); 7.10 Forst *Noumenal Republic* (SHOULD → MUST-Engage); 6.8 Bohman-Estlund-Floyd → MUST-Engage | **6.6 *Faktizität und Geltung* → MUST-Anchor**; 7.9 → MUST-Anchor (if power-and-justification is central) *(7.7 Forst RauR already MUST-Anchor baseline per v2.1)* |
-| **Immanent critique / problem-solving / progress-and-regression** | 7.14 Allen & Mendieta on Jaeggi (COULD → SHOULD) | **8.12 Jaeggi *Fortschritt und Regression* → MUST-Anchor** *(8.6 Allen already MUST-Anchor baseline per v2.1)* |
+| **Immanent critique / problem-solving / progress-and-regression** | 8.13 Allen & Mendieta on Jaeggi (COULD → SHOULD) | **8.12 Jaeggi *Fortschritt und Regression* → MUST-Anchor** *(8.6 Allen already MUST-Anchor baseline per v2.1)* |
 | **Verdinglichung / reification track (Adornian or Honneth-2005)** | 7.6 Honneth *Verdinglichung* → MUST-Engage | 4.6 Freyenhagen → MUST-Anchor *(3A.1 Lukács already MUST-Anchor baseline per v2.1)* |
 | **Adornian critical-theory of rationality** | 4.11 *Drei Studien zu Hegel* → MUST-Engage | **4.2 *DdA* → MUST-Anchor**; 4.6 Freyenhagen → MUST-Anchor *(3A.1 already MUST-Anchor baseline)* |
 | **Social epistemology / epistemic injustice** | (already-MUST 9.3 stays) | *(9.2 Fricker already MUST-Anchor baseline per v2.1)* |
@@ -645,6 +687,7 @@ Two distinct operations are separated: **class-change** (e.g., COULD → MUST-En
 | **Property / protest / phantom property** | 14.8 von Redecker → MUST-Engage; 12.10 Graeber → SHOULD | — |
 | **Affect / desire** | 14.10 Lordon → SHOULD; 7.16 Gregoratto → SHOULD | — |
 | **Bildung / socialisation** | H.1, H.3, H.6 (Heydorn, Mollenhauer, Adorno *Halbbildung*) → MUST-Engage or SHOULD | — |
+| **Psychoanalytic substrate / authoritarian character / domination-internalisation** | H.1.5 Marcuse, H.1.6 Fromm, H.1.7 Mitscherlich, 4.13 Nietzsche → MUST-Engage or SHOULD | **4.12 Freud *Unbehagen* → MUST-Anchor** |
 | **Hegemony fills Jaeggi gap** | 13.3 Gramsci → MUST-Engage; 13.4 Thomas → SHOULD | — |
 | **Deliberative democracy / public sphere** | 6.8 Bohman-Estlund-Floyd → MUST-Engage | **6.6 F&G → MUST-Anchor** |
 | **Post-progress Zeitdiagnose / Verlust** | 15.8 Reckwitz *Verlust* → MUST-Engage | — |
@@ -713,15 +756,15 @@ Per-text Hrs are computed ground-up via the Style × Tier matrix and time formul
 |---|---|---|
 | **MUST-Anchor** | **~20 items at baseline** (v2.0 was ~15; +5 from §8 discipline upgrades: 3A.1, 5.2, 7.7, 8.6, 9.2); +3–7 further conditionally if Phase III topic firms up | Full (Honneth-monograph decouple where applicable) |
 | **MUST-Engage** | **~28 items at baseline** (v2.0 was ~33; −5 from MUST-Anchor promotions) | Light (Orientation if [O*]/[O]/[RS]) |
-| **SHOULD** | **~38 items at baseline** (v2.0 was ~30; +6 from un-deferred Path D' items 7.13, 7.17, 9.6, 9.7, 14.9 plus interlocutor upgrades 8.10, 14.8) | Light if [P]/[ES]; Orientation if [O*]/[O]/[RS] |
-| **COULD** | **~28 items at baseline** (v2.0 was ~30; −2 from 8.10 and 14.8 upgrades, +1 from 9.9 Harding un-deferral back to active COULD) | Orientation (default); upgrades per §4 trigger |
+| **SHOULD** | **~38 items at baseline** (v2.0 was ~30; +6 from un-deferred Path D' items 7.13, 7.17, 9.6, 9.7, 14.9 plus interlocutor upgrades 7.22, 14.8) | Light if [P]/[ES]; Orientation if [O*]/[O]/[RS] |
+| **COULD** | **~28 items at baseline** (v2.0 was ~30; −2 from 7.22 and 14.8 upgrades, +1 from 9.9 Harding un-deferral back to active COULD) | Orientation (default); upgrades per §4 trigger |
 | **DISCRETIONARY** | ~26 items (unchanged from v2.0) | Skip / Phase IV |
 
 **v2.1 net hour impact vs v2.0 baseline**:
 
 - **Top-5 MUST-Anchor upgrades** (3A.1 Lukács, 5.2 EuI, 7.7 Forst RauR, 8.6 Allen *EoP*, 9.2 Fricker): all are Systematic or Layered class, ~150–250pp each. Per Style × Tier: ~15–25h reading each + ~6–10h writing (Full α). Aggregate **~+50 to +85h all-in** for the five upgrades.
 - **Un-deferred Path D' items** (7.13 Renault, 7.17 Bedorf, 9.6 Vogelmann, 9.7 Boltanski *On Critique*, 14.9 Aglietta): all Light or Orient at baseline. Aggregate **~+30 to +50h all-in** for the five (9.9 Harding stays Orient with no Recon, ~0.25h marginal).
-- **Interlocutor upgrades** (8.10 Jütten, 14.8 von Redecker): 8.10 is a single article (~3–5h reading + ~1–2h Light writing); 14.8 is ~120pp selection (~10–14h reading + ~2–3h Light writing). Aggregate **~+15 to +25h all-in**.
+- **Interlocutor upgrades** (7.22 Jütten, 14.8 von Redecker): 7.22 is a single article (~3–5h reading + ~1–2h Light writing); 14.8 is ~120pp selection (~10–14h reading + ~2–3h Light writing). Aggregate **~+15 to +25h all-in**.
 - **Context-Layer re-tiering** (11A.1, 11A.2 from Orient → Light): 11A.1 ~150pp + 11A.2 ~25pp. Writing-time addition only (reading was already counted at Orient flat-rate). Aggregate **~+3 to +6h** writing.
 - **Recency-caveat softening**: zero hour impact (wording-only).
 

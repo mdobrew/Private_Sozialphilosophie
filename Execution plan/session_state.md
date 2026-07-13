@@ -96,7 +96,7 @@ Phase I = 25 Full + 46 Light = 71 chapter/section Recons. Phase II ≈ 55 Full +
 - **Recurring ECB-hosted format** if M22–M25 worked; visiting-fellow arrangements at IfS/ConTrust/MPIfG; one short essay/year sustaining "in the conversation" status
 
 **Interlocutor list** (Phase II–III contact targets, prioritised):
-- *Top first-contacts*: Herzog (Groningen), Beckert (MPIfG), Hartmann (Luzern), Jütten (Essex — already in syllabus 8.10!)
+- *Top first-contacts*: Herzog (Groningen), Beckert (MPIfG), Hartmann (Luzern), Jütten (Essex — already in syllabus 7.22, was 8.10!)
 - *Strong with caveats*: Stahl (Groningen), Jaeggi (HU Berlin), Forst (Goethe — topic-conditional), Celikates (FU Berlin — runs FAPTF)
 - *Younger generation*: Vogelmann (Bremen), von Redecker (Berlin), Loick (Amsterdam)
 - *NOT contacted*: Honneth himself (high downside cold-email)

@@ -8,7 +8,17 @@
 
 ## Reading protocols by text type
 
-The practices below apply to all texts, but the *reading protocol* — how you approach the text before writing — differs by text type. The syllabus covers texts that range from clearly argued systematic prose to deliberately anti-systematic constellations, and no single reading method works for all of them.
+The practices below apply to all texts, but the *reading protocol* — how you approach the text before writing — differs by text type. The syllabus covers texts that range from clearly argued systematic prose to deliberately anti-systematic constellations, and no single reading method works for all of them. As a rule of thumb the protocol follows the text's prose class (`text_classification.md`) and length: Dense-class texts — and the genuinely dense stretches of otherwise-systematic ones, such as TKH Bd. 2 ch. VI — take Protocol 2; short programmatic pieces (under ~30–40 pp) take Protocol 3; the remaining systematic argumentative texts take Protocol 1, read without a running skeleton so that the closed-book reconstruction still surfaces what you failed to retain.
+
+### The principle the three protocols share
+
+What varies across the three protocols is only how much structural marking a text needs; what does *not* vary is the prohibition. Across all three the rule is the same — do not produce running *content* notes, a parallel summary tracking the text's order that you could read in place of the book. Marking is allowed; building an external copy of the argument is not. The reason is mechanical: the deliverable of this work is not a captured artifact but the internalised capacity to reconstruct and pressure-test the argument from memory, and notes that contain the full argument substitute for that capacity rather than build it. The from-memory regeneration is what installs the skill — see Roediger & Karpicke (cited under Protocol 1) and, book-length, Brown, Roediger & McDaniel, *Das merk ich mir!* (German edition of *Make It Stick*).
+
+This makes the division of labour between skeleton and reconstruction precise. The skeleton entry under Protocol 2 — and the lighter marginal annotation under Protocol 3 — is a *pointer*: a type and a location, with at most a gist of the upshot. It can carry compressed content (the premise the author leans on, the opponent named with the concept) but never the *development* by which the author gets there. The reconstruction (Practice A) is a separate prose artifact, written from memory after closing the book, where the *meat* goes: the connective reasoning, why the premise supports the claim, how the move works, what is at stake against the opponent. You return to a marked passage only when memory fails — the skeleton tells you exactly where to look.
+
+The hazard the practice is built against is the *fluency illusion*. Page-by-page content notes raise *encoding fluency* — the text feels mastered as you write — but encoding fluency is a poor predictor of retrieval, and the felt mastery is precisely what the cognitive science warns against. You cannot adjudicate this by introspection; only the closed-book reconstruction reveals what you actually built. A working test: a skeleton or a set of marginal marks that a colleague could learn the argument from has stopped being an index and become a summary, and the internalisation step has quietly been skipped.
+
+For a reader crossing over from quantitative social science, the asymmetry is sharp. Capturing a paper's full derivation is productive in that work — the captured object is itself a re-runnable artifact and the deliverable. In philosophy the deliverable is the capacity to reconstruct and evaluate the argument; an external copy does not build it, so capturing-in-full substitutes for the very thing being trained. The instinct that serves you elsewhere misfires here.
 
 ### Protocol 1: Systematic argumentative texts
 
@@ -16,7 +26,7 @@ The practices below apply to all texts, but the *reading protocol* — how you a
 
 **Method:** One careful read without paragraph-by-paragraph notes, followed by writing the Practice A reconstruction from memory, then targeted re-consultation. Read the chapter slowly enough to follow the argument but without stopping to annotate every paragraph. When you finish, close the book and write the reconstruction from what you retained. You will find that you can reconstruct the main claim and what it's directed against, but that the support structure (the specific argumentative moves, the mode of inference) has gaps. Now return to the text — not to re-read linearly but to look up the specific passages where your reconstruction has holes. This targeted return is far more efficient than a full second pass because you know exactly what you're looking for.
 
-**Why not take notes during the first read?** If you annotate paragraph-by-paragraph on the first pass, you tend to produce a *summary* (a compression of what the author said, tracking the text's order) rather than a *reconstruction* (an identification of the argument's structure, which may not follow the text's order). The shift from summary to reconstruction is one of the core skills you're building. It is easier to make this shift if your first encounter with the text is holistic — following the argument from start to finish — rather than atomised into paragraph-level notes. The reconstruction answers the question "What is this author trying to establish, how, and against whom?" — a question that is easier to answer after seeing the whole.
+**Why not take running notes during the first read?** If you annotate paragraph-by-paragraph on the first pass, you tend to produce a *summary* (a compression of what the author said, tracking the text's order) rather than a *reconstruction* (an identification of the argument's structure, which may not follow the text's order). The shift from summary to reconstruction is one of the core skills you're building. It is easier to make this shift if your first encounter with the text is holistic — following the argument from start to finish — rather than atomised into paragraph-level notes. The reconstruction answers the question "What is this author trying to establish, how, and against whom?" — a question that is easier to answer after seeing the whole. What is ruled out here is the running content note, not marking as such: the structural skeleton used in Protocol 2 is a different instrument, reserved for dense prose that overruns what you can hold in memory on one pass.
 
 **Time calibration:** The syllabus hour estimates for these texts assume this protocol. A text estimated at 35–45 hours means roughly 75–80% reading time and 20–25% reconstruction writing and re-consultation.
 
@@ -26,7 +36,7 @@ The cognitive science supporting this approach — retrieval practice produces s
 
 **Applies to:** Hegel (*Rechtsphilosophie*, *Phänomenologie*), Adorno (*Negative Dialektik*, *Minima Moralia*), Lukács (*Geschichte und Klassenbewußtsein*), Benjamin, parts of Habermas's TKH (especially Bd. 2, ch. VI).
 
-**Method:** Two passes with different purposes. First pass: read for the *shape* of the argument — what is this chapter about, where does it start, where does it end up, what are the major transitions? Do not try to understand every sentence. Mark passages that seem crucial and passages that are opaque. Second pass (which can be partial — focus on the marked passages and their surroundings): read for the *detail* of the argument, with the relevant [ES] secondary text (Neuhouser, Freyenhagen, McCarthy) open alongside. Then write the Practice A reconstruction.
+**Method:** Two passes with different purposes. First pass: read for the *shape* of the argument — what is this chapter about, where does it start, where does it end up, what are the major transitions? Do not try to understand every sentence; mark the passages that seem crucial and the ones you cannot yet parse. Second pass (which can be partial — focus on the marked passages and their surroundings): read for the *detail* of the argument, with the relevant [ES] secondary text (Neuhouser, Freyenhagen, McCarthy) open alongside, building a running skeleton as you go. The skeleton is one line per argumentative move — not per paragraph — and each line records a *type* and a location rather than the content itself: a premise the argument leans on, a transition between stages (*§141 move: Moralität → Sittlichkeit*), the opponent being engaged (*§135 vs. Kantian empty formalism*), a definition (*§142 def. Sittlichkeit*), or a passage you still cannot follow (*§156 ?? return*). Keep each entry short enough to point rather than paraphrase — mark *that* there is a move at §141, never the reasoning behind it. The test: a skeleton someone could learn the argument from has stopped being an index and become the paragraph-by-paragraph compression Protocol 1 warns against. Then close the book and write the Practice A reconstruction from the skeleton — it gives you the spine and the locations, but you reconstruct the *content* of the support from memory, returning to a marked passage only where memory fails.
 
 The [ES] secondary is meant to be read *before* the primary precisely so that your first pass through the primary is already informed — you are not going in blind but checking your understanding of Neuhouser against what Hegel actually says.
 
@@ -45,6 +55,44 @@ The [ES] secondary is meant to be read *before* the primary precisely so that yo
 
 > [!note] Claude — Use 5: Language assistance
 > When you encounter a syntactically tortured German sentence — routine in Hegel, Adorno, and parts of Habermas — it is legitimate to ask Claude to unpack the sentence *linguistically* without asking for the philosophical interpretation. *"Can you parse the grammatical structure of this sentence and identify what the main clause is, what the subordinate clauses modify, and what the referents of the pronouns are?"* This is language assistance, not philosophical outsourcing. Adorno in particular writes sentences where the difficulty is partly syntactic (nested subordinate clauses, displaced predicates, ambiguous pronoun reference) and partly philosophical — separating the two lets you focus your cognitive effort on the philosophical difficulty rather than fighting grammar simultaneously. Always attempt the sentence yourself first. If you can parse the grammar but not the argument, that's a philosophical difficulty (Use 2 above), not Use 5.
+
+### Marginalia vocabulary (shared across all three protocols)
+
+A stable tag set for marking *at read-time* — the positive complement to the running-content-note prohibition above. A mark is a pointer: a *type* and a *location*, never the *development*. Annotate in the language of the text (German tags in a German text keep you inside its vocabulary); normalise to the English tag when a mark graduates into a vault note, so the searchable vocabulary does not fragment.
+
+**Spine — Practice A parts**
+
+| English | German | Marks |
+|---|---|---|
+| `[claim]` | `[These]` | the defended thesis / conclusion |
+| `[prem]` | `[Präm]` | asserted premise (the author's own) |
+| `[prem:X]` | `[Präm:X]` | premise *attributed* to X (X grants/holds it) — immanent-critique bookkeeping |
+| `∴` | `∴` | ordinary logical inference |
+| `[Über]` | `[Über]` | dialectical transition (*Übergang*) — reserved for genuine determinate-negation moves, not any inference |
+| `[contra]` | `[gegen]` | directed-against; reads with the target — `[gegen] Kant` |
+| `[conc]` | `[Konz]` | concession (*Konzession*) — a dialectical move, not one of the four spine parts |
+| `[presup]` | `[Voraus]` | presupposition (*Voraussetzung*) — unstated, load-bearing |
+
+**Conceptual moves — sub-types of support**
+
+| English | German | Marks |
+|---|---|---|
+| `[def]` | `[Def]` | definition |
+| `[dist]` | `[Dist]` | distinction (*Distinktion*) |
+| `[ex]` | `[Bsp]` | example (*Beispiel*) |
+| `[counter-ex]` | `[GegBsp]` | counter-example (*Gegenbeispiel*) |
+| `[TE]` | `[GedExp]` | thought experiment (*Gedankenexperiment*) |
+| `[emp]` | `[emp]` | empirical touchpoint (→ `Empirical/`) |
+
+**Reader-side — no translation**
+
+| Tag | Marks |
+|---|---|
+| `[!]` | weak link / attack point / candidate for the Practice A closing sentence |
+| `[n.b.]` | notable or surprising (kept distinct from `[!]`) |
+| `[Einw]` | your own objection (*Einwand*) — seed of the dialogue moment; feeds Practice H |
+| `[??]` | opaque; return |
+| `[→X]` | connects to another text or concept in the vault |
 
 ---
 
@@ -65,6 +113,16 @@ After finishing a chapter or section, close the book and write — in your own w
 **(iii) What is it directed against?** Every claim in the Frankfurt tradition is positioned against alternative views. If you can't identify what the author is rejecting, you haven't understood the claim. For example, Jaeggi's claim that forms of life are rationally evaluable is directed against liberal neutrality (Rawls: forms of life are beyond the scope of justice) *and* against relativism (forms of life are incommensurable) *and* against moral perfectionism (there is one correct way to live). These are three different opponents, and the argument works differently against each. *Demarcation cue:* name at least one opponent. If none, the claim is either uncontroversial or you have not found the right framing.
 
 **(iv) What does it presuppose?** What must you already accept for the argument to go through? These presuppositions are often the most productive points for critical engagement — and for original contribution. For example, Honneth's recognition theory presupposes that humans have a quasi-anthropological need for recognition, which Jaeggi explicitly refuses in her alienation book. Jaeggi's problem-solving model presupposes that we can distinguish between genuine solutions and mere displacements, which Amy Allen's critique of progressive philosophy of history calls into question. *Demarcation cue:* a presupposition is not a missing premise the author forgot — it is a commitment they would *have to* accept if asked, but never explicitly state. (This is the part most easily conflated with (ii) by a reader trained on formal arguments; resist that conflation.)
+
+**The reconstruction discipline: rational reconstruction and the pointing constraint.** The four parts above are governed by two rules that keep a reconstruction from sliding into free-association.
+
+*Rational reconstruction — not paraphrase, not intention.* What you reconstruct is neither the author's psychological intention (unrecoverable, and irrelevant — roughly the intentional fallacy) nor the text's prose (that is transcription, and it feeds the fluency illusion warned against under the protocols). It is the *strongest valid argument the text will bear* — Rawls's method in the history-of-philosophy lectures ("I assumed the writers were smarter than I was"), Habermas's *rationale Rekonstruktion*. Where the text underdetermines the argument, charity fills the gap with the strongest premise the text *permits*; it never licenses importing a premise the text excludes. This is why part (i)'s demarcation cue is your-own-words and not recall of the author's: the deliverable is a paraphrase you can attack, not a faithful transcript.
+
+*The pointing constraint.* Every element you attribute to the author must be either (a) *textually anchored* — you can point to the passage it comes from — or (b) *inferentially necessary* — you can show the stated argument collapses without it (the counterfactual test). Anything that is neither is something *you* supplied, however plausible: that is the line between reconstruction and free-association, and it is the whole anti-strawman discipline of the field. The two warrants map onto the four parts — asserted premises (ii) are anchored; presuppositions (iv), being unstated by definition, are warranted by necessity. A "presupposition" that fails the necessity test is not a presupposition but your own objection in disguise; route it to Practice H rather than filing it as the author's commitment.
+
+*Premise attribution.* In this tradition the load-bearing premises are frequently not the author's own. Tag each premise by source — *asserted* by the author, *attributed* to the target (the norm the object professes: the engine of immanent critique, see Practice B, *immanente Kritik*), or *presupposed* (unstated, load-bearing). Marking a target's professed norm as though it were the author's own commitment inverts the argument and is the commonest reconstruction error on immanent-critique texts. The marginalia tag `[prem:X]` records the attribution at read-time.
+
+*Closed-book on structure, open-book on detail.* "From memory" (Protocols 1–3) means the *skeleton* — the claim and the inferential spine — must be reconstructible with the book shut; that is the comprehension test, and it fails to test anything if the book is open. It does *not* mean recalling which example the author used, the exact technical term, or the section number — reopen freely for those. Structure is your-words and stays closed-book; terms and specifics are their-words and are looked up. Requiring closed-book recall of detail merely reintroduces the memorisation pressure the from-memory practice exists to defeat.
 
 **Target length.** *Full tier:* 500–800 words per chapter or major section. *Light tier:* 200–300 words per text (not per chapter). 30–45 minutes per Full reconstruction on top of reading time, 10–15 minutes per Light. The Full reconstruction is the philosophical analogue of replicating an econometric exercise — you discover what you actually understand versus what you merely followed along with. Roughly 30% of what you thought you understood dissolves when you try to reconstruct it; the point is identifying the gaps *during study* rather than discovering them in use. See *When and at what depth* below for tier routing.
 
@@ -108,6 +166,28 @@ This is the first [P*] text on the accelerated path and the first text for which
 **(iii) Directed against:** Three targets. First, against Rawlsian political philosophy, which begins from ideal principles of justice rather than from diagnoses of existing pathology — Honneth's claim is that this gets the order of explanation wrong (you must first identify what is going wrong before you can articulate what a just arrangement would look like). Second, against purely empirical sociology, which can describe social arrangements but cannot normatively evaluate them as *pathological* without importing evaluative criteria from elsewhere. Third, implicitly against Habermas's specific version of critical theory, which locates social pathology exclusively in the "colonisation of the Lebenswelt" — Honneth is preparing the ground for a broader, recognition-based account.
 
 **(iv) Presuppositions:** The argument presupposes (a) that societies have a "rational potential" against which their actual development can be measured — a quasi-Hegelian assumption that Honneth does not fully defend in this essay; (b) that the concept of pathology is applicable to social arrangements, not only to organisms or individuals — what makes a social arrangement "pathological" rather than merely unjust or dysfunctional remains underspecified here (this is what Zurn's "second-order disorders" paper, Module 8.3, later clarifies); (c) that the genealogical reconstruction Honneth offers is not merely one possible reading of the tradition but captures what the tradition is *really about* — a strong claim that depends on the method of normative reconstruction being defensible, which Honneth only fully articulates in *Das Recht der Freiheit* (Module 7.5).
+
+### Worked example 2: Practice A applied to Hegel, *Rechtsphilosophie* §§142–157 — Dense / Protocol 2 (fill-in scaffold)
+
+> [!warning] Fill-in scaffold, not a model answer.
+> Example 1 (Honneth) is a *completed* reconstruction of a Protocol-3 text, where the four parts come apart cleanly. This second exemplar is deliberately the opposite: a Dense/Protocol-2 passage where the structure resists you, left as a scaffold to complete (like the Skizze placeholder below). It is a scaffold rather than a filled model on purpose — (a) the value is in *your* producing the four parts against resistant prose, not reading mine; (b) Hegel-interpretation is contested enough that a confidently filled reconstruction would model the wrong thing. Complete it when you reach RP in Module 1 (~W14–16); file your first pass even where parts stay thin (Protocol-2 reconstructions are thinner by nature, not by failure), then treat your filled version as the canonical example.
+
+**Text & read.** Hegel, *Grundlinien der Philosophie des Rechts* §§142–157 — the concept of *Sittlichkeit* (ethical life) and the transition out of *Moralität* (morality). Read per Protocol 2: one orienting pass to map the movement, then a close pass answering the prompts below. Do not expect a thesis-then-reasons structure — the argument *is* the transition.
+
+**(i) Claim — what the transition establishes.** *[One to three sentences, in your own words. Resistance: §142 **defines** *Sittlichkeit* (in terms of freedom, the good, and the self-conscious will — read it closely), it does not state a thesis under defence; extract what the **move** from morality to ethical life is meant to establish. Test: if your sentence could be swapped for the §142 definition or the section heading, it is not yet your reconstruction.]*
+
+**(ii) Support — how the move is made.** *[Resistance: the support is dialectical, not evidential — there are no premises to list. Identify the deficiency in the moral standpoint that the move to *Sittlichkeit* is meant to repair. If you cannot yet name it, mark the gap explicitly ("I can't yet say why morality is insufficient on its own terms") and return after §§158+ (Family) give *Sittlichkeit* concrete content.]*
+
+**(iii) Directed against — the position being overcome.** *[Whom is Hegel arguing against? Candidate to verify, not assume: the Kantian *Moralität* of the abstract *ought*, and the "empty formalism" charge against the categorical imperative (≈ §135 — check the section). State the target in your own words and mark your confidence.]* **Economist's note:** resist reading the move to *Sittlichkeit* as preference-aggregation or a social-contract / social-choice construction — ethical substance is not the sum of prior individual wills; for Hegel the individual is already constituted within it.
+
+**(iv) Presuppositions — what the argument needs but does not argue for.** *[This is where a first Dense reconstruction is thinnest — expect to leave it partial. Candidates to interrogate against the text: (a) that the rational is actual / that there is a "rational potential" to realise (the *Doppelsatz* of the Preface — verify); (b) that the individual is constituted by ethical substance rather than prior to it; (c) that the freedom of *Moralität* is incomplete without institutional embodiment. Mark which you can defend from §§142–157 and which you are importing from secondary reading (Neuhouser).]*
+
+**Closing sentence (per §D.1):** *["If I were making this argument, the move I would change is X" — name a premise, the directed-against target, or a presupposition. Don't defend it yet.]*
+
+**Where this one is meant to strain** (read after filing your first pass):
+- Claim and support blur, because the argument is the transition, not a static thesis with reasons.
+- (iv) will feel incomplete until the three spheres (§§158–360) are in hand — that incompleteness at §157 is *correct*, not a failure; flag it and move on (per *"Don't try to resolve every difficulty on first encounter"*).
+- Bring the filed reconstruction to Claude for a **Use 1** check, and apply the **Use 4** hallucination caveat heavily: Hegel-interpretation is genuinely contested (Neuhouser's social-theoretic reading vs. Pippin's), so treat any confident interpretive claim — Claude's or your own — as a hypothesis to verify against the German text.
 
 ---
 
@@ -163,7 +243,7 @@ At each module boundary, write 1–2 questions in one of two further forms. Thes
 
 **Translation form.** "If we rewrite X's claim in Y's vocabulary, what is lost?" Example: *If we rewrite Honneth's three-sphere recognition theory in Forst's vocabulary of justification, what is lost — and is what is lost essential to the theory, or an artefact of its expression?*
 
-**Why C2 matters separately.** C1 questions are about a single author. C2 questions force you to hold two authors in tension, which is the cognitive operation underwriting both the Comparison Exercise (Phase III M32–34, post-Path-D' shift from M30–32) and the W3.2 publishable piece. Without C2, the Comparison Exercise will be your first attempt at positioning thinkers against each other — at maximum stakes.
+**Why C2 matters separately.** C1 questions are about a single author. C2 questions force you to hold two authors in tension, which is the cognitive operation underwriting both the Comparison Exercise (Phase III M37–38) and the W3.2 publishable piece. Without C2, the Comparison Exercise will be your first attempt at positioning thinkers against each other — at maximum stakes.
 
 **Apply the write-then-compare protocol** (see Practice B): write your questions *before* asking Claude for objections or comparisons. If you ask Claude first, your questions will sound like Claude's questions.
 
@@ -201,7 +281,7 @@ In Obsidian, use the Canvas feature: create a new canvas file, add cards for eac
 
 This is the most generative move in the practice. Identifying the *occupied* corners is comprehension; identifying the *unoccupied* corner is the seed of an original contribution. The 200-word note is short on purpose — it's an exercise in *naming* a position you might develop, not in developing it.
 
-**Cadence taper (post-Pass-10 audit addition 2026-05-19).** Like H1, Practice D should taper once the move is in the toolkit. Recommended cadence: every module M1–M9 (training period — the cross-thinker positioning move is being learned); alternating modules M10 onward (consolidation); in Phase III, Practice D survives only as input to the M32–M34 Comparison Exercise rather than as per-module routine. By the time you can produce a usable debate map in ~1h without effort, the practice has done its work.
+**Cadence taper (post-Pass-10 audit addition 2026-05-19).** Like H1, Practice D should taper once the move is in the toolkit. Recommended cadence: every module M1–M9 (training period — the cross-thinker positioning move is being learned); alternating modules M10 onward (consolidation); in Phase III, Practice D survives only as input to the M37–38 Comparison Exercise rather than as per-module routine. By the time you can produce a usable debate map in ~1h without effort, the practice has done its work.
 
 Apply this alongside the H1 taper specified in Practice H1 — both productive moves consolidate at similar pace.
 
@@ -323,7 +403,7 @@ After the reconstruction (Practice A), write a separate 300–500 word evaluatio
 
 A short, recurring exercise from Module 2 (or later in Phase I, on second-opinion review) of taking *one phenomenon from your professional world* and applying *exactly one* concept-tool you have just acquired to it. 800–1,200 words. ~3.5–4.5 hours including iteration. Roughly every 8–10 weeks in Phase I; the cadence can adjust as you find your rhythm.
 
-**Why this practice.** The W3.2 publishable piece (Phase III M32–35) requires that you take a phenomenon from your professional world — central-bank communication, the price-stability mandate, DSGE methodology, financial-stability discourse — and bring a Frankfurt-tradition apparatus to bear on it. This is a specific skill. It is not the same as understanding the apparatus (Practice A) or evaluating it (Practice H). It is the skill of *deploying* an apparatus on an object the apparatus was not built to address. Without practice, W3.2 will be the first time you've ever attempted this, at maximum stakes. Anwendung is the apprenticeship.
+**Why this practice.** The W3.2 publishable piece (Phase III, ~M38–M48) requires that you take a phenomenon from your professional world — central-bank communication, the price-stability mandate, DSGE methodology, financial-stability discourse — and bring a Frankfurt-tradition apparatus to bear on it. This is a specific skill. It is not the same as understanding the apparatus (Practice A) or evaluating it (Practice H). It is the skill of *deploying* an apparatus on an object the apparatus was not built to address. Without practice, W3.2 will be the first time you've ever attempted this, at maximum stakes. Anwendung is the apprenticeship.
 
 **Structure (one Anwendung).**
 
@@ -351,9 +431,9 @@ A short, recurring exercise from Module 2 (or later in Phase I, on second-opinio
 
 ## Practice J: Skizze — argumentative essay defending a positive claim
 
-Beginning in Phase II (after Honneth, ~M22), at roughly 6–8 week intervals, write a 1,000–1,500 word essay defending *one* positive philosophical claim of your own. 4.5–6 hours per Skizze including iteration. The genre is the Frankfurt tradition's own *Versuch* — an attempt, a sketch, a probe — not a finished position.
+Beginning in Phase II (after Honneth, ~M25), at roughly 6–8 week intervals, write a 1,000–1,500 word essay defending *one* positive philosophical claim of your own. 4.5–6 hours per Skizze including iteration. The genre is the Frankfurt tradition's own *Versuch* — an attempt, a sketch, a probe — not a finished position.
 
-**Why Phase II, not Phase I.** Defending a positive philosophical claim requires having a competing-positions landscape — Honneth vs. Jaeggi vs. Allen vs. Forst — to position yourself within. In Phase I with only Hegel + Marx + Weber + Lukács + first-generation Frankfurt School in hand, a Skizze attempt produces wisps, not training. Post-Honneth (M22) is the natural earliest point; the apparatus is dense enough that the practice has something to work on.
+**Why Phase II, not Phase I.** Defending a positive philosophical claim requires having a competing-positions landscape — Honneth vs. Jaeggi vs. Allen vs. Forst — to position yourself within. In Phase I with only Hegel + Marx + Weber + Lukács + first-generation Frankfurt School in hand, a Skizze attempt produces wisps, not training. Post-Honneth (M25) is the natural earliest point; the apparatus is dense enough that the practice has something to work on.
 
 **What a Skizze is not.**
 
@@ -380,7 +460,7 @@ Beginning in Phase II (after Honneth, ~M22), at roughly 6–8 week intervals, wr
 
 ### Worked-example scaffold: Practice I applied to the Honneth-vs-Jaeggi recognition-of-suffering hinge (placeholder, post-Pass-10 audit addition)
 
-**⚠ Placeholder example.** This scaffold is a *structural* illustration of the Skizze form, not a model of substantive content. The substantive content here is sketched in placeholder phrasing because (a) the user has not yet attempted a Skizze at M22+, and (b) writing a substantive Skizze pre-emptively risks either being wrong (the apparatus is still being built) or being an LLM artefact. **At M22, replace this scaffold with your actual first Skizze and treat the replacement as the canonical worked example.** Until then, the form below illustrates the genre's *shape* — claim precision, what-against framing, defence proportion, what-cannot-yet-do honesty.
+**⚠ Placeholder example.** This scaffold is a *structural* illustration of the Skizze form, not a model of substantive content. The substantive content here is sketched in placeholder phrasing because (a) the user has not yet attempted a Skizze at M25+, and (b) writing a substantive Skizze pre-emptively risks either being wrong (the apparatus is still being built) or being an LLM artefact. **At M25, replace this scaffold with your actual first Skizze and treat the replacement as the canonical worked example.** Until then, the form below illustrates the genre's *shape* — claim precision, what-against framing, defence proportion, what-cannot-yet-do honesty.
 
 ---
 
@@ -402,13 +482,13 @@ Beginning in Phase II (after Honneth, ~M22), at roughly 6–8 week intervals, wr
 
 ## Practice-transformation in Phase III (post-Pass-10 audit addition 2026-05-19)
 
-The practices above are calibrated to Phase I (training) and Phase II (consolidation + apprenticeship). **Phase III is structurally different**: from M30 R5 onward, the W3.2 publishable piece is the *primary text* the practices serve. Receptive practices (A reconstructions, B concept tracking, C1/C2 seminar questions, D debate maps, H1 light-discrimination) cannot continue at Phase II cadence during the writing-block weeks (W1 at M36, W2 at M43) or during the M37–M39 frontier-reading-cum-informal-presentation stretch. Three transformations:
+The practices above are calibrated to Phase I (training) and Phase II (consolidation + apprenticeship). **Phase III is structurally different**: from M35 R5 onward, the W3.2 publishable piece is the *primary text* the practices serve. Receptive practices (A reconstructions, B concept tracking, C1/C2 seminar questions, D debate maps, H1 light-discrimination) cannot continue at Phase II cadence during the writing-block weeks (W1 at M40, W2 at M47) or during the M41–M43 frontier-reading-cum-informal-presentation stretch. Three transformations:
 
-1. **During Writing Blocks W1 (M36) and W2 (M43):** Suspend all receptive practices except targeted re-reading of texts directly informing the current draft section. The 5-day concentrated block (~30h) is dedicated drafting, not learning. Anwendung and Skizze structure absorbs into the W3.2 draft — sections of W3.2 begin life as Skizze-style positive-claim defences.
+1. **During Writing Blocks W1 (M40) and W2 (M47):** Suspend all receptive practices except targeted re-reading of texts directly informing the current draft section. The 5-day concentrated block (~30h) is dedicated drafting, not learning. Anwendung and Skizze structure absorbs into the W3.2 draft — sections of W3.2 begin life as Skizze-style positive-claim defences.
 
-2. **During frontier-reading M37–M39:** New texts (Mills 12.6, Boltanski-Chiapello selections, conditional-MUST promotions if fired at M30 R5) are read at Light tier with one purpose: informing the W3.2 revision. Reconstructions of frontier texts are *integrated into the W3.2 revision draft directly* rather than filed as standalone notes. The receptive cycle (A → C1 → C2 → D) is collapsed into "what does this text imply for the piece I am writing?"
+2. **During frontier-reading M41–M43:** New texts (Mills 12.6, Boltanski-Chiapello selections, conditional-MUST promotions if fired at M35 R5) are read at Light tier with one purpose: informing the W3.2 revision. Reconstructions of frontier texts are *integrated into the W3.2 revision draft directly* rather than filed as standalone notes. The receptive cycle (A → C1 → C2 → D) is collapsed into "what does this text imply for the piece I am writing?"
 
-3. **During Comparison Exercise M32–M34 and revision phases (M37–M39, M39–M42, M42–M44):** Practice F strategic re-reading is the active practice. Comparison Exercise re-reads target the Module 7 + Module 8 reconstructions filed in Phase II. Revisions to those filed reconstructions count as Practice F self-disagreement-mode notes.
+3. **During the Comparison Exercise (M37–38) and the W3.2 drafting/revision phases (M38–M48):** Practice F strategic re-reading is the active practice. Comparison Exercise re-reads target the Module 7 + Module 8 reconstructions filed in Phase II. Revisions to those filed reconstructions count as Practice F self-disagreement-mode notes.
 
 **General Phase III rule:** treat the W3.2 piece as the primary text. Practices serve the piece; the piece does not serve the practices. The Phase II practice-cycle is for *building the apparatus*; Phase III is for *applying it*.
 
@@ -425,7 +505,7 @@ Two active-learning practices are part of the programme's overall pedagogical st
 - **Dialogue Moment (DM)** — at each module close, state the strongest objection to the central argument you just reconstructed and try to answer it. With Claude (paste your reconstruction and ask: "where is this misreading the standard scholarly view? what assumption is undefended?"), with a colleague, or in writing. ~1h per DM. **Canonical definition: bridge_document.md §3.7.** This document lists DM as part of the module-close practice set; the substance lives there.
 - **Comprehension check** — at each module close, brief written answers to the capability targets listed at module start. ~2–3h. **Canonical definition: bridge_document.md §3.3.** A brief self-test of "do I have the apparatus?"; complements (does not duplicate) DM, H1, C2, and Practice D.
 
-These two practices are referenced in the execution plan's §E.2 module-close checklist alongside the practices defined in this document (H1, C2, Practice D). Definitionally they belong to the bridge document; functionally they are part of every reader's module-close routine.
+These two practices are referenced in the execution plan's §D.2 module-close checklist alongside the practices defined in this document (H1, C2, Practice D). Definitionally they belong to the bridge document; functionally they are part of every reader's module-close routine.
 
 ---
 
@@ -464,15 +544,15 @@ For each hour of reading, budget approximately 20–30 minutes of active writing
 | Module-close week type | Items | Load |
 |---|---|---|
 | Standard module close | Comp check + DM + H1 + C2 + 🗺 Practice D + negative-space note | ~5–7h |
-| QM module close (W17, W30, M19, M27, M37) | Above + QM article comparison | ~7–10h |
+| QM module close (W17, W30, M20, M32, M41) | Above + QM article comparison | ~7–10h |
 
-The execution plan's §E.2 module-close checklist is the canonical version of this load; the practices doc here gives the *practice components* that feed into that checklist.
+The execution plan's §D.2 module-close checklist is the canonical version of this load; the practices doc here gives the *practice components* that feed into that checklist.
 
 **Peak-week guidance (post-Pass-10 audit addition).** Some weeks combine module-close load with a due Anwendung (~3.5–4.5h) or due Skizze (~4.5–6h). A module-close + due-Skizze week is structurally ~10–13h — far above the 7.5h baseline. The execution plan's §D.1 §D Layer 1–2 cut list handles this if it bites; the practice rule is: **do not co-schedule Anwendung or Skizze with a module-close week if possible.** If schedule forces co-scheduling, the Anwendung or Skizze slips to the following week rather than the module-close items dropping.
 
 **Productive practices (Part II) are budgeted separately:**
 - *Practice I Anwendung:* ~3.5–4.5h per instance (including Claude iteration). Phase I target: 3–4 Anwendungen (~12–18h). Phase II–Phase III: continued at 8–10 week cadence.
-- *Practice J Skizze:* ~4.5–6h per instance. Begins in Phase II (~M22) at 6–8 week cadence. ~6–8 Skizzen in Phase II–Phase III before W3.2 (~30–45h).
+- *Practice J Skizze:* ~4.5–6h per instance. Begins in Phase II (~M25) at 6–8 week cadence. ~6–8 Skizzen in Phase II–Phase III before W3.2 (~30–45h).
 - *Practice H1 light discrimination:* ~30–45 min per module, ~6h Phase I total (one per module).
 - *Practice H2 full evaluation:* begins Module 6 (Phase II), ~2–3h per evaluation, ~1 in 3 major texts.
 
@@ -881,6 +961,33 @@ Sönke Ahrens, *How to Take Smart Notes: One Simple Technique to Boost Writing, 
 
 Andy Matuschak's online notes on "Evergreen Notes" (https://notes.andymatuschak.org) develop a similar framework with more attention to digital implementation, including the distinction between literature notes and permanent notes and the principle that notes should be titled as propositions.
 
+## Books on the craft of reading and argument
+
+The texts collected in [Part V of the syllabus](sozialphilosophie_syllabus.md) — Stahl, Celikates, Jaeggi's and Honneth's methodological chapters — train the Frankfurt-tradition craft from within. The books below address a different question: the meta-skill of reading philosophical texts and reconstructing arguments as such, mostly from the analytic-pedagogical tradition. They ground the practices in this document rather than the substantive critique you are working toward. German editions are listed where they exist.
+
+### Tier 1 — buy and read in the first three months
+
+- **Jay F. Rosenberg, *Philosophieren. Ein Handbuch für Anfänger*** (Vittorio Klostermann, Rote Reihe Bd. 18; transl. Brigitte Flickinger, 6. Aufl. 2009). The pedagogy of doing philosophy — chapters on six ways to read a philosopher, five ways to criticise one, how to defend a thesis. The closest book-length match to Practices A and H.
+- **Peter C. Brown, Henry L. Roediger & Mark A. McDaniel, *Das merk ich mir! Erfolgreich lernen und für immer behalten mit der Make-it-stick-Methode*** (transl. Imke Brodersen, 2019; English: *Make It Stick: The Science of Successful Learning*, Belknap, 2014). Book-length presentation of the retrieval-practice evidence the protocols rest on. Resolves *why* from-memory reconstruction works and names the fluency illusion that makes annotation feel more productive than it is.
+- **Holm Tetens, *Philosophisches Argumentieren. Eine Einführung*** (C.H. Beck, 2004). Depth treatment of philosophical argument forms — transcendental, reductio, thought experiment, conceptual reconstruction. What Practice A part (ii) asks you to identify.
+
+### Tier 2 — if Tier 1 lands well
+
+- **Jonas Pfister, *Werkzeuge des Philosophierens*** (Reclam UB). Handbook-style complement to Tetens — broader (conceptual analysis, fallacies, a chapter on reading philosophical texts), shallower on argument forms. Reference shape, look-up-able.
+- **Sönke Ahrens, *Das Zettelkasten-Prinzip*** (German edition, 2017; English: *How to Take Smart Notes*, 2nd ed. 2022, already cited under *Note-taking infrastructure*). The Luhmann method. Useful for the Obsidian vault on the principle level (notes as a linked thinking system); take it on the principle, leave the evangelism.
+
+### Tier 3 — purpose-specific, buy when needed
+
+- **A. P. Martinich, *Philosophical Writing: An Introduction*** (Blackwell). For Phase III drafting; do not buy before.
+- **Anthony Weston, *Die Kunst des guten Arguments*** (Reclam, 2020; English: *A Rulebook for Arguments*, Hackett). Short argument-hygiene book. Overlap with Tetens; optional.
+
+### Tier 4 — adjacent in genre, optional
+
+- **Hubert Schleichert, *Wie man mit Fundamentalisten diskutiert, ohne den Verstand zu verlieren: Anleitung zum subversiven Denken*** (C.H. Beck). Not a method book. A polemical applied rhetoric against closed argument systems, written in a broadly critical-rationalist register. Read as a *contrast* to Frankfurt ideology-critique — a productive Practice C2 against Adorno on identitarian thinking or Habermas on *systematisch verzerrte Kommunikation*. Enjoyable.
+- **Hans-Georg Gadamer, *Wahrheit und Methode*** (1960). Hermeneutic theory of understanding, not a how-to. Relevant to the Habermas–Gadamer debate; otherwise park until you want the German tradition's account of what understanding a text *is*.
+
+**If forced to one book: Rosenberg, *Philosophieren*. If two, add *Das merk ich mir!*.** The third (Tetens) is genuinely substantive and worth the time, but the first two already change how you read.
+
 ---
 
 ## Appendix A: Recommended tag vocabulary (25 tags)
@@ -1108,9 +1215,9 @@ The writing-time multiplier includes: body draft (500–800w Full / 150–250w L
 |---|---|---|---|
 | *Comprehension check* | *Per module close* | *2–3h* | *bridge §3.3* |
 | *Dialogue Moment (DM)* | *Per module close* | *~1h* | *bridge §3.7* |
-| *Quarterly Milestone (QM)* | *W17, W30, M19, M27, M37 only* | *2–3h (replaces that week's bonus reading)* | *execution_plan §E.2* |
-| *Reading log* | *Throughout, continuous* | *~5 min/session marginalia + ~5 min/week metrics (subsumed into reading)* | *execution_plan §E.0* |
+| *Quarterly Milestone (QM)* | *W17, W30, M20, M32, M41 only* | *2–3h (replaces that week's bonus reading)* | *execution_plan §D.2* |
+| *Reading log* | *Throughout, continuous* | *~5 min/session marginalia + ~5 min/week metrics (subsumed into reading)* | *execution_plan §B (Comprehension infrastructure)* |
 | *Field Report* | *Motivational Checkpoint (W57)* | *~8–10h (1,500–2,000 word diagnostic on ECB phenomenon)* | *execution_plan Motivational Checkpoint section* |
 | *Journal Test* | *Motivational Checkpoint (W56)* | *~8–10h* | *execution_plan Motivational Checkpoint section* |
-| *Transition retreats R1–R5* | *W8, W33, W63, M16, M30 (programme transitions)* | *16–20h each (2–3 leave days)* | *execution_plan Appendix §F* |
-| *Writing Blocks W1, W2* | *M36, M43 (Phase III, leave-block writing)* | *~30h each (5 days × 6h)* | *execution_plan §G + inline at those weeks* |
+| *Transition retreats R1–R5* | *W8, W33, W63, M16, M35 (programme transitions)* | *16–20h each (2–3 leave days)* | *execution_plan §E* |
+| *Writing Blocks W1, W2* | *M40, M47 (Phase III, leave-block writing)* | *~30h each (5 days × 6h)* | *execution_plan §F + inline at those weeks* |

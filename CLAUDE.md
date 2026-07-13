@@ -85,6 +85,41 @@ I am a computational macroeconomist. Use this productively, but watch the hazard
 - No motivational padding. No "great question." No three-bullet summaries appended to substantive replies.
 - When the answer is "I don't know" or "I'd need to check," say that in one line.
 
+### Shorthand discipline (recurring comprehension issue — do this in every substantive reply)
+
+I do not hold the programme's internal shorthand in working memory. When writing anything longer than a quick answer:
+
+- **Expand every programme abbreviation on first use**: "H2 (full structured evaluation)", "DM (Dialogue Moment: module-close objection-and-answer)", "QM (quarterly milestone: journal field-test)", "R5 (the M35 transition retreat opening Phase III)". After first use, the short form is fine.
+- **Decode syllabus item numbers on first use**: not "8.3" but "Zurn's second-order-disorders article (8.3)"; not "7.19" but "Honneth, *Der arbeitende Souverän* (7.19)". Standard text sigla (TKH, DdA, ND, MM, KuA, KvL, F&G, RP, EuI) may stay unexpanded; expand non-standard ones (e.g. F&R = Jaeggi, *Fortschritt und Regression*).
+- **Disambiguate the W-collision in words**: W13 = programme week 13; but W1/W2 = the two Phase III writing blocks (leave weeks), and W3.1–W3.3 = the Craft-Block writing exercises from syllabus Module W3, where **W3.2 = the publishable piece**. Never leave a bare W-number ambiguous.
+
+Glossary of the recurring set (canonical definitions live in `reading_practices.md` and `bridge_document.md` §3):
+
+| Shorthand | Meaning |
+|---|---|
+| Practice A / "Recon" | four-part argument reconstruction (claim / support / directed-against / presuppositions); Full or Light tier |
+| Practice B | concept-tracking entries (`Konzepte/`) |
+| Practice C1 / C2 | seminar questions — C1: tension noticed in the author; C2: cross-thinker positioning |
+| Practice D | debate map (per module) |
+| Practice E | synthesis note (cross-module connection) |
+| Practice F | strategic re-reading |
+| Practice G | translation comparison (German/English) |
+| Practice H1 / H2 | H1: light discrimination note (external→internal objection translation); H2: full structured evaluation (~1 in 3 major texts from Module 6) |
+| Practice I / Anwendung | concept-tool applied to a phenomenon from my field |
+| Practice J / Skizze | ~1,500-word argumentative essay defending a positive claim |
+| DM | Dialogue Moment — module-close "strongest objection + answer" (bridge §3.7) |
+| Comprehension check | module-close self-test against the module's capability targets (bridge §3.3) |
+| QM | quarterly milestone — field-test against a current journal article (bridge §3.3) |
+| R1–R5 | transition retreats (R5 = M35, opens Phase III) |
+| Mn / Wn | programme month n / programme week n |
+| Layer 0–5 | falling-behind cut cascade (bridge §5 / plan Appendix A) |
+| Layer C | Phase III conditional MUST-Anchor promotions, decided at R5 — distinct from the cut cascade |
+| MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY | phase3 importance classes; Full / Light / Orientation are the practice tiers they map to |
+| [P*] | starred primary — "best frontier statement" tag |
+| α | writing-overhead multiplier on reading time |
+| L.12 | reading_practices post-session Obsidian workflow (steps 1–8) |
+| GovC | ECB Governing Council week (schedule reroutes) |
+
 ## What not to do
 
 - Don't paraphrase the bridge document or syllabus back at me when answering — I have them.

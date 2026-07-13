@@ -11,21 +11,22 @@
 | Phase | Months | Calendar | Modules | Recons (chapter/section) | Key milestones |
 |---|---|---|---|---|---|
 | **Part 0** Orientation | M1–M2 (W1–W7) | Jun–Aug 2026 | (orientation) | 1 Full<br>1 Light<br>2 Total | ⛰ R1 (W8) — 2-page field overview |
-| **Phase I** Historical foundations | M3–M15 (W9–W57) | Aug 2026 – Aug 2027 | Modules 1, 2, 3, 3A, 4, 4A, 5 | **27 Full<br>49 Light<br>76 Total** | ⚖ W13 calibration<br>⛰ R2 (W33), R3 (W63)<br>📋 Motivational Checkpoint (W56–57) — Field Report<br>📋 QM1–QM3 |
+| **Phase I** Historical foundations | M3–M15 (W9–W57) | Aug 2026 – Aug 2027 | Modules 1, 2, 3, 3A, 4, 4A, 5 | **32 Full<br>37 Light<br>69 Total**<br>(Modules 1–5; +Part 0 row above = 33/38/71) | ⚖ W13 calibration<br>⛰ R2 (W33), R3 (W63)<br>📋 Motivational Checkpoint (W56–57) — Field Report<br>📋 QM1–QM3 |
 | **Phase II** Systematic core + community entry | **M16–M34 (19 months)** | Sep 2027 – Mar 2029 | Modules 6, 7, 8, 9, 10 + 8A bridge | **~65 Full<br>~71 Light<br>~136 Total** | ⛰ R4 (M16)<br>✍ Skizzen #1–4 (Skizze #5 [BONUS])<br>📋 QM4–QM6<br>📋 Book review submission (~M27–M29) · cross-disciplinary short essay (~M28–M33) · Interlocutor map (M25, refreshed M32) |
 | **Phase III** Production / presentation / submission | **M35–M48 (14 months)** | Jan 2029 – **~Jun 2030** | Comparison Exercise + W3.1 / W3.2 / W3.3 | **~3 Full<br>~12 Light<br>~15 Total**<br>(Layer C 3-of-5 baseline) | ⛰ R5 (M35) — W3.2 topic candidates + Layer C decisions<br>✍ Writing Block W1 (M40) · Writing Block W2 (M47)<br>📋 Informal presentation (M41–43) · formal Tagung/workshop (M43–46)<br>📋 Critical review W3.3 (M42)<br>📋 Journal submission (M48) |
 | **Phase IV** Publication cycle + topical deepening | M48+ | ~Jul 2030+ | Marxist track / Bildung track | (deepening, not counted) | Revision cycle · Topical deepening |
 
 **Recon counts (3-of-5 Layer C firing baseline):**
-- Phase I: 27 Full + 49 Light = 76 Recons
+- Phase I (M1–M15, incl. Part 0): 33 Full + 38 Light = 71 Recons
 - Phase II: 65 Full + 71 Light = 136 Recons
 - Phase III: 3 Full + 12 Light = ~15 Recons
-- **Programme total: ~95 Full + ~132 Light ≈ ~227 Recons**
+- **Programme total: ~101 Full + ~121 Light ≈ ~222 Recons**
 
 **L0+L1 bonus items (not in baseline Schedule; opt-in if capacity allows):**
 - L0 (legacy): 1.4 Pippin, 2.4 Wood-Marx, 4.7 Wiggershaus, 4A.2 Joas chs. 1–2, 4.8 Marcuse preview, 4.5 Adorno *ND* trim. ~10–15h.
-- L1: 7.14 Allen-Mendieta (~13.5h), 7.11 J. Benjamin (~9h), 11A.4 Allen power/agency bridge (~1.5h), 9.9 Harding (~4h Orient). ~28h.
+- L1: 8.13 Allen-Mendieta (~13.5h; relocated from 7.14 — Module 8 item), 7.11 J. Benjamin (~9h), 11A.4 Allen power/agency bridge (~1.5h), 9.9 Harding (~4h Orient). ~28h.
 - **14.9 Aglietta (~10h Orient): bonus baseline; promotes to Layer C conditional MUST if Phase III commits to capitalism-as-form.**
+- **L_H (deep-Hegel deepening, opt-in — see syllabus [Appendix I](sozialphilosophie_syllabus.md)):** *Not* in the baseline Schedule and *not* within the Phase I bonus buffer (which is ~spent — see the Phase I cut-list note). The two items the triage puts on the core path: **RP §§34–141** (*abstraktes Recht* + *Moralität*, incl. the Kantian-formalism critique §§105–141; ~15–25h — natural home: the Phase III RP re-read alongside §§257–360, or a Module 1 bonus *only* if W13 calibration shows surplus) and **Phänomenologie ch. VI** (*Geist*; ~30–40h — natural home: a lighter Phase II stretch or a Phase IV track). *Note the deliberate layer-divergence:* the syllabus (Module 1 + Appendix I.4.1) now lists §§34–141 as part of the canonical RP selection, but the execution plan keeps it opt-in to protect the calibrated Phase I hours. The full Kant→Fichte/Schelling→Hegel programme (~725–940h, Appendix I) is a standalone **Phase IV topical-deepening option** alongside the Marxist and Bildung tracks — engage only if a writing project requires it.
 
 **Fallback:** if W13 calibration trigger fires, programme cascades to **M50** (~Aug 2030). M52 (~Oct 2030) is the sustained-overage final fallback. Overage M48 +8.8% / M50 +4.4% / M52 +0.5% — all within 13% tolerance. See [Capacity envelope report](#capacity-envelope-report-m48-baseline).
 
@@ -150,7 +151,7 @@ Beyond the calibration window, the log's metrics function is to keep you honest 
 
 **Phase I reading-only target:** ~483h (bottom-of-range). Plus ~54h across R1–R3 (consolidation, not new reading). Plus ~22h productive practice additions (4 Anwendungen + 7 H1 notes). Plus ~10h for 3 quarterly milestones. Plus ~15–20h Motivational Checkpoint.
 
-**Phase I production budget:** **27 chapter/section-level Full reconstructions** across 8 Full-tier texts + **43 Light reconstructions** + 4 Anwendungen + 7 H1 notes + 0 Skizzen (begins Phase II) + 0 H2 evaluations (begins Phase II Module 6).
+**Phase I production budget:** **33 chapter/section-level Full reconstructions** across 11 Full-tier texts + **38 Light reconstructions** + 4 Anwendungen + 7 H1 notes + 0 Skizzen (begins Phase II) + 0 H2 evaluations (begins Phase II Module 6).
 
 **Cuts applied** (vs. maximalist syllabus): 4.8 Marcuse moved to Phase II Context; 4.5 *Negative Dialektik* moved to Phase IV (with early-read flag); 4.7 Wiggershaus moved to bonus slot; 1.2 *Rechtsphilosophie* §§257–360 deferred to Phase III (with early-read flag); 4A.2 Joas: chs 3–5 core, chs 1–2 optional.
 
@@ -164,12 +165,12 @@ Beyond the calibration window, the log's metrics function is to keep you honest 
 | Module 3 — Weber             | W26–28 | ~23 | 1 Light (Weber "Wissenschaft")<br>1 Light (Weber "Objektivität")<br>2 Light (W&G §§1–10, §§11–17)<br>✏ H1 |
 | Module 3A — Lukács           | W29–32 | ~36 | 3 Full (Lukács Verdinglichung I/II/III)<br>3 Light (Feenberg chs. 3–5)<br>🔧 Anwendung #2, 📋 QM2, DM3, ✏ H1 |
 | ⛰ R2 retreat                 | W33–34 | ~17 | Hegel–Marx synthesis (~4pp) |
-| Module 4 — Frankfurt School  | W35–41 | ~70 | 1 Full (Horkheimer)<br>2 Light (DdA Begriff + Odysseus)<br>1 Light (Pollock)<br>1 Light (MM aphorisms)<br>5 Light (Freyenhagen chs. 1–5)<br>1 Light (Benjamin Theses)<br>1 Light (Benjamin Kunstwerk)<br>⚠ W38 ND decision<br>🔧 Anwendung #3, DM4, ✏ H1 |
-| Module 4A — Pragmatism       | W42–46 | ~40 | 5 Full (Dewey *Public and Its Problems* chs. 1–5)<br>3 Light (Joas chs. 3–5)<br>1 Light (Mead Part III)<br>✏ H1 |
+| Module 4 — Frankfurt School  | W35–41 | ~77 | 1 Full (Horkheimer)<br>1 Light (Freud *Unbehagen*)<br>2 Light (DdA Begriff + Odysseus)<br>1 Light (Pollock)<br>1 Light (MM aphorisms)<br>5 Light (Freyenhagen chs. 1–5)<br>1 Light (Benjamin Theses)<br>1 Light (Benjamin Kunstwerk)<br>⚠ W38 ND decision<br>🔧 Anwendung #3, DM4, ✏ H1 |
+| Module 4A — Pragmatism       | W42–46 | ~40 | 5 Full (Dewey *Public and Its Problems* chs. 1–5)<br>1 Full (Mead Part III)<br>3 Light (Joas chs. 3–5)<br>✏ H1 |
 | Module 5 — Positivismusstreit| W47–54 | ~78 | 3 Full (McCarthy chs. 1–3)<br>1 Light (Habermas "Universalitätsanspruch")<br>4 Full (EuI chs. 1–3 + Nachwort)<br>2 Light (Positivismusstreit: Adorno + Habermas)<br>🔧 *Anwendung #4 [BONUS]*, DM5, ✏ H1 |
 | Motivational Checkpoint      | W55–57 | ~20 | 📋 Field Report (W57) |
 | ⛰ R3 retreat                 | W63–64 | ~17 | Part I synthesis (~6pp) |
-| **Phase I total**            |        | **~486h** | **27 Full + 46 Light = 73 chapter/section Recons** |
+| **Phase I total**            |        | **~493h** | **33 Full + 39 Light = 72 chapter/section Recons** |
 
 *Symbol legend is at the top of the document.*
 
@@ -318,11 +319,13 @@ Part 0 is orientation, not foundation — its job is to give you a *map* of wher
 | 1.2 | Hegel, *Rechtsphilosophie* Preface + §§1–33, §§142–256 (Sittlichkeit + civil society) | DE | ~130 | ~28 | [P] → Full (MUST-Anchor) | W11–15 |
 | 1.3 | Hegel, *Phänomenologie* ch. IV.A (Herr/Knecht) | DE | ~30 | ~8 | [P] → Full (MUST-Anchor) | W16 |
 | 1.4 | Pippin, *Hegel's Practical Philosophy*, chs. 1–3 | EN | ~80 | (bonus) | [NE] → Skip/Bonus | W10–13 |
-| 1.6 | Khurana, *Das Leben der Freiheit*, Intro + Part I (selection) | DE | ~150 | ~10 | [O] → Orientation (conditional MUST-Engage if Hegelian-freedom track) | W18 |
+| 1.6 | Khurana, *Das Leben der Freiheit*, **Einleitung only** (*Teil II* deferred → Module 7 pre-block) | DE | ~20 | ~2–3 | [O] → Orientation | W18 |
 
 **Deferred:** *Rechtsphilosophie* §§257–360 (*Staat*) → Phase III re-read.
 
-**Khurana 1.6 placement.** Reads in W18 (Module 1 wrap / Marx bridge week) rather than alongside W15–W17 dense Hegel material. No active practice; ~3–5h headroom in W18 after ÖpM first read. Revisit at Module 7 alongside Honneth 7.5 / 7.18. First-cut candidate under falling-behind if hours pressure.
+**Opt-in (layer-divergence from syllabus):** *Rechtsphilosophie* §§34–141 (*abstraktes Recht* + *Moralität*) is now part of the canonical Module 1 selection in the syllabus (Module 1 item 1.2 + [Appendix I.4.1](sozialphilosophie_syllabus.md)), but is kept opt-in here to protect the calibrated Phase I hours. Read it in the Phase III RP re-read alongside §§257–360, or as bonus (~15–25h) only if W13 calibration shows surplus. The *Moralität* critique of Kantian "empty formalism" (§§105–141) is the load-bearing part — it underwrites the Honneth/Jaeggi appeals to the insufficiency of abstract moral standpoints. See the **L_H** opt-in tier in the programme overview.
+
+**Khurana 1.6 placement. [REVISED 2026-07-12.]** Module 1 reads the *Einleitung* only (~2–3h, W18 — states the life-and-freedom thesis, no Kant prerequisite); no active practice. The substantive *Teil II* read is **deferred to a Module 7 Kant→Khurana pre-block** (with its Kant prerequisites *Grundlegung* I.1.5 + *KU* teleology I.1.7), read just-in-time before Honneth *RdF* 7.5 and Forst 7.7. Rationale: *Teil II* resolves an aporia Khurana builds from Kant in *Teil I*, so reading it cold in Module 1 — before any Kant — was judged to add noise rather than understanding. (Earlier error corrected: the Hegelian reconstruction is *Teil II*, not "Part I"; *Teil I* is the Kant setup.)
 
 ### Deliverables at Module 1 close (W17)
 
@@ -443,7 +446,7 @@ Honneth's recognition theory, Jaeggi's concept of immanent critique, and the ent
 |---|---|---|---|
 | W18 | Re-read Neuhouser Recon #2 | — | ~2 |
 |     | 📚 ÖpM "Entfremdete Arbeit" first read | ~40 | ~5 |
-|     | 📚 Khurana 1.6 (distributed) | ~150 | ~3 |
+|     | 📚 Khurana 1.6 *Einleitung* only (*Teil II* → Module 7) | ~20 | ~2–3 |
 | W19 | 📚 ÖpM re-read | ~40 | ~3 |
 |     | 📚 Kapital ch. 1 §§1–3 begin (GovC prep) | ~40 | ~3 |
 | W20 | 📚 Kapital ch. 1 §4 (fetishism, re-read 2–3×; GovC week) | ~20 | ~6 |
@@ -722,7 +725,7 @@ Lukács's *Geschichte und Klassenbewußtsein* (1923) is the single most importan
 
 ---
 
-## Module 4 — First Frankfurt School (Months 8–10, Weeks 35–41; ~70h target)
+## Module 4 — First Frankfurt School (Months 8–10, Weeks 35–41; ~77h target)
 
 ### Schedule
 
@@ -731,6 +734,7 @@ Lukács's *Geschichte und Klassenbewußtsein* (1923) is the single most importan
 | W33–34 | ⛰ R2 retreat — Hegel–Marx synthesis (~4pp) | — | ~16–20 |
 | W35 | 📚 Horkheimer "Traditionelle und kritische Theorie" (two reads; Full reconstruction draft begins) | ~40 | ~5 |
 |     | 📚 DdA "Begriff der Aufklärung" begins | ~40 | ~3 |
+|     | 📚 Freud, *Das Unbehagen in der Kultur* (psychoanalytic substrate — read before 4.2 *DdA*'s domination-turned-inward; spans W35–36, Light) | ~80 | ~7 |
 | W36 | 📚 DdA "Begriff der Aufklärung" finish (Horkheimer Full reconstruction filed this week) | ~20 | ~3 |
 |     | 📚 DdA Odysseus Exkurs begins | ~40 | ~4 |
 | W37 | 📚 DdA Odysseus Exkurs finish | (part of ~40) | ~3 |
@@ -762,6 +766,7 @@ Lukács's *Geschichte und Klassenbewußtsein* (1923) is the single most importan
 | ID  | Text | Lang | Pages | Hrs | Tier | Weeks |
 |---|---|---|---|---|---|---|
 | 4.1 | Horkheimer, "Traditionelle und kritische Theorie" (1937) | DE | ~40 | ~10 | [P*] → Full (MUST-Anchor) | W35–36 |
+| 4.12 | Freud, *Das Unbehagen in der Kultur* (1930) | DE | ~80 | ~7 | [P] → Light (SHOULD; conditional MUST-Engage if Adornian/social-psych track) | W35–36 |
 | 4.2 | Adorno & Horkheimer, *Dialektik der Aufklärung* — "Begriff der Aufklärung" + Exkurs I (Odysseus) | DE | ~80 | ~17.5 | [P] → Light (MUST-Engage; conditional MUST-Anchor if Adornian track) | W35–37 |
 | 4.3 | Pollock, "State Capitalism: Its Possibilities and Limitations" | EN | ~20 | ~2 | [ES] → Light (SHOULD) | W37 |
 | 4.4 | Adorno, *Minima Moralia* — selected aphorisms (§§1–18, 29, 36, 67–68, 153) | DE | ~50 | ~13 | [P] → Light (SHOULD; aphoristic) | W37–38 |
@@ -771,13 +776,18 @@ Lukács's *Geschichte und Klassenbewußtsein* (1923) is the single most importan
 
 **Pollock 4.3 placement.** W37 immediately after the DdA *Begriff der Aufklärung* + Odysseus Exkurs — Pollock's "State Capitalism" is the proximate Frankfurt-internal alternative.
 
-**Deferred:** 4.5 Adorno *Negative Dialektik* → Phase IV (with early-read flag at W38); 4.8 Marcuse *One-Dimensional Man* → Phase II Context Layer; 4.7 Wiggershaus → bonus.
+**Deferred:** 4.5 Adorno *Negative Dialektik* → Phase IV (with early-read flag at W38); 4.8 Marcuse *One-Dimensional Man* → Phase II Context Layer; 4.7 Wiggershaus → bonus; 4.13 Nietzsche *Zur Genealogie der Moral* I–II → optional early read (W37–38) / COULD-Phase IV (see flag below).
 
 **⚠ Adorno deferral notice.** The primary reading of Adorno in Phase I is *Dialektik der Aufklärung* + *Minima Moralia* + Freyenhagen. The flagship *Negative Dialektik* (4.5) is in Phase IV. Early-read flag at W38: if Adornian negativism becomes the centre of your developing position, read *Negative Dialektik* here (W38–40, ~20–25h overhead; compresses Module 4A). Decide by end of W38.
+
+**⚠ Nietzsche 4.13 early-read flag (optional, baked in).** *Zur Genealogie der Moral* I–II is carried as an *optional* early read — the genealogical-method primer that feeds both DdA (Module 4) and Foucault (11A). If Phase I capacity allows, read it around W37–38 (~6–8h, Orientation/Light); otherwise it stays COULD / Phase-IV-deferred, promoted only if a genealogy or power track commits (phase3 §4). **Not in the baseline hour total** — read it from headroom, like the ND flag.
+
+**⚠ *Lebensphilosophie* bonus flag (optional, Phase-IV-leaning; syllabus 4.14).** The tradition the first Frankfurt School defines itself against (Bergson, Dilthey, Simmel, Klages — all map-only, read nothing of the trunk). If W40–41 has headroom, the ~6–9h thread is: Benjamin, "Über einige Motive bei Baudelaire" §§I–III (the *Erlebnis*/*Erfahrung* reckoning, read next to the Kunstwerk essay 4.10, ~3h) + Horkheimer, "Zu Bergsons Metaphysik der Zeit" (1934 — the primary correlate to Jay 0.4, ~2h) + Jay, *Songs of Experience*, Bergson/Simmel/Dilthey chapters (~2–3h). **Not in the baseline hour total** — headroom only, like the ND and Nietzsche flags. Promotes to a scheduled Phase-IV read only if the Adornian-negativism branch (Track D) commits, where it feeds *Negative Dialektik*'s "two failed revolts" (Bergson + Husserl). No deliverable attached; optional Practice-B notes on *Erlebnis* vs. *Erfahrung* if read.
 
 ### Deliverables at Module 4 close (W41)
 
 - [ ] 📝 **1 Full Reconstruction:** Horkheimer, "Traditionelle und kritische Theorie" (single essay; filed W36)
+- [ ] 📝 **1 Light Reconstruction:** Freud, *Das Unbehagen in der Kultur* (substrate read; filed W36)
 - [ ] 📝 **2 Light Reconstructions:** Adorno & Horkheimer, *Dialektik der Aufklärung* ("Begriff der Aufklärung" + Exkurs I *Odysseus*; filed W37)
 - [ ] 📝 **1 Light Reconstruction:** Pollock, "State Capitalism" (single essay; filed W37)
 - [ ] 📝 **1 Light Reconstruction:** Adorno, *Minima Moralia* (selected aphorisms §§1–18, 29, 36, 67–68, 153 treated as one curated selection; filed W38)
@@ -804,6 +814,7 @@ This is the direct institutional and intellectual predecessor of the contemporar
 > - DdA + *Minima Moralia* → H.6.1 Adorno "Theorie der Halbbildung" (DdA argument applied specifically to education)
 > - Benjamin Theses (esp. Thesis IX, "angel of history") → Allen *The End of Progress* (Phase II Module 8 / Phase III): used against Habermas's and Jaeggi's developmental narratives
 > - ⚠ W38 — Adorno *Negative Dialektik* (4.5): early-read flag (decision point); otherwise stays in Phase IV
+> - **Hegel *Phänomenologie* ch. VI (*Geist*)** → optimal-context bonus reading (~30–40h; see syllabus [Appendix I.4.2](sozialphilosophie_syllabus.md), item I.4.2.2, and the **L_H** opt-in tier): Lukács's reification (Module 3A) reworks Phän. VI.B, and Adorno's negative dialectics presupposes the dialectic ch. VI enacts — so the surrounding context here makes it maximally productive. Opt-in only — it exceeds the Phase I bonus buffer; natural home is a lighter Phase II stretch or a Phase IV track. Start on the *Einleitung*, not the *Vorrede*.
 
 ---
 
@@ -876,7 +887,7 @@ This is the direct institutional and intellectual predecessor of the contemporar
 | W44 | 📚 Joas chs. 4–5 (Mead reconstruction; Dewey Full reconstructions filed this week) | ~80 | ~6 |
 |     | Light note (Joas 4A.2) | — | ~0.5 |
 | W45 | 📚 Mead, *Mind, Self, and Society*, Part III ("The Self") | ~100 | ~8 |
-|     | Light note (Mead) | — | folded |
+|     | Full reconstruction (Mead Part III) | — | folded |
 | W46 | Re-read Joas ch. 5 (framework for Jaeggi) | — | ~2 |
 |     | 🎯 Module 4A close — comprehension check (3 questions) | — | ~3 |
 |     | ✏ H1 (Dewey-pragmatism normative thinness translation) | — | ~0.75 |
@@ -891,9 +902,8 @@ This is the direct institutional and intellectual predecessor of the contemporar
 
 ### Deliverables at Module 4A close (W46)
 
-- [ ] 📝 **5 Full Reconstructions:** Dewey, *The Public and Its Problems* (chs. 1–5; filed across W42–W44)
+- [ ] 📝 **6 Full Reconstructions:** Dewey, *The Public and Its Problems* (chs. 1–5; filed across W42–W44) + Mead, *Mind, Self, and Society* Part III "The Self" (treated as one unit; filed W45)
 - [ ] 📝 **3 Light Reconstructions:** Joas, *Die Kreativität des Handelns* (chs. 3–5; filed W43–W44)
-- [ ] 📝 **1 Light Reconstruction:** Mead, *Mind, Self, and Society* Part III "The Self" (treated as one unit; filed W45)
 - [ ] Comprehension check (3 questions)
 - [ ] *No Dialogue Moment this module* (next DM at end of Module 5, W54)
 - [ ] ✏ Practice H1 light discrimination note (~30–45 min)
@@ -934,7 +944,7 @@ Jaeggi's *Kritik von Lebensformen* — the most important systematic contributio
 
 ### Week 45 | 📚 Mead — primary
 - **Core:** Mead, *Mind, Self, and Society*, Part III ("The Self") (~100pp English), ~8h. `[accessible — 1h daily]`
-- **Practice (Light, on 4A.3 Mead):** 250-word note: what does Mead's I/me distinction add that Joas's reconstruction didn't make obvious? **Tag for Phase II Module 7 (Honneth) — re-read Mead immediately before starting *Kampf um Anerkennung*.**
+- **Practice (Full reconstruction, on 4A.3 Mead):** four-part reconstruction (claim / support / directed-against / presuppositions) of Mead's account of the self in Part III — centred on what the I/me distinction adds beyond Joas's reconstruction, and its *constitutive* (not merely causal) role for agency. **Tag for Phase II Module 7 (Honneth) — re-read Mead immediately before starting *Kampf um Anerkennung*.**
 
 > [!note] Economist's note
 > Mead's social constitution of self is at the foundation of recognition theory. It will feel familiar from the social-psychology tradition; the difference is that for Mead (and Honneth) it's *constitutive* of agency, not just causally formative.
@@ -1168,8 +1178,8 @@ The Motivational Checkpoint is the Phase I hinge between historical foundations 
 | Transition retreat hours | ~54h (R1, R2, R3) |
 | Quarterly milestones | 2 within Phase I (W17 QM1, W30 QM2); 2 absorbed into Motivational Checkpoint (W56–57) and R3 (W63–64) |
 | Dialogue moments | 5 (W17, W25, W32, W41, W54) |
-| Full-tier reconstructions filed (chapter/section-level) | **27 Full**. Part 0 = 1 (Honneth Pathologien); Module 1 = 10 (Neuhouser intro+chs. 1–8 = 9; Phänomenologie IV.A = 1); Module 2 = 5 (ÖpM = 1; Kapital ch. 1 §§1–4 per-§ = 4); Module 3 = 0; Module 3A = 3 (Lukács 3 sections); Module 4 = 1 (Horkheimer); Module 4A = 5 (Dewey chs. 1–5); Module 5 = 7 (McCarthy chs. 1–3 = 3 + EuI chs. 1–3 + Nachwort = 4) |
-| Light-tier reconstructions filed (chapter/section-level) | **43 Light**. Part 0 = 1 (Jaeggi essay); Module 1 = 5 (RP segments); Module 2 = 8 (Kapital chs. 2/3/10 + Heinrich Kaps. 1–5); Module 3 = 4 (Weber essays + W&G two segments); Module 3A = 3 (Feenberg chs. 3–5); Module 4 = 11 (DdA 2 + Pollock 1 + MM 1 + Freyenhagen 5 + Benjamin 2); Module 4A = 4 (Joas chs. 3–5 + Mead Part III); Module 5 = 3 (Habermas–Gadamer 1 + Positivismusstreit 2) |
+| Full-tier reconstructions filed (chapter/section-level) | **33 Full**. Part 0 = 1 (Honneth Pathologien); Module 1 = 10 (Neuhouser intro+chs. 1–8 = 9; Phänomenologie IV.A = 1); Module 2 = 5 (ÖpM = 1; Kapital ch. 1 §§1–4 per-§ = 4); Module 3 = 0; Module 3A = 3 (Lukács 3 sections); Module 4 = 1 (Horkheimer); Module 4A = 6 (Dewey chs. 1–5 = 5; Mead Part III = 1); Module 5 = 7 (McCarthy chs. 1–3 = 3 + EuI chs. 1–3 + Nachwort = 4) |
+| Light-tier reconstructions filed (chapter/section-level) | **39 Light**. Part 0 = 1 (Jaeggi essay); Module 1 = 5 (RP segments); Module 2 = 8 (Kapital chs. 2/3/10 + Heinrich Kaps. 1–5); Module 3 = 4 (Weber essays + W&G two segments); Module 3A = 3 (Feenberg chs. 3–5); Module 4 = 12 (Freud 1 + DdA 2 + Pollock 1 + MM 1 + Freyenhagen 5 + Benjamin 2); Module 4A = 3 (Joas chs. 3–5); Module 5 = 3 (Habermas–Gadamer 1 + Positivismusstreit 2) |
 | Field Report | 1 (W57) |
 | Anwendungen filed (Practice H) | 3 mandatory (W24, W31, W40) + 1 bonus (W52 — opt-in) |
 | H1 light-discrimination notes | 7 (one per Phase I module close); taper to alternating modules begins in Phase II |
@@ -1191,9 +1201,9 @@ The Motivational Checkpoint is the Phase I hinge between historical foundations 
 
 **Carryovers:** (a) 7.5 *RdF* method + 7.8 Forst "Noumenal Power" downgraded to Light methodological summaries (Full RdF dissection deferred to Phase III Comparison Exercise W2.1); (b) Honneth 7.18 *Anerkennung* split: partial Light Phase II (~15h) + conditional Full Phase III frontier (~25h) under Layer C; (c) Skizze #5 [BONUS — opt-in]; (d) Polanyi forward-shifted to M30 to smooth peak loading.
 
-**L0+L1 bonus items** (opt-in if capacity allows): 7.14 Allen-Mendieta (~13.5h, M7), 7.11 J. Benjamin (~9h, M7), 11A.4 Allen power/agency bridge (~1.5h, M7), 9.9 Harding (~4h Orient, M10), 14.9 Aglietta (~10h Orient, M10 — promotes to Layer C if capitalism-as-form track).
+**L0+L1 bonus items** (opt-in if capacity allows): 8.13 Allen-Mendieta (~13.5h, M7 window; cat. Module 8), 7.11 J. Benjamin (~9h, M7), 11A.4 Allen power/agency bridge (~1.5h, M7), 9.9 Harding (~4h Orient, M10), 14.9 Aglietta (~10h Orient, M10 — promotes to Layer C if capitalism-as-form track).
 
-**Layer 2 first-cut candidates** if 4-week trigger fires: 7.13 Renault (~18h), 7.17 Bedorf (~14h), 9.7 Boltanski *OC* (~16h), 11A.1 Foucault *SuP* (~13h), 11A.2 Foucault 1976 lecture (~2h), 7.12 Fraser PSphere (~2h). **Layer 3 with override only** (interlocutor regressions): 9.6 Vogelmann (~21h), 14.8 von Redecker (~14h), 8.10 Jütten (~2h). See [Appendix A.1](#appendix-a1-cut-list-cascade).
+**Layer 2 first-cut candidates** if 4-week trigger fires: 7.13 Renault (~18h), 7.17 Bedorf (~14h), 9.7 Boltanski *OC* (~16h), 11A.1 Foucault *SuP* (~13h), 11A.2 Foucault 1976 lecture (~2h), 7.12 Fraser PSphere (~2h). **Layer 3 with override only** (interlocutor regressions): 9.6 Vogelmann (~21h), 14.8 von Redecker (~14h), 7.22 Jütten (~2h). See [Appendix A.1](#appendix-a1-cut-list-cascade).
 
 **Community engagement (bridge §2.4):** book review submission ~M27–M29 (~20–25h), cross-disciplinary short essay ~M28–M33 (~10–20h), interlocutor map ~M25 (~8–10h), discussant role at a workshop ~M23–M33 (~8–10h). **Context Layer:** ~15h (CL1 Horster + CL3 Bourdieu + CL4 Postone + CL5 Polanyi).
 
@@ -1207,11 +1217,11 @@ The Motivational Checkpoint is the Phase I hinge between historical foundations 
 |---|---|---|---|
 | ⛰ R4 retreat | M16 W1 | ~17 | Plan first 8 weeks of Module 6<br>Vorlesung registration<br>Interlocutor-map foundation work (~3–4h) |
 | Module 6 — Habermas TKH | M17–M20 | ~75 | 2 Full (McCarthy chs. 4–5)<br>1 Full (TKH Bd. 1 ch. I)<br>2 Full (TKH Bd. 2 chs. VI + VIII)<br>4 Light (Outhwaite chs. 3–6)<br>2 Light (TKH Bd. 1 chs. II–III selective)<br>📋 QM3, DM6, ✏ H2 begins, Luhmann CL1 |
-| Module 7 — Honneth + Forst + Fraser | M20–M25 | ~162 | ~9 Full (Honneth *KuA*)<br>4 Full (Forst *RauR* chs. 1–4)<br>4 Full (Fraser & Honneth book)<br>3 Light (Honneth/Fraser essays 7.2/7.3/7.12)<br>3 Light (Honneth *RdF*)<br>3 Light (Honneth *Anerkennung* 2018 partial)<br>1 Light (Forst 7.8/7.9)<br>5 Light (Renault — Layer 2)<br>3 Light (Bedorf — Layer 2)<br>2 Light (11A.1 Foucault SuP) + 1 Light (11A.2 Foucault 1976) — Layer 2<br>L0+L1 bonus: 7.11 J. Benjamin + 7.14 Allen-Mendieta + 11A.4 Allen bridge<br>📝 *Composes thematic deliverables: recognition spheres, Fraser-Honneth disagreement, Forst's right-to-justification*<br>✍ Skizze #1, 📋 QM4, DM7, 📋 Interlocutor map M25 |
-| Module 8 — Jaeggi + Allen + Rosa | M25–M30 | ~155 | 4 Full (Jaeggi *Entfremdung*)<br>10 Full (Jaeggi *KvL*, full text)<br>4 Full (Jaeggi & Fraser *Capitalism*)<br>4 Full (Allen chs. 1–3 + 6)<br>3 Full (Rosa *Resonanz* — Layer 3 non-conflict candidate)<br>2 Full (Zurn + Laitinen-Särkelä)<br>1 Light (8.10 Jütten — Layer 3 with override only)<br>1 Full (Neuhouser article)<br>4 Light (Stahl chs. 1–4)<br>📝 *Composes thematic deliverables: alienation, problem-solving, Zurn, Allen*<br>✍ Skizzen #2–3, DM8, Bourdieu CL3 + Postone CL4 |
+| Module 7 — Honneth + Forst + Fraser | M20–M25 | ~167 | ~9 Full (Honneth *KuA*)<br>4 Full (Forst *RauR* chs. 1–4)<br>4 Full (Fraser & Honneth book)<br>3 Light (Honneth/Fraser essays 7.2/7.3/7.12)<br>1 Light (7.14 Taylor "Politics of Recognition" — recognition triangle, alongside 7.3/7.4; first-cut under falling-behind)<br>3 Light (Honneth *RdF*)<br>1 Light (7.22 Jütten) + 1 Full (7.23 Neuhouser) — Markt pressure-test<br>3 Light (Honneth *Anerkennung* 2018 partial)<br>1 Light (Forst 7.8/7.9)<br>5 Light (Renault — Layer 2)<br>3 Light (Bedorf — Layer 2)<br>2 Light (11A.1 Foucault SuP) + 1 Light (11A.2 Foucault 1976) — Layer 2<br>L0+L1 bonus: 7.11 J. Benjamin + 8.13 Allen-Mendieta (cat. Module 8) + 11A.4 Allen bridge<br>📝 *Composes thematic deliverables: recognition spheres, Fraser-Honneth disagreement, Forst's right-to-justification*<br>✍ Skizze #1, 📋 QM4, DM7, 📋 Interlocutor map M25 |
+| Module 8 — Jaeggi + Allen + Rosa | M25–M30 | ~155 | 4 Full (Jaeggi *Entfremdung*)<br>10 Full (Jaeggi *KvL*, full text)<br>4 Full (Jaeggi & Fraser *Capitalism*)<br>4 Full (Allen chs. 1–3 + 6)<br>3 Full (Rosa *Resonanz* — Layer 3 non-conflict candidate)<br>2 Full (Zurn + Laitinen-Särkelä)<br>4 Light (Stahl chs. 1–3; ch. 5 optional)<br>📝 *Composes thematic deliverables: alienation, problem-solving, Zurn, Allen*<br>✍ Skizzen #2–3, DM8, Bourdieu CL3 + Postone CL4 |
 | Modules 9 + 10 + Streeck | M30–M32 | ~150 | 7 Full (9.2 Fricker chs. 1–7)<br>7 Full (9.3 Celikates)<br>1 Full (Taylor "Interpretation")<br>~30 Light (Mannheim 1 + Jaeggi/Shelby/Hartsock 3 + Collins ~3 + Hollis ~10 + Woodward 3 + Streeck ~5)<br>4 Light (Vogelmann — Layer 3 with override only)<br>4 Light (Boltanski *OC* — Layer 2)<br>3 Light (14.8 von Redecker — Layer 3 with override only)<br>L0+L1 bonus: Harding (9.9, ~4h Orient) + Aglietta (14.9, ~10h Orient)<br>✍ Skizze #4, Skizze #5 [BONUS — opt-in]<br>📋 Interlocutor map refresh M32, 📋 QM5, DM9, DM10<br>Polanyi forward-shifted to M30<br>📋 **Book review submission (~M27–M29, ~20–25h)** |
 | Module 8A bridge | M32–M34 | ~57 | 9 Light (Said 1 + Chakrabarty 2 + Spivak 1 + Quijano 1 + Mignolo 1 + Robinson 3)<br>Synthetic note (~600–900w) at M34 → Phase III R5 entry point<br>📋 **Cross-disciplinary short essay submission (~M28–M33, ~10–20h)** |
-| **Phase II total (M16–M34)** |  | **~720h** | **~65 Full + ~71 Light = ~136 chapter/section Recons** |
+| **Phase II total (M16–M34)** |  | **~725h** | **~65 Full + ~72 Light = ~137 chapter/section Recons** |
 
 **H1 cadence in Phase II:** alternating modules M7–M14 — Module 6 + Module 8 + Module 10 + Module 8A = 4 H1 notes; Module 7 + Module 9 skipped unless external impulse substantive. **C2 cross-thinker question + 🗺 Practice D debate map at every module close** per §D.2.
 
@@ -1318,10 +1328,12 @@ Habermas is the pivot between the first Frankfurt School and the current generat
 | M21   | ✍ Honneth *KuA* continues (Mead sociopsychology + recognition spheres)<br>📚 Honneth "Anerkennung als Ideologie"<br>📚 Fraser 1995 "From Redistribution to Recognition" | ~250 | ~30 |
 | M22   | ✍ Honneth *KuA* finish (Recons in progress)<br>📚 Fraser & Honneth book begins<br>📚 Honneth *RdF* selections begin | ~280 | ~32 |
 | M23   | ✍ Fraser & Honneth book (Recons: Fraser-Honneth disagreement)<br>📚 Honneth *RdF* selections finish<br>📚 Forst *RauR* chs. 1–4 begin<br>📚 Renault *Souffrances sociales* begins — Layer 2 candidate | ~330 | ~32 |
-| M24   | 📚 Forst *RauR* chs. 1–4 finish<br>📚 Forst "Noumenal Power"<br>📚 Forst *N&P* selections<br>📚 Renault finish<br>📚 Fraser "Public Sphere" (7.12 — Layer 2 candidate)<br>📚 Honneth *Anerkennung* 2018 partial begins | ~330 | ~25 |
+| M24   | 📚 Forst *RauR* chs. 1–4 finish<br>📚 Forst "Noumenal Power"<br>📚 Forst *N&P* selections<br>📚 Renault finish<br>📚 Fraser "Public Sphere" (7.12 — Layer 2 candidate)<br>📚 Jütten 7.22 + Neuhouser 7.23 (Honneth-*Markt* pressure-test, right after 7.5)<br>📚 Honneth *Anerkennung* 2018 partial begins | ~385 | ~29 |
 | M25   | 🎯 Honneth *Anerkennung* 2018 partial finish<br>📚 Bedorf *Verkennende Anerkennung* — Layer 2 candidate<br>Forst-tradition Recons filed · ✍ Skizze #1 · DM7 · QM4 · 📋 Interlocutor map (~8–10h) · Module close | ~150 | ~15 |
 
 *5-month runway at ~32h/month average; within sustainable rhythm. If 4-week trigger fires, Layer 2 cut (7.13 + 7.17 + 11A.1 + 11A.2 + 7.12 ≈ ~49h saveable) brings Module 7 to envelope.*
+
+**Kant→Khurana pre-block (M20–21, before 7.5/7.7) — opt-in. [ADDED 2026-07-12.]** A self-contained ~26–34h block read at the head of Module 7, ahead of Honneth *RdF* (7.5, M22) and Forst *RauR* (7.7, M23). **(i)** Kant, *Grundlegung* (I.1.5, ~8–10h) + *KU* teleology §§64–66 (I.1.7, ~4–6h) — the practical/teleological Kant that Khurana's *Teil II* and Forst's Kantian constructivism lean on; then **(ii)** Khurana, *Das Leben der Freiheit* *Einleitung*-recap + *Teil II* (1.6F, ~14–18h) — the substantive read deferred from Module 1. Sequence: Kant → Khurana → feeds 7.5 (Honneth's normative reconstruction / second nature) and 7.7/7.10 (Forst, Kantian). **Conditional / Layer-2 first cut:** fires if the Hegelian-freedom or Kantian-constructivism track is live; **baseline Module 7 hours (~162h) are unchanged** (opt-in, consistent with the §§34–141 handling). Under hours pressure the *KU* + Khurana half is the first cut; the *Grundlegung* is Layer-2-**retained** since it also underwrites Forst 7.7. See syllabus Appendix I.1 (I.1.5, I.1.7 — with **→ Connects** flags) and Module 1.6.
 
 ### Module inventory
 
@@ -1332,19 +1344,24 @@ Habermas is the pivot between the first Frankfurt School and the current generat
 | 7.3 | Fraser, "From Redistribution to Recognition?" (1995)                          | EN   | ~25   | ~2    | [P] → Light (MUST-Engage) | M21     |
 | 7.4 | Fraser & Honneth, *Umverteilung oder Anerkennung?*                            | DE   | ~300  | ~45.5 | [P] → Full (MUST-Anchor) | M22–23  |
 | 7.5 | Honneth, *Das Recht der Freiheit* (methodological intro + "Persönliche Beziehungen" + "Der Markt") | DE | ~150 | ~21 | [P] → Light Phase II + Full RdF "Der Markt" dissection in Phase III Comparison Exercise W2.1 | M22–23 |
+| 7.22 | Jütten, "Is the Market a Sphere of Social Freedom?" (Honneth-*Markt* pressure-test; relocated from 8.10) | EN | ~25 | ~2 | [P] → Light (SHOULD; interlocutor argument — Layer 3 with override only) | M24 |
+| 7.23 | Neuhouser, "Honneth's Theory of Social Freedom" (method critique; relocated from 8.11) | EN | ~30 | ~2 | [P] → Full (executed; baseline COULD) | M24 |
 | 7.7 | Forst, *Das Recht auf Rechtfertigung*, chs. 1–4                               | DE   | ~150  | ~27  | [P] → Full (MUST-Anchor) | M23–24  |
 | 7.8 | Forst, "Noumenal Power"                                                       | DE/EN| ~25   | ~1.5  | [P] → Light (MUST-Engage) | M24 |
 | 7.9 | Forst, *Normativity and Power*, Part I + ch. on democratic legitimacy | DE/EN | ~180 | ~22 | [ES] → Light (SHOULD; conditional MUST-Engage if power-and-justification track) | M24 |
 | 7.11 | Benjamin (Jessica), selections on intersubjectivity                          | EN   | ~100  | ~9   | [RS] → Light (COULD) — **[BONUS — opt-in; L1 deferral]** | (bonus M21–M22)  |
 | 7.12 | Fraser, "Rethinking the Public Sphere"                                       | EN   | ~30   | ~2    | [P] → Light (SHOULD; Layer 2 first reactive cut) | M24 |
 | 7.13 | Renault, *Souffrances sociales* selections | FR/EN | ~200 | ~18 | [P] → Light (SHOULD; Layer 2 first reactive cut) | M23–24  |
-| 7.14 | Allen & Mendieta, responses-to-Jaeggi essays                                  | EN   | ~150  | ~13.5 | [RS] → Light (COULD) — **[BONUS — opt-in; L1 deferral]** | (bonus M22–M23)  |
+| 8.13 | Allen & Mendieta, responses-to-Jaeggi essays (cat. Module 8; relocated from 7.14, 2026-05-29)                                  | EN   | ~150  | ~13.5 | [RS] → Light (COULD) — **[BONUS — opt-in; L1 deferral]** | (bonus M22–M23)  |
 | 7.17 | Bedorf, *Verkennende Anerkennung* chs. 1–3 | DE | ~120 | ~14 | [P] → Light (SHOULD; Layer 2 first reactive cut) | M25  |
 | 7.18 | Honneth, *Anerkennung: Eine europäische Ideengeschichte* (2018), partial selection (Intro + three-traditions chapter + concluding systematic chapter) | DE | ~140 partial | ~20 | [P] → Light Phase II (partial); conditional Full at M41–43 under Layer C (3-of-5 baseline) | M24–25 |
 | 7.18F | Honneth 7.18 *Anerkennung* — full reading + Full reconstruction at Phase III frontier | DE | +~110 | +~18 | [P] → Full (Layer C conditional MUST-Anchor — fires if recognition/Honneth track) | M41–43 (cond.) |
 | 11A.1 | Foucault, *Surveiller et punir* (Part I + Part III ch. 3) | FR/DE/EN | ~150 | ~13 | [P] → Light (SHOULD; Layer 2 first reactive cut) | M20 |
 | 11A.2 | Foucault, 1976 lecture ("Il faut défendre la société", 14 Jan) | FR/EN | ~25 | ~2 | [P] → Light (SHOULD; Layer 2 first reactive cut) | M20 |
 | 11A.4 | Allen, "Power, Subjectivity, and Agency" (bridge article) | EN | ~25 | ~1.5 | [RS] → Light (COULD) — **[BONUS — opt-in; L1 deferral]** | (bonus M21) |
+| I.1.5 | Kant, *Grundlegung zur Metaphysik der Sitten* (complete) — **[pre-block]** for Khurana *Teil II* + Forst | DE | ~80 | ~8–10 | [P] → orientation (opt-in pre-block; Layer-2 **retain** — also feeds 7.7) | M20–21 |
+| I.1.7 | Kant, *KU* teleology §§64–66 (*Naturzweck*) — **[pre-block]** for Khurana *Teil II* | DE | ~20 | ~4–6 | [P] → orientation (opt-in pre-block; Layer-2 first cut) | M20–21 |
+| 1.6F | Khurana, *Das Leben der Freiheit*, *Einleitung*-recap + **Teil II** (chs. III–V + *Schluss*) — **[pre-block]** | DE | ~230 | ~14–18 | [O] → orientation (opt-in pre-block; conditional MUST-Engage if Hegelian-freedom track; Layer-2 first cut) | M20–21 |
 
 ### Deliverables at Module 7 close (M25)
 
@@ -1353,6 +1370,8 @@ Habermas is the pivot between the first Frankfurt School and the current generat
 - [ ] 📝 **1 Light Reconstruction:** Fraser, "From Redistribution to Recognition?" 1995
 - [ ] 📝 **4 Full Reconstructions:** Fraser & Honneth, *Umverteilung oder Anerkennung?* (Fraser opener + Honneth response + Fraser rejoinder + Honneth rejoinder)
 - [ ] 📝 **3 Light Reconstructions:** Honneth, *Das Recht der Freiheit* (methodological intro + "Persönliche Beziehungen" + "Der Markt"); full RdF dissection deferred to Phase III Comparison Exercise W2.1
+- [ ] 📝 **1 Light Reconstruction:** 7.22 Jütten, "Is the Market a Sphere of Social Freedom?" — methodological pressure-test of 7.5 *Markt* (relocated from 8.10; Layer 3 with override only)
+- [ ] 📝 **1 Full Reconstruction:** 7.23 Neuhouser, "Honneth's Theory of Social Freedom" — normative reconstruction vs. social science (relocated from 8.11)
 - [ ] 📝 **4 Full Reconstructions:** Forst, *Das Recht auf Rechtfertigung* (chs. 1–4)
 - [ ] 📝 **1 Light Reconstruction:** Forst, "Noumenal Power"; Forst-vs-Honneth Full deferred to Phase III Comparison Exercise
 - [ ] 📝 **2 Light Reconstructions:** Forst, *Normativity and Power* (Part I + ch. on democratic legitimacy)
@@ -1399,7 +1418,7 @@ Honneth's fundamental claim is that Habermas located normativity at too abstract
 **Module 7 total: ~162h baseline-active.** Layer C Phase III frontier additions (7.18 Full + 2 of {7.19, 8.12, 7.10}) ~83h if 3-of-5 baseline fires — pre-decided at M35 R5.
 
 > [!note] Economist's note
-> Honneth's *Der Markt* chapter is your most direct professional engagement in Phase II. Read Jütten 8.10 (~5h Full) and Neuhouser 8.11 (~8h Full) *immediately* after — these are the methodological tests of normative reconstruction against social science.
+> Honneth's *Der Markt* chapter is your most direct professional engagement in Phase II. Read Jütten 7.22 and Neuhouser 7.23 *immediately* after — these are the methodological tests of normative reconstruction against social science. Both are now scheduled at M24, right after the *Markt* chapter, so catalogue (Module 7) and schedule agree.
 
 ---
 
@@ -1410,10 +1429,10 @@ Honneth's fundamental claim is that Habermas located normativity at too abstract
 | Month | Activities | Pages | Hrs |
 |-------|-----------|-------|-----|
 | M25   | 📚 Jaeggi *Entfremdung* begins | ~100 | ~15 |
-| M26   | ✍ Jaeggi *Entfremdung* finish (Recons in progress: alienation)<br>📚 Jaeggi *KvL* chs. 1–3 + 8<br>📚 Bourdieu *Distinction* Intro+I (context layer)<br>📚 Stahl *Immanente Kritik* chs. 1–4 [RS] Light | ~430 | ~30 |
+| M26   | ✍ Jaeggi *Entfremdung* finish (Recons in progress: alienation)<br>📚 Jaeggi *KvL* chs. 1–3 + 8<br>📚 Bourdieu *Distinction* Intro+I (context layer)<br>📚 Stahl *Immanente Kritik* chs. 1–3 [RS] Light (ch. 5 optional — §5.5 is Stahl's own view) | ~410 | ~30 |
 | M27   | ✍ Jaeggi *KvL* chs. 9–10 (Recons in progress: problem-solving)<br>📚 Zurn "Second-Order Disorders" (tier-bump)<br>📚 Laitinen & Särkelä "Four Conceptions" (tier-bump)<br>📚 Jaeggi & Fraser *Capitalism* begins<br>Skizze #2 | ~350 | ~32 |
 | M28   | ✍ Jaeggi & Fraser *Capitalism* finish (4 Recons filed)<br>📚 Rosa *Resonanz* selections (tier-bump — Layer 3 non-conflict demote candidate)<br>📚 Allen *End of Progress* chs. 1–3 + 6 begins | ~300 | ~28 |
-| M29   | ✍ Allen *End of Progress* finish (4 Full Recons filed)<br>📚 Jütten article (tier-bump — Layer 3 with override candidate)<br>📚 Neuhouser article (tier-bump)<br>📚 Postone context layer | ~250 | ~30 |
+| M29   | ✍ Allen *End of Progress* finish (4 Full Recons filed)<br>📚 Postone context layer | ~195 | ~26 |
 | M30   | 🎯 Skizze #3 · DM8 · Module 8 close (residual finishings + Skizze) | ~80 | ~20 |
 
 ### Module inventory
@@ -1426,14 +1445,12 @@ Honneth's fundamental claim is that Habermas located normativity at too abstract
 | 8.4 | Laitinen & Särkelä, "Four Conceptions of Social Pathology"                    | EN   | ~20   | ~1.5 | [P*] → Full (executed; MUST-Engage baseline; demote candidate if capacity pressure) | M27     |
 | 8.5 | Jaeggi & Fraser, *Capitalism*                                                 | EN   | ~200  | ~21.5| [P*] → Full (executed; MUST-Engage; demote candidate to free ~16h) | M27–28  |
 | 8.6 | Allen, *End of Progress*, chs. 1–3 + 6                                        | EN   | ~150  | ~16  | [P] → Full (MUST-Anchor) | M28–29     |
-| 8.8 | Stahl, *Immanente Kritik* chs. 1–4                                            | DE | ~200 | ~23 | [RS] → Light (SHOULD; conditional MUST-Engage if immanent-critique track; Layer 3 non-conflict trim candidate) | M26 |
+| 8.8 | Stahl, *Immanente Kritik* chs. 1–3 (ch. 5 optional, +~120 pp / +~10 h) | DE | ~180 | ~18 | [RS] → Light (SHOULD; conditional MUST-Engage if immanent-critique track; Layer 3 non-conflict trim candidate) | M26 |
 | 8.9 | Rosa, *Resonanz* (Intro + Part I + Part IV selections)                        | DE   | ~200  | ~28  | [P] → Full (executed; rival diagnostic for Skizze #3; Layer 3 non-conflict demote candidate frees ~10h) | M28  |
-| 8.10| Jütten article (on Honneth market)                                            | EN   | ~25   | ~2   | [P] → Light (SHOULD; interlocutor argument — Layer 3 with override only) | M29     |
-| 8.11| Neuhouser article (on Honneth normative reconstruction)                       | EN   | ~30   | ~2   | [P] → Full (executed; baseline COULD) | M29     |
 | CL3 | Bourdieu, *La distinction* Intro + Part I (Context Layer)                     | FR/DE| ~70 | ~9 | [O] → Orientation (SHOULD) | M26–27  |
 | CL4 | Postone, *Time, Labor, and Social Domination*, Intro + ch. 1 (Context Layer)  | EN   | ~80   | ~8.5 | [O] → Orientation (Phase II partial; conditional Phase III full text) | M29     |
 
-**Stahl 8.8 placement.** Module 8 [RS] Light-tier read at M26 alongside Zurn + Laitinen & Särkelä. Stahl's *immanente Kritik* framework grounds the Craft Block W1 method-note; first-read M26, re-read for method in Craft Block W1.1 at M35–37. ~20h Light-tier in Module 8 (selective chs. 1–4 focus).
+**Stahl 8.8 placement.** Module 8 [RS] Light-tier read at M26 alongside Zurn + Laitinen & Särkelä. Core read is **Teil I (chs. 1–3)** — the taxonomy of critique and the Frankfurt models (§3.1 Habermas, §3.2 recognition); ~18h Light-tier. **Ch. 5 is optional** (esp. §5.5, the recognition model of social normativity — Stahl's own positive view): take it up here if the immanent-critique track is live, otherwise it moves to the Craft Block. Stahl's framework grounds the Craft Block W1 method-note; first-read M26, method read/re-read (Teil II–III core) in Craft Block W1.1 at M35–37.
 
 ### Deliverables at Module 8 close (M30)
 
@@ -1443,10 +1460,8 @@ Honneth's fundamental claim is that Habermas located normativity at too abstract
 - [ ] 📝 **1 Full Reconstruction:** Laitinen & Särkelä, "Four Conceptions of Social Pathology" (demote candidate)
 - [ ] 📝 **4 Full Reconstructions:** Jaeggi & Fraser, *Capitalism* (debate book — 4 essay-units; demote candidate frees ~16h)
 - [ ] 📝 **4 Full Reconstructions:** Allen, *End of Progress* (chs. 1–3 + 6)
-- [ ] 📝 **4 Light Reconstructions:** Stahl, *Immanente Kritik* (chs. 1–4)
+- [ ] 📝 **4 Light Reconstructions:** Stahl, *Immanente Kritik* (chs. 1–3; ch. 5 optional)
 - [ ] 📝 **3 Full Reconstructions:** Rosa, *Resonanz* selections (Intro + Part I + Part IV); demote candidate frees ~10h but Skizze #3 depends on Rosa framing
-- [ ] 📝 **1 Light Reconstruction:** 8.10 Jütten article — Layer 3 with override only
-- [ ] 📝 **1 Full Reconstruction:** 8.11 Neuhouser article on Honneth normative reconstruction
 - *Compositionally these Fulls feed four thematic deliverables: (a) Jaeggi alienation [8.1]; (b) problem-solving model [8.2]; (c) Zurn second-order disorders [8.3]; (d) Allen's critique [8.6] — pre-loading Skizzen #2–3.*
 - [ ] Module 8 comprehension check
 - [ ] Dialogue Moment 8
@@ -1721,7 +1736,7 @@ Reading peaks at M41–M43 (frontier-reading window).
 - **Layer C 3-of-5 firing decision.** Decide at R5 which 3 of the 5 conditional-MUSTs activate for M41–M43 frontier reading: 7.18 *Anerkennung* Full (~25h, typically fires); 7.19 Honneth *Arbeitende Souverän* (~32–40h Light); 8.12 Jaeggi *Fortschritt und Regression* (~28–36h Light); 7.10 Forst *Noumenal Republic* (~18–25h Light); 14.9 Aglietta *Régulation* (~10h Orient → Light if capitalism-as-form track). Baseline is 3-of-5 — 4+ puts timeline at risk; 2 underpowers reviewer-coverage. Pre-allocating at R5 prevents mid-stream surprises in M41–M43.
 
 ### M35–37: Craft Block W1 (immanent critique as method)
-- **W1.1 Stahl** — re-read for method (~3–4h). First-read at M26 (Module 8). Re-read targets the methodological structure of Stahl's *immanente Kritik* argument specifically as a Craft-Block specimen.
+- **W1.1 Stahl** — method read of **Teil II–III core** (ch. 5 §5.5, his own view; chs. 6–7, the practice-theoretic account of immanent critique). First-read at M26 (Module 8) covered Teil I (chs. 1–3). If ch. 5 was taken up as the optional read in Module 8, this is a targeted re-read (~3–4h); otherwise budget ~6–8h to read the back half. Targets the methodological structure of Stahl's *immanente Kritik* argument specifically as a Craft-Block specimen.
 - **W1.2 Celikates 2006 "From Critical Social Theory…"** (~5h) — short methodological piece, first read here.
 - **Output:** A "method note" (~1,000 words) — your own statement of what immanent critique commits its practitioner to. Save. **~12h total.**
 
@@ -1903,7 +1918,7 @@ File the essay. **This essay is the proof-of-positioning that you need before W3
 
 **Total M46–M48 budget: ~65h.**
 
-**Phase IV begins.** Topical-deepening track choice is informed by where W3.2 landed and what the formal-presentation feedback opened up. Tracks: (a) Marxist Track A (Module 13 / Appendix C) — Backhaus + Reichelt + Gramsci + Althusser + Brenner; (b) Socialisation/Bildung Track B (Appendix H); (c) Track C (hybrid) per Phase III direction. ~200–250h topical deepening + ~50–80h+ community consolidation. Deferred L0+L1 items (7.14, 7.11, 11A.4, 9.9) and any unfired Layer C items may land here as opt-in topical reading.
+**Phase IV begins.** Topical-deepening track choice is informed by where W3.2 landed and what the formal-presentation feedback opened up. Tracks: (a) Marxist Track A (Module 13 / Appendix C) — Backhaus + Reichelt + Gramsci + Althusser + Brenner; (b) Socialisation/Bildung Track B (Appendix H); (c) Track C (hybrid) per Phase III direction. ~200–250h topical deepening + ~50–80h+ community consolidation. Deferred L0+L1 items (8.13, 7.11, 11A.4, 9.9) and any unfired Layer C items may land here as opt-in topical reading.
 
 ---
 
@@ -1937,8 +1952,6 @@ File the essay. **This essay is the proof-of-positioning that you need before W3
 - Layer 5 (M50 extension): ~57h
 
 Cumulative through Layer 3 non-conflict ≈ ~145h — sufficient buffer against M48 +122h overage *with M48 timeline preserved*. Layer C decisions (Phase III topic commitment) are separate from this cascade.
-
-**Bridge §6 Class A update needed.** Bridge document still reads "M44 baseline / M46 W13-trigger fallback" — should update to "M48 / M50".
 
 ---
 
@@ -2026,20 +2039,33 @@ When falling behind, **community engagement (Phase II–Phase III) is the last t
 | Layer | Items | Hours saved | When |
 |---|---|---:|---|
 | **Layer 0** *(bonus — not cascade-active)* | 1.4 Pippin, 2.4 Wood-Marx, 4.7 Wiggershaus, 4A.2 Joas chs. 1–2, 4.8 Marcuse preview, 4.5 *ND* trim | ~10–15h | Pre-deferred at construction |
-| **Layer 1** *(bonus — not cascade-active)* | 7.14 Allen-Mendieta (~13.5h), 7.11 J. Benjamin (~9h), 11A.4 Allen power/agency bridge (~1.5h), 9.9 Harding (~4h Orient) | ~28h | Pre-deferred; opt-in if capacity allows |
+| **Layer 1** *(bonus — not cascade-active)* | 8.13 Allen-Mendieta (~13.5h; cat. Module 8, was 7.14), 7.11 J. Benjamin (~9h), 11A.4 Allen power/agency bridge (~1.5h), 9.9 Harding (~4h Orient) | ~28h | Pre-deferred; opt-in if capacity allows |
 | **Layer 2** (Medium-interlocutor SHOULD-Lights — **first reactive cut**) | 7.13 Renault (~18h), 7.17 Bedorf (~14h), 9.7 Boltanski *OC* (~16h), 11A.1 Foucault *SuP* (~13h), 11A.2 Foucault 1976 lecture (~2h), 7.12 Fraser PSphere (~2h) | ~65h | First 4-week trigger after M22 |
-| **Layer 3 non-conflict** (tier-demotes within MUST-Anchors / SHOULD-Lights) | 6.5 TKH II Full→Light (~−8h); 6b McCarthy 4–5 Full→Light (~−2h); 8.9 Rosa Full→Light or sel. (~−10 to −15h); 8.2 *KvL* chapter-coverage demote outside chs. 1–3 / 8–10 (~−10 to −15h); 8.8 Stahl chs. 1–2 trim (~−10h); 6a Outhwaite trim (~−3h); 7.18 Phase II partial Full→Light (~−5h) | ~+40h → ~145h cum. | Second 4-week trigger or M35 R5 if scope still fails |
-| **Layer 3 with override** (High-interlocutor cuts — requires user override of bridge §2.4) | 9.6 Vogelmann (~21h), 14.8 von Redecker (~14h), 8.10 Jütten (~2h) | ~+37h → ~182h cum. | Sustained capacity pressure; framework-regression cost |
+| **Layer 3 non-conflict** (tier-demotes within MUST-Anchors / SHOULD-Lights) | 6.5 TKH II Full→Light (~−8h); 6b McCarthy 4–5 Full→Light (~−2h); 8.9 Rosa Full→Light or sel. (~−10 to −15h); 8.2 *KvL* chapter-coverage demote outside chs. 1–3 / 8–10 (~−10 to −15h); 8.8 Stahl ch. 2 (hermeneutic survey — Walzer/Taylor/MacIntyre) trim (~−8h); 6a Outhwaite trim (~−3h); 7.18 Phase II partial Full→Light (~−5h) | ~+40h → ~145h cum. | Second 4-week trigger or M35 R5 if scope still fails |
+| **Layer 3 with override** (High-interlocutor cuts — requires user override of bridge §2.4) | 9.6 Vogelmann (~21h), 14.8 von Redecker (~14h), 7.22 Jütten (~2h) | ~+37h → ~182h cum. | Sustained capacity pressure; framework-regression cost |
 | **Layer 4** (structural slip — M49) | Phase III start slip M35 → M36; every subsequent milestone +1 month; submission M48 → M49 | ~+20h relative to peak | Third 4-week trigger or sustained >12h/week for 8 weeks |
 | **Layer 5** (calibration cascade — M50) | Full timeline extension to M50 (~2 months) — W13-trigger response | ~+57h | W13 calibration trigger fires + capacity steady-state |
 
 **Layer C** (Phase III conditional-MUST firing — *separate decision logic; M35 R5*): 7.18 Honneth *Anerkennung* Full (~25h), 7.19 *Arbeitende Souverän* (~32–40h Light), 8.12 Jaeggi *F&R* (~28–36h Light), 7.10 Forst *Noumenal Republic* (~18–25h Light), 14.9 Aglietta *Régulation* (~10h Orient → Light). **Baseline assumption: 3-of-5 firing (~83h).** Decision at M35 R5 driven by topic firm-up; not capacity-pressure-driven.
 
 **Open decisions surfaced by the cascade:**
-- **8.10 Jütten / 14.8 von Redecker / 9.6 Vogelmann** — SHOULD-tier + High-interlocutor per bridge §2.4. Cutting them is a framework regression on the v2.1 interlocutor upgrades; placed in Layer 3-with-override for that reason. 8.10 (2h) has highest interlocutor-cost per hour saved; 9.6 (21h) is the highest stakes if cut.
+- **7.22 Jütten / 14.8 von Redecker / 9.6 Vogelmann** — SHOULD-tier + High-interlocutor per bridge §2.4. Cutting them is a framework regression on the v2.1 interlocutor upgrades; placed in Layer 3-with-override for that reason. 7.22 (2h) has highest interlocutor-cost per hour saved; 9.6 (21h) is the highest stakes if cut.
 - **Phase I has no first cuts available beyond Layer 0 bonus** (Phase I Inv ≈ Schedule ≈ ~411h). Escalate to Layer 4 (M49 slip) or Layer 5 (M50 extension) if Phase I pacing fails persistently.
 
 *Leave-booking lead-time guidance for Writing Blocks W1 (M40) / W2 (M47) is inlined at the respective Phase III sections. Calibration-trigger response cascade is inlined at the W13 evaluation entry.*
+
+# Appendix A.2: Phase III slip protocol
+
+Phase III is production/event-driven; the reading-cut cascade in Appendix A / A.1 does not apply. Responses by situation:
+
+| Situation | Response |
+|---|---|
+| **CFP rejected / no accepted venue by ~M41** | The presentation is for feedback, not a gate. Fall back to a private feedback session (2–3 trusted scholars on the W3.2 draft). Do not delay submission to wait for a venue. |
+| **Presentation / reader feedback delayed** | Proceed to Writing Block W2 (M47) on best-available feedback. Fold late feedback into the Phase IV post-submission revision, not the M48 timeline. |
+| **Writing Block W1 (M40) / W2 (M47) can't be booked** (leave denied, GovC collision) | Move to the named fallback month at the relevant Phase III section; never drop the block. The concentrated block is not substitutable by spread-out evenings. |
+| **W3.2 draft overruns — 4–6 week slip in M40–M43** | Slip the submission date (M48 → M50), keeping the draft → present → feedback → revise order intact. Do not compress Phase III from the inside. |
+
+**Governing rule.** In Phase III, slip the *submission date*, not the cycle: M48 → M50 (→ M52). This mirrors the W13 → M50 cascade for Phase I.
 
 ---
 
@@ -2169,7 +2195,7 @@ Every module close (W17, W25, W28, W32, W41, W46, W54 in Phase I; M20, M25, M30,
 | **DM (Dialogue Moment)** | State strongest objection to the central argument you just reconstructed; try to answer. With Claude / colleague / in writing. | ~1h |
 | **✏ H1 light-discrimination note** | External objection you were tempted to make → translation to internal critique. 150–250 words. **Cadence taper:** every module M1–M6; alternating modules M7–M14 (Phase II); ad-hoc Phase III. | ~30–45 min |
 | **C1 tally** | Confirm 2–3 seminar questions filed per major text in the module (already done per §D.1; tally check only). | n/a |
-| **✏ Practice C2 — cross-thinker question** | One cross-thinker or translation question. Form 1: *"Does X's framework require what Y calls Z, even when X claims it does not?"* Form 2: *"If we rewrite X's claim in Y's vocabulary, what is lost?"* File alongside G1. Apprenticeship for the M32–M34 Comparison Exercise. | ~30 min |
+| **✏ Practice C2 — cross-thinker question** | One cross-thinker or translation question. Form 1: *"Does X's framework require what Y calls Z, even when X claims it does not?"* Form 2: *"If we rewrite X's claim in Y's vocabulary, what is lost?"* File alongside G1. Apprenticeship for the M37–38 Comparison Exercise. | ~30 min |
 | **🗺 Practice D — Debate map + negative-space note** | Visual map: 2 axes × thinkers covered in the module; place each thinker; mark response arrows. Then 200-word **negative-space note**: name one constructible position no thinker in the module occupies and classify as incoherent / unmotivated / historically suppressed. | ~1.5–2h |
 | **📋 QM (Quartals-Meilenstein)** *(W17, W30, M20, M32, M41 only)* | Recent-article comparison — read 1 recent article from *WestEnd* / *DZfPh* / *Constellations*; note what you can follow, can't, and what concepts/thinkers you're missing. Replaces that week's bonus reading. | ~2–3h |
 
