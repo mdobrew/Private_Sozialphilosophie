@@ -15,7 +15,7 @@ Captures load-bearing decisions and conventions across the working session. Read
 
 | File | Role |
 |---|---|
-| `sozialphilosophie_syllabus.md` | Intellectual map. Annotated bibliography with tags, hour estimates, [Economist's note] markers, [MX] flags. |
+| `sozialphilosophie_syllabus.md` | Intellectual map. Annotated bibliography with tags, hour estimates, [Economist's note] markers, "Marxist deepening" labels (formerly [MX], retired 2026-07-14). |
 | `programme_parameters.md` | Programme-level spec. Reader profile, capacity envelope, community engagement track, design requirements, Class A/B/C parameter version-control. **Slimmed 2026-05-24** — obsolete sections deleted; load-bearing canonical content kept. |
 | `importance_tiers.md` (v2.1) | Importance overlay. MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY classification. (Prior v1.3 archived at `archive/superseded/y3_critical_path_v1.3.md`.) |
 | `reading_speed_classes.md` | Prose-class master mapping (5 classes × language × n_chapters). |

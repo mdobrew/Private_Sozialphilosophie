@@ -12,7 +12,7 @@ Read in this dependency order. Each document is a different layer of resolution.
 
 | Document | Role | Modify? |
 |---|---|---|
-| [Execution plan/sozialphilosophie_syllabus.md](Execution plan/sozialphilosophie_syllabus.md) | The intellectual map. Annotated bibliography, dependency graph, hour estimates, [P]/[ES]/[RS]/[O]/[NE]/[MX] markers, [Economist's note] flags, accelerated path, appendices F/G for Phase IV. Reference, not schedule. | Rarely; structural only. |
+| [Execution plan/sozialphilosophie_syllabus.md](Execution plan/sozialphilosophie_syllabus.md) | The intellectual map. Annotated bibliography, dependency graph, hour estimates, [P]/[ES]/[RS]/[O]/[NE] markers plus "Marxist deepening" labels (formerly [MX], retired 2026-07-14), [Economist's note] callouts, Builds on/Leads to dependency fields, accelerated path, appendices F/G for Phase IV. Reference, not schedule. | Rarely; structural only. |
 | [Execution plan/programme_parameters.md](Execution plan/programme_parameters.md) | The spec. Programme parameters (timeline, hour budget, tiered active-practice regime, hybrid cut strategy with Context Layer), structural requirements for the execution plan, falling-behind protocols, session-structure rules by text type, community engagement track, dialogue moments, concentrated time blocks. Distinguishes **fixed** from **revisable** parameters (see §8 table). | When parameters change — but check fixed/revisable table first. |
 | [Execution plan/importance_tiers.md](Execution plan/importance_tiers.md) | The importance overlay. MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY classification of every text against the Phase III publication target; drives tier derivation. | Actively iterating. |
 | [Execution plan/reading_speed_classes.md](Execution plan/reading_speed_classes.md) | The prose-class master mapping (5 difficulty classes × language × n_chapters); feeds the Style × Tier hour formula. | When texts are added/reclassified. |
@@ -73,7 +73,7 @@ I am a computational macroeconomist. Use this productively, but watch the hazard
 | Task | Convention |
 |---|---|
 | Reconstruction critique | I paste the reconstruction; you pressure-test it per the four-part Practice A structure (claim / support / directed-against / presuppositions) plus the dialogue-moment objection. |
-| Editing plan documents | Use the diagnostic-refinement workflow when the edit is non-trivial. Respect the fixed/revisable distinction in `programme_parameters.md` §6 (Class A/B/C parameter table). Preserve [Economist's note] markers. Preserve [MX]/Phase IV-connection flags. |
+| Editing plan documents | Use the diagnostic-refinement workflow when the edit is non-trivial. Respect the fixed/revisable distinction in `programme_parameters.md` §6 (Class A/B/C parameter table). Preserve [Economist's note] callouts. Preserve "Marxist deepening" labels (formerly [MX]) and Phase IV-connection flags. |
 | Iterating on reading practices | This is open territory. Tell me what's likely to fail at my hours/week and German-fluent profile, and suggest specifically — not "consider doing X" but "replace §Y with Z." |
 | Drafting (Phase III) | Conference abstracts, workshop talks, journal drafts, scholar correspondence. Frankfurt-tradition voice; clean German or English; not LLM-flavoured. |
 | Reading companion Q&A | Concise. If the question is "what does Honneth mean by *Missachtung* in this passage," answer that — don't survey the entire recognition debate unless asked. |
@@ -125,5 +125,5 @@ Glossary of the recurring set (canonical definitions live in `reading_practices.
 - Don't paraphrase the bridge document or syllabus back at me when answering — I have them.
 - Don't generate plausible-sounding chapter summaries of texts you haven't been given. If I need a reconstruction of a chapter, I'll do it; your job is to critique mine.
 - Don't propose new documents (e.g., "let's create a tracking spreadsheet") unless I ask. The architecture is settled at the document level; iteration happens *within* the existing core documents.
-- Don't break the [P]/[ES]/[RS]/[O]/[NE]/[MX] marker system when editing the syllabus or plan.
+- Don't break the [P]/[ES]/[RS]/[O]/[NE] marker system, the "Marxist deepening" labels (formerly [MX]), or the Builds on/Leads to dependency fields when editing the syllabus or plan. Item IDs were globally renumbered 2026-07-14 — the old→new mapping table lives at the end of `execution_plan_changelog.md`; archive/ and print/ retain old IDs.
 - Don't invent Obsidian template fields or tag names. Match what's in [templates/](/Users/michael/Obsidian/Sozialphilosophie/templates/).

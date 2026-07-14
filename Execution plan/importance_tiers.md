@@ -535,7 +535,7 @@ All items MUST-Engage. C1 (immanent-critique method), C2 (exemplary diagnostics)
 | B.3 Values, objectivity (Putnam, Douglas, Kitcher) | COULD | Orientation | Phase IV. |
 | B.4 Models, idealisation (Morgan, Mäki, Sugden) | COULD | Orientation | Phase IV (philosophy-of-economics). |
 
-### Appendix C: Marxist Deepening *(was Appendix F in v5; [MX] throughout — Phase IV by default)*
+### Appendix C: Marxist Deepening *(was Appendix F in v5; "Marxist deepening" label throughout — formerly the [MX] tag, retired 2026-07-14 — Phase IV by default)*
 
 | Sub-section | Class | Tier | Rationale |
 |---|---|---|---|
