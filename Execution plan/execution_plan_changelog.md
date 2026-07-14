@@ -9,6 +9,84 @@ Naming conventions used historically in the plan body:
 
 ---
 
+## 2026-07-14 — Global ID renumbering (continuous order) + QA corrections + 3 QA-recommended insertions
+
+A QA pass over the catalogue documents produced three sets of changes, applied in strict phase order (stale-ref fixes → bibliographic corrections → insertions → renumbering → propagation). The renumbering closes numeric gaps and makes every syllabus module-table ID match its row order; the mapping below is the **decoder for the frozen old-ID spaces** in `archive/`, `print/`, and `print-syllabus/`, which retain the old IDs. (This changelog's own earlier entries, and the version-header + §3.0* change-logs inside `importance_tiers.md`, are likewise left in old-ID space as historical record — do not read them against the new numbering without this table.)
+
+**Convention going forward.** New insertions take a **letter suffix at position** rather than triggering a cascade (e.g. a text inserted between 6.5 and 6.6 becomes **6.5a**; the split *Kapital* text keeps its 2.3a/2.3b form). A full continuous renumbering like this one is done **only at a major version bump**, not on routine additions.
+
+**QA phase 1 — stale cross-references corrected in old-ID space (syllabus):** 7.18→7.19 (*Der arbeitende Souverän* econ-note); Taylor 12.3→10.3 (×3 sites); Woodward 12.2→10.2; List & Pettit *Group Agency* 11.2→17.2 (×2, incl. Epstein *Ant Trap* 11.1→17.1); Lordon 14.8→14.10 (old-space); Schütz/Berger-Luckmann 10.1/10.2→16.1/16.2; Kosík "Module 13 item 13.12"→"Appendix C item C.12"; Part IV live-debate links 7.18→7.19 and 7.17→7.18; H.6.8/H.6.9 refs "Module 13"→"Module 12", Sen 13.4→12.4, Young 13.3→12.3.
+
+**QA phase 2 — bibliographic corrections (syllabus; page/date mirrored into `reading_speed_classes.md` where relevant):** 7.24 Herzog *Citizen Knowledge: Markets, Experts, and the Infrastructure of Democracy* (OUP 2023) flag resolved; H.1.10 Allen *Critique on the Couch* — pages ~250(est)→~280, "Columbia UP 2020 [copyright sometimes cited 2021]", verify-flag removed (mirrored to reading_speed_classes); H.6.10 Klafki cited to the 2nd expanded ed. (Beltz 1991; 1st 1985) with subtitle; 8A.9 Fanon chapter citation corrected (ch. 5 + ch. 7 §B "Le Nègre et Hegel"; Philcox 2008 / Moldenhauer) + edition-flag removed; 11A.5 Foucault ordoliberalism-lecture inconsistency fixed (31 Jan + 7 Feb 1979 core; block to 21 Feb); 4.14 Horkheimer/ND *Lebensphilosophie* citations resolved (Radical Philosophy 131, 2005; ND GS 6, ~pp. 20–21); 7.6 Tanner ed. "ed. Martin Jay" + German Suhrkamp 2015 note; 2.5 *Deutsche Ideologie* base/superstructure wording softened + MEGA² I/5 (2017) editorial-construction note; 1.7 Honneth subtitle + "(Reclam 2001, 127 pp.)".
+
+**QA phase 3 — three approved insertions (syllabus + reading_speed_classes + importance_tiers §3):**
+- **6.10** (new) Cristina Lafont, *Democracy without Shortcuts* (OUP 2019; DE Suhrkamp 2021) — [ES], COULD Orientation / conditional MUST-Engage (deliberative-democracy trigger). Last row of Module 6.
+- **H.1.0** (new, zero-indexed) Horkheimer, "Allgemeiner Teil", in *Studien über Autorität und Familie* (Paris: Alcan, 1936) — [RS], COULD. First row of Appendix H.1.
+- **Lessenich** — one unnumbered Context-Layer sentence at the Module 15 preamble (Stephan Lessenich, IfS director since 2021; *Grenzen der Demokratie* / *Nicht mehr normal*).
+- Also backfilled the 10 missing importance_tiers §3 classification rows for the 2026-07-13 + new additions (1.7, 2.5, 4.15, 6.9, 6.10, 7.24, 8A.9, 11A.5, 14.16, H.1.0, H.1.10, H.6.10).
+
+**QA phase 4/5 — global ID renumbering (old → new).** Applied file-wide (syllabus, importance_tiers, reading_speed_classes, programme_parameters, field_map, execution_plan_v3_draft) as standalone-token replacement; module tables reordered to ascending. `execution_plan_changelog.md` (this file), `session_state.md`, `reading_practices.md`, `CLAUDE.md`, and the frozen `importance_tiers.md` change-log zones were unaffected (no live IDs to migrate, or historical record preserved).
+
+| Old ID | New ID | Text (short) |
+|---|---|---|
+| 1.4 | 1.5 | Pippin, *Hegel's Practical Philosophy* |
+| 1.5 | 1.6 | Wood, *Hegel's Ethical Thought* |
+| 1.6 | 1.7 | Khurana, *Das Leben der Freiheit* |
+| 1.6F | 1.7F | Khurana Teil II — Module 7 pre-block |
+| 1.7 | 1.4 | Honneth, *Leiden an Unbestimmtheit* |
+| 2.2a | 2.3a | Marx, *Kapital* I ch. 1 §§1–4 |
+| 2.2b | 2.3b | Marx, *Kapital* I chs. 2–3 + ch. 10 |
+| 2.3 | 2.4 | Heinrich, *Kritik der politischen Ökonomie* |
+| 2.4 | 2.5 | Wood, *Karl Marx* |
+| 2.5 | 2.2 | Marx & Engels, *Die deutsche Ideologie* |
+| 4.4 | 4.5 | Adorno, *Minima Moralia* |
+| 4.5 | 4.6 | Adorno, *Negative Dialektik* |
+| 4.6 | 4.7 | Freyenhagen, *Adorno's Practical Philosophy* |
+| 4.7 | 4.8 | Wiggershaus, *Die Frankfurter Schule* |
+| 4.8 | 4.9 | Marcuse, *One-Dimensional Man* |
+| 4.9 | 4.10 | Benjamin, Geschichtsphilosophische Thesen |
+| 4.10 | 4.11 | Benjamin, "Kunstwerk" |
+| 4.11 | 4.12 | Adorno, *Drei Studien zu Hegel* |
+| 4.12 | 4.13 | Freud, *Das Unbehagen in der Kultur* |
+| 4.13 | 4.14 | Nietzsche, *Zur Genealogie der Moral* |
+| 4.14 | 4.15 | *Lebensphilosophie* reckoning (thread) |
+| 4.15 | 4.4 | Neumann, *Behemoth* |
+| 6.6 | 6.7 | Habermas, *Faktizität und Geltung* |
+| 6.7 | 6.8 | Habermas, *Strukturwandel der Öffentlichkeit* |
+| 6.8 | 6.9 | Bohman / Estlund / Floyd |
+| 6.9 | 6.6 | Habermas, "Diskursethik" |
+| 8.12 | 8.10 | Jaeggi, *Fortschritt und Regression* |
+| 8.13 | 8.11 | Allen & Mendieta on Jaeggi |
+| 8A.6 | 8A.7 | Robinson, *Black Marxism* |
+| 8A.7 | 8A.8 | Wilderson, *Afropessimism* |
+| 8A.8 | 8A.9 | Mbembe, *Critique of Black Reason* |
+| 8A.9 | 8A.6 | Fanon, *Peau noire, masques blancs* |
+| 14.1 | 14.2 | Streeck, *Gekaufte Zeit* |
+| 14.2 | 14.3 | Fraser, *Cannibal Capitalism* |
+| 14.3 | 14.4 | Bhattacharya, social-reproduction intro |
+| 14.4 | 14.5 | Postone, *Time, Labor, and Social Domination* |
+| 14.5 | 14.6 | Wright, *Envisioning Real Utopias* |
+| 14.6 | 14.7 | Brown, *Undoing the Demos* |
+| 14.7 | 14.8 | Honneth, *Die Idee des Sozialismus* |
+| 14.8 | 14.9 | von Redecker |
+| 14.9 | 14.10 | Aglietta, *Régulation et crises* |
+| 14.10 | 14.11 | Lordon, *Capitalisme, désir et servitude* |
+| 14.11 | 14.12 | Mau, *Mute Compulsion* |
+| 14.12 | 14.13 | Castel, *Les métamorphoses de la question sociale* |
+| 14.13 | 14.14 | Engster, *Das Geld als Maß, Mittel und Methode* |
+| 14.14 | 14.15 | Lapavitsas, *Profiting Without Producing* |
+| 14.15 | 14.16 | Jaeggi & Loick (eds.), *Nach Marx* |
+| 14.16 | 14.1 | Habermas + Offe, *Legitimationsprobleme im Spätkapitalismus* |
+| H.6.4 | H.6.5 | Mollenhauer, *Vergessene Zusammenhänge* |
+| H.6.5 | H.6.6 | English, *Discontinuity in Learning* |
+| H.6.6 | H.6.7 | Krappmann, *Soziologische Dimensionen der Identität* |
+| H.6.7 | H.6.8 | Hurrelmann & Bauer, *Einführung in die Sozialisationstheorie* |
+| H.6.8 | H.6.9 | Stojanov, *Bildungsgerechtigkeit* |
+| H.6.9 | H.6.10 | Drerup & Schweiger (eds.), *Philosophy and Child Poverty* |
+| H.6.10 | H.6.4 | Klafki, *Neue Studien zur Bildungstheorie und Didaktik* |
+
+*New IDs with no old counterpart (2026-07-14 insertions): 6.10 (Lafont), H.1.0 (Horkheimer 1936). Unchanged IDs (1.1–1.3, 2.1, 4.1–4.3, 6.1–6.5, 8.1–8.9, 8A.1–8A.5, H.6.1–H.6.3, H.1.1–H.1.10, and all of Modules 3, 3A, 4A, 5, 7, 9–13, 15–18 and the other appendices) are omitted. Note: new 8.10/8.11 (Jaeggi F&R / Allen-Mendieta) are distinct from the pre-2026-05-29 8.10/8.11 (Jütten/Neuhouser, relocated to 7.22/7.23) — a separate old layer in the archive.*
+
 ## 2026-07-13 — Plan audit fixes 2/4/5 + executed-tier override log
 
 Implements the user-approved subset (fixes 2, 4, 5 + deviation log) of the 2026-07-13 plan audit (`archive/audit_execution_plan_2026-07-13.md`). All plan-body changes carry inline **[Revised 2026-07-13 (plan audit): …]** annotations.

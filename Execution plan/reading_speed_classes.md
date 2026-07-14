@@ -23,7 +23,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | **Transparent** | 15–18 | 15–20 | Neuhouser, McCarthy, Outhwaite, Feenberg, Jay, Dewey, Polanyi, Streeck, Pippin, Wood, Heinrich (intro text), Wiggershaus, Ringer, Freyenhagen, Hickel, Sennett, Bauman, Bell, Beck, Schimank/Volkmann, Joas/Knöbl, Hurrelmann/Bauer, Siegler textbook, Bowlby, Cassidy/Shaver, Vygotsky, Gerhardt, Shonkoff/Phillips, Freeman, Sayer, Bhaskar, SEP entries, Routledge handbooks, Graeber, Scott, Mbembe (relatively), Mignolo (relatively) |
 
 **Special rules:**
-1. **Heinrich** *Kritik der politischen Ökonomie* (2.3) → **Transparent** (deliberate intro text; ~14 pp/h)
+1. **Heinrich** *Kritik der politischen Ökonomie* (2.4) → **Transparent** (deliberate intro text; ~14 pp/h)
 2. **Weber** 3.1 "Wissenschaft als Beruf" + 3.2 "Objektivität" → **Dense** (slow methodological prose); 3.3 *W&G* I.1 §§1–17 → **Systematic**
 3. **Honneth** split: monographs → Systematic; essays → Layered
 4. **Aphoristic structure** is a *flag* (column Flag = `Aphoristic`), not a class — applied to Benjamin "Theses on History" + Adorno *Minima Moralia* (both kept Dense). Benjamin "Kunstwerk" = Dense essay, no flag.
@@ -57,22 +57,22 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 1.1 | Neuhouser | Foundations of Hegel's Social Theory | EN | ~300 | Transparent | | 8 (est) | Estimated chapter count from a ~300pp analytical monograph. |
 | 1.2 | Hegel | Grundlinien der Philosophie des Rechts (Preface, §§1–33, §§142–360) | DE | ~320 | Dense | | 4 | Preface + §§1–33 (will) + §§142–256 (Civil Society/Family) + §§257–360 (State). |
 | 1.3 | Hegel | Phänomenologie des Geistes ch. IV.A | DE | ~30 | Dense | | 1 | Single section (master-slave dialectic). |
-| 1.4 | Pippin | Hegel's Practical Philosophy, chs. 1–4 | EN | ~200 | Transparent | | 4 | [NE]. |
-| 1.5 | Wood | Hegel's Ethical Thought, chs. 1–4, 10–14 | EN | ~250 | Transparent | | 9 | [NE]. 4 + 5 chs. |
-| 1.6 | Khurana | Das Leben der Freiheit, Einleitung only | DE | ~20 | Systematic | | 1 | **[Backfilled 2026-07-13 (propagation pass):** row corrected from "Intro + Part I, ~150pp" per the 2026-07-12 syllabus revision — the Hegelian reconstruction is *Teil II*, not "Part I"; Module 1 now reads the *Einleitung* only (orientation tier), and the substantive read is the 1.6F pre-block row below.] Suhrkamp monograph; Khurana's prose is dense-systematic. |
-| 1.6F | Khurana | Das Leben der Freiheit, Einleitung-recap + Teil II (chs. III–V + Schluss) — Module 7 Kant→Khurana pre-block | DE | ~230 | Systematic | | 4 | **[Backfilled 2026-07-13 (propagation pass).]** The *Teil II* read deferred from Module 1 per syllabus 1.6 (2026-07-12); scheduled at the Module 7 pre-block (M20–21, opt-in) with Kant prerequisites I.1.5 + I.1.7 (Appendix I section below). Same class as 1.6. |
-| 1.7 | Honneth | Leiden an Unbestimmtheit | DE | ~130 | Systematic | | 3 (est) | **[Added 2026-07-13 (coverage audit).]** Special rule #3 — Honneth monograph → Systematic. Lecture-based, ~3 parts. |
+| 1.4 | Honneth | Leiden an Unbestimmtheit | DE | ~130 | Systematic | | 3 (est) | **[Added 2026-07-13 (coverage audit).]** Special rule #3 — Honneth monograph → Systematic. Lecture-based, ~3 parts. |
+| 1.5 | Pippin | Hegel's Practical Philosophy, chs. 1–4 | EN | ~200 | Transparent | | 4 | [NE]. |
+| 1.6 | Wood | Hegel's Ethical Thought, chs. 1–4, 10–14 | EN | ~250 | Transparent | | 9 | [NE]. 4 + 5 chs. |
+| 1.7 | Khurana | Das Leben der Freiheit, Einleitung only | DE | ~20 | Systematic | | 1 | **[Backfilled 2026-07-13 (propagation pass):** row corrected from "Intro + Part I, ~150pp" per the 2026-07-12 syllabus revision — the Hegelian reconstruction is *Teil II*, not "Part I"; Module 1 now reads the *Einleitung* only (orientation tier), and the substantive read is the 1.7F pre-block row below.] Suhrkamp monograph; Khurana's prose is dense-systematic. |
+| 1.7F | Khurana | Das Leben der Freiheit, Einleitung-recap + Teil II (chs. III–V + Schluss) — Module 7 Kant→Khurana pre-block | DE | ~230 | Systematic | | 4 | **[Backfilled 2026-07-13 (propagation pass).]** The *Teil II* read deferred from Module 1 per syllabus 1.7 (2026-07-12); scheduled at the Module 7 pre-block (M20–21, opt-in) with Kant prerequisites I.1.5 + I.1.7 (Appendix I section below). Same class as 1.6. |
 
 ### Module 2: Marx
 
 | ID | Author | Title | Lang | Pages | Class | Flag | n_chapters | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 2.1 | Marx | ÖpM, "Entfremdete Arbeit" | DE | ~40 | Dense | | 1 | Single essay/manuscript fragment. |
-| 2.2a | Marx | Das Kapital Bd. 1 ch. 1 §§1–4 | DE | ~40 | Dense | | 4 | Per syllabus & session_state: 4 sub-sections; the fetishism §4 is its own unit. |
-| 2.2b | Marx | Das Kapital Bd. 1 chs. 2–3 + ch. 10 | DE | ~160 | Dense | | 3 | Chs. 2, 3, 10. |
-| 2.3 | Heinrich | Kritik der politischen Ökonomie, chs. 1–5 | DE | ~200 | Transparent | | 5 | Special rule #1 — Heinrich is an intro text. |
-| 2.4 | Wood | Karl Marx, chs. 1–4, 9–12 | EN | ~250 | Transparent | | 8 | [NE]. |
-| 2.5 | Marx & Engels | Die deutsche Ideologie (Feuerbach-chapter selections) + Thesen über Feuerbach | DE | ~45 | Dense | | 2 (est) | **[Added 2026-07-13 (coverage audit).]** Marx primary → Dense per framework; Feuerbach selections + Thesen as 2 units. Read between 2.1 and 2.2a. |
+| 2.2 | Marx & Engels | Die deutsche Ideologie (Feuerbach-chapter selections) + Thesen über Feuerbach | DE | ~45 | Dense | | 2 (est) | **[Added 2026-07-13 (coverage audit).]** Marx primary → Dense per framework; Feuerbach selections + Thesen as 2 units. Read between 2.1 and 2.2a. |
+| 2.3a | Marx | Das Kapital Bd. 1 ch. 1 §§1–4 | DE | ~40 | Dense | | 4 | Per syllabus & session_state: 4 sub-sections; the fetishism §4 is its own unit. |
+| 2.3b | Marx | Das Kapital Bd. 1 chs. 2–3 + ch. 10 | DE | ~160 | Dense | | 3 | Chs. 2, 3, 10. |
+| 2.4 | Heinrich | Kritik der politischen Ökonomie, chs. 1–5 | DE | ~200 | Transparent | | 5 | Special rule #1 — Heinrich is an intro text. |
+| 2.5 | Wood | Karl Marx, chs. 1–4, 9–12 | EN | ~250 | Transparent | | 8 | [NE]. |
 
 ### Module 3: Weber
 
@@ -97,18 +97,18 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 4.1 | Horkheimer | Traditionelle und kritische Theorie | DE | ~40 | Dense | | 1 | Programmatic essay. |
 | 4.2 | Horkheimer & Adorno | DdA, "Begriff der Aufklärung" + Exkurs I | DE | ~80 | Dense | | 2 | |
 | 4.3 | Pollock | State Capitalism | EN | ~20 | Layered | | 1 | Pollock is more readable than Adorno; placed Layered, not Dense. |
-| 4.4 | Adorno | Minima Moralia, §§1–18, 29, 36, 67–68, 153 | DE | ~50 | Dense | Aphoristic | 1 | Special rule #4 — aphoristic flag; treated as one selection. |
-| 4.5 | Adorno | Negative Dialektik, Intro + Part III | DE | ~100 | Dense | | 2 | Intro + Meditationen zur Metaphysik. |
-| 4.6 | Freyenhagen | Adorno's Practical Philosophy, chs. 1–5 | EN | ~200 | Transparent | | 5 | Analytic-clear despite Adorno-content. |
-| 4.7 | Wiggershaus | Die Frankfurter Schule, ch. 7 | DE | ~60 | Transparent | | 1 | |
-| 4.8 | Marcuse | One-Dimensional Man, chs. 1–6 | EN | ~200 | Layered | | 6 | Thesis-driven but conceptually layered; not transparent prose. |
-| 4.9 | Benjamin | Über den Begriff der Geschichte (Theses) | DE | ~15 | Dense | Aphoristic | 1 | Special rule #4 — aphoristic flag. |
-| 4.10 | Benjamin | Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit | DE | ~40 | Dense | | 1 | Special rule #4 — Kunstwerk essay = Dense, no aphoristic flag. |
-| 4.11 | Adorno | Drei Studien zu Hegel ("Aspekte" + "Skoteinos") | DE | ~120 | Dense | | 3 | **[Backfilled 2026-06-27 — present in syllabus/phase3 but absent from this table.]** Adorno → Dense per framework. |
-| 4.12 | Freud | Das Unbehagen in der Kultur | DE | ~80 | Layered | | 8 | **[Added 2026-06-27.]** Eight untitled sections. Freud's prose is lucid (Goethe-Prize stylist) but the argument is conceptually layered — Layered, not Dense. See borderline note. |
-| 4.13 | Nietzsche | Zur Genealogie der Moral, Abhandlungen I–II | DE | ~90 | Layered | | 2 | **[Added 2026-06-27.]** Two continuous essays (not aphoristic — no flag). Reads fast but argument-dense; borderline Dense — see note. |
-| 4.14 | Benjamin + Horkheimer | *Lebensphilosophie* reckoning (thread): Benjamin, "Über einige Motive bei Baudelaire" §§I–III + Horkheimer, "Zu Bergsons Metaphysik der Zeit" | DE | ~70 | Dense | | 2 | **[Backfilled 2026-07-13 (propagation pass).]** Syllabus 4.14 (added 2026-07-12). **Bonus thread, not a scheduled slot — not in any hour baseline** (headroom/Phase IV; conditional MUST-Engage only if Track D Adornian-negativism commits). Benjamin essay → Dense (cf. 4.10 Kunstwerk, no aphoristic flag); Horkheimer → Dense per framework. The Jay *Songs of Experience* chapters and the *Lebensphilosophie* trunk (Bergson/Dilthey/Simmel/Klages) are map-only — no rows. |
-| 4.15 | Neumann | Behemoth (selections on totalitarian monopoly capitalism) | EN | ~25 | Layered | | 1 (est) | **[Added 2026-07-13 (coverage audit).]** Written in English. Institutional-economic Frankfurt analysis; clearer prose than Adorno — Layered, cf. Pollock 4.3. |
+| 4.4 | Neumann | Behemoth (selections on totalitarian monopoly capitalism) | EN | ~25 | Layered | | 1 (est) | **[Added 2026-07-13 (coverage audit).]** Written in English. Institutional-economic Frankfurt analysis; clearer prose than Adorno — Layered, cf. Pollock 4.3. |
+| 4.5 | Adorno | Minima Moralia, §§1–18, 29, 36, 67–68, 153 | DE | ~50 | Dense | Aphoristic | 1 | Special rule #4 — aphoristic flag; treated as one selection. |
+| 4.6 | Adorno | Negative Dialektik, Intro + Part III | DE | ~100 | Dense | | 2 | Intro + Meditationen zur Metaphysik. |
+| 4.7 | Freyenhagen | Adorno's Practical Philosophy, chs. 1–5 | EN | ~200 | Transparent | | 5 | Analytic-clear despite Adorno-content. |
+| 4.8 | Wiggershaus | Die Frankfurter Schule, ch. 7 | DE | ~60 | Transparent | | 1 | |
+| 4.9 | Marcuse | One-Dimensional Man, chs. 1–6 | EN | ~200 | Layered | | 6 | Thesis-driven but conceptually layered; not transparent prose. |
+| 4.10 | Benjamin | Über den Begriff der Geschichte (Theses) | DE | ~15 | Dense | Aphoristic | 1 | Special rule #4 — aphoristic flag. |
+| 4.11 | Benjamin | Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit | DE | ~40 | Dense | | 1 | Special rule #4 — Kunstwerk essay = Dense, no aphoristic flag. |
+| 4.12 | Adorno | Drei Studien zu Hegel ("Aspekte" + "Skoteinos") | DE | ~120 | Dense | | 3 | **[Backfilled 2026-06-27 — present in syllabus/phase3 but absent from this table.]** Adorno → Dense per framework. |
+| 4.13 | Freud | Das Unbehagen in der Kultur | DE | ~80 | Layered | | 8 | **[Added 2026-06-27.]** Eight untitled sections. Freud's prose is lucid (Goethe-Prize stylist) but the argument is conceptually layered — Layered, not Dense. See borderline note. |
+| 4.14 | Nietzsche | Zur Genealogie der Moral, Abhandlungen I–II | DE | ~90 | Layered | | 2 | **[Added 2026-06-27.]** Two continuous essays (not aphoristic — no flag). Reads fast but argument-dense; borderline Dense — see note. |
+| 4.15 | Benjamin + Horkheimer | *Lebensphilosophie* reckoning (thread): Benjamin, "Über einige Motive bei Baudelaire" §§I–III + Horkheimer, "Zu Bergsons Metaphysik der Zeit" | DE | ~70 | Dense | | 2 | **[Backfilled 2026-07-13 (propagation pass).]** Syllabus 4.15 (added 2026-07-12). **Bonus thread, not a scheduled slot — not in any hour baseline** (headroom/Phase IV; conditional MUST-Engage only if Track D Adornian-negativism commits). Benjamin essay → Dense (cf. 4.11 Kunstwerk, no aphoristic flag); Horkheimer → Dense per framework. The Jay *Songs of Experience* chapters and the *Lebensphilosophie* trunk (Bergson/Dilthey/Simmel/Klages) are map-only — no rows. |
 
 ### Module 4A: Pragmatism
 
@@ -143,8 +143,11 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 6.3 | Habermas | TKH Bd. 1 ch. I | DE | ~80 | Systematic | | 1 | |
 | 6.4 | Habermas | TKH Bd. 1 chs. II–III | DE | ~200 | Systematic | | 2 | [RS] — Weber + Frankfurt School reconstructions. |
 | 6.5 | Habermas | TKH Bd. 2 ch. VI + ch. VIII | DE | ~150 | Systematic | | 2 | |
-| 6.6 | Habermas | Faktizität und Geltung, chs. 1–4 | DE | ~200 | Systematic | | 4 | [NE]. |
-| 6.9 | Habermas | Diskursethik — Notizen zu einem Begründungsprogramm | DE | ~75 (est) | Systematic | | 1 | **[Added 2026-07-13 (coverage audit).]** Habermas → Systematic per framework; single long programmatic essay (~60–90pp). Read between 6.5 and 6.6. |
+| 6.6 | Habermas | Diskursethik — Notizen zu einem Begründungsprogramm | DE | ~75 (est) | Systematic | | 1 | **[Added 2026-07-13 (coverage audit).]** Habermas → Systematic per framework; single long programmatic essay (~60–90pp). Read between 6.5 (TKH Bd. 2) and 6.7 (F&G). |
+| 6.7 | Habermas | Faktizität und Geltung, chs. 1–4 + 7–8 | DE | ~250 | Systematic | | 6 | [ES] per 2026-05-22 revision (was [NE], chs. 1–4). **[Row corrected 2026-07-14 (propagation pass).]** |
+| 6.8 | Habermas | Strukturwandel der Öffentlichkeit, selections (Intro + §§II.5–6, IV.13–14, V.18, VI.22, VII.25) | DE | ~50 | Systematic | | 2 (est) | **[Backfilled 2026-07-14 (propagation pass)** — row was missing since the 2026-05-22 addition.] Habermas → Systematic per framework; early historical-sociological prose, selections. |
+| 6.9 | Bohman / Estlund / Floyd | Analytic deliberative-democracy critics: selected articles/chapters | EN | ~100 (est) | Analytic | | 3 (est) | **[Backfilled 2026-07-14 (propagation pass)** — row was missing since the 2026-05-22 addition.] Three analytic texts; cf. 12.3/12.5 conventions. |
+| 6.10 | Lafont | Democracy without Shortcuts (selections) | EN | ~150 (est) | Analytic | | 4 (est) | **[Added 2026-07-14.]** OUP deliberative-democracy monograph; analytic political philosophy, clear-but-argument-dense — Analytic (cf. Young 12.3, Anderson 12.5). Selections. |
 
 ### Module 7: Honneth
 
@@ -186,8 +189,8 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 8.7 | Menke | Kritik der Rechte, Intro + Part I | DE | ~120 | Layered | | 4 (est) | [NE]. Adornian register; Layered. |
 | 8.8 | Stahl | Immanente Kritik, chs. 1–4 | DE | ~200 | Layered | | 4 | |
 | 8.9 | Rosa | Resonanz, Intro + Part I + Part IV | DE | ~200 | Layered | | 6 (est) | Intro + chs. 1–3 + chs. 12–13. |
-| 8.12 | Jaeggi | Fortschritt und Regression | DE | ~252 | Layered | | 6 (est) | Suhrkamp 2023; multi-part structure. |
-| 8.13 | Allen & Mendieta eds. | From Alienation to Forms of Life (selected essays) | EN | ~150 | Layered | | 5 (est) | [Relocated from 7.14, 2026-05-29 — Jaeggi volume.] Mixed essays — Layered as composite. |
+| 8.10 | Jaeggi | Fortschritt und Regression | DE | ~252 | Layered | | 6 (est) | Suhrkamp 2023; multi-part structure. |
+| 8.11 | Allen & Mendieta eds. | From Alienation to Forms of Life (selected essays) | EN | ~150 | Layered | | 5 (est) | [Relocated from 7.14, 2026-05-29 — Jaeggi volume.] Mixed essays — Layered as composite. |
 
 ### Module 8A: Außereuropäische Kritik
 
@@ -198,10 +201,10 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 8A.3 | Spivak | Can the Subaltern Speak? | EN | ~40 | Layered | | 1 | Dense rhetorical-theoretical prose — borderline Dense; Layered consistent with module-typical pace. |
 | 8A.4 | Quijano | Coloniality of Power, Eurocentrism, and Latin America | EN | ~30 | Layered | | 1 | |
 | 8A.5 | Mignolo | The Darker Side of Western Modernity, Intro + chs. 1–2 | EN | ~80 | Layered | | 3 | |
-| 8A.6 | Robinson | Black Marxism, Foreword + chs. 1 + 11 | EN | ~120 | Layered | | 3 | Historical-theoretical mix. |
-| 8A.7 | Wilderson | Afropessimism, Intro + chs. 1–2 | EN | ~120 | Layered | | 3 | |
-| 8A.8 | Mbembe | Critique de la raison nègre, Intro + chs. 1, 6 | FR/EN | ~100 | Transparent | | 3 | Mbembe's prose is comparatively clear; Transparent. |
-| 8A.9 | Fanon | Peau noire, masques blancs, ch. 5 + Hegel section of ch. 7 | FR/DE/EN | ~50 (est) | Layered | | 2 | **[Added 2026-07-13 (coverage audit).]** Original French; read in DE/EN translation. Phenomenological-essayistic; Layered, consistent with module. ~40–60pp edition-dependent. |
+| 8A.6 | Fanon | Peau noire, masques blancs, ch. 5 + Hegel section of ch. 7 | FR/DE/EN | ~50 (est) | Layered | | 2 | **[Added 2026-07-13 (coverage audit).]** Original French; read in DE/EN translation. Phenomenological-essayistic; Layered, consistent with module. ~40–60pp edition-dependent. |
+| 8A.7 | Robinson | Black Marxism, Foreword + chs. 1 + 11 | EN | ~120 | Layered | | 3 | Historical-theoretical mix. |
+| 8A.8 | Wilderson | Afropessimism, Intro + chs. 1–2 | EN | ~120 | Layered | | 3 | |
+| 8A.9 | Mbembe | Critique de la raison nègre, Intro + chs. 1, 6 | FR/EN | ~100 | Transparent | | 3 | Mbembe's prose is comparatively clear; Transparent. |
 
 ---
 
@@ -302,22 +305,22 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 
 | ID | Author | Title | Lang | Pages | Class | Flag | n_chapters | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 14.1 | Streeck | Gekaufte Zeit | DE | ~250 | Transparent | | 5 (est) | Streeck reads at sociology-of-political-economy pace; Transparent per framework. |
-| 14.2 | Fraser | Cannibal Capitalism | EN | ~200 | Layered | | 5 (est) | Fraser monograph; Layered. |
-| 14.3 | Bhattacharya | Mapping Social Reproduction Theory (Intro to ed. vol.) | EN | ~30 | Layered | | 1 | |
-| 14.4 | Postone | Time, Labor, and Social Domination, chs. 1–5 | EN | ~200 | Systematic | | 5 | Most philosophically demanding text in module; Systematic. |
-| 14.5 | Wright | Envisioning Real Utopias, chs. 1–4 | EN | ~150 | Layered | | 4 | |
-| 14.6 | Brown | Undoing the Demos | EN | ~200 | Layered | | 6 (est) | |
-| 14.7 | Honneth | Die Idee des Sozialismus | DE | ~180 | Systematic | | 5 (est) | Special rule #3 — monograph → Systematic. |
-| 14.8 | Redecker | Selected articles + Revolution für das Leben | DE | ~120 | Layered | | 3 (est) | Articles + accessible companion. |
-| 14.9 | Aglietta | Régulation et crises du capitalisme, Intro + ch. 1 | FR/EN | ~120 | Layered | | 2 | Régulation-school technical-economic register; borderline Layered/Analytic — went Layered. |
-| 14.10 | Lordon | Capitalisme, désir et servitude, chs. 1–4 | FR/EN | ~100 | Layered | | 4 | |
-| 14.11 | Mau | Mute Compulsion (Intro + Parts I–II) | EN | ~180 | Layered | | 5 (est) | **[Backfilled 2026-06-29 — present in syllabus/phase3 but absent here.]** Marxist; accessible to economist. |
-| 14.12 | Castel | Les métamorphoses de la question sociale (Intro + Parts III–IV) | FR/DE | ~200 | Layered | | 4 (est) | **[Backfilled 2026-06-29.]** Sociology of work; long-historical. |
-| 14.13 | Engster | Das Geld als Maß, Mittel und Methode | DE | ~200 | Systematic | | 5 (est) | **[Added 2026-06-29 — branch B.]** Value-form-as-measurement; technical, German. |
-| 14.14 | Lapavitsas | Profiting Without Producing (Intro + chs. 1–4 + CB ch.) | EN | ~180 | Layered | | 6 (est) | **[Added 2026-06-29 — branch B.]** Marxist monetary theory; economist-accessible. |
-| 14.15 | Jaeggi & Loick (eds.) | Nach Marx (selected contributions) | DE | ~150 | Layered | | 4 (est) | **[Added 2026-06-29 — branch B.]** Essay collection; the recognition↔CPE bridge. |
-| 14.16 | Habermas + Offe | Legitimationsprobleme im Spätkapitalismus, Teil II + Offe selection | DE | ~70 (est) | Systematic | | 2 (est) | **[Added 2026-07-13 (coverage audit).]** Habermas → Systematic per framework; Offe selection rides in the same unit. Read before/with 14.1. |
+| 14.1 | Habermas + Offe | Legitimationsprobleme im Spätkapitalismus, Teil II + Offe selection | DE | ~70 (est) | Systematic | | 2 (est) | **[Added 2026-07-13 (coverage audit).]** Habermas → Systematic per framework; Offe selection rides in the same unit. Read before/with 14.1. |
+| 14.2 | Streeck | Gekaufte Zeit | DE | ~250 | Transparent | | 5 (est) | Streeck reads at sociology-of-political-economy pace; Transparent per framework. |
+| 14.3 | Fraser | Cannibal Capitalism | EN | ~200 | Layered | | 5 (est) | Fraser monograph; Layered. |
+| 14.4 | Bhattacharya | Mapping Social Reproduction Theory (Intro to ed. vol.) | EN | ~30 | Layered | | 1 | |
+| 14.5 | Postone | Time, Labor, and Social Domination, chs. 1–5 | EN | ~200 | Systematic | | 5 | Most philosophically demanding text in module; Systematic. |
+| 14.6 | Wright | Envisioning Real Utopias, chs. 1–4 | EN | ~150 | Layered | | 4 | |
+| 14.7 | Brown | Undoing the Demos | EN | ~200 | Layered | | 6 (est) | |
+| 14.8 | Honneth | Die Idee des Sozialismus | DE | ~180 | Systematic | | 5 (est) | Special rule #3 — monograph → Systematic. |
+| 14.9 | Redecker | Selected articles + Revolution für das Leben | DE | ~120 | Layered | | 3 (est) | Articles + accessible companion. |
+| 14.10 | Aglietta | Régulation et crises du capitalisme, Intro + ch. 1 | FR/EN | ~120 | Layered | | 2 | Régulation-school technical-economic register; borderline Layered/Analytic — went Layered. |
+| 14.11 | Lordon | Capitalisme, désir et servitude, chs. 1–4 | FR/EN | ~100 | Layered | | 4 | |
+| 14.12 | Mau | Mute Compulsion (Intro + Parts I–II) | EN | ~180 | Layered | | 5 (est) | **[Backfilled 2026-06-29 — present in syllabus/phase3 but absent here.]** Marxist; accessible to economist. |
+| 14.13 | Castel | Les métamorphoses de la question sociale (Intro + Parts III–IV) | FR/DE | ~200 | Layered | | 4 (est) | **[Backfilled 2026-06-29.]** Sociology of work; long-historical. |
+| 14.14 | Engster | Das Geld als Maß, Mittel und Methode | DE | ~200 | Systematic | | 5 (est) | **[Added 2026-06-29 — branch B.]** Value-form-as-measurement; technical, German. |
+| 14.15 | Lapavitsas | Profiting Without Producing (Intro + chs. 1–4 + CB ch.) | EN | ~180 | Layered | | 6 (est) | **[Added 2026-06-29 — branch B.]** Marxist monetary theory; economist-accessible. |
+| 14.16 | Jaeggi & Loick (eds.) | Nach Marx (selected contributions) | DE | ~150 | Layered | | 4 (est) | **[Added 2026-06-29 — branch B.]** Essay collection; the recognition↔CPE bridge. |
 
 ### Module 15: Zeitdiagnose
 
@@ -538,19 +541,20 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | H.0.2 | Koller | Bildung anders denken | DE | ~190 | Transparent | | 6 (est) | Textbook. |
 | H.0.3 | Tippelt & Schmidt-Hertha (eds.) | Handbuch Bildungsforschung | DE | ref | Transparent | | 1 | Reference only. |
 | H.0.4 | Hurrelmann, Bauer, Grundmann & Walper (eds.) | Handbuch Sozialisationsforschung | DE | ref | Transparent | | 1 | Reference only. |
+| H.1.0 | Horkheimer | "Allgemeiner Teil", in Studien über Autorität und Familie (1936) | DE | ~60 | Dense | | 1 | **[Added 2026-07-14.]** 1936 Horkheimer programmatic-theoretical prose → Dense per framework (cf. Horkheimer 1937 = 4.1, Dense). Zero-indexed to head Appendix H.1. |
 | H.1.1 | Whitebook | The Marriage of Marx and Freud (essay) | EN | ~30 | Layered | | 1 | |
 | H.1.2 | Benjamin | The Bonds of Love, chs. 1–3 | EN | ~120 | Layered | | 3 | Cross-ref to 7.11; primary there. |
 | H.1.3 | Honneth | Objektbeziehungstheorie und postmoderne Identität (essay) | DE | ~25 | Layered | | 1 | |
 | H.1.4 | Whitebook | Perversion and Utopia, chs. 1–3 | EN | ~120 | Layered | | 3 | [NE]. |
-| H.1.5 | Marcuse | Triebstruktur und Gesellschaft (Eros and Civilization) | EN | ~180 | Layered | | 8 (est) | **[Added 2026-06-27.]** Freudo-Marxist counter to Freud 4.12; cf. 4.8 ODM (also Layered). ~180pp core selection. |
+| H.1.5 | Marcuse | Triebstruktur und Gesellschaft (Eros and Civilization) | EN | ~180 | Layered | | 8 (est) | **[Added 2026-06-27.]** Freudo-Marxist counter to Freud 4.13; cf. 4.9 ODM (also Layered). ~180pp core selection. |
 | H.1.6 | Fromm | Die Furcht vor der Freiheit (Escape from Freedom) | EN | ~270 | Layered | | 7 | **[Added 2026-06-27.]** Orig. English (1941); accessible theoretical prose; 7 chapters + appendix. |
 | H.1.7 | Mitscherlich | Auf dem Weg zur vaterlosen Gesellschaft | DE | ~200 | Layered | | 6 (est) | **[Added 2026-06-27.]** [RS]. Essayistic-clinical German prose; ~200pp selection. |
 | H.1.8 | Layton | Toward a Social Psychoanalysis | EN | ~200 | Layered | | 6 (est) | **[Added 2026-06-29 — branch E.]** Normative unconscious processes. |
 | H.1.9 | Ikäheimo | Recognition and the Human Life-Form | EN | ~200 | Analytic | | 6 (est) | **[Added 2026-06-29 — branch E.]** Analytic recognition theory; cf. 7.15. |
-| H.1.10 | Allen | Critique on the Couch | EN | ~250 (est) | Layered | | 7 (est) | **[Added 2026-07-13 (coverage audit).]** Allen → Layered per framework. Verify subtitle (Columbia UP 2021). Read after H.1.8. |
+| H.1.10 | Allen | Critique on the Couch | EN | ~280 | Layered | | 7 (est) | **[Added 2026-07-13 (coverage audit); pages/date corrected 2026-07-14 QA pass.]** Allen → Layered per framework. *Critique on the Couch: Why Critical Theory Needs Psychoanalysis* (Columbia UP 2020; copyright sometimes cited 2021). Read after H.1.8. |
 | H.2.1 | Gerhardt | Why Love Matters | EN | ~280 | Transparent | | 9 (est) | Popular-science synthesis. |
 | H.2.2 | Allen | The Politics of Our Selves, chs. 1–4 | EN | ~150 | Layered | | 4 | |
-| H.3.1 | Bhattacharya | Mapping Social Reproduction Theory | EN | ~30 | Layered | | 1 | Cross-ref to 14.3; primary there. |
+| H.3.1 | Bhattacharya | Mapping Social Reproduction Theory | EN | ~30 | Layered | | 1 | Cross-ref to 14.4; primary there. |
 | H.3.2 | Arruzza, Bhattacharya & Fraser | Feminism for the 99%: A Manifesto | EN | ~80 | Transparent | | 1 | Short manifesto. |
 | H.3.3 | Federici | Revolution at Point Zero (essays) | EN | ~80 | Layered | | 3 | Cross-ref to C.17 (primary). |
 | H.3.4 | Federici | Caliban and the Witch | EN | ~150 | Layered | | 4 | Cross-ref to C.16 (primary). |
@@ -567,24 +571,24 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | H.6.1 | Adorno | Theorie der Halbbildung (essay) | DE | ~30 | Dense | | 1 | Adorno essay → Dense per framework. |
 | H.6.2 | Heydorn | Über den Widerspruch von Bildung und Herrschaft (Intro + Parts I + III) | DE | ~120 | Layered | | 3 | |
 | H.6.3 | Humboldt | Theorie der Bildung des Menschen + Ideen (selections) | DE | ~30 | Dense | | 2 | 1793 fragment + 1792 essay selections; classical-philosophical prose. |
-| H.6.4 | Mollenhauer | Vergessene Zusammenhänge | DE | ~200 | Layered | | 6 (est) | |
-| H.6.5 | English | Discontinuity in Learning, chs. 1–5 | EN | ~200 | Analytic | | 5 | |
-| H.6.6 | Krappmann | Soziologische Dimensionen der Identität | DE | ~200 | Layered | | 5 (est) | |
-| H.6.7 | Hurrelmann & Bauer | Einführung in die Sozialisationstheorie (12th ed.) | DE | ~300 | Transparent | | 8 (est) | Cross-ref to H.0.1; same text. *Do not double-count.* |
-| H.6.8 | Stojanov | Bildungsgerechtigkeit, chs. 1–4 | DE | ~120 | Analytic | | 4 | Analytic-philosophical-pedagogical register. |
-| H.6.9 | Drerup & Schweiger (eds.) | Philosophy and Child Poverty (selected essays) | EN | ~80 | Analytic | | 3 (est) | |
-| H.6.10 | Klafki | Neue Studien zur Bildungstheorie und Didaktik (selections) | DE | ~100 (est) | Layered | | 3 (est) | **[Added 2026-07-13 (coverage audit).]** German Pädagogik register, cf. Heydorn H.6.2 / Mollenhauer H.6.4 → Layered. Verify edition (1985, rev. 1991). Belongs to sub-section H.6a. |
+| H.6.4 | Klafki | Neue Studien zur Bildungstheorie und Didaktik (selections) | DE | ~100 (est) | Layered | | 3 (est) | **[Added 2026-07-13 (coverage audit).]** German Pädagogik register, cf. Heydorn H.6.2 / Mollenhauer H.6.5 → Layered. 2nd expanded ed. (Beltz 1991; 1st ed. 1985). Belongs to sub-section H.6a. |
+| H.6.5 | Mollenhauer | Vergessene Zusammenhänge | DE | ~200 | Layered | | 6 (est) | |
+| H.6.6 | English | Discontinuity in Learning, chs. 1–5 | EN | ~200 | Analytic | | 5 | |
+| H.6.7 | Krappmann | Soziologische Dimensionen der Identität | DE | ~200 | Layered | | 5 (est) | |
+| H.6.8 | Hurrelmann & Bauer | Einführung in die Sozialisationstheorie (12th ed.) | DE | ~300 | Transparent | | 8 (est) | Cross-ref to H.0.1; same text. *Do not double-count.* |
+| H.6.9 | Stojanov | Bildungsgerechtigkeit, chs. 1–4 | DE | ~120 | Analytic | | 4 | Analytic-philosophical-pedagogical register. |
+| H.6.10 | Drerup & Schweiger (eds.) | Philosophy and Child Poverty (selected essays) | EN | ~80 | Analytic | | 3 (est) | |
 
 ---
 
 ## Appendix I — Building Toward Hegel (scheduled items only)
 
-**[Section backfilled 2026-07-13 (propagation pass).]** Syllabus Appendix I (added 2026-05-29) is the full deep-Hegel build-up programme (~725–940h) and is mostly [NE]/deferred with no scheduled slots; rows below cover only the items the schedule actually executes — the two Kant items of the Module 7 Kant→Khurana pre-block (2026-07-12; see 1.6F above). Remaining Appendix I items (I.1.1–I.1.4, I.1.6, I.1.8–I.1.10, the I.4.x deep-Hegel tracks, I.0a) get rows if and when they are scheduled — a known, flagged gap against this file's "every text" claim, accepted because unscheduled appendix material generates no hour budget.
+**[Section backfilled 2026-07-13 (propagation pass).]** Syllabus Appendix I (added 2026-05-29) is the full deep-Hegel build-up programme (~725–940h) and is mostly [NE]/deferred with no scheduled slots; rows below cover only the items the schedule actually executes — the two Kant items of the Module 7 Kant→Khurana pre-block (2026-07-12; see 1.7F above). Remaining Appendix I items (I.1.1–I.1.4, I.1.6, I.1.8–I.1.10, the I.4.x deep-Hegel tracks, I.0a) get rows if and when they are scheduled — a known, flagged gap against this file's "every text" claim, accepted because unscheduled appendix material generates no hour budget.
 
 | ID | Author | Title | Lang | Pages | Class | Flag | n_chapters | Notes |
 |---|---|---|---|---|---|---|---|---|
 | I.1.5 | Kant | Grundlegung zur Metaphysik der Sitten (complete: Vorrede + Abschnitte I–III) | DE | ~80 | Systematic | | 4 | **[Backfilled 2026-07-13 (propagation pass).]** Scheduled via the Module 7 pre-block (M20–21, opt-in; Layer-2 *retained* — also underwrites Forst 7.7). Classical German primary but tightly structured and largely self-standing; borderline Dense — see borderline note. Syllabus estimate 8–10h ≈ 8–10 pp/h. |
-| I.1.7 | Kant | Kritik der Urteilskraft — Kritik der teleologischen Urteilskraft, §§64–66 | DE | ~20 | Dense | | 1 | **[Backfilled 2026-07-13 (propagation pass).]** Scheduled via the Module 7 pre-block (M20–21, opt-in; Layer-2 first cut); direct prerequisite for Khurana 1.6F's life–freedom analogy. Late-Kant teleology → Dense (syllabus 4–6h ≈ 3–5 pp/h). |
+| I.1.7 | Kant | Kritik der Urteilskraft — Kritik der teleologischen Urteilskraft, §§64–66 | DE | ~20 | Dense | | 1 | **[Backfilled 2026-07-13 (propagation pass).]** Scheduled via the Module 7 pre-block (M20–21, opt-in; Layer-2 first cut); direct prerequisite for Khurana 1.7F's life–freedom analogy. Late-Kant teleology → Dense (syllabus 4–6h ≈ 3–5 pp/h). |
 
 ---
 
@@ -598,7 +602,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 - 7.5 Honneth = W2.1 (Markt chapter only)
 - 8.5 Jaeggi & Fraser = W2.3
 - 11C.2 Bourdieu = E.1.4
-- 14.3 Bhattacharya = H.3.1
+- 14.4 Bhattacharya = H.3.1
 - C.16 Federici = H.3.4
 - C.17 Federici = H.3.3
 - C.17a Dalla Costa & James = H.3.5
@@ -606,7 +610,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 - 18.2 Gehlen = H.4.2
 - 17.1 Epstein = F.2.3 (remaining chapters)
 - 9.5 Shelby = A.3.2
-- H.0.1 / H.6.7 Hurrelmann & Bauer (same text)
+- H.0.1 / H.6.8 Hurrelmann & Bauer (same text)
 - C.0.2 / D.0.3 Henning (same text)
 - 15.1 = E.0.1 (Schimank/Volkmann survey)
 - 9.7 / E.3.2 Boltanski *De la critique*
@@ -616,15 +620,15 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 
 **Borderline classifications worth flagging (Class column = chosen value, not `?`):**
 - 11D.3 Bhaskar — Transparent (orientation-tier) vs. Analytic (philosophical density). Went Transparent because all of 11D is [O].
-- 14.9 Aglietta — Analytic (technical Régulation prose) vs. Layered (sociology-of-economic-form). Went Layered.
+- 14.10 Aglietta — Analytic (technical Régulation prose) vs. Layered (sociology-of-economic-form). Went Layered.
 - 8A.3 Spivak — Dense (deliberately resistant rhetorical theory) vs. Layered. Went Layered for module consistency.
 - 4.3 Pollock — Dense (Frankfurt-internal critical theory) vs. Layered. Went Layered; clearer prose than DdA.
-- 4.8 Marcuse — Layered vs. Transparent. Went Layered; thesis-driven but conceptually layered.
+- 4.9 Marcuse — Layered vs. Transparent. Went Layered; thesis-driven but conceptually layered.
 - 18.1 Plessner / Fischer — depends on which (substitute) is read; Layered as compromise.
 - 7.16 Gregoratto — Layered (composite of 2–3 articles); could vary.
 - G.4 Merleau-Ponty — Dense vs. Systematic. Went Dense.
-- 4.12 Freud *Unbehagen* — Layered vs. Transparent. Went Layered; lucid prose but a conceptually demanding primary theory, not an intro/secondary text.
-- 4.13 Nietzsche *Genealogie* I–II — Layered vs. Dense. Went Layered (German-fluent reader; vivid continuous prose, not Hegel-slow), but read slowly for the argument despite the surface pace.
+- 4.13 Freud *Unbehagen* — Layered vs. Transparent. Went Layered; lucid prose but a conceptually demanding primary theory, not an intro/secondary text.
+- 4.14 Nietzsche *Genealogie* I–II — Layered vs. Dense. Went Layered (German-fluent reader; vivid continuous prose, not Hegel-slow), but read slowly for the argument despite the surface pace.
 - I.1.5 Kant *Grundlegung* — Systematic vs. Dense. Went Systematic **[Backfilled 2026-07-13 (propagation pass)]**: scholastic but tightly structured treatise prose, faster than Hegel/KrV pace; the syllabus/plan estimate (~8–10h for ~80pp) sits at the Systematic/Layered boundary, not at Dense. The KU teleology sections (I.1.7) stay Dense.
 
 **Page-count anomalies in syllabus (listed verbatim per syllabus, but likely errors — flagged for downstream sanity-check):**

@@ -106,7 +106,7 @@ The MUST = (a) ∨ (b) criterion identifies membership; the Anchor/Engage split 
 ### 2.4 Asymmetries this captures
 
 1. A MUST [P] can be either Full or Light depending on apparatus vs coverage. *Phänomenologie* IV.A (1.3) is MUST-Anchor [P] → Full because Herr/Knecht is the conceptual entry to recognition theory.
-2. A MUST [ES] / [ES*] can be Full when it is the *portal* through which the user controls a primary apparatus he will reuse. Heinrich (2.3) is MUST-Anchor [ES] → Full; Neuhouser (1.1) is MUST-Anchor [ES*] → Full.
+2. A MUST [ES] / [ES*] can be Full when it is the *portal* through which the user controls a primary apparatus he will reuse. Heinrich (2.4) is MUST-Anchor [ES] → Full; Neuhouser (1.1) is MUST-Anchor [ES*] → Full.
 3. A MUST [P*] can be Light when the [P*] tag captures "best frontier statement" rather than "apparatus to reuse." Zurn 8.3, Laitinen-Särkelä 8.4, Jaeggi-Fraser 8.5 are MUST-Engage [P*] → Light because they are reviewer-expected coverage, not apparatus.
 4. SHOULD [P*] / [ES*] should not exist; if it does, that is a flag to re-examine the Phase III class, not a routing rule.
 
@@ -204,19 +204,21 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 1.1 Neuhouser *Foundations* | MUST-Anchor | Full | The reconstruction-key for Hegel — the portal via which the user controls the *Sittlichkeit* apparatus he will reuse in Phase III. |
 | 1.2 Hegel *Rechtsphilosophie* selections | MUST-Anchor | Full | The single most foundational primary on the critical-path chain; the Phase III piece will deploy *Sittlichkeit*-apparatus directly. |
 | 1.3 Hegel *Phänomenologie* IV.A | MUST-Anchor | Full | Herr/Knecht is the conceptual entry to *all* recognition theory; invoked structurally, not just cited. |
-| 1.4 Pippin | DISCRETIONARY | Skip | Second analytic voice; Neuhouser suffices on the critical path. |
-| 1.5 Wood *Hegel's Ethical Thought* | DISCRETIONARY | Skip | Third reconstruction; redundant given Neuhouser. |
-| 1.6 Khurana *Das Leben der Freiheit* | SHOULD | Orientation | Standard current German reference on Hegelian freedom; [O] tag. Conditional MUST-Engage if Phase III commits to Hegelian-freedom / recognition terrain (§4). |
+| 1.4 Honneth *Leiden an Unbestimmtheit* | SHOULD | Light | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** The first trial of normative reconstruction on Hegel; the bridge between Module 1 and *Recht der Freiheit* (7.5). [ES] tag → Light. Conditional MUST-Engage if Phase III commits to Hegelian-freedom / recognition terrain (§4). |
+| 1.5 Pippin | DISCRETIONARY | Skip | Second analytic voice; Neuhouser suffices on the critical path. |
+| 1.6 Wood *Hegel's Ethical Thought* | DISCRETIONARY | Skip | Third reconstruction; redundant given Neuhouser. |
+| 1.7 Khurana *Das Leben der Freiheit* | SHOULD | Orientation | Standard current German reference on Hegelian freedom; [O] tag. Conditional MUST-Engage if Phase III commits to Hegelian-freedom / recognition terrain (§4). |
 
 ### Module 2: Marx
 
 | Item | Class | Tier | Rationale |
 |---|---|---|---|
 | 2.1 Marx ÖpM "Entfremdete Arbeit" | MUST-Anchor | Full | Direct ancestor of Jaeggi's *Entfremdung*. |
-| 2.2a Marx *Kapital* I ch. 1 §§1–4 | MUST-Anchor | Full | Commodity-fetishism (§4) is the social-ontological move the entire tradition descends from. (Execution plan splits per-§: §§1–4 each get a Recon.) |
-| 2.2b Marx *Kapital* I (chs. 2–3 + ch. 10) | MUST-Engage | Light | Exchange, money, working day — read with comprehension; not apparatus the user reconstructs at Full tier. |
-| 2.3 Heinrich *Kritik der politischen Ökonomie* | MUST-Anchor | Full | The *neue Marx-Lektüre* framing is the apparatus the ECB-economist user will deploy in any capitalism-as-form Phase III piece. Short, transparent, the access route to value-form thinking. |
-| 2.4 Wood *Karl Marx* | DISCRETIONARY | Skip | Heinrich suffices for Sozialphilosophie. |
+| 2.2 Marx & Engels *Die deutsche Ideologie* + Thesen über Feuerbach | MUST-Engage | Light | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** The founding text of *Ideologiekritik* (camera obscura; ruling ideas; the substance of the base/superstructure doctrine); the unread original the whole ideology-critique strand (9.3–9.5, 13.5) revises. Reviewer-expected coverage. |
+| 2.3a Marx *Kapital* I ch. 1 §§1–4 | MUST-Anchor | Full | Commodity-fetishism (§4) is the social-ontological move the entire tradition descends from. (Execution plan splits per-§: §§1–4 each get a Recon.) |
+| 2.3b Marx *Kapital* I (chs. 2–3 + ch. 10) | MUST-Engage | Light | Exchange, money, working day — read with comprehension; not apparatus the user reconstructs at Full tier. |
+| 2.4 Heinrich *Kritik der politischen Ökonomie* | MUST-Anchor | Full | The *neue Marx-Lektüre* framing is the apparatus the ECB-economist user will deploy in any capitalism-as-form Phase III piece. Short, transparent, the access route to value-form thinking. |
+| 2.5 Wood *Karl Marx* | DISCRETIONARY | Skip | Heinrich suffices for Sozialphilosophie. |
 
 ### Module 3: Weber
 
@@ -241,16 +243,17 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 4.1 Horkheimer "Traditionelle und kritische Theorie" | MUST-Anchor | Full | The programmatic manifesto; defines what makes theory critical. Apparatus for any methodological Phase III piece. |
 | 4.2 *Dialektik der Aufklärung* (Begriff + Odysseus) | MUST-Engage | Light | The most influential critique of instrumental rationality. Tradition-anchor but not apparatus unless Phase III commits to Adornian terrain. Conditional MUST-Anchor per §4. |
 | 4.3 Pollock "State Capitalism" (1941) | SHOULD | Light | Frankfurt-internal alternative framing to DdA; short, decisive. |
-| 4.4 Adorno *Minima Moralia* (selections) | SHOULD | Light | Method-on-everyday-experience example. v6 [RS]; aphoristic flag preserved. |
-| 4.5 Adorno *Negative Dialektik* (selections) | SHOULD | Light | Selection only; full text Phase IV-deferred. |
-| 4.6 Freyenhagen *Adorno's Practical Philosophy* | SHOULD *(conditional MUST-Engage)* | Light | Bridges to social-pathologies debate. Conditional MUST-Engage if Phase III commits to Adornian social-pathology baseline (§4). |
-| 4.7 Wiggershaus | COULD | Orientation | Historical context for first-to-second-generation transition; useful but not load-bearing. |
-| 4.8 Marcuse *One-Dimensional Man* | SHOULD | Light | Third major first-generation diagnostic. |
-| 4.9 Benjamin Theses on history | SHOULD | Light | Background for Allen's *End of Progress* (8.6, on critical path). Aphoristic flag. |
-| 4.10 Benjamin Kunstwerk essay | SHOULD | Light | Historical anchorage for digital-society frontier questions. |
-| 4.11 Adorno *Drei Studien zu Hegel* | SHOULD | Light | **NEW in v6.** Hegel–Adorno bridge; load-bearing for the Reichelt 13.2 structural-homology argument and the Module 4 → Module 13 transition. |
-| 4.12 Freud *Das Unbehagen in der Kultur* | SHOULD *(conditional MUST-Engage if Adornian / social-psychology track)* | Light | **NEW 2026-06-27.** The Freudian substrate of first-generation critical theory (authoritarian personality, DdA's inward turn of domination); short, high-leverage. [P] → Light per §2.3. Conditional MUST-Engage if Phase III commits to Adornian social-pathology or socialisation terrain (§4). |
-| 4.13 Nietzsche *Zur Genealogie der Moral* I–II | COULD *(conditional SHOULD/MUST-Engage if genealogy / Adorno / Foucault-power track)* | Orientation | **NEW 2026-06-27.** Genealogical-method template; headwater of DdA's Nietzsche-engagement (Module 4) and Foucauldian genealogy (11A). [RS] → Orientation; promote if Phase III commits to genealogical / Adornian or power terrain (§4). |
+| 4.4 Neumann *Behemoth* (selections) | COULD | Orientation | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** Monopoly-capitalism counterweight to Pollock 4.3 in the state-capitalism controversy; [RS] / Context-Layer — promote only if a state/economy angle fires (§4). *(4.15 Lebensphilosophie thread is a bonus/map-only strand — no §3 classification; see syllabus 4.15 and §4 Branch D.)* |
+| 4.5 Adorno *Minima Moralia* (selections) | SHOULD | Light | Method-on-everyday-experience example. v6 [RS]; aphoristic flag preserved. |
+| 4.6 Adorno *Negative Dialektik* (selections) | SHOULD | Light | Selection only; full text Phase IV-deferred. |
+| 4.7 Freyenhagen *Adorno's Practical Philosophy* | SHOULD *(conditional MUST-Engage)* | Light | Bridges to social-pathologies debate. Conditional MUST-Engage if Phase III commits to Adornian social-pathology baseline (§4). |
+| 4.8 Wiggershaus | COULD | Orientation | Historical context for first-to-second-generation transition; useful but not load-bearing. |
+| 4.9 Marcuse *One-Dimensional Man* | SHOULD | Light | Third major first-generation diagnostic. |
+| 4.10 Benjamin Theses on history | SHOULD | Light | Background for Allen's *End of Progress* (8.6, on critical path). Aphoristic flag. |
+| 4.11 Benjamin Kunstwerk essay | SHOULD | Light | Historical anchorage for digital-society frontier questions. |
+| 4.12 Adorno *Drei Studien zu Hegel* | SHOULD | Light | **NEW in v6.** Hegel–Adorno bridge; load-bearing for the Reichelt 13.2 structural-homology argument and the Module 4 → Module 13 transition. |
+| 4.13 Freud *Das Unbehagen in der Kultur* | SHOULD *(conditional MUST-Engage if Adornian / social-psychology track)* | Light | **NEW 2026-06-27.** The Freudian substrate of first-generation critical theory (authoritarian personality, DdA's inward turn of domination); short, high-leverage. [P] → Light per §2.3. Conditional MUST-Engage if Phase III commits to Adornian social-pathology or socialisation terrain (§4). |
+| 4.14 Nietzsche *Zur Genealogie der Moral* I–II | COULD *(conditional SHOULD/MUST-Engage if genealogy / Adorno / Foucault-power track)* | Orientation | **NEW 2026-06-27.** Genealogical-method template; headwater of DdA's Nietzsche-engagement (Module 4) and Foucauldian genealogy (11A). [RS] → Orientation; promote if Phase III commits to genealogical / Adornian or power terrain (§4). |
 
 ### Module 4A: Pragmatism
 
@@ -281,9 +284,11 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 6.3 TKH Bd. 1 ch. I (validity claims, communicative rationality) | MUST-Anchor | Full | The rationality apparatus the user must control under his own pen for any communicative-reason engagement. |
 | 6.4 TKH Bd. 1 chs. II–III (Weber + Frankfurt reconstructions) | MUST-Engage | Light | Coverage for the canonical reconstructions; not apparatus reuse. [RS] tag in v6 confirms read-selectively. |
 | 6.5 TKH Bd. 2 ch. VI + ch. VIII (System/Lebenswelt + colonisation) | MUST-Engage | Light | System/Lebenswelt + colonisation thesis — coverage for the canonical claims, not chapter-level apparatus reuse. |
-| 6.6 Habermas *Faktizität und Geltung* | MUST-Engage | Light | **NEW promotion vs v1.3.** v6 [ES] upgrade: load-bearing for any Phase III piece touching democratic legitimacy / public sphere / rights / constitutionalism. Forst 7.7–7.10 unintelligible without F&G. Conditional MUST-Anchor per §4. |
-| 6.7 *Strukturwandel der Öffentlichkeit* (selections) | MUST-Engage | Light | **NEW promotion vs v1.3.** v6 [ES] addition: without it, Fraser 7.12 reads backwards. Coverage of the canonical public-sphere argument. |
-| 6.8 Bohman/Estlund/Floyd (analytic deliberative-democracy critics) | SHOULD | Light | **NEW in v6.** Live Anglophone debate Habermas's framework now engages. Conditional MUST-Engage if deliberative-democracy / legitimacy track commits (§4). |
+| 6.6 Habermas "Diskursethik — Notizen zu einem Begründungsprogramm" | MUST-Engage | Light | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** Discourse ethics proper (principles U/D); the normative core previously missing between communicative rationality (6.3) and *Faktizität und Geltung* (6.7). Forst 7.7–7.10 descend from it. Reviewer-expected. |
+| 6.7 Habermas *Faktizität und Geltung* | MUST-Engage | Light | **NEW promotion vs v1.3.** v6 [ES] upgrade: load-bearing for any Phase III piece touching democratic legitimacy / public sphere / rights / constitutionalism. Forst 7.7–7.10 unintelligible without F&G. Conditional MUST-Anchor per §4. |
+| 6.8 *Strukturwandel der Öffentlichkeit* (selections) | MUST-Engage | Light | **NEW promotion vs v1.3.** v6 [ES] addition: without it, Fraser 7.12 reads backwards. Coverage of the canonical public-sphere argument. |
+| 6.9 Bohman/Estlund/Floyd (analytic deliberative-democracy critics) | SHOULD | Light | **NEW in v6.** Live Anglophone debate Habermas's framework now engages. Conditional MUST-Engage if deliberative-democracy / legitimacy track commits (§4). |
+| 6.10 Lafont *Democracy without Shortcuts* | COULD | Orientation | **[Added 2026-07-14 (QA pass).]** The Habermasian side of the technocratic-shortcuts debate (vs. Estlund's epistemic side, 6.9); the most ECB-relevant deliberative-democracy text (central-bank legitimacy = the paradigmatic "shortcut"). Conditional MUST-Engage under the deliberative-democracy / legitimacy trigger (§4). |
 
 ### Module 7: Honneth
 
@@ -312,6 +317,7 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 7.21 Allen *Politics of Our Selves* | MUST-Engage | Light | **NEW promotion vs v1.3.** v6 cross-listed from H.2.2: Allen is the second-major recognition+power critic alongside *End of Progress*; appendix-burial under-weighted her role. Reviewer-expected for any recognition/power debate. |
 | 7.22 Jütten on Honneth market | SHOULD | Light | **Upgraded v2.1 from COULD Orient; relocated from 8.10, 2026-05-29 (it is a Honneth item).** Bridge §2.4 names Jütten as a Phase II–III interlocutor + future-co-authorship target ("precise fit" for outsider-insider profile; already at the intersection of normative reconstruction and economic analysis). Direct test of Honneth 7.5 *Markt* chapter against empirical economics — the methodological-pressure-test of the Module 7 reading (scheduled in the Module 7 window, right after 7.5). |
 | 7.23 Neuhouser on Honneth method | COULD | Orientation | **Relocated from 8.11, 2026-05-29 (it is a Honneth item).** Methodological gap between reconstruction and social science. |
+| 7.24 Herzog *Inventing the Market* | SHOULD | Light | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** Philosopher-of-economics reading of Smith/Hegel on markets; the named prototype interlocutor for the outsider–insider profile, feeding the 7.5 ↔ 7.22 ↔ 7.23 market pressure-test. [ES] → Light. |
 
 ### Module 8: Jaeggi
 
@@ -326,8 +332,8 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 8.7 Menke *Kritik der Rechte* | DISCRETIONARY | Skip | Hegelian-Adornian; departure from mainstream pathologies debate. |
 | 8.8 Stahl *Immanente Kritik* | SHOULD | Light | Bridges analytic ontology and Frankfurt critique. |
 | 8.9 Rosa *Resonanz* | SHOULD | Light | Direct rival diagnostic framework. |
-| 8.12 Jaeggi *Fortschritt und Regression* (2023) | MUST-Engage baseline | Light | Jaeggi's first major monograph since 2014; ~7 years of reception by M48 — settled-reception by mid-2030. Reads as engaging 2014-Jaeggi rather than current Jaeggi without it. Conditional MUST-Anchor per §4. |
-| 8.13 Allen & Mendieta on Jaeggi | COULD | Orientation | **Relocated from 7.14, 2026-05-29 (it is a volume on Jaeggi).** Useful if Phase III touches Jaeggi-Allen debate directly. |
+| 8.10 Jaeggi *Fortschritt und Regression* (2023) | MUST-Engage baseline | Light | Jaeggi's first major monograph since 2014; ~7 years of reception by M48 — settled-reception by mid-2030. Reads as engaging 2014-Jaeggi rather than current Jaeggi without it. Conditional MUST-Anchor per §4. |
+| 8.11 Allen & Mendieta on Jaeggi | COULD | Orientation | **Relocated from 7.14, 2026-05-29 (it is a volume on Jaeggi).** Useful if Phase III touches Jaeggi-Allen debate directly. |
 
 ### Module 8A: Außereuropäische Kritik
 
@@ -338,9 +344,10 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 8A.3 Spivak "Subaltern" | SHOULD | Light | Sharpest challenge to discourse-ethical optimism. |
 | 8A.4 Quijano "Coloniality of Power" | MUST-Engage | Light | Canonical decolonial; the master concept. |
 | 8A.5 Mignolo *Darker Side of Modernity* | SHOULD | Light | Most systematic decolonial development. |
-| 8A.6 Robinson *Black Marxism* | MUST-Engage baseline *(conditional MUST-Anchor)* | Light → Full conditional | Racial capitalism thesis; directly engaged by Fraser 14.2. Conditional Anchor if Fraser bridge commits. |
-| 8A.7 Wilderson *Afropessimism* | COULD | Orientation | Sharpest frontal critique of recognition. |
-| 8A.8 Mbembe *Critique of Black Reason* | COULD | Orientation | Philosophical-historical infrastructure for racial-capitalism analysis. |
+| 8A.6 Fanon *Peau noire, masques blancs* (ch. 5 + ch. 7 Hegel section) | MUST-Engage | Light | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** The recognition-theoretic hinge (1.3, Module 7 ↔ 8A): the master–slave dialectic's failure under colonialism; the ancestor Wilderson (8A.8) radicalises and Mbembe (8A.9) presupposes. Reviewer-expected for any recognition-track 8A engagement. |
+| 8A.7 Robinson *Black Marxism* | MUST-Engage baseline *(conditional MUST-Anchor)* | Light → Full conditional | Racial capitalism thesis; directly engaged by Fraser 14.2. Conditional Anchor if Fraser bridge commits. |
+| 8A.8 Wilderson *Afropessimism* | COULD | Orientation | Sharpest frontal critique of recognition. |
+| 8A.9 Mbembe *Critique of Black Reason* | COULD | Orientation | Philosophical-historical infrastructure for racial-capitalism analysis. |
 
 ### Module 9: Social Epistemology
 
@@ -376,6 +383,7 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 11A.2 Foucault 1976 Collège de France lecture | SHOULD | Light | **Re-tiered v2.1 from SHOULD Orient.** [P] tag + field-importance → Light. Foucault's most concentrated statement of his analytics of power; direct target of Habermas critique. |
 | 11A.3 Habermas critique (*Diskurs der Moderne* IX–X) | COULD | Orientation | Useful for the debate; not strictly required. |
 | 11A.4 Allen "Power, Subjectivity, Agency" | COULD | Orientation | Bridge essay. |
+| 11A.5 Foucault *Naissance de la biopolitique* (ordoliberalism lectures) | COULD | Orientation | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** The lectures Wendy Brown 14.7 is built on (previously read against an unread original); the most ECB-relevant Foucault (market as site of veridiction). Conditional SHOULD/MUST-Engage if a technocracy/neoliberalism angle fires at R5 (§4). |
 
 ### Module 11B: Luhmann *(was Module 12B in v5)*
 
@@ -424,7 +432,7 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 
 | Item | Class | Tier | Rationale |
 |---|---|---|---|
-| 13.1 Backhaus *Dialektik der Wertform* | SHOULD *(conditional MUST-Anchor if value-form track)* | Light | The originator of the *neue Marx-Lektüre*. Conditional MUST-Anchor if Phase III commits to capitalism-as-form / value-form / *neue Marx-Lektüre* (§4). Foundation Postone 14.4 presupposes. |
+| 13.1 Backhaus *Dialektik der Wertform* | SHOULD *(conditional MUST-Anchor if value-form track)* | Light | The originator of the *neue Marx-Lektüre*. Conditional MUST-Anchor if Phase III commits to capitalism-as-form / value-form / *neue Marx-Lektüre* (§4). Foundation Postone 14.5 presupposes. |
 | 13.2 Reichelt "Social Reality as Appearance" | SHOULD *(conditional MUST-Engage if Reichelt-Adorno structural-homology relevant)* | Light | Reichelt's value-form / Adorno-identity-thinking structural-homology argument. Conditional MUST-Engage with 13.1. |
 | 13.3 Gramsci *Quaderni* selections | SHOULD *(conditional MUST-Engage if hegemony fills Jaeggi gap)* | Light | Hegemony as mechanism for stabilising non-recognition of pathology — fills a gap in Jaeggi 8.2. Conditional MUST-Engage if hegemony-and-pathology terrain commits (§4). |
 | 13.4 Thomas *The Gramscian Moment* | COULD | Orientation | Best recent philosophical reconstruction; secondary depth. |
@@ -437,21 +445,22 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 
 | Item | Class | Tier | Rationale |
 |---|---|---|---|
-| 14.1 Streeck *Gekaufte Zeit* | MUST-Anchor | Full | Streeck's diagnosis of post-2008 capitalism is apparatus the ECB-economist user can deploy under his own pen with unusual leverage. Field-importance-justified for the user's authorial position. |
-| 14.2 Fraser *Cannibal Capitalism* | MUST-Engage baseline *(conditional MUST-Anchor)* | Light → Full conditional | Fraser's most recent systematic statement. Conditional MUST-Anchor if Phase III is Fraser-track (§4). |
-| 14.3 Bhattacharya social-reproduction intro | SHOULD | Light | Theoretical foundation Fraser draws on. |
-| 14.4 Postone *Time, Labor, Social Domination* | MUST-Engage baseline *(conditional MUST-Anchor)* | Light → Full conditional | Most ambitious recent Marx reinterpretation. Conditional MUST-Anchor if Phase III commits to capitalism-as-form (§4). |
-| 14.5 Wright *Envisioning Real Utopias* | SHOULD | Light | Alternatives framework. |
-| 14.6 W. Brown *Undoing the Demos* | SHOULD | Light | Foucauldian neoliberalism analysis. |
-| 14.7 Honneth *Idee des Sozialismus* | MUST-Engage | Light | Honneth's positive economic-philosophical statement. Short, programmatic; reviewer-expected for any capitalism-or-Honneth-track piece. (Honneth-monograph decouple does not bind — programmatic essay-monograph.) |
-| 14.8 von Redecker | SHOULD | Light | **Upgraded v2.1 from COULD Orient.** Bridge §2.4 names von Redecker as a younger-generation, methodologically-permissive contact target — strong fit for the short-essay route (~M29–M36 per bridge §2.4). *Phantombesitz* concept is property-theoretical bridge between Marx, Jaeggi, and Fraser. Conditional MUST-Engage if Phase III commits to property/protest/Anthropocene (§4). |
-| 14.9 Aglietta *Capitalist Regulation* | SHOULD *(deferrable under capacity)* | Orientation | **Un-deferred v2.1.** Régulation-school foundational; [O] tag → Orient. Macroeconomic-institutional bridge between Marxist value-form and empirical capitalism analysis. Promote conditionally if Phase III commits to capitalism-as-form via macroeconomic terrain (§4). |
-| 14.10 Lordon *Willing Slaves of Capital* | COULD | Orientation | Affective Spinozist extension; promote if affect/desire dimension commits. |
-| 14.11 Mau *Mute Compulsion* | SHOULD *(conditional MUST-Engage if impersonal-domination track)* | Light | **NEW in v6.** Most-discussed 2023 capitalism-critique monograph; ~7 years of reception by M48 — recency unproblematic. Accessible to economist-reader. Bridges Postone 14.4 to current Anglophone capitalism-critique reception. |
-| 14.12 Castel *Métamorphoses de la question sociale* | SHOULD *(conditional MUST-Engage if Arbeitende-Souverän track)* | Light | **NEW in v6.** (Castel 1995; no recency issue.) Empirical-sociological underpinning for Honneth 7.19; long-historical apparatus for precarisation-as-*Sittlichkeit*-transformation. If Phase III commits to work/recognition (§4), promote in tandem with 7.19. |
-| 14.13 Engster *Das Geld als Maß, Mittel und Methode* | COULD *(conditional SHOULD if money-as-measure / quantification wedge commits)* | Orientation | **NEW 2026-06-29 (branch B, economist wedge).** Value-form-as-measurement; German, almost no Anglophone engagement. |
-| 14.14 Lapavitsas *Profiting Without Producing* | SHOULD *(conditional MUST-Engage if financialisation / central-bank track)* | Light | **NEW 2026-06-29 (branch B, economist wedge).** Marxist monetary theory; the central-bank-as-institutional-form opening. |
-| 14.15 Jaeggi & Loick (eds.) *Nach Marx* | SHOULD *(conditional MUST-Engage)* | Light | **NEW 2026-06-29 (branch B, the bridge).** Stages the recognition↔value-form confrontation any branch-B piece must win (Honneth, Jaeggi, Stahl, Postone in one volume). |
+| 14.1 Habermas *Legitimationsprobleme im Spätkapitalismus* (+ Offe) | SHOULD | Light | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** The 1970s crisis-of-legitimation successor to the state-capitalism debate; Habermas + Offe on state management of capitalist crisis tendencies. Read before/with 14.2 Streeck. |
+| 14.2 Streeck *Gekaufte Zeit* | MUST-Anchor | Full | Streeck's diagnosis of post-2008 capitalism is apparatus the ECB-economist user can deploy under his own pen with unusual leverage. Field-importance-justified for the user's authorial position. |
+| 14.3 Fraser *Cannibal Capitalism* | MUST-Engage baseline *(conditional MUST-Anchor)* | Light → Full conditional | Fraser's most recent systematic statement. Conditional MUST-Anchor if Phase III is Fraser-track (§4). |
+| 14.4 Bhattacharya social-reproduction intro | SHOULD | Light | Theoretical foundation Fraser draws on. |
+| 14.5 Postone *Time, Labor, Social Domination* | MUST-Engage baseline *(conditional MUST-Anchor)* | Light → Full conditional | Most ambitious recent Marx reinterpretation. Conditional MUST-Anchor if Phase III commits to capitalism-as-form (§4). |
+| 14.6 Wright *Envisioning Real Utopias* | SHOULD | Light | Alternatives framework. |
+| 14.7 W. Brown *Undoing the Demos* | SHOULD | Light | Foucauldian neoliberalism analysis. |
+| 14.8 Honneth *Idee des Sozialismus* | MUST-Engage | Light | Honneth's positive economic-philosophical statement. Short, programmatic; reviewer-expected for any capitalism-or-Honneth-track piece. (Honneth-monograph decouple does not bind — programmatic essay-monograph.) |
+| 14.9 von Redecker | SHOULD | Light | **Upgraded v2.1 from COULD Orient.** Bridge §2.4 names von Redecker as a younger-generation, methodologically-permissive contact target — strong fit for the short-essay route (~M29–M36 per bridge §2.4). *Phantombesitz* concept is property-theoretical bridge between Marx, Jaeggi, and Fraser. Conditional MUST-Engage if Phase III commits to property/protest/Anthropocene (§4). |
+| 14.10 Aglietta *Capitalist Regulation* | SHOULD *(deferrable under capacity)* | Orientation | **Un-deferred v2.1.** Régulation-school foundational; [O] tag → Orient. Macroeconomic-institutional bridge between Marxist value-form and empirical capitalism analysis. Promote conditionally if Phase III commits to capitalism-as-form via macroeconomic terrain (§4). |
+| 14.11 Lordon *Willing Slaves of Capital* | COULD | Orientation | Affective Spinozist extension; promote if affect/desire dimension commits. |
+| 14.12 Mau *Mute Compulsion* | SHOULD *(conditional MUST-Engage if impersonal-domination track)* | Light | **NEW in v6.** Most-discussed 2023 capitalism-critique monograph; ~7 years of reception by M48 — recency unproblematic. Accessible to economist-reader. Bridges Postone 14.5 to current Anglophone capitalism-critique reception. |
+| 14.13 Castel *Métamorphoses de la question sociale* | SHOULD *(conditional MUST-Engage if Arbeitende-Souverän track)* | Light | **NEW in v6.** (Castel 1995; no recency issue.) Empirical-sociological underpinning for Honneth 7.19; long-historical apparatus for precarisation-as-*Sittlichkeit*-transformation. If Phase III commits to work/recognition (§4), promote in tandem with 7.19. |
+| 14.14 Engster *Das Geld als Maß, Mittel und Methode* | COULD *(conditional SHOULD if money-as-measure / quantification wedge commits)* | Orientation | **NEW 2026-06-29 (branch B, economist wedge).** Value-form-as-measurement; German, almost no Anglophone engagement. |
+| 14.15 Lapavitsas *Profiting Without Producing* | SHOULD *(conditional MUST-Engage if financialisation / central-bank track)* | Light | **NEW 2026-06-29 (branch B, economist wedge).** Marxist monetary theory; the central-bank-as-institutional-form opening. |
+| 14.16 Jaeggi & Loick (eds.) *Nach Marx* | SHOULD *(conditional MUST-Engage)* | Light | **NEW 2026-06-29 (branch B, the bridge).** Stages the recognition↔value-form confrontation any branch-B piece must win (Honneth, Jaeggi, Stahl, Postone in one volume). |
 
 ### Module 15: Zeitdiagnose
 
@@ -539,7 +548,7 @@ All items MUST-Engage. C1 (immanent-critique method), C2 (exemplary diagnostics)
 | C.VI Operaismo (Tronti, Hardt-Negri, Federici *Caliban*, Federici *Rev at Point Zero*, Dalla Costa-James) | COULD | Orientation | Federici promote to MUST-Engage if Phase III commits to social reproduction / gendered capital critique (§4). |
 | C.VII Analytical Marxism (Cohen, Roemer, Wright *Class Counts*) | DISCRETIONARY | Skip | Cross-reference to user's separate analytical-Marxism syllabus. |
 | C.VIII Eco-Marxism (Saito, Moore, Malm) | COULD | Orientation | Saito promote if Anthropocene commits. |
-| C.IX Régulation deepening (Boyer, Lipietz) | DISCRETIONARY | Skip | Phase IV only beyond Module 14 14.9–14.10. |
+| C.IX Régulation deepening (Boyer, Lipietz) | DISCRETIONARY | Skip | Phase IV only beyond Module 14 14.10–14.10. |
 
 ### Appendix D: Capitalism Critique Supplementary *(NEW v6 — was K.7+ in v5; Phase IV by default)*
 
@@ -585,12 +594,15 @@ All items MUST-Engage. C1 (immanent-critique method), C2 (exemplary diagnostics)
 |---|---|---|---|
 | H.0 Orientation (Hurrelmann-Bauer, Koller, Tippelt-Schmidt-Hertha, *Handbuch Sozialisationsforschung*) | COULD | Orientation | Reference if socialisation/Bildung track commits. |
 | H.1 Psychoanalysis & critical theory (Whitebook, Benjamin — cross-listed at 7.11 — Honneth, Whitebook; + **Freudo-Marxist primaries** Marcuse *Eros and Civilization* H.1.5, Fromm *Escape from Freedom* H.1.6, Mitscherlich H.1.7, added 2026-06-27) | COULD | Orientation | Promote if Phase III touches care/love sphere or commits to the Freud-substrate / authoritarian-character track (§4). Freud's *Unbehagen* itself now sits in the spine at 4.12. |
+| H.1.0 Horkheimer *Studien über Autorität und Familie* "Allgemeiner Teil" (1936) | COULD | Orientation | **[Added 2026-07-14 (QA pass).]** The Institut's foundational empirical-socialisation text; tradition-anchoring proof that Appendix H is original Frankfurt ground. Read before Fromm (H.1.6). Promoted with the Bildung/socialisation branch trigger (§4). |
+| H.1.10 Allen *Critique on the Couch* | COULD | Orientation | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** Frontier monograph of the socialisation/*Bildung* branch — critical theory needs a (Kleinian, anti-progressivist) psychoanalysis of subject-formation; connects the Freudo-Marxist line (H.1.5–H.1.7) and Layton (H.1.8) to the progress debate (8.6, 8.10). Auto-promotes under the psychoanalytic-substrate or Bildung/socialisation triggers (§4). |
 | H.2.1 Gerhardt *Why Love Matters* | COULD | Orientation | Empirical material on early caregiving. |
 | H.2.2 Allen *Politics of Our Selves* | (cross-listed to 7.21) | — | See 7.21. |
 | H.3 Social reproduction (Bhattacharya, Arruzza-Bhattacharya-Fraser, Federici cross-refs) | COULD | Orientation | Promote with §4 social-reproduction trigger. Federici cross-listed to C.16/C.17. |
 | H.4 Philosophical anthropology revisited (Plessner, Gehlen) | DISCRETIONARY | Skip | [NE]; cross-listed to Module 18. |
 | H.5 Developmental psychology (Siegler, Bowlby, Cassidy-Shaver, Vygotsky, Shonkoff-Phillips, Felitti) | DISCRETIONARY | Skip | Empirical base; Phase IV. |
 | H.6 Bildung tradition (Adorno *Halbbildung*, Heydorn, Humboldt, Mollenhauer, English, Krappmann, Hurrelmann-Bauer, Stojanov, Drerup-Schweiger) | COULD | Orientation | Promote if Phase III commits to Bildung/socialisation themes. |
+| H.6.4 Klafki *Neue Studien zur Bildungstheorie und Didaktik* | COULD | Orientation | **[Added 2026-07-13 (coverage audit); §3 row backfilled 2026-07-14.]** Canonical mid-century systematiser of the Bildung tradition (*kategoriale Bildung*; *kritisch-konstruktive Didaktik*); the bridge document's Phase IV Track B names him. Branch-conditional — schedule if the Bildung/socialisation branch fires. |
 
 ---
 
@@ -602,51 +614,51 @@ The critical-path chain (using v6 IDs):
 
 ```
 Part 0 (0.1–0.3) → Module 1 (Hegel: 1.1, 1.2, 1.3)
-                  → Module 2 (Marx: 2.1, 2.2a, 2.3)
+                  → Module 2 (Marx: 2.1, 2.3a, 2.4)
                   → Module 3 (Weber: 3.1, 3.2)
                   → Module 3A (Lukács: 3A.1)
                   → Module 4 (Frankfurt: 4.1, 4.2 + 4.3 Pollock)
                   → Module 4A (Pragmatism: 4A.1, 4A.3)
                   → Module 5 (Positivismusstreit: 5.1 McCarthy, 5.2 EuI)
-                  → Module 6 (Habermas: 6.3 TKH ch I, 6.2 McCarthy chs 4–5, 6.6 F&G, 6.7 Strukturwandel)
+                  → Module 6 (Habermas: 6.3 TKH ch I, 6.2 McCarthy chs 4–5, 6.7 F&G, 6.8 Strukturwandel)
                   → Module 7 (Honneth: 7.1, 7.2, 7.3, 7.4, 7.5, 7.7, 7.8, 7.18, 7.21)
                   → Module 8 (Jaeggi: 8.1, 8.2, 8.3, 8.4, 8.5, 8.6)
-                  → Module 8A (Außereuropäische: 8A.1, 8A.2, 8A.4, 8A.6)
-                  → Module 14 (Capitalism: 14.1, 14.2, 14.4, 14.7) + Module 10.3 Taylor + Module 9 (9.1–9.5, 9.10) + Module 12.6 Mills
+                  → Module 8A (Außereuropäische: 8A.1, 8A.2, 8A.4, 8A.7)
+                  → Module 14 (Capitalism: 14.2, 14.3, 14.5, 14.8) + Module 10.3 Taylor + Module 9 (9.1–9.5, 9.10) + Module 12.6 Mills
                   → Part V Craft Block (W1, W2, W3)
 ```
 
 **Key cross-dependencies:**
-- Module 8A.6 (Robinson) presupposes Module 2 (Marx primitive accumulation) and Module 8.6 (Allen *End of Progress*) — both are MUSTs.
+- Module 8A.7 (Robinson) presupposes Module 2 (Marx primitive accumulation) and Module 8.6 (Allen *End of Progress*) — both are MUSTs.
 - Module 9.10 (Collins) bridges Module 9 (epistemic injustice) and Module 8A (Black radical).
 - Module 7.18 (Honneth *Anerkennung* 2018) presupposes 7.1 *Kampf um Anerkennung* and 7.5 *Recht der Freiheit*.
 - Module 10.3 (Taylor) is methodologically central; informs the Craft Block (W1, W2, W3) directly.
-- Module 14.2 (Fraser *Cannibal Capitalism*) depends on 8A.6 (Robinson) for the racial-capitalism category.
-- Module 6.6 (F&G) is presupposed by Forst 7.7–7.10. *[Waiver note 2026-07-13 (plan audit §5): at baseline the Habermas backdrop for 7.7 is carried by 5.2 *Erkenntnis und Interesse* + 6.3 TKH Bd. 1; 6.6 itself fires as a conditional pre-read if the power/justification Layer C route (7.10) is chosen at R5 (M35).]*
-- Module 6.7 (Strukturwandel) is presupposed by Fraser 7.12 (public-sphere essay).
-- Module 14.12 (Castel) is presupposed-companion to Honneth 7.19 if work-recognition track commits.
+- Module 14.3 (Fraser *Cannibal Capitalism*) depends on 8A.7 (Robinson) for the racial-capitalism category.
+- Module 6.7 (F&G) is presupposed by Forst 7.7–7.10. *[Waiver note 2026-07-13 (plan audit §5): at baseline the Habermas backdrop for 7.7 is carried by 5.2 *Erkenntnis und Interesse* + 6.3 TKH Bd. 1; 6.7 itself fires as a conditional pre-read if the power/justification Layer C route (7.10) is chosen at R5 (M35).]*
+- Module 6.8 (Strukturwandel) is presupposed by Fraser 7.12 (public-sphere essay).
+- Module 14.13 (Castel) is presupposed-companion to Honneth 7.19 if work-recognition track commits.
 
 ### SHOULDs that need a specific MUST first
 
-- 7.12 Fraser public sphere ← 6.7 Habermas *Strukturwandel*
+- 7.12 Fraser public sphere ← 6.8 Habermas *Strukturwandel*
 - 7.13 Renault ← 7.1 + 7.5
 - 7.17 Bedorf ← 7.1 + 7.2
 - 7.10 Forst *Noumenal Republic* (2024) ← 7.7 + 7.8 + 7.9
-- 7.19 Honneth *Arbeitende Souverän* (2023) ← 7.5 + 7.18 (+ 14.7 *Idee des Sozialismus* if Module 14 work has started)
+- 7.19 Honneth *Arbeitende Souverän* (2023) ← 7.5 + 7.18 (+ 14.8 *Idee des Sozialismus* if Module 14 work has started)
 - 7.20 Pilapil ← 7.1 + 7.18
 - 8.8 Stahl ← 8.2
 - 8.9 Rosa *Resonanz* ← 8.2 + 15.5 *[Satisfied-by-substitute, 2026-07-13 (plan audit §5): the *Beschleunigung* Part III material arrives at the Craft Block (W2.2); *Resonanz* at Light tier does not require 15.5 at Full beforehand.]*
-- 8.12 Jaeggi *Fortschritt und Regression* (2023) ← 8.2 + 8.6 (Allen)
-- 4.6 Freyenhagen ← 4.5 *[Satisfied-by-substitute, 2026-07-13 (plan audit §5): Freyenhagen is the designated ND substitute at baseline (4.5 selections Phase IV-deferred); the dependency holds only if ND itself is promoted.]*
-- 4.11 Adorno *Drei Studien zu Hegel* ← 4.5 + (forward) 13.2 Reichelt
-- 14.3 Bhattacharya ← 14.2
-- 14.9 Aglietta ← Module 2 + 15.6 Polanyi
-- 14.11 Mau ← 14.4 Postone
-- 14.12 Castel ← 7.19 (or read alongside)
+- 8.10 Jaeggi *Fortschritt und Regression* (2023) ← 8.2 + 8.6 (Allen)
+- 4.7 Freyenhagen ← 4.6 *[Satisfied-by-substitute, 2026-07-13 (plan audit §5): Freyenhagen is the designated ND substitute at baseline (4.6 selections Phase IV-deferred); the dependency holds only if ND itself is promoted.]*
+- 4.12 Adorno *Drei Studien zu Hegel* ← 4.6 + (forward) 13.2 Reichelt
+- 14.4 Bhattacharya ← 14.3
+- 14.10 Aglietta ← Module 2 + 15.6 Polanyi
+- 14.12 Mau ← 14.5 Postone
+- 14.13 Castel ← 7.19 (or read alongside)
 - 9.6 Vogelmann ← 9.3, 9.4
 - 9.7 Boltanski *On Critique* ← 9.3, 11C.4
 - 13.1 Backhaus ← Module 2 + 3A.1 Lukács
-- 13.2 Reichelt ← 13.1 + 4.5–4.6 (Adorno/Freyenhagen)
+- 13.2 Reichelt ← 13.1 + 4.6–4.7 (Adorno/Freyenhagen)
 - 13.3 Gramsci ← Module 2 + 11C.1 Bourdieu (soft)
 - 13.5 Althusser ← Module 2 + 9.3 Celikates (forward)
 
@@ -657,10 +669,10 @@ Modules 1–8 + Phase-I instrumental readings are the shared spine-core for bran
 | Branch | Spine / method | Core (on syllabus) | Living frontier (to contribute) | Additions to acquire | Venue |
 |---|---|---|---|---|---|
 | **A** Recognition *(default)* | immanent reconstruction | Honneth (7), Jaeggi (8), Forst (7.7–7.10), Fraser (7.3/7.4), Taylor (7.14) | Ikäheimo (*Human Life-Form*, 2022), Laitinen, Pilapil (7.20) | — (baseline) | *Constellations* / *Critical Horizons* |
-| **B** Capitalism-as-form ★ | value-form / CPE | Module 13 (Backhaus, Reichelt), Module 14 (Streeck, Postone 14.4, Fraser), App. C (Heinrich…) | Bonefeld, Arthur, Bellofiore, Elbe, Engster, Lapavitsas, Best; *Nach Marx* | **folded in:** 13.6 Sohn-Rethel, 13.7 Arthur, 13.8 Bonefeld, 14.13 Engster, 14.14 Lapavitsas, 14.15 *Nach Marx* | *Historical Materialism* |
-| **C** Power / genealogy | genealogy, immanent power-critique | Foucault (11A.1–2), Allen (8.6, 11A.4, 7.21), Nietzsche (4.13) | Saar, Koopman, Owen, Lemke, Geuss; Honneth *Kritik der Macht* | *map-only:* Saar *Genealogie als Kritik* / *Was ist Sozialphilosophie?*, Foucault *Birth of Biopolitics*, Honneth *Kritik der Macht*, Koopman | *Foucault Studies* |
-| **D** Adornian negativism | determinate negation | DdA (4.2), MM (4.4), ND-sel. (4.5), Freyenhagen (4.6), Freud (4.12), Nietzsche (4.13) | Bernstein, O'Connor, Gordon, Hammer, Finlayson, Menke (2022); Allen | *map-only:* full *Negative Dialektik*, *Probleme der Moralphilosophie*, Gordon↔Freyenhagen; *Lebensphilosophie* reckoning (syllabus 4.14 — Benjamin *Erlebnis*/*Erfahrung*, Horkheimer on Bergson, ND's two failed revolts [Bergson + Husserl]; Lukács *Zerstörung der Vernunft* for structure only) | *Critical Horizons* / *Adorno Studies* |
-| **E** Socialisation / Bildung ★ | formation-of-persons | App. H: Freud (4.12), Heydorn (H.6.2), Humboldt (H.6.3), Adorno *Halbbildung* (H.6.1), J. Benjamin (H.1.2), Bowlby (H.5.2) | Stojanov, Koller, Marotzki, Layton, Winker, Ikäheimo, Frosh | **folded in:** H.1.8 Layton, H.1.9 Ikäheimo, H.3.6 Winker (Heydorn H.6.2 already core) | *J. Phil. Education* + Frankfurt-mainstream |
+| **B** Capitalism-as-form ★ | value-form / CPE | Module 13 (Backhaus, Reichelt), Module 14 (Streeck, Postone 14.5, Fraser), App. C (Heinrich…) | Bonefeld, Arthur, Bellofiore, Elbe, Engster, Lapavitsas, Best; *Nach Marx* | **folded in:** 13.6 Sohn-Rethel, 13.7 Arthur, 13.8 Bonefeld, 14.14 Engster, 14.15 Lapavitsas, 14.16 *Nach Marx* | *Historical Materialism* |
+| **C** Power / genealogy | genealogy, immanent power-critique | Foucault (11A.1–2), Allen (8.6, 11A.4, 7.21), Nietzsche (4.14) | Saar, Koopman, Owen, Lemke, Geuss; Honneth *Kritik der Macht* | *map-only:* Saar *Genealogie als Kritik* / *Was ist Sozialphilosophie?*, Foucault *Birth of Biopolitics*, Honneth *Kritik der Macht*, Koopman | *Foucault Studies* |
+| **D** Adornian negativism | determinate negation | DdA (4.2), MM (4.5), ND-sel. (4.6), Freyenhagen (4.7), Freud (4.13), Nietzsche (4.14) | Bernstein, O'Connor, Gordon, Hammer, Finlayson, Menke (2022); Allen | *map-only:* full *Negative Dialektik*, *Probleme der Moralphilosophie*, Gordon↔Freyenhagen; *Lebensphilosophie* reckoning (syllabus 4.15 — Benjamin *Erlebnis*/*Erfahrung*, Horkheimer on Bergson, ND's two failed revolts [Bergson + Husserl]; Lukács *Zerstörung der Vernunft* for structure only) | *Critical Horizons* / *Adorno Studies* |
+| **E** Socialisation / Bildung ★ | formation-of-persons | App. H: Freud (4.13), Heydorn (H.6.2), Humboldt (H.6.3), Adorno *Halbbildung* (H.6.1), J. Benjamin (H.1.2), Bowlby (H.5.2) | Stojanov, Koller, Marotzki, Layton, Winker, Ikäheimo, Frosh | **folded in:** H.1.8 Layton, H.1.9 Ikäheimo, H.3.6 Winker (Heydorn H.6.2 already core) | *J. Phil. Education* + Frankfurt-mainstream |
 | **F** Sub-tracks | (host spine) | 8A (decolonial); Renault 7.13 (suffering); Honneth 7.19 (work); Module 6 / Forst (deliberative) | per track (Lafont, Mau, Wilderson…) | per track | per track |
 
 ★ = current keepers (2026-06-29). The §4 rows below give the per-item promotions each branch fires.
@@ -671,29 +683,29 @@ Two distinct operations are separated: **class-change** (e.g., COULD → MUST-En
 
 | If Phase III topic commits to... | **Class-changes** (items into MUST-Engage or SHOULD) | **Tier-changes** (items from MUST-Engage → MUST-Anchor / Light → Full) |
 |---|---|---|
-| **Recognition pathology / Hegelian freedom** | 1.6 Khurana → MUST-Engage; 7.11 J. Benjamin → SHOULD or MUST-Engage; 7.15 Ikäheimo-Laitinen → SHOULD; 7.16 Gregoratto → SHOULD; 7.17 Bedorf (un-defer); 7.20 Pilapil → MUST-Engage | 1.3 Hegel *Phän.* IV.A is already MUST-Anchor; **7.18 Honneth *Anerkennung* (2018) → MUST-Anchor** |
-| **Recognition + capitalism / work / democratic *Sittlichkeit*** | 14.2 Fraser CC (already MUST-Engage); 14.12 Castel → MUST-Engage | **7.19 Honneth *Der arbeitende Souverän* → MUST-Anchor**; 14.7 *Idee des Sozialismus* (already MUST-Engage) |
-| **Power / justification / democratic legitimacy** | 7.9 Forst *Normativität und Macht* (SHOULD → MUST-Engage); 7.10 Forst *Noumenal Republic* (SHOULD → MUST-Engage); 6.8 Bohman-Estlund-Floyd → MUST-Engage | **6.6 *Faktizität und Geltung* → MUST-Anchor**; 7.9 → MUST-Anchor (if power-and-justification is central) *(7.7 Forst RauR already MUST-Anchor baseline per v2.1)* |
-| **Immanent critique / problem-solving / progress-and-regression** | 8.13 Allen & Mendieta on Jaeggi (COULD → SHOULD) | **8.12 Jaeggi *Fortschritt und Regression* → MUST-Anchor** *(8.6 Allen already MUST-Anchor baseline per v2.1)* |
-| **Verdinglichung / reification track (Adornian or Honneth-2005)** | 7.6 Honneth *Verdinglichung* → MUST-Engage | 4.6 Freyenhagen → MUST-Anchor *(3A.1 Lukács already MUST-Anchor baseline per v2.1)* |
-| **Adornian critical-theory of rationality** | 4.11 *Drei Studien zu Hegel* → MUST-Engage | **4.2 *DdA* → MUST-Anchor**; 4.6 Freyenhagen → MUST-Anchor *(3A.1 already MUST-Anchor baseline)* |
+| **Recognition pathology / Hegelian freedom** | 1.7 Khurana → MUST-Engage; 7.11 J. Benjamin → SHOULD or MUST-Engage; 7.15 Ikäheimo-Laitinen → SHOULD; 7.16 Gregoratto → SHOULD; 7.17 Bedorf (un-defer); 7.20 Pilapil → MUST-Engage | 1.3 Hegel *Phän.* IV.A is already MUST-Anchor; **7.18 Honneth *Anerkennung* (2018) → MUST-Anchor** |
+| **Recognition + capitalism / work / democratic *Sittlichkeit*** | 14.3 Fraser CC (already MUST-Engage); 14.13 Castel → MUST-Engage | **7.19 Honneth *Der arbeitende Souverän* → MUST-Anchor**; 14.8 *Idee des Sozialismus* (already MUST-Engage) |
+| **Power / justification / democratic legitimacy** | 7.9 Forst *Normativität und Macht* (SHOULD → MUST-Engage); 7.10 Forst *Noumenal Republic* (SHOULD → MUST-Engage); 6.9 Bohman-Estlund-Floyd → MUST-Engage | **6.7 *Faktizität und Geltung* → MUST-Anchor**; 7.9 → MUST-Anchor (if power-and-justification is central) *(7.7 Forst RauR already MUST-Anchor baseline per v2.1)* |
+| **Immanent critique / problem-solving / progress-and-regression** | 8.11 Allen & Mendieta on Jaeggi (COULD → SHOULD) | **8.10 Jaeggi *Fortschritt und Regression* → MUST-Anchor** *(8.6 Allen already MUST-Anchor baseline per v2.1)* |
+| **Verdinglichung / reification track (Adornian or Honneth-2005)** | 7.6 Honneth *Verdinglichung* → MUST-Engage | 4.7 Freyenhagen → MUST-Anchor *(3A.1 Lukács already MUST-Anchor baseline per v2.1)* |
+| **Adornian critical-theory of rationality** | 4.12 *Drei Studien zu Hegel* → MUST-Engage | **4.2 *DdA* → MUST-Anchor**; 4.7 Freyenhagen → MUST-Anchor *(3A.1 already MUST-Anchor baseline)* |
 | **Social epistemology / epistemic injustice** | (already-MUST 9.3 stays) | *(9.2 Fricker already MUST-Anchor baseline per v2.1)* |
 | **Ideology critique** | 13.5 Althusser → MUST-Engage; 13.3 Gramsci → MUST-Engage | **9.4 Jaeggi "Was ist Ideologiekritik?" → MUST-Anchor** |
-| **Capitalism-as-form / value-form / *neue Marx-Lektüre*** | 13.1 Backhaus → MUST-Engage; 13.2 Reichelt → MUST-Engage; 14.11 Mau → MUST-Engage | **14.4 Postone → MUST-Anchor**; 13.1 Backhaus → MUST-Anchor (if value-form is the apparatus) |
-| **Decolonial / progress-critique / racial capitalism** | 8A.7 Wilderson → SHOULD; 8A.8 Mbembe → SHOULD; 8A.3 Spivak (already SHOULD); 12.13 Dussel → SHOULD | **8A.6 Robinson → MUST-Anchor** (if Fraser 14.2 bridge engaged) *(8.6 Allen already MUST-Anchor baseline)* |
-| **Fraser-track capitalism** | — | **14.2 Fraser *Cannibal Capitalism* → MUST-Anchor**; 8A.6 Robinson → MUST-Anchor |
+| **Capitalism-as-form / value-form / *neue Marx-Lektüre*** | 13.1 Backhaus → MUST-Engage; 13.2 Reichelt → MUST-Engage; 14.12 Mau → MUST-Engage | **14.5 Postone → MUST-Anchor**; 13.1 Backhaus → MUST-Anchor (if value-form is the apparatus) |
+| **Decolonial / progress-critique / racial capitalism** | 8A.8 Wilderson → SHOULD; 8A.9 Mbembe → SHOULD; 8A.3 Spivak (already SHOULD); 12.13 Dussel → SHOULD | **8A.7 Robinson → MUST-Anchor** (if Fraser 14.3 bridge engaged) *(8.6 Allen already MUST-Anchor baseline)* |
+| **Fraser-track capitalism** | — | **14.3 Fraser *Cannibal Capitalism* → MUST-Anchor**; 8A.7 Robinson → MUST-Anchor |
 | **Power / justification (folded into "democratic legitimacy" row above)** | *(7.7 Forst RauR is now MUST-Anchor baseline per v2.1; no longer requires topic-conditional promotion)* | — |
-| **Social reproduction / gendered capital critique** | C.VI Operaismo (esp. Federici C.16, C.17) → MUST-Engage; H.3 Bhattacharya → MUST-Engage; 14.8 von Redecker → MUST-Engage | — |
+| **Social reproduction / gendered capital critique** | C.VI Operaismo (esp. Federici C.16, C.17) → MUST-Engage; H.3 Bhattacharya → MUST-Engage; 14.9 von Redecker → MUST-Engage | — |
 | **Anthropocene / nature-history** | C.VIII Saito → MUST-Engage; D.2.1 Hickel → SHOULD; D.2.4 Arrighi → SHOULD | — |
 | **Domination / republican unfreedom** | 12.8 Pettit → MUST-Engage; 12.10 Graeber → SHOULD; 12.13 Dussel → SHOULD | — |
-| **Property / protest / phantom property** | 14.8 von Redecker → MUST-Engage; 12.10 Graeber → SHOULD | — |
-| **Affect / desire** | 14.10 Lordon → SHOULD; 7.16 Gregoratto → SHOULD | — |
+| **Property / protest / phantom property** | 14.9 von Redecker → MUST-Engage; 12.10 Graeber → SHOULD | — |
+| **Affect / desire** | 14.11 Lordon → SHOULD; 7.16 Gregoratto → SHOULD | — |
 | **Bildung / socialisation** | H.1, H.3, H.6 (Heydorn, Mollenhauer, Adorno *Halbbildung*) → MUST-Engage or SHOULD | — |
-| **Psychoanalytic substrate / authoritarian character / domination-internalisation** | H.1.5 Marcuse, H.1.6 Fromm, H.1.7 Mitscherlich, 4.13 Nietzsche → MUST-Engage or SHOULD | **4.12 Freud *Unbehagen* → MUST-Anchor** |
+| **Psychoanalytic substrate / authoritarian character / domination-internalisation** | H.1.5 Marcuse, H.1.6 Fromm, H.1.7 Mitscherlich, 4.14 Nietzsche → MUST-Engage or SHOULD | **4.13 Freud *Unbehagen* → MUST-Anchor** |
 | **Hegemony fills Jaeggi gap** | 13.3 Gramsci → MUST-Engage; 13.4 Thomas → SHOULD | — |
-| **Deliberative democracy / public sphere** | 6.8 Bohman-Estlund-Floyd → MUST-Engage | **6.6 F&G → MUST-Anchor** |
+| **Deliberative democracy / public sphere** | 6.9 Bohman-Estlund-Floyd → MUST-Engage | **6.7 F&G → MUST-Anchor** |
 | **Post-progress Zeitdiagnose / Verlust** | 15.8 Reckwitz *Verlust* → MUST-Engage | — |
-| **Impersonal-domination / value-form-as-domination** | 14.11 Mau → MUST-Engage | **14.4 Postone → MUST-Anchor** |
+| **Impersonal-domination / value-form-as-domination** | 14.12 Mau → MUST-Engage | **14.5 Postone → MUST-Anchor** |
 
 ### Phase IV topical-deepening triggers
 
@@ -758,15 +770,15 @@ Per-text Hrs are computed ground-up via the Style × Tier matrix and time formul
 |---|---|---|
 | **MUST-Anchor** | **~20 items at baseline** (v2.0 was ~15; +5 from §8 discipline upgrades: 3A.1, 5.2, 7.7, 8.6, 9.2); +3–7 further conditionally if Phase III topic firms up | Full (Honneth-monograph decouple where applicable) |
 | **MUST-Engage** | **~28 items at baseline** (v2.0 was ~33; −5 from MUST-Anchor promotions) | Light (Orientation if [O*]/[O]/[RS]) |
-| **SHOULD** | **~38 items at baseline** (v2.0 was ~30; +6 from un-deferred Path D' items 7.13, 7.17, 9.6, 9.7, 14.9 plus interlocutor upgrades 7.22, 14.8) | Light if [P]/[ES]; Orientation if [O*]/[O]/[RS] |
-| **COULD** | **~28 items at baseline** (v2.0 was ~30; −2 from 7.22 and 14.8 upgrades, +1 from 9.9 Harding un-deferral back to active COULD) | Orientation (default); upgrades per §4 trigger |
+| **SHOULD** | **~38 items at baseline** (v2.0 was ~30; +6 from un-deferred Path D' items 7.13, 7.17, 9.6, 9.7, 14.10 plus interlocutor upgrades 7.22, 14.9) | Light if [P]/[ES]; Orientation if [O*]/[O]/[RS] |
+| **COULD** | **~28 items at baseline** (v2.0 was ~30; −2 from 7.22 and 14.9 upgrades, +1 from 9.9 Harding un-deferral back to active COULD) | Orientation (default); upgrades per §4 trigger |
 | **DISCRETIONARY** | ~26 items (unchanged from v2.0) | Skip / Phase IV |
 
 **v2.1 net hour impact vs v2.0 baseline**:
 
 - **Top-5 MUST-Anchor upgrades** (3A.1 Lukács, 5.2 EuI, 7.7 Forst RauR, 8.6 Allen *EoP*, 9.2 Fricker): all are Systematic or Layered class, ~150–250pp each. Per Style × Tier: ~15–25h reading each + ~6–10h writing (Full α). Aggregate **~+50 to +85h all-in** for the five upgrades.
-- **Un-deferred Path D' items** (7.13 Renault, 7.17 Bedorf, 9.6 Vogelmann, 9.7 Boltanski *On Critique*, 14.9 Aglietta): all Light or Orient at baseline. Aggregate **~+30 to +50h all-in** for the five (9.9 Harding stays Orient with no Recon, ~0.25h marginal).
-- **Interlocutor upgrades** (7.22 Jütten, 14.8 von Redecker): 7.22 is a single article (~3–5h reading + ~1–2h Light writing); 14.8 is ~120pp selection (~10–14h reading + ~2–3h Light writing). Aggregate **~+15 to +25h all-in**.
+- **Un-deferred Path D' items** (7.13 Renault, 7.17 Bedorf, 9.6 Vogelmann, 9.7 Boltanski *On Critique*, 14.10 Aglietta): all Light or Orient at baseline. Aggregate **~+30 to +50h all-in** for the five (9.9 Harding stays Orient with no Recon, ~0.25h marginal).
+- **Interlocutor upgrades** (7.22 Jütten, 14.9 von Redecker): 7.22 is a single article (~3–5h reading + ~1–2h Light writing); 14.9 is ~120pp selection (~10–14h reading + ~2–3h Light writing). Aggregate **~+15 to +25h all-in**.
 - **Context-Layer re-tiering** (11A.1, 11A.2 from Orient → Light): 11A.1 ~150pp + 11A.2 ~25pp. Writing-time addition only (reading was already counted at Orient flat-rate). Aggregate **~+3 to +6h** writing.
 - **Recency-caveat softening**: zero hour impact (wording-only).
 
@@ -777,7 +789,7 @@ Per-text Hrs are computed ground-up via the Style × Tier matrix and time formul
 Bridge §6 Class A flagged a ~20% capacity overage (~1,524h scheduled vs ~1,269h envelope) *before* the v2.1 additions. v2.1 makes this worse, not better. Three resolution paths (user decision):
 
 1. **Default to M46 fallback** (extends envelope to ~1,326h baseline) — partial relief only.
-2. **Trim scope**: under falling-behind, the v2.1-un-deferred SHOULDs (7.13, 7.17, 9.7, 9.9, 14.9) are the first cut, returning to Phase IV-deferred. v2.1 explicitly marks them as "deferrable under capacity" for exactly this purpose.
+2. **Trim scope**: under falling-behind, the v2.1-un-deferred SHOULDs (7.13, 7.17, 9.7, 9.9, 14.10) are the first cut, returning to Phase IV-deferred. v2.1 explicitly marks them as "deferrable under capacity" for exactly this purpose.
 3. **Re-decide overage tolerance**: the previously-asserted 13% may have been too tight; if the realistic tolerance is 18–22%, the v2.0 baseline already fits and v2.1 needs only modest trim.
 
 The v2.1 framework is field-importance-correct, not capacity-arithmetic-feasible at the previous overage target. This is the bridge §6 Class A open user-decision propagating downstream.
@@ -820,7 +832,7 @@ All five v2.0 ⚠ FLAGs upgraded to **MUST-Anchor** by user decision 2026-05-24,
 |---|---|---|
 | 0.1 | Celikates & Jaeggi *Sozialphilosophie* | Orient-tier always — survey volume, not apparatus. |
 | 0.3 | Jaeggi capitalism article | Reviewer-expected coverage of forms-of-life-applied-to-capitalism positioning; user invokes but does not reconstruct the article's apparatus. |
-| 2.2b | Marx *Kapital* I chs. 2–3 + ch. 10 | Apparatus-relevant chapters (2.2a §§1–4) are MUST-Anchor; chs. 2–3 + 10 are reviewer-coverage at constant analytical move. |
+| 2.3b | Marx *Kapital* I chs. 2–3 + ch. 10 | Apparatus-relevant chapters (2.3a §§1–4) are MUST-Anchor; chs. 2–3 + 10 are reviewer-coverage at constant analytical move. |
 | 3.1 | Weber "Wissenschaft als Beruf" | Short, programmatic; Frankfurt argues *against* Weber's position. Coverage-cite role. |
 | 3.2 | Weber "Objektivität" | Defines the Frankfurt-opposed position; user characterises rather than redeploys. |
 | 4.2 | *Dialektik der Aufklärung* | Tradition-anchoring (b) but apparatus role only via Adornian-rationality terrain. Conditional MUST-Anchor in §4. |
@@ -830,8 +842,8 @@ All five v2.0 ⚠ FLAGs upgraded to **MUST-Anchor** by user decision 2026-05-24,
 | 6.2 | McCarthy chs. 4–5 | Continuation of 5.1 portal role. |
 | 6.4 | TKH Bd. 1 chs. II–III | TKH ch I (6.3) is the apparatus-Anchor; chs. II–III are coverage of Habermas's Weber/Frankfurt reconstructions. |
 | 6.5 | TKH Bd. 2 ch. VI + ch. VIII | Colonisation-thesis chapters; tradition-anchoring (b), but reviewer-coverage rather than apparatus the user redeploys directly. **Secondary flag:** at Phase III commit to Habermas-track, could be MUST-Anchor — re-review at M35 R5. |
-| 6.6 | F&G | Load-bearing for Forst 7.7–7.10 backdrop. Conditional MUST-Anchor in §4 if democratic-legitimacy track. |
-| 6.7 | Strukturwandel | Backwards-reading for Fraser 7.12. Coverage role; not apparatus. |
+| 6.7 | F&G | Load-bearing for Forst 7.7–7.10 backdrop. Conditional MUST-Anchor in §4 if democratic-legitimacy track. |
+| 6.8 | Strukturwandel | Backwards-reading for Fraser 7.12. Coverage role; not apparatus. |
 | 7.2 | Anerkennung als Ideologie | Reviewer-expected coverage; settles whether recognition can be ideological. Single article. |
 | 7.3 | Fraser 1995 article | Cleaner statement than the book-version; reviewer-expected. |
 | 7.8 | Forst "Noumenal Power" | Article-length frame in operation; Light suffices. (Note: 7.7 RauR upgraded to Anchor v2.1, but 7.8 stays Light — article-length frame doesn't require Full-tier apparatus engagement.) |
@@ -841,19 +853,19 @@ All five v2.0 ⚠ FLAGs upgraded to **MUST-Anchor** by user decision 2026-05-24,
 | 8.3 | Zurn pathologies article | 30pp typology article; v1.3 audit explicitly identified as clearest case of [P*] tag over-claiming. Light is correct. |
 | 8.4 | Laitinen & Särkelä | 20pp typology article; Full reconstruction overhead unjustified. |
 | 8.5 | Jaeggi & Fraser *Capitalism* | Dialogue volume; Light per text suffices. |
-| 8.12 | Jaeggi *Fortschritt und Regression* | Conditional MUST-Anchor in §4 if immanent-critique/progress track commits. |
+| 8.10 | Jaeggi *Fortschritt und Regression* | Conditional MUST-Anchor in §4 if immanent-critique/progress track commits. |
 | 8A.1 | Said *Orientalism* intro | v6 [P]; introduction only — Said's argument is graspable at Light. |
 | 8A.2 | Chakrabarty *Provincializing Europe* | Allen's source; the bridge from postcolonial to Frankfurt-progress-critique. Coverage role. (Note: 8.6 Allen now Anchor; Chakrabarty stays Engage as background-source.) |
 | 8A.4 | Quijano "Coloniality of Power" | Single canonical article (~30pp); the master decolonial concept. Light coverage justified by length. |
-| 8A.6 | Robinson *Black Marxism* | Conditional MUST-Anchor in §4 if Fraser-track racial-capitalism bridge engaged. |
+| 8A.7 | Robinson *Black Marxism* | Conditional MUST-Anchor in §4 if Fraser-track racial-capitalism bridge engaged. |
 | 9.1 | Mannheim Part I | The *Wissenssoziologie* foundation; selection only (Part I). |
 | 9.4 | Jaeggi "Was ist Ideologiekritik?" | Conditional MUST-Anchor in §4 if ideology-critique track commits. |
 | 9.5 | Shelby on ideology, racism, critical social theory | Frankfurt diagnostic applied to racial domination; 25pp article. |
 | 9.10 | Collins *Black Feminist Thought* | Bridge text to 8A; reviewer-expected for standpoint epistemology and 8A connection. |
 | 12.6 | Mills *Racial Contract* | Coverage of Mills's epistemologies-of-ignorance argument; not apparatus the user redeploys. |
-| 14.2 | Fraser *Cannibal Capitalism* | Conditional MUST-Anchor in §4 if Fraser-track commits. |
-| 14.4 | Postone *Time, Labor, Social Domination* | Most ambitious recent Marx reinterpretation. Conditional MUST-Anchor in §4 if capitalism-as-form commits. |
-| 14.7 | Honneth *Idee des Sozialismus* | Short programmatic monograph; reviewer-expected for any capitalism-or-Honneth-track piece. |
+| 14.3 | Fraser *Cannibal Capitalism* | Conditional MUST-Anchor in §4 if Fraser-track commits. |
+| 14.5 | Postone *Time, Labor, Social Domination* | Most ambitious recent Marx reinterpretation. Conditional MUST-Anchor in §4 if capitalism-as-form commits. |
+| 14.8 | Honneth *Idee des Sozialismus* | Short programmatic monograph; reviewer-expected for any capitalism-or-Honneth-track piece. |
 | 15.3 | Boltanski-Chiapello *Le nouvel esprit du capitalisme* | Reviewer-expected for capitalism-track; coverage of "new spirit" / artistic-critique vocabulary. |
 | 15.6 | Polanyi *Great Transformation* | Foundational but secondary to Frankfurt-tradition apparatus. |
 
