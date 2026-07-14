@@ -176,6 +176,6 @@ Geordnet nach Direktheit der Anschlussfähigkeit an die Frankfurter Linie des Sy
 ## 10. Hinweise zur Integration in das Syllabus
 
 - Wenn als Anhang aufgenommen: Marker-System ([P], [ES], [RS], [O], [NE], [MX]) und [Economist's note]-Flags noch nicht gesetzt — bei Integration zu ergänzen.
-- Stundenschätzungen fehlen; Style-×-Tier-Formel aus [text_classification.md](text_classification.md) anwenden, wobei die meisten Texte als deutsche oder englische Prosa der Klassen 2–3 einzustufen wären, mit Klasse 4 für Holzkamp und Lacan.
+- Stundenschätzungen fehlen; Style-×-Tier-Formel aus [reading_speed_classes.md](reading_speed_classes.md) anwenden, wobei die meisten Texte als deutsche oder englische Prosa der Klassen 2–3 einzustufen wären, mit Klasse 4 für Holzkamp und Lacan.
 - Verbindung zu Phase II (Adorno/Marcuse-Block) ist die natürliche Heimat für Reich, Fromm und Lorenzer; Benjamin gehört zu Phase III (Honneth-Block).
 - Phase-IV-Markierungen [MX]: Holzkamp-Vertiefung, Wertkritik-Anschluss über Sohn-Rethel (siehe getrennte Notiz zur Ökonomie-Kritische-Theorie-Schnittstelle).

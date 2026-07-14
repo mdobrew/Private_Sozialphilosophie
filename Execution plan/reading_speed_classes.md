@@ -1,5 +1,7 @@
 # Text classification (master reference)
 
+*[Renamed 2026-07-14: this file is `reading_speed_classes.md`, formerly `text_classification.md`. Prose references to "text_classification" / "the classification master" throughout the documents mean this file.]*
+
 This is the canonical mapping of every text in [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) to a prose-difficulty class plus chapter/section count. Used by downstream agents to compute per-text hour budgets via the formula:
 
 `Total Hrs = (Pages ÷ pp/h) + α × reading_hrs`

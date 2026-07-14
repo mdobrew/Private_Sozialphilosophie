@@ -11,7 +11,7 @@
 ## 1. What "Phase III frontier" means
 
 **Target outputs:**
-- Phase III publication-cycle deliverables (per [bridge_document.md](bridge_document.md) §2.1 and the Phase III production cycle in [execution_plan_v1.md](execution_plan_v1.md) Months 27–42):
+- Phase III publication-cycle deliverables (per [programme_parameters.md](programme_parameters.md) §2.1 and the Phase III production cycle in [execution_plan_v1.md](execution_plan_v1.md) Months 27–42):
   - One 7,000–10,000-word article (C3.2 draft) submitted to a Frankfurt-tradition journal in M42
   - One informal working-group / IfS-style presentation (M35–37)
   - One Tagung/workshop presentation (M37–40)
@@ -39,7 +39,7 @@
 
 **Classification is provisional.** Triggers for re-classification (see §5):
 1. Phase III topic firms up around a specific subfield → conditional COULDs auto-promote to MUSTs in that subfield
-2. Falling-behind 4-week+ protocol activates → SHOULDs are first to cut, then COULDs, then DISCRETIONARY (per [bridge_document.md](bridge_document.md) §3.4)
+2. Falling-behind 4-week+ protocol activates → SHOULDs are first to cut, then COULDs, then DISCRETIONARY (per [programme_parameters.md](programme_parameters.md) §3.4)
 3. New frontier text appears that displaces an existing one
 4. External feedback (workshop discussant, scholar correspondence) identifies a missing piece
 
@@ -494,7 +494,7 @@ This document is revised by the user (not by Claude) when one of the following t
 | Trigger | What changes | When |
 |---|---|---|
 | **Phase III topic firms up** (Months 22–28, per execution plan) | Conditional COULDs auto-promote per §4 dependency table; some SHOULDs may demote to COULD; some DISCRETIONARYs may promote if topic-adjacent | Phase II mid-late |
-| **4-week+ falling-behind protocol activates** | First cut: SHOULDs in current module; second cut: SHOULDs in adjacent modules; SOME SHOULDs may permanently demote to COULD | As triggered by bridge_document.md §3.4 |
+| **4-week+ falling-behind protocol activates** | First cut: SHOULDs in current module; second cut: SHOULDs in adjacent modules; SOME SHOULDs may permanently demote to COULD | As triggered by programme_parameters.md §3.4 |
 | **New frontier text published** that displaces an existing one | Re-classify or add | Continuously |
 | **Workshop discussant identifies gap** | Add or promote the missing item | M35 informal presentation onward |
 | **Vogelmann 9.6 reception accumulates** (post-2026) | Promote to MUST if EJP, *Constellations*, DZfPh treat as canonical reference | Provisional [P?] re-evaluation at M30 |
@@ -511,7 +511,7 @@ This document is revised by the user (not by Claude) when one of the following t
 
 - **Syllabus**: [sozialphilosophie_syllabus_v5.md](sozialphilosophie_syllabus_v5.md) — section/module/item number as referenced throughout
 - **Execution plan**: [execution_plan_v1.md](execution_plan_v1.md) — scheduled Phase I/Phase II/Phase III by week/month
-- **Bridge document**: [bridge_document.md](bridge_document.md) §2.3 (engagement tiers: Core / Context Layer / Deferred), §3.4 (falling-behind protocol)
+- **Bridge document**: [programme_parameters.md](programme_parameters.md) §2.3 (engagement tiers: Core / Context Layer / Deferred), §3.4 (falling-behind protocol)
 
 ### Cross-document update protocol
 
@@ -557,4 +557,4 @@ Per-text Hrs are now computed ground-up via the Style × Tier matrix and time fo
 4. COULDs remain Phase IV-deferrable unless §4 triggers fire.
 5. DISCRETIONARYs remain excluded from the active schedule.
 
-If MUST-Anchor load consistently exceeds capacity even after the per-text Hrs ground-up rebuild, escalate to topic re-scoping rather than time-budget violation. Per [bridge_document.md](bridge_document.md) §8, the 42-month / 7–8 h/week parameters are fixed.
+If MUST-Anchor load consistently exceeds capacity even after the per-text Hrs ground-up rebuild, escalate to topic re-scoping rather than time-budget violation. Per [programme_parameters.md](programme_parameters.md) §8, the 42-month / 7–8 h/week parameters are fixed.

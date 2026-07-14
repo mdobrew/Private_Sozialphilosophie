@@ -13,16 +13,16 @@ Read in this dependency order. Each document is a different layer of resolution.
 | Document | Role | Modify? |
 |---|---|---|
 | [Execution plan/sozialphilosophie_syllabus.md](Execution plan/sozialphilosophie_syllabus.md) | The intellectual map. Annotated bibliography, dependency graph, hour estimates, [P]/[ES]/[RS]/[O]/[NE]/[MX] markers, [Economist's note] flags, accelerated path, appendices F/G for Phase IV. Reference, not schedule. | Rarely; structural only. |
-| [Execution plan/bridge_document.md](Execution plan/bridge_document.md) | The spec. Programme parameters (timeline, hour budget, tiered active-practice regime, hybrid cut strategy with Context Layer), structural requirements for the execution plan, falling-behind protocols, session-structure rules by text type, community engagement track, dialogue moments, concentrated time blocks. Distinguishes **fixed** from **revisable** parameters (see §8 table). | When parameters change — but check fixed/revisable table first. |
-| [Execution plan/phase3_critical_path.md](Execution plan/phase3_critical_path.md) | The importance overlay. MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY classification of every text against the Phase III publication target; drives tier derivation. | Actively iterating. |
-| [Execution plan/text_classification.md](Execution plan/text_classification.md) | The prose-class master mapping (5 difficulty classes × language × n_chapters); feeds the Style × Tier hour formula. | When texts are added/reclassified. |
+| [Execution plan/programme_parameters.md](Execution plan/programme_parameters.md) | The spec. Programme parameters (timeline, hour budget, tiered active-practice regime, hybrid cut strategy with Context Layer), structural requirements for the execution plan, falling-behind protocols, session-structure rules by text type, community engagement track, dialogue moments, concentrated time blocks. Distinguishes **fixed** from **revisable** parameters (see §8 table). | When parameters change — but check fixed/revisable table first. |
+| [Execution plan/importance_tiers.md](Execution plan/importance_tiers.md) | The importance overlay. MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY classification of every text against the Phase III publication target; drives tier derivation. | Actively iterating. |
+| [Execution plan/reading_speed_classes.md](Execution plan/reading_speed_classes.md) | The prose-class master mapping (5 difficulty classes × language × n_chapters); feeds the Style × Tier hour formula. | When texts are added/reclassified. |
 | [Execution plan/execution_plan.md](Execution plan/execution_plan.md) | The schedule. Phase I week-by-week, Phases II–III month-level, Phase IV connection log. Calibrated to bottom of pacing range; recalibrates after Month 1. Revision history in `execution_plan_changelog.md`. | Actively iterating — user wants it watertight. |
 | [Execution plan/reading_practices.md](Execution plan/reading_practices.md) | The method. Reading protocols by text type, Practice A (reconstruction), Practice B (conceptual tracking), Practice C (debate maps), evaluation practice, worked examples. | Actively iterating — methods are still being tuned to what actually works. |
 | [Execution plan/diagnostic_refinement_template.md](Execution plan/diagnostic_refinement_template.md) | The meta-workflow. Phase 0 scope marking (Locked / Active / Speculative), Phase 1 diagnostic audit (6–8 dimensions, 1–5 scoring, weakness typology), Phase 2 revision passes. Use this when revising any of the above. | Stable. |
 
 Superseded versions and retained audit reports live under `Execution plan/archive/`. `session_state.md` is a resume snapshot (may lag the live docs — trust the docs above on conflict).
 
-When the user says "the plan," they almost always mean `execution_plan.md`. When they say "the syllabus," `sozialphilosophie_syllabus.md`.
+When the user says "the plan," they almost always mean `execution_plan.md`. When they say "the syllabus," `sozialphilosophie_syllabus.md`. Renames of 2026-07-14 (prose shorthand in the documents predates them): "the bridge" = `programme_parameters.md` (formerly `bridge_document.md`); "phase3" / "the critical path" = `importance_tiers.md` (formerly `phase3_critical_path.md`); "text classification" / "reading speed tables" = `reading_speed_classes.md` (formerly `text_classification.md`).
 
 ## Obsidian vault for notes
 
@@ -73,7 +73,7 @@ I am a computational macroeconomist. Use this productively, but watch the hazard
 | Task | Convention |
 |---|---|
 | Reconstruction critique | I paste the reconstruction; you pressure-test it per the four-part Practice A structure (claim / support / directed-against / presuppositions) plus the dialogue-moment objection. |
-| Editing plan documents | Use the diagnostic-refinement workflow when the edit is non-trivial. Respect the fixed/revisable distinction in `bridge_document.md` §6 (Class A/B/C parameter table). Preserve [Economist's note] markers. Preserve [MX]/Phase IV-connection flags. |
+| Editing plan documents | Use the diagnostic-refinement workflow when the edit is non-trivial. Respect the fixed/revisable distinction in `programme_parameters.md` §6 (Class A/B/C parameter table). Preserve [Economist's note] markers. Preserve [MX]/Phase IV-connection flags. |
 | Iterating on reading practices | This is open territory. Tell me what's likely to fail at my hours/week and German-fluent profile, and suggest specifically — not "consider doing X" but "replace §Y with Z." |
 | Drafting (Phase III) | Conference abstracts, workshop talks, journal drafts, scholar correspondence. Frankfurt-tradition voice; clean German or English; not LLM-flavoured. |
 | Reading companion Q&A | Concise. If the question is "what does Honneth mean by *Missachtung* in this passage," answer that — don't survey the entire recognition debate unless asked. |
@@ -93,7 +93,7 @@ I do not hold the programme's internal shorthand in working memory. When writing
 - **Decode syllabus item numbers on first use**: not "8.3" but "Zurn's second-order-disorders article (8.3)"; not "7.19" but "Honneth, *Der arbeitende Souverän* (7.19)". Standard text sigla (TKH, DdA, ND, MM, KuA, KvL, F&G, RP, EuI) may stay unexpanded; expand non-standard ones (e.g. F&R = Jaeggi, *Fortschritt und Regression*).
 - **Disambiguate the W-collision in words**: W13 = programme week 13; but W1/W2 = the two Phase III writing blocks (leave weeks), and W3.1–W3.3 = the Craft-Block writing exercises from syllabus Module W3, where **W3.2 = the publishable piece**. Never leave a bare W-number ambiguous.
 
-Glossary of the recurring set (canonical definitions live in `reading_practices.md` and `bridge_document.md` §3):
+Glossary of the recurring set (canonical definitions live in `reading_practices.md` and `programme_parameters.md` §3):
 
 | Shorthand | Meaning |
 |---|---|

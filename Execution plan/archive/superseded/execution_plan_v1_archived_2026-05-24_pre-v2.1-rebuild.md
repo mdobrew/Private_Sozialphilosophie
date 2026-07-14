@@ -1,6 +1,6 @@
 # Sozialphilosophie Execution Plan
 
-**Companion to** `sozialphilosophie_syllabus_v6.md`, `bridge_document.md`, and `y3_critical_path.md`. Revision history: [execution_plan_v1_changelog.md](execution_plan_v1_changelog.md).
+**Companion to** `sozialphilosophie_syllabus_v6.md`, `programme_parameters.md`, and `y3_critical_path.md`. Revision history: [execution_plan_v1_changelog.md](execution_plan_v1_changelog.md).
 **Scope.** Phase I (M1–M15): full week-by-week schedule. Phases II–III (M16–M44): month-level outline. Phase IV: connection log only. **Programme submission target M44** (Jan 2030).
 **Reader.** Computational macroeconomist, ECB Frankfurt; ~7–8 h/week + ~7–8 leave days/year; fluent German.
 **Reference posture.** Calibrated to the **bottom of the bridge's pacing range** (faster end of 3.5–8 pp/h depending on text type), reflecting fluent German + prior Frankfurt-School exposure. Midpoint pacing extends Phase I to ~17 months.
@@ -1996,7 +1996,7 @@ Writing hours = min(Reading × α(class, tier), n_chapters × per-Recon ceiling)
 Total Hrs    = Reading + Writing
 ```
 
-Reading speed (pp/h) and writing multiplier (α) depend on the text's **prose-difficulty class** (Dense / Systematic / Layered / Analytic / Transparent). Per-text class assignments live in [text_classification.md](text_classification.md). The class is **independent of the syllabus tag** — a [P] text can be Dense, Layered, or Transparent depending on its prose.
+Reading speed (pp/h) and writing multiplier (α) depend on the text's **prose-difficulty class** (Dense / Systematic / Layered / Analytic / Transparent). Per-text class assignments live in [reading_speed_classes.md](reading_speed_classes.md). The class is **independent of the syllabus tag** — a [P] text can be Dense, Layered, or Transparent depending on its prose.
 
 ### Reading speeds (pp/h)
 
@@ -2080,7 +2080,7 @@ Quick reference (bottom-of-range, the default for this plan):
 | Analytic | 15 | 18 |
 | Transparent | 18 | 20 |
 
-*Class assignments per text live in [text_classification.md](text_classification.md). Class is independent of syllabus tag — a [P] text can be Dense, Layered, or Transparent depending on its prose, not its importance.*
+*Class assignments per text live in [reading_speed_classes.md](reading_speed_classes.md). Class is independent of syllabus tag — a [P] text can be Dense, Layered, or Transparent depending on its prose, not its importance.*
 
 ---
 

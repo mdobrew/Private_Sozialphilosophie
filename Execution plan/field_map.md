@@ -2,11 +2,11 @@
 
 **What this is.** The navigational layer of the programme: a map of the intellectual traditions ("spines") in and around Frankfurt-tradition Sozialphilosophie, which one this programme is built on, which are rivals, and what each would cost to enter. Open it to *orient* — to remember where you are and what your options are — not to look up a text (that is the syllabus) or a schedule (that is the execution plan). Created 2026-06-29.
 
-**Role in the document architecture.** Sits beside [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) (the bibliography), [phase3_critical_path.md](phase3_critical_path.md) (Phase-III importance + the endpoint-branch map in §4), and [execution_plan.md](execution_plan.md) (the schedule). This doc is the "where am I in the field and what are my choices" layer the others presuppose but do not state.
+**Role in the document architecture.** Sits beside [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) (the bibliography), [importance_tiers.md](importance_tiers.md) (Phase-III importance + the endpoint-branch map in §4), and [execution_plan.md](execution_plan.md) (the schedule). This doc is the "where am I in the field and what are my choices" layer the others presuppose but do not state.
 
 **How it connects.**
 - The *texts* for any spine live in the syllabus; this map indexes them by **lineage** (§3) rather than by module.
-- The *branch-points* (which spine you specialize toward in Phase III) are operationalized in **phase3_critical_path.md §4** (conditional promotions → endpoint-branch map).
+- The *branch-points* (which spine you specialize toward in Phase III) are operationalized in **importance_tiers.md §4** (conditional promotions → endpoint-branch map).
 - *Debates* you actually work out become **Practice C debate-maps** in the Obsidian vault (`Debatten-Karte/`); §6 here is only a watchlist of what is live.
 
 ---
@@ -111,7 +111,7 @@ A **shared Frankfurt-core** (*Constellations*, *Critical Horizons*, *PSC*, *EJP*
 
 ## 7. The shared core and the branch points
 
-Modules 1–8 + the Phase-I instrumental readings = the **shared spine-core** for branches A, C, D, E and largely B. You commit a branch at R5 (~M35), execute it as the Phase III contribution, and deepen it in Phase IV. The branch-by-branch item promotions live in **phase3_critical_path.md §4** (endpoint-branch map + conditional promotions).
+Modules 1–8 + the Phase-I instrumental readings = the **shared spine-core** for branches A, C, D, E and largely B. You commit a branch at R5 (~M35), execute it as the Phase III contribution, and deepen it in Phase IV. The branch-by-branch item promotions live in **importance_tiers.md §4** (endpoint-branch map + conditional promotions).
 
 **Current keepers: B (capitalism-as-form) and E (Bildung).** Their frontier readings are folded into the syllabus (Module 13/14 for B; Appendix H for E); the other branches stay map-only until chosen.
 

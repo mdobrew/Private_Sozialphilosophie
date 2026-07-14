@@ -1,6 +1,6 @@
 # Sozialphilosophie Execution Plan
 
-**Companion to** `sozialphilosophie_syllabus_v6.md`, `bridge_document.md`, and `y3_critical_path_v2.md` (v2.1 authoritative). Revision history: [execution_plan_v1_changelog.md](execution_plan_v1_changelog.md).
+**Companion to** `sozialphilosophie_syllabus_v6.md`, `programme_parameters.md`, and `y3_critical_path_v2.md` (v2.1 authoritative). Revision history: [execution_plan_v1_changelog.md](execution_plan_v1_changelog.md).
 **Scope.** Phase I (M1–M15): full week-by-week schedule. Phases II–III (M16–M48): month-level outline. Phase IV: connection log only. **Programme submission target M48 (~Jun 2030) baseline; M50 (~Aug 2030) W13-trigger fallback per bridge §6 Class A — updated 2026-05-25 per M48 rebuild (bridge document still reads M44/M46 and needs follow-up update).**
 **Reader.** Computational macroeconomist, ECB Frankfurt; ~7–8 h/week + ~7–8 leave days/year (project-allocated of 30 total ECB); fluent German.
 **Reference posture.** Calibrated to the **bottom of the bridge's pacing range** (faster end per [Appendix A](#a-style--tier-matrix-and-time-formula) — Style × Tier matrix), reflecting fluent German + prior Frankfurt-School exposure. Midpoint pacing extends Phase I to ~17 months.
@@ -259,7 +259,7 @@ Beyond the calibration window, the log's metrics function is to keep you honest 
 
 | ID  | Text | Lang | Pages | Hrs | Tier | Weeks |
 |---|---|---|---|---|---|---|
-| 0.1 | Celikates & Jaeggi, *Sozialphilosophie: Eine Einführung* | DE | ~250 | ~15 *(re-priced 2026-05-25: was ~25h; the original figure applied Layered DE bottom pp/h (~10 pp/h) per text_classification, but an Einführung *about* Layered authors does not itself read at Layered density. Re-priced at Systematic DE pp/h (~17 pp/h), consistent with Schedule allocation W1–W4 ~16h and the syllabus's "read as a map, not a treatise" framing for this Orient-tier text.)* | [O] | W1–4 |
+| 0.1 | Celikates & Jaeggi, *Sozialphilosophie: Eine Einführung* | DE | ~250 | ~15 *(re-priced 2026-05-25: was ~25h; the original figure applied Layered DE bottom pp/h (~10 pp/h) per reading_speed_classes, but an Einführung *about* Layered authors does not itself read at Layered density. Re-priced at Systematic DE pp/h (~17 pp/h), consistent with Schedule allocation W1–W4 ~16h and the syllabus's "read as a map, not a treatise" framing for this Orient-tier text.)* | [O] | W1–4 |
 | 0.2 | Honneth, "Pathologien des Sozialen" (1994) | DE | ~25 | ~3.5 | [P*] | W3–5 |
 | 0.3 | Jaeggi, "What (if Anything) Is Wrong with Capitalism?" | EN/DE | ~25 | ~2 | [P] | W5 |
 | 0.4 | Jay, *Dialectical Imagination*, chs. 1–3 | EN | ~150 | ~7.5 | [O] | W6–7 |
@@ -2173,7 +2173,7 @@ Writing hours = min(Reading × α(class, tier), n_chapters × per-Recon ceiling)
 Total Hrs    = Reading + Writing
 ```
 
-Reading speed (pp/h) and writing multiplier (α) depend on the text's **prose-difficulty class** (Dense / Systematic / Layered / Analytic / Transparent). Per-text class assignments live in [text_classification.md](text_classification.md). The class is **independent of the syllabus tag** — a [P] text can be Dense, Layered, or Transparent depending on its prose.
+Reading speed (pp/h) and writing multiplier (α) depend on the text's **prose-difficulty class** (Dense / Systematic / Layered / Analytic / Transparent). Per-text class assignments live in [reading_speed_classes.md](reading_speed_classes.md). The class is **independent of the syllabus tag** — a [P] text can be Dense, Layered, or Transparent depending on its prose.
 
 ### Reading speeds (pp/h)
 
@@ -2257,7 +2257,7 @@ Quick reference (bottom-of-range, the default for this plan):
 | Analytic | 15 | 18 |
 | Transparent | 18 | 20 |
 
-*Class assignments per text live in [text_classification.md](text_classification.md). Class is independent of syllabus tag — a [P] text can be Dense, Layered, or Transparent depending on its prose, not its importance.*
+*Class assignments per text live in [reading_speed_classes.md](reading_speed_classes.md). Class is independent of syllabus tag — a [P] text can be Dense, Layered, or Transparent depending on its prose, not its importance.*
 
 ---
 

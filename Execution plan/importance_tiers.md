@@ -1,11 +1,13 @@
 # Phase III Critical Path — Reading Prioritisation Against the Phase III Publication Target
 
+*[Renamed 2026-07-14: this file is `importance_tiers.md`, formerly `phase3_critical_path.md`. Prose references to "phase3" / "phase3 §n" / "the critical path" throughout the documents mean this file.]*
+
 **Version 2.2** — 2026-07-13 (calendar re-anchor to the M48 baseline + §8.4 override-revert + §4 dependency-annotation pass, per the 2026-07-13 plan audit / upstream-reconciliation pass). Prior: v2.1 (2026-05-24, bridge-update + top-5 Anchor upgrades pass); v2.0 (2026-05-22, ground-up reclassification of [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) under the v1.3 importance framework).
 
 > [!note] Calendar anchors re-anchored to the M48 baseline (v2.2, 2026-07-13) — resolves the v2.1 stale-dates warning
 > This document (v2.1, 2026-05-24) predated the M48 schedule rebuild (2026-05-25) by one day; its calendar anchors were flagged stale until this pass. **All live sections (§1, §3 item rationales, §4–§8) now carry the post-rebuild anchors**: R5 = M35 (≈ Apr 2029), Comparison Exercise M37–38, W3.2 topic lock-in M38, CFP submission M39, Writing Block W1 = M40, informal presentation M41–M43, formal Tagung/workshop M43–M46, Writing Block W2 = M47, journal submission M48 (≈ Jun 2030); M50 W13-trigger fallback, M52 sustained-overage stretch. The **authoritative calendar remains the [execution_plan.md](execution_plan.md) milestone table**; the importance classifications and tier derivations here were never affected by the rebuild. **Historical exception:** the version-changelog material below (the numbered v2.1-changes list and §3.0a/§3.0b) records pre-rebuild dates ("M44 = Jan 2030", "M30 R5", presentation "M37–M39", Tagung "M39–M42") and the then-open "~20% capacity overage" language *as a version record* — historical mentions, not live claims. (The recency-caveat arithmetic computed against M44 = Jan 2030 holds *a fortiori* at M48 ≈ Jun 2030.)
 
-**v2.1 changes vs v2.0** (driven by [bridge_document.md](bridge_document.md) update 2026-05-24):
+**v2.1 changes vs v2.0** (driven by [programme_parameters.md](programme_parameters.md) update 2026-05-24):
 1. **Top-5 MUST-Engage → MUST-Anchor upgrades applied**: 3A.1 Lukács, 5.2 Habermas *EuI*, 7.7 Forst *Recht auf Rechtfertigung*, 8.6 Allen *End of Progress*, 9.2 Fricker — per §8 discipline-flag review. §4 conditional-Anchor entries for these items removed (now baseline). §8 rewritten as a decision log.
 2. **Path D' Phase IV-default deferrals removed**: 7.13 Renault, 7.17 Bedorf, 9.6 Vogelmann, 9.7 Boltanski *On Critique*, 9.9 Harding, 14.9 Aglietta moved from `Phase IV default` to active `SHOULD` with capacity-deferral notes. Vogelmann un-deferring is reinforced by bridge §2.4 naming him as a Phase II–III interlocutor target. (Bridge §6 Class A flags a ~20% capacity overage that remains the user's open decision; SHOULD-deferral under capacity pressure is the cut-list route, not framework-locked Phase-IV defaulting.)
 3. **Interlocutor-target upgrades**: 7.22 Jütten (was 8.10), 14.8 von Redecker upgraded COULD Orient → SHOULD Light. Bridge §2.4 names both as Phase II–III contact targets; field-importance reads as SHOULD once the interlocutor argument lands.
@@ -20,14 +22,14 @@
 
 **Role in document architecture**: this is the 6th document, between [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) (intellectual map) and [execution_plan.md](execution_plan.md) (schedule). It classifies every meaningful item in the syllabus against the Phase III publication target so the execution plan can schedule against a prioritised set rather than the full syllabus.
 
-**Naming convention.** Phases I/II/III/IV (Roman numerals) refer to programme stretches anchored to programme months M1–M48+, not calendar years (Phase I = 15 months, M1–M15; Phase II = 19 months, M16–M34; Phase III = 14 months, M35–M48; Phase IV = post-M48 — per the M48 rebuild 2026-05-25, re-anchored here 2026-07-13). Filename `phase3_critical_path.md` retained as cross-reference anchor; inner content uses "Phase III".
+**Naming convention.** Phases I/II/III/IV (Roman numerals) refer to programme stretches anchored to programme months M1–M48+, not calendar years (Phase I = 15 months, M1–M15; Phase II = 19 months, M16–M34; Phase III = 14 months, M35–M48; Phase IV = post-M48 — per the M48 rebuild 2026-05-25, re-anchored here 2026-07-13). Filename `importance_tiers.md` retained as cross-reference anchor; inner content uses "Phase III".
 
 ---
 
 ## 1. What "Phase III frontier" means
 
 **Target outputs:**
-- Phase II–III publication-cycle deliverables (per [bridge_document.md](bridge_document.md) §2.4 + §4, and the Phase III production cycle in [execution_plan.md](execution_plan.md) M35–M48) *[dates re-anchored 2026-07-13 to the M48 baseline]*:
+- Phase II–III publication-cycle deliverables (per [programme_parameters.md](programme_parameters.md) §2.4 + §4, and the Phase III production cycle in [execution_plan.md](execution_plan.md) M35–M48) *[dates re-anchored 2026-07-13 to the M48 baseline]*:
   - Phase II (community-entry signal moves):
     - One **book review** (~20–25h including the read) to *DZfPh* / *WestEnd* / *Mittelweg 36* at ~M28–M30 (window canonical in bridge §2.4)
     - One **cross-disciplinary short essay** (~10–20h) to *Soziopolis* / *Geschichte der Gegenwart* / *WestEnd* Diskussion at ~M29–M36 (the mandatory *Zwischenstück* per reading_practices.md Part II; window canonical in bridge §2.4)
@@ -59,7 +61,7 @@
 
 **Classification is provisional.** Triggers for re-classification (see §5):
 1. Phase III topic firms up around a specific subfield → conditional COULDs auto-promote to MUSTs in that subfield
-2. Falling-behind 4-week+ protocol activates → SHOULDs are first to cut, then COULDs, then DISCRETIONARY (per [execution_plan.md](execution_plan.md) §A and §A.1; design rationale in [bridge_document.md](bridge_document.md) §6 Class A capacity-ceiling row)
+2. Falling-behind 4-week+ protocol activates → SHOULDs are first to cut, then COULDs, then DISCRETIONARY (per [execution_plan.md](execution_plan.md) §A and §A.1; design rationale in [programme_parameters.md](programme_parameters.md) §6 Class A capacity-ceiling row)
 3. New frontier text appears that displaces an existing one
 4. External feedback (workshop discussant, scholar correspondence) identifies a missing piece
 
@@ -727,8 +729,8 @@ This document is revised by the user (not by Claude) when one of the following t
 
 - **Syllabus**: [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) — section/module/item number as referenced throughout
 - **Execution plan**: [execution_plan.md](execution_plan.md) — scheduled Phase I/Phase II/Phase III by week/month
-- **Bridge document**: [bridge_document.md](bridge_document.md) §2.2 (tier semantics — points to reading_practices §C.2 as canonical), §2.4 + §4 Phase III (community engagement + Phase III deliverables structure), §6 Class A/B/C (programme parameters). The falling-behind protocols formerly here now live canonically at [execution_plan.md](execution_plan.md) §A and §A.1.
-- **Text classification**: [text_classification.md](text_classification.md) — per-text prose class + n_chapters used by §C.2 time formula
+- **Bridge document**: [programme_parameters.md](programme_parameters.md) §2.2 (tier semantics — points to reading_practices §C.2 as canonical), §2.4 + §4 Phase III (community engagement + Phase III deliverables structure), §6 Class A/B/C (programme parameters). The falling-behind protocols formerly here now live canonically at [execution_plan.md](execution_plan.md) §A and §A.1.
+- **Text classification**: [reading_speed_classes.md](reading_speed_classes.md) — per-text prose class + n_chapters used by §C.2 time formula
 - **Reading practices**: [reading_practices.md](reading_practices.md) Appendix C §C.2 — Style × Tier matrix and time formula
 
 ### Cross-document update protocol

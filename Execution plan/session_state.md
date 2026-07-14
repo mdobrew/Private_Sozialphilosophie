@@ -16,9 +16,9 @@ Captures load-bearing decisions and conventions across the working session. Read
 | File | Role |
 |---|---|
 | `sozialphilosophie_syllabus.md` | Intellectual map. Annotated bibliography with tags, hour estimates, [Economist's note] markers, [MX] flags. |
-| `bridge_document.md` | Programme-level spec. Reader profile, capacity envelope, community engagement track, design requirements, Class A/B/C parameter version-control. **Slimmed 2026-05-24** — obsolete sections deleted; load-bearing canonical content kept. |
-| `phase3_critical_path.md` (v2.1) | Importance overlay. MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY classification. (Prior v1.3 archived at `archive/superseded/y3_critical_path_v1.3.md`.) |
-| `text_classification.md` | Prose-class master mapping (5 classes × language × n_chapters). |
+| `programme_parameters.md` | Programme-level spec. Reader profile, capacity envelope, community engagement track, design requirements, Class A/B/C parameter version-control. **Slimmed 2026-05-24** — obsolete sections deleted; load-bearing canonical content kept. |
+| `importance_tiers.md` (v2.1) | Importance overlay. MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY classification. (Prior v1.3 archived at `archive/superseded/y3_critical_path_v1.3.md`.) |
+| `reading_speed_classes.md` | Prose-class master mapping (5 classes × language × n_chapters). |
 | `execution_plan.md` | Schedule. Phase I weekly, Phase II–III monthly. Inventory tables with Pages, Hrs, Tier annotations. |
 | `reading_practices.md` | Method. Practices A–J + Discipline + Using Claude + Note-taking infrastructure + Appendix C §C.2 Style × Tier matrix (canonical) + §C.3 practices defined elsewhere. |
 | `diagnostic_refinement_template.md` | Meta-workflow for revising the above (Phase 0 scope marking → diagnostic audit → revision passes). |
@@ -30,7 +30,7 @@ Companion files:
 
 ## Importance + tier framework (canonical structure)
 
-### Phase III importance classes (per `phase3_critical_path.md` §2.1, refined in v1.3 + v2)
+### Phase III importance classes (per `importance_tiers.md` §2.1, refined in v1.3 + v2)
 
 | Class | Criterion | Default tier |
 |---|---|---|
@@ -118,7 +118,7 @@ The first community-engagement audit invented `critical-theory.net` as a venue. 
 ## Saved agent prompts (for fresh-agent launch)
 
 Both saved prompts below have been **run and deleted** in the 2026-05-28 cleanup:
-- `y3_reclassification_v6.md` — produced `phase3_critical_path.md` (v2).
+- `y3_reclassification_v6.md` — produced `importance_tiers.md` (v2).
 - `schedule_rebuild.md` — produced the M48 schedule rebuild now reflected in `execution_plan.md`.
 
 ## Open decisions queued
@@ -128,7 +128,7 @@ Both saved prompts below have been **run and deleted** in the 2026-05-28 cleanup
 
 ## Next steps (recommended order)
 
-1. **Launch `agent_prompts/schedule_rebuild.md`** in a fresh agent session. This is the big pass that: (a) recomputes Schedule Hrs from new Inventory + ground-up; (b) reconciles Inventory Tier-column annotations against phase3_critical_path.md; (c) layers in non-Recon practice adjustments (Practice E, F, R3 raise, Skizze raise, W3.3 raise, etc.); (d) layers in community-engagement audit 2 recommendations into Phase II + Phase III schedule sections; (e) makes the M44 vs M46 timeline call honestly. ~2000-word report expected. Schedule-rebuild prompt already updated to handle all of this.
+1. **Launch `agent_prompts/schedule_rebuild.md`** in a fresh agent session. This is the big pass that: (a) recomputes Schedule Hrs from new Inventory + ground-up; (b) reconciles Inventory Tier-column annotations against importance_tiers.md; (c) layers in non-Recon practice adjustments (Practice E, F, R3 raise, Skizze raise, W3.3 raise, etc.); (d) layers in community-engagement audit 2 recommendations into Phase II + Phase III schedule sections; (e) makes the M44 vs M46 timeline call honestly. ~2000-word report expected. Schedule-rebuild prompt already updated to handle all of this.
 
 2. **After schedule-rebuild lands and is reviewed**: any small refinements + final cross-document consistency check.
 
@@ -143,7 +143,7 @@ Both saved prompts below have been **run and deleted** in the 2026-05-28 cleanup
 
 ## Decisions taken on user's behalf this session
 
-- Slimmed bridge_document.md drastically — deleted §2.2 + §2.3 + §3.4 + §3.5 + §3.6 (merged into §2.4) + §5 + §7. Renumbered. Refreshed §6 (was §8) with audit B recommendations.
+- Slimmed programme_parameters.md drastically — deleted §2.2 + §2.3 + §3.4 + §3.5 + §3.6 (merged into §2.4) + §5 + §7. Renumbered. Refreshed §6 (was §8) with audit B recommendations.
 - Applied community-engagement audit 2 framing + user-specific choices to bridge §2.4 (drop ECB-internal-talk-by-user; keep ECB-hosting as aspiration; book review + short essay both; discussant role with how-to-arrange; scholar emails kept with high bar + clearer norms; Phase IV referee-work realistic framing; co-authoring M50–M54 flag; workshop organising M60–M72 flag).
 - Updated reading_practices cross-references to point at new Style × Tier matrix locations (replacing obsolete bridge §2.2 + §3.5 refs).
 - Saved both community-engagement audits + Phase III audit + Class A/B/C audit + falling-behind audit to `agent_audits/`.

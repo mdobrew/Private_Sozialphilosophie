@@ -1,14 +1,14 @@
 # Inventory Mispricing Audit — execution_plan_v1.md
 
 **Date:** 2026-05-25
-**File audited (read-only):** `/Users/michael/Sozialphilosophie/Execution plan/execution_plan_v1.md`, cross-referenced against `reading_practices_v4.md` §C.2 (Style × Tier matrix), `text_classification.md`, `sozialphilosophie_syllabus_v6.md`.
+**File audited (read-only):** `/Users/michael/Sozialphilosophie/Execution plan/execution_plan_v1.md`, cross-referenced against `reading_practices_v4.md` §C.2 (Style × Tier matrix), `reading_speed_classes.md`, `sozialphilosophie_syllabus_v6.md`.
 **Purpose:** Identify Inv-cell mispricings of the same character as the Celikates 0.1 *Einführung* case (Layered pp/h applied to a text that does not itself read at Layered density). Top-N list for user review.
 
 ---
 
 ## Framework validation (Celikates 0.1)
 
-Celikates & Jaeggi *Einführung* re-pricing (25→15h) confirms the diagnostic class. The misprice arose because `text_classification.md` assigned **Layered** based on the authors' typical register, but an Einführung *about* Layered authors reads at Transparent/Systematic speed (~17 pp/h, not ~10 pp/h). Re-priced Inv: 250pp ÷ ~17 pp/h ≈ 14.7h + 0.25h flat Orient writing ≈ 15h. Schedule W1–W4 already allocates ~16h, so the Inv was internally inconsistent with the Schedule and is now aligned.
+Celikates & Jaeggi *Einführung* re-pricing (25→15h) confirms the diagnostic class. The misprice arose because `reading_speed_classes.md` assigned **Layered** based on the authors' typical register, but an Einführung *about* Layered authors reads at Transparent/Systematic speed (~17 pp/h, not ~10 pp/h). Re-priced Inv: 250pp ÷ ~17 pp/h ≈ 14.7h + 0.25h flat Orient writing ≈ 15h. Schedule W1–W4 already allocates ~16h, so the Inv was internally inconsistent with the Schedule and is now aligned.
 
 ## Audit method
 
@@ -45,7 +45,7 @@ Two items have Inv hours below what their declared Full tier + chapter-count del
 
 **Cumulative Δ saved across the top candidates: ~10h** (already realised in the 0.1 + 1.6 repairs) **+ ~10–15h marginal additional** (items 2, 3, 4, 5 if all four re-priced, mostly low confidence). The bulk of the 25h originally suspected has already been captured by the 0.1 repair.
 
-**Pattern observed.** The Celikates 0.1 mispricing was structurally **unique** — it was the one Einführung in the corpus that `text_classification.md` did not catch with a special rule (Heinrich 2.3 got special rule #1; 0.1 did not). All other Einführungen / companions / surveys in the active inventory (Outhwaite, McCarthy, Freyenhagen, Heinrich, Hollis-as-textbook, Jay, Wiggershaus-bonus, Horster CL1) are correctly assigned to Transparent or Analytic with appropriate pp/h. The remaining candidates (8.5 Jaeggi-Fraser conversation, 9.10 Collins) are *borderline* class-edge cases where the Layered classification is defensible but the reading character may be faster.
+**Pattern observed.** The Celikates 0.1 mispricing was structurally **unique** — it was the one Einführung in the corpus that `reading_speed_classes.md` did not catch with a special rule (Heinrich 2.3 got special rule #1; 0.1 did not). All other Einführungen / companions / surveys in the active inventory (Outhwaite, McCarthy, Freyenhagen, Heinrich, Hollis-as-textbook, Jay, Wiggershaus-bonus, Horster CL1) are correctly assigned to Transparent or Analytic with appropriate pp/h. The remaining candidates (8.5 Jaeggi-Fraser conversation, 9.10 Collins) are *borderline* class-edge cases where the Layered classification is defensible but the reading character may be faster.
 
 **Confidence levels.** Only the 0.1 fix is high-confidence (validated). Items 2 and 3 are low–medium confidence — the call hinges on the user's actual pace on dialogue volumes (8.5) and accessible-feminist-theory prose (9.10). Items 4 and 5 are very low confidence: within rounding error of the formula. **User should verify against own reading experience on dialogue volumes and partial-selection accessible monographs before re-pricing 8.5 / 9.10.**
 

@@ -18,7 +18,7 @@
 
 ## Reading protocols by text type
 
-The practices below apply to all texts, but the *reading protocol* — how you approach the text before writing — differs by text type. The syllabus covers texts that range from clearly argued systematic prose to deliberately anti-systematic constellations, and no single reading method works for all of them. As a rule of thumb the protocol follows the text's prose class (`text_classification.md`) and length: Dense-class texts — and the genuinely dense stretches of otherwise-systematic ones, such as TKH Bd. 2 ch. VI — take Protocol 2; aphoristic and paratactic texts (*Minima Moralia* clusters, *Dialektik der Aufklärung*, Benjamin's Thesen) take Protocol 2a; short programmatic pieces (under ~30–40 pp) take Protocol 3; the remaining systematic argumentative texts take Protocol 1, read without a running skeleton so that the closed-book reconstruction still surfaces what you failed to retain.
+The practices below apply to all texts, but the *reading protocol* — how you approach the text before writing — differs by text type. The syllabus covers texts that range from clearly argued systematic prose to deliberately anti-systematic constellations, and no single reading method works for all of them. As a rule of thumb the protocol follows the text's prose class (`reading_speed_classes.md`) and length: Dense-class texts — and the genuinely dense stretches of otherwise-systematic ones, such as TKH Bd. 2 ch. VI — take Protocol 2; aphoristic and paratactic texts (*Minima Moralia* clusters, *Dialektik der Aufklärung*, Benjamin's Thesen) take Protocol 2a; short programmatic pieces (under ~30–40 pp) take Protocol 3; the remaining systematic argumentative texts take Protocol 1, read without a running skeleton so that the closed-book reconstruction still surfaces what you failed to retain.
 
 ### The principle the three protocols share
 
@@ -473,7 +473,7 @@ The sections in this part are not first-order practices in the way that Parts I 
 
 ## Module-close practices — canonical definitions
 
-**[Revised 2026-07-13 (practices audit):** two structural changes. *First*, the module close is consolidated from five artifacts to three (plus one small scheduled item): the former Dialogue Moment, H1 light-discrimination note, and C2 cross-thinker question are merged into the adversarial module note (Practice H1). *Second*, per the single-ownership rule, the canonical definitions of the **comprehension check** and the **quarterly milestone** move here from bridge_document.md §3.3; the Dialogue Moment's content is absorbed into the adversarial module note's Objection subsection (formerly bridge §3.6). This document now owns all module-close practice definitions; the bridge retains only the structural requirement, and the execution plan's §D.2 checklist carries the scheduling.**]**
+**[Revised 2026-07-13 (practices audit):** two structural changes. *First*, the module close is consolidated from five artifacts to three (plus one small scheduled item): the former Dialogue Moment, H1 light-discrimination note, and C2 cross-thinker question are merged into the adversarial module note (Practice H1). *Second*, per the single-ownership rule, the canonical definitions of the **comprehension check** and the **quarterly milestone** move here from programme_parameters.md §3.3; the Dialogue Moment's content is absorbed into the adversarial module note's Objection subsection (formerly bridge §3.6). This document now owns all module-close practice definitions; the bridge retains only the structural requirement, and the execution plan's §D.2 checklist carries the scheduling.**]**
 
 The standard module close comprises:
 
@@ -1157,7 +1157,7 @@ Writing hours = min(Reading × α(class, tier), n_chapters × per-Recon ceiling)
 Total Hrs    = Reading + Writing
 ```
 
-Reading speed (pp/h) and writing multiplier (α) depend on the text's **prose-difficulty class**. The class is independent of the syllabus tag — a [P] text can be Dense, Layered, or Transparent depending on its prose, not its importance. Per-text class assignments live in [text_classification.md](text_classification.md).
+Reading speed (pp/h) and writing multiplier (α) depend on the text's **prose-difficulty class**. The class is independent of the syllabus tag — a [P] text can be Dense, Layered, or Transparent depending on its prose, not its importance. Per-text class assignments live in [reading_speed_classes.md](reading_speed_classes.md).
 
 #### Five prose classes
 
@@ -1213,7 +1213,7 @@ The writing-time multiplier includes: body draft (500–800w Full / 150–250w L
 #### Cross-references
 
 - Tier definitions (Full/Light/Orientation per-output format) live in Practice A *When and at what depth* above.
-- The relationship between **importance** (MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY) and tier is documented in [phase3_critical_path.md](phase3_critical_path.md). Tier is derived from `(importance × syllabus tag)`, with importance dominant.
+- The relationship between **importance** (MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY) and tier is documented in [importance_tiers.md](importance_tiers.md). Tier is derived from `(importance × syllabus tag)`, with importance dominant.
 - Default pacing for the execution plan uses **bottom-of-range** pp/h; mid/slow rows above are for future re-calibration (e.g., if the W13 trigger fires).
 
 ### C.3 Practices defined outside this document

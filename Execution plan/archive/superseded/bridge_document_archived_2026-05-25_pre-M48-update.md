@@ -320,7 +320,7 @@ Empirically, across audit history: **capacity has held firm; scope has repeatedl
 | Quarterly milestone anchoring | Module-boundary, not strict 13-week cadence | [execution_plan_v1.md](execution_plan_v1.md) §E.2 |
 | Comparison Exercise design | 4-phase: materials assembly / reading-pass / comparison essay / filing. M32–M34 | Constructed in execution plan |
 | W9–W13 calibration mechanism | Three metrics (systematic pp/h, dense pp/h, Full-tier overhead multiplier), two-gate trigger, cascade response per execution plan §D.2 | The control variable for Class C revisions |
-| Document architecture | 5 core docs: `sozialphilosophie_syllabus_v6.md` (intellectual map) · `bridge_document.md` (this doc — programme-level spec) · `y3_critical_path.md` / `_v2.md` (importance overlay) · `text_classification.md` (prose-class master) · `execution_plan_v1.md` (schedule) · `reading_practices_v4.md` (method) | Document-architecture decision |
+| Document architecture | 5 core docs: `sozialphilosophie_syllabus_v6.md` (intellectual map) · `programme_parameters.md` (this doc — programme-level spec) · `y3_critical_path.md` / `_v2.md` (importance overlay) · `reading_speed_classes.md` (prose-class master) · `execution_plan_v1.md` (schedule) · `reading_practices_v4.md` (method) | Document-architecture decision |
 | Naming convention | Phases I–IV (Roman); programme months M1–M44+; programme weeks W1–W57+. *Not* "Y1/Y2/Y3." | Established post-Pass-4 |
 | Calendar anchor | M1 W1 = week of 2026-06-15 | Pinned in execution_plan calendar table; derived dates shift with anchor |
 

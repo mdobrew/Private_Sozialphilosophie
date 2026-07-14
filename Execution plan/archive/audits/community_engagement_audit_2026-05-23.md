@@ -1,6 +1,6 @@
 # Community-engagement track audit — 2026-05-23
 
-*Audit subagent report. Read-only review of the Phase II + Phase III community-engagement track currently distributed across `bridge_document.md` §2.4 + §3.6 and `execution_plan_v1.md` Appendix G + inline M22+ entries. Triggered by user note that "this track was defined as the ultimate goal but never really second-guessed."*
+*Audit subagent report. Read-only review of the Phase II + Phase III community-engagement track currently distributed across `programme_parameters.md` §2.4 + §3.6 and `execution_plan_v1.md` Appendix G + inline M22+ entries. Triggered by user note that "this track was defined as the ultimate goal but never really second-guessed."*
 
 ## Headline verdict
 
@@ -133,7 +133,7 @@ The M44 endpoint reaches roughly the first three at a minimum and none of items 
 
 ## Files referenced
 
-- `/Users/michael/Sozialphilosophie/Execution plan/bridge_document.md` §§2.4, 3.6, 8
+- `/Users/michael/Sozialphilosophie/Execution plan/programme_parameters.md` §§2.4, 3.6, 8
 - `/Users/michael/Sozialphilosophie/Execution plan/execution_plan_v1.md` Appendix G, M22+ inline community-engagement entries, M37–44 presentation/email scheduling
 - `/Users/michael/Sozialphilosophie/Execution plan/y3_critical_path.md` §1 (publication target — confirms *DZfPh* / *WestEnd* / *Constellations* / *ZkSP* venue set)
 - `/Users/michael/Sozialphilosophie/Execution plan/sozialphilosophie_syllabus_v6.md` (active-scholar set for interlocutor list)

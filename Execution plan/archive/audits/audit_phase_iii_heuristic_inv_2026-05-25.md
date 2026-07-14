@@ -2,7 +2,7 @@
 
 **Date:** 2026-05-25
 **Read-only audit of:** `/Users/michael/Sozialphilosophie/Execution plan/execution_plan_v1.md`
-**Cross-referenced against:** `bridge_document.md` §2.4, `y3_critical_path_v2.md` §4 (conditional-anchor sizing).
+**Cross-referenced against:** `programme_parameters.md` §2.4, `y3_critical_path_v2.md` §4 (conditional-anchor sizing).
 
 ---
 
@@ -117,4 +117,4 @@ The 50h delta is consistent with:
 
 6. **W3.3 convertible to 2nd book-review submission** (bridge §2.4): adds ~3–5h editorial overhead — flagged in P3.Inv.7 notes but not separately pre-blocked. User to decide at M38.
 
-Key files: `/Users/michael/Sozialphilosophie/Execution plan/execution_plan_v1.md` lines 1716–1955 (Phase III); `/Users/michael/Sozialphilosophie/Execution plan/bridge_document.md` lines 55–115 (§2.4); `/Users/michael/Sozialphilosophie/Execution plan/y3_critical_path_v2.md` lines 137–142 (conditional-anchor sizing).
+Key files: `/Users/michael/Sozialphilosophie/Execution plan/execution_plan_v1.md` lines 1716–1955 (Phase III); `/Users/michael/Sozialphilosophie/Execution plan/programme_parameters.md` lines 55–115 (§2.4); `/Users/michael/Sozialphilosophie/Execution plan/y3_critical_path_v2.md` lines 137–142 (conditional-anchor sizing).

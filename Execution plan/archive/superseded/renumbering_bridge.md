@@ -1,7 +1,7 @@
 # Renumbering Bridge: Syllabus v5 → v6
 
 **Date:** 2026-05-20 (updated)
-**Purpose:** Complete mapping of all identifier changes between syllabus v5 and v6. Designed to be applied by an automated agent to dependent documents (execution_plan, bridge_document, y3_critical_path, audit documents, etc.).
+**Purpose:** Complete mapping of all identifier changes between syllabus v5 and v6. Designed to be applied by an automated agent to dependent documents (execution_plan, programme_parameters, y3_critical_path, audit documents, etc.).
 
 ---
 

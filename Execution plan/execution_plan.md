@@ -1,6 +1,6 @@
 # Sozialphilosophie Execution Plan
 
-**Companion to** `sozialphilosophie_syllabus.md`, `bridge_document.md`, and `phase3_critical_path.md`. Revision history: [execution_plan_changelog.md](execution_plan_changelog.md).
+**Companion to** `sozialphilosophie_syllabus.md`, `programme_parameters.md`, and `importance_tiers.md`. Revision history: [execution_plan_changelog.md](execution_plan_changelog.md).
 **Scope.** Phase I (M1–M15): full week-by-week schedule. Phases II–III (M16–M48): month-level outline. Phase IV: connection log only. **Submission target M48 (~Jun 2030) baseline; M50 (~Aug 2030) W13-trigger fallback.**
 **Reader.** Computational macroeconomist, ECB Frankfurt; ~7–8 h/week + ~7–8 leave days/year (project-allocated of 30 total ECB); fluent German.
 **Reference posture.** Calibrated to the **bottom of the bridge's pacing range**. Midpoint pacing extends Phase I to ~17 months.
@@ -100,7 +100,7 @@ Programme-week and programme-month numbers are invariant under start-date shift.
 
 **Calibration trigger (two-gate).** Part 0 (W1–W8) is a deliberate ramp absorbing expected private-commitment load in Months 1–2; pacing in this stretch is *not* diagnostic. The calibration window is **W9–W13** — the first stretch with non-orientation primary reading (Neuhouser transparent-English + Rechtsphilosophie dense-German). Three metrics are logged in the reading log over W9–W13:
 
-- *Transparent pp/h (English):* Neuhouser chs. 2–7. Bottom-of-range target 15–20 pp/h; midpoint 13–15 pp/h. **[Revised 2026-07-13 (plan audit):** this metric previously read "Systematic pp/h (German) … bottom-of-range target 6–8 pp/h; midpoint 4–6 pp/h" — a misclassification. Neuhouser is **Transparent class, English** per [text_classification.md](text_classification.md) (band 15–20 pp/h at the fast end; Appendix A: EN slow 13.5). Under the old numbers a reader at 7 pp/h — half the intended pace — would have *passed* the gate. Midpoint (the Gate 1 concern level) re-derived per the same convention as the other two lines: slow-end to low-bottom-band.**]**
+- *Transparent pp/h (English):* Neuhouser chs. 2–7. Bottom-of-range target 15–20 pp/h; midpoint 13–15 pp/h. **[Revised 2026-07-13 (plan audit):** this metric previously read "Systematic pp/h (German) … bottom-of-range target 6–8 pp/h; midpoint 4–6 pp/h" — a misclassification. Neuhouser is **Transparent class, English** per [reading_speed_classes.md](reading_speed_classes.md) (band 15–20 pp/h at the fast end; Appendix A: EN slow 13.5). Under the old numbers a reader at 7 pp/h — half the intended pace — would have *passed* the gate. Midpoint (the Gate 1 concern level) re-derived per the same convention as the other two lines: slow-end to low-bottom-band.**]**
 - *Dense pp/h (German):* RP Preface + §§1–33. Bottom-of-range target 4–5 pp/h; midpoint 2.5–4 pp/h.
 - *Full-tier overhead multiplier:* Honneth Full reconstruction (W5) — total hours all-in ÷ nominal reading hours. Target ~1.55×; concern level ~1.8× or higher. **[Revised 2026-07-13 (plan audit):** the measured overhead must be **workflow-inclusive** — count the full [reading_practices.md](reading_practices.md) §L.12 session-close workflow (steps 1–7; 60–120 min per session-close), not the 30–45-min reconstruction-writing figure alone. An overhead computed on writing time only systematically under-measures and will fail to fire the gate.**]**
 
@@ -2099,7 +2099,7 @@ Writing hours = min(Reading × α(class, tier), n_chapters × per-Recon ceiling)
 Total Hrs    = Reading + Writing
 ```
 
-Reading speed (pp/h) and writing multiplier (α) depend on the text's **prose-difficulty class** (Dense / Systematic / Layered / Analytic / Transparent). Per-text class assignments live in [text_classification.md](text_classification.md). The class is **independent of the syllabus tag** — a [P] text can be Dense, Layered, or Transparent depending on its prose.
+Reading speed (pp/h) and writing multiplier (α) depend on the text's **prose-difficulty class** (Dense / Systematic / Layered / Analytic / Transparent). Per-text class assignments live in [reading_speed_classes.md](reading_speed_classes.md). The class is **independent of the syllabus tag** — a [P] text can be Dense, Layered, or Transparent depending on its prose.
 
 ### Reading speeds (pp/h)
 
@@ -2153,7 +2153,7 @@ Cap binds when a text has few chapters relative to reading hours (e.g., Marx Öp
 
 In each module's Inventory table, the Tier column shows the syllabus tag verbatim. **When the executed tier deviates from the default tag → tier mapping** (default: [P*]/[ES*] → Full; [P]/[ES] → Light; [O*]/[O]/[RS] → Orientation; [NE] → Bonus), the Tier cell carries an annotation in the form `[tag] → ExecutedTier (rationale)`. A row showing just `[P]` is at default (Light); a row showing `[P] → Full (upgraded; load-bearing for Module 7)` is an explicit deviation. Reconstruction counts per module live in each module's Deliverables block.
 
-**Note on tag → tier defaults.** The default mapping above operates on syllabus tags only and is a routing shortcut. The fuller derivation — `(Phase III importance × syllabus tag) → tier` — lives in [phase3_critical_path.md](phase3_critical_path.md) §2.3 and dominates when present. Tier-column deviations in the Inventory exist precisely where the Phase III-driven tier differs from the tag-default tier.
+**Note on tag → tier defaults.** The default mapping above operates on syllabus tags only and is a routing shortcut. The fuller derivation — `(Phase III importance × syllabus tag) → tier` — lives in [importance_tiers.md](importance_tiers.md) §2.3 and dominates when present. Tier-column deviations in the Inventory exist precisely where the Phase III-driven tier differs from the tag-default tier.
 
 ### Cross-references
 
@@ -2183,7 +2183,7 @@ Quick reference (bottom-of-range, the default for this plan):
 | Analytic | 15 | 18 |
 | Transparent | 18 | 20 |
 
-*Class assignments per text live in [text_classification.md](text_classification.md). Class is independent of syllabus tag — a [P] text can be Dense, Layered, or Transparent depending on its prose, not its importance.*
+*Class assignments per text live in [reading_speed_classes.md](reading_speed_classes.md). Class is independent of syllabus tag — a [P] text can be Dense, Layered, or Transparent depending on its prose, not its importance.*
 
 ---
 

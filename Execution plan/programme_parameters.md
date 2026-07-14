@@ -1,5 +1,7 @@
 # Bridge Document: Sozialphilosophie Execution Plan Specification
 
+*[Renamed 2026-07-14: this file is `programme_parameters.md`, formerly `bridge_document.md`. Prose references to "the bridge" / "bridge §n" throughout the documents mean this file.]*
+
 **Purpose.** This document encodes the results of a structured diagnostic evaluation of the syllabus `sozialphilosophie_syllabus.md` and the design decisions made by the reader. It serves as the specification for a companion execution plan — a week-by-week study schedule with assignments, comprehension checks, and pacing infrastructure. Hand this document and the syllabus itself to the agent building the execution plan.
 
 ---
@@ -52,7 +54,7 @@ Reconstruction tiers (Full / Light / Orientation) and the writing-time multiplie
 
 ### 2.3 Cut strategy (now canonical elsewhere)
 
-The cut strategy (MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY) lives canonically in [phase3_critical_path.md §2](phase3_critical_path.md). The earlier 4-tier framing (Core / Context Layer / Deferred / Bonus-opt-in) is subsumed: Phase III's importance classification determines what's in/out and at what tier; Context Layer items map to MUST-Engage or SHOULD with Orientation-tier output; Bonus-opt-in items map to COULD or DISCRETIONARY at the user's weekly capacity discretion.
+The cut strategy (MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY) lives canonically in [importance_tiers.md §2](importance_tiers.md). The earlier 4-tier framing (Core / Context Layer / Deferred / Bonus-opt-in) is subsumed: Phase III's importance classification determines what's in/out and at what tier; Context Layer items map to MUST-Engage or SHOULD with Orientation-tier output; Bonus-opt-in items map to COULD or DISCRETIONARY at the user's weekly capacity discretion.
 
 ### 2.4 Community engagement and long-game
 
@@ -223,7 +225,7 @@ The weekly rhythm (§2.1) is sustainable but inadequate for two kinds of work: (
 - **Pool 1**: project-allocated ~7–8 leave days/year → **5 transition retreats R1–R5** anchored to module/phase boundaries
 - **Pool 2**: dedicated leave-week ~5 days × ~6h = ~30h/year → **2 writing blocks W1/W2** (M40 W3.2 first draft + M47 final revision, per M48 rebuild)
 
-**Transition retreats** (~16–20h each, ~85h total). R1 (W8): post-Part-0 field overview. R2 (W33–34): Hegel–Marx synthesis. R3 (W63–64): Phase I synthesis + Honneth "Pathologien" re-read. R4 (M16 W1): Phase II opener + Vorlesungsverzeichnis check. R5 (M35 per M48 rebuild; was M30 pre-rebuild): Phase III opener + W3.2 candidate-topic outline + conditional-MUST (Layer C) promotion decisions (per [phase3_critical_path.md](phase3_critical_path.md) §4 and execution_plan §A.1 Layer C).
+**Transition retreats** (~16–20h each, ~85h total). R1 (W8): post-Part-0 field overview. R2 (W33–34): Hegel–Marx synthesis. R3 (W63–64): Phase I synthesis + Honneth "Pathologien" re-read. R4 (M16 W1): Phase II opener + Vorlesungsverzeichnis check. R5 (M35 per M48 rebuild; was M30 pre-rebuild): Phase III opener + W3.2 candidate-topic outline + conditional-MUST (Layer C) promotion decisions (per [importance_tiers.md](importance_tiers.md) §4 and execution_plan §A.1 Layer C).
 
 **Writing blocks** (~30h each, ~60h total). W1 at M40 per M48 rebuild (was M36; W3.2 first-draft consolidation; 5 days × 6h; pre-book to avoid GovC). W2 at M47 per M48 rebuild (was M43; final-revision consolidation; same constraints; avoid Christmas).
 
@@ -255,7 +257,7 @@ Hour totals are operational outputs of the Style × Tier matrix applied to the s
 
 **Goal**: Produce a publishable piece, present it at two venues (one informal, one formal), revise based on feedback, and submit to a journal.
 
-**Structural events**: R5 retreat at M35 (W3.2 candidate-topic outline + Layer C conditional-MUST firing decision per [phase3_critical_path.md](phase3_critical_path.md) §4 and execution_plan §A.1 Layer C — baseline 3-of-5 firing, see §3.4 notation note). Craft Block W1–W2 (M35–37). Comparison Exercise (M37–38). W3.2 topic lock-in (M38). Conference CFP submission (M39). Writing Block W1 at M40 (5-day leave, W3.2 first-draft consolidation). Informal presentation (M41–M43). Formal Tagung/workshop (M43–M46). Writing Block W2 at M47 (5-day leave, final-revision consolidation). Journal submission at M48.
+**Structural events**: R5 retreat at M35 (W3.2 candidate-topic outline + Layer C conditional-MUST firing decision per [importance_tiers.md](importance_tiers.md) §4 and execution_plan §A.1 Layer C — baseline 3-of-5 firing, see §3.4 notation note). Craft Block W1–W2 (M35–37). Comparison Exercise (M37–38). W3.2 topic lock-in (M38). Conference CFP submission (M39). Writing Block W1 at M40 (5-day leave, W3.2 first-draft consolidation). Informal presentation (M41–M43). Formal Tagung/workshop (M43–M46). Writing Block W2 at M47 (5-day leave, final-revision consolidation). Journal submission at M48.
 
 **Conference logistics**: Formal workshops/Tagungen require abstract submission 4–6 months ahead; major conferences (DGPhil, GAP) require 6–9 months. The plan distinguishes informal presentations (working groups, arranged through Phase II community contacts) from formal ones (CFP-submitted).
 
@@ -287,7 +289,7 @@ Not scheduled in the execution plan. Flagged at connection points throughout Pha
 
 **F. Falling-behind protocol additions (2026-07-13, plan audit) — owned here; execution plan v3 implements both in its Appendix A.**
 
-- **Dependency-stub rule.** When a falling-behind cut or the 8-week skip rule drops an item that [phase3_critical_path.md](phase3_critical_path.md) §4 (or the syllabus dependency graph) lists as a prerequisite of a later MUST-Anchor, the item is not dropped to zero: it is replaced by an **Orientation-tier dependency stub** — ~1–2h from secondary literature, aimed at knowing the argument's *shape*, not the text. Purpose: preserve the anti-collapse function of skip-don't-catch-up (§5.E) while protecting prerequisite chains.
+- **Dependency-stub rule.** When a falling-behind cut or the 8-week skip rule drops an item that [importance_tiers.md](importance_tiers.md) §4 (or the syllabus dependency graph) lists as a prerequisite of a later MUST-Anchor, the item is not dropped to zero: it is replaced by an **Orientation-tier dependency stub** — ~1–2h from secondary literature, aimed at knowing the argument's *shape*, not the text. Purpose: preserve the anti-collapse function of skip-don't-catch-up (§5.E) while protecting prerequisite chains.
 - **Practice-debt trigger.** The falling-behind triggers currently watch only the reading schedule; a reader can be on schedule and have silently stopped writing. Addition: **two or more tier-mandated filed notes missing at a weekly review = practice debt**, which fires like the 2-week reading trigger. The sanctioned response is same-week **degradation-in-place** (Full reconstruction → Light note → reading-log line) — never silent omission, never catch-up writing. Canonical method definition: [reading_practices.md](reading_practices.md), "Practice debt and the degradation floor" (Part III).
 
 ## 6. Programme Parameters: Structural / Stable / Open
@@ -313,13 +315,13 @@ Empirically, across audit history: **capacity has held firm; scope has repeatedl
 
 | Parameter | Convention | Source |
 |---|---|---|
-| Phase III importance framework | MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY | [phase3_critical_path.md](phase3_critical_path.md) §2 (v1.3 + v2 ground-up reclassification) |
+| Phase III importance framework | MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY | [importance_tiers.md](importance_tiers.md) §2 (v1.3 + v2 ground-up reclassification) |
 | Style × Tier matrix and time formula | 5 prose classes (Dense / Systematic / Layered / Analytic / Transparent) × 4 tiers (Full / Light / Orientation / Bonus); class-dependent α; per-Recon ceiling (Full 2h / Light 0.75h) | [reading_practices.md](reading_practices.md) Appendix C §C.2 (canonical); [execution_plan.md](execution_plan.md) Appendix A (mirror) |
-| Tier-derivation rule | Inventory tier = `(Phase III class × syllabus tag)`, Phase III class dominant; tag-only mapping in execution_plan Appendix A is a fallback. Deviations annotated `[tag] → ExecutedTier (per Phase III ...)`. | [phase3_critical_path.md](phase3_critical_path.md) §2.3 |
+| Tier-derivation rule | Inventory tier = `(Phase III class × syllabus tag)`, Phase III class dominant; tag-only mapping in execution_plan Appendix A is a fallback. Deviations annotated `[tag] → ExecutedTier (per Phase III ...)`. | [importance_tiers.md](importance_tiers.md) §2.3 |
 | Active-practice regime | 3-tier (Full / Light / Orientation) per [reading_practices.md](reading_practices.md) Practice A "When and at what depth" | Practice A canonical |
 | Honneth-monograph decouple | Honneth monographs (KuA, RdF, Anerkennung 2018, Arbeitende Souverän) read at Systematic pp/h, write at Layered α | Style × Tier matrix special rules |
 | Aphoristic flag | Aphoristic-flagged texts (MM aphorisms, Benjamin Theses) stay Dense pp/h; `n_chapters` = thematic clusters of ~5–8 | Style × Tier matrix special rules |
-| MUST sub-split + discipline check | MUST = MUST-Anchor (Full) ∪ MUST-Engage (Light). MUST-Engage subject to discipline appendix check ([phase3_critical_path.md](phase3_critical_path.md) §8) | Phase III v1.3 + v2 |
+| MUST sub-split + discipline check | MUST = MUST-Anchor (Full) ∪ MUST-Engage (Light). MUST-Engage subject to discipline appendix check ([importance_tiers.md](importance_tiers.md) §8) | Phase III v1.3 + v2 |
 | Per-text Hrs derivation | Ground-up via Style × Tier matrix; module totals are sums of per-text Hrs in execution_plan Inventory. Module budgets are *derived*, not pinned. | [execution_plan.md](execution_plan.md) Inventory tables |
 | Reading-speed default | Bottom-of-range pp/h is the default; mid/slow rows reserved for W13 re-calibration | Style × Tier matrix |
 | Transition retreat schedule | R1 (W8) · R2 (W33–34) · R3 (W63–64) · R4 (M16 W1) · R5 (M35 per M48 rebuild; was M30) | Anchored to module/phase boundaries |
@@ -327,7 +329,7 @@ Empirically, across audit history: **capacity has held firm; scope has repeatedl
 | Quarterly milestone anchoring | Module-boundary, not strict 13-week cadence | [execution_plan.md](execution_plan.md) §D.2 |
 | Comparison Exercise design | 4-phase: materials assembly / reading-pass / comparison essay / filing. M37–M38 per M48 rebuild (was M32–M34) | Constructed in execution plan |
 | W9–W13 calibration mechanism | Three metrics (systematic pp/h, dense pp/h, Full-tier overhead multiplier), two-gate trigger, cascade response per execution plan §D.2 | The control variable for Class C revisions |
-| Document architecture | 5 core docs: `sozialphilosophie_syllabus.md` (intellectual map) · `bridge_document.md` (this doc — programme-level spec) · `phase3_critical_path.md` / `_v2.md` (importance overlay) · `text_classification.md` (prose-class master) · `execution_plan.md` (schedule) · `reading_practices.md` (method) | Document-architecture decision |
+| Document architecture | 5 core docs: `sozialphilosophie_syllabus.md` (intellectual map) · `programme_parameters.md` (this doc — programme-level spec) · `importance_tiers.md` / `_v2.md` (importance overlay) · `reading_speed_classes.md` (prose-class master) · `execution_plan.md` (schedule) · `reading_practices.md` (method) | Document-architecture decision |
 | Naming convention | Phases I–IV (Roman); programme months M1–M48+; programme weeks W1–W57+. *Not* "Y1/Y2/Y3." | Established post-Pass-4 |
 | Calendar anchor | M1 W1 = week of 2026-06-15 | Pinned in execution_plan calendar table; derived dates shift with anchor |
 
@@ -337,9 +339,9 @@ Empirically, across audit history: **capacity has held firm; scope has repeatedl
 |---|---|---|
 | Timeline cascade pathway M48 → M50 → M52 | W13 calibration trigger + capacity steady-state (M50); sustained-overage triggers (M52) | M48 baseline; M50 fallback if W13 fires; M52 stretch fallback per M48 rebuild 2026-05-25 |
 | Phase III month boundaries | Event-driven (Tagung CFP deadlines, workshop scheduling, feedback rounds) | ±1 month drift expected |
-| Per-text Phase III class assignment | phase3_critical_path.md classifications; SHOULDs deferrable under falling-behind | Per Phase III v1.3 / v2 §3 |
+| Per-text Phase III class assignment | importance_tiers.md classifications; SHOULDs deferrable under falling-behind | Per Phase III v1.3 / v2 §3 |
 | Conditional-MUST-Anchor promotions (Layer C) | M35 R5 retreat decision based on W3.2 candidate topics; topic-commitment-driven, distinct from falling-behind cascade per M48 rebuild | Baseline 3-of-5 firing per M48 rebuild (typical case 7.18 Full + any 2 of {7.19, 8.12, 7.10}; notation note at §3.4); Aglietta 14.9 formalized as 5th conditional (capitalism-as-form route) per Phase III §4 + execution_plan §A.1 Layer C |
-| MUST-Engage → MUST-Anchor user-review flags | Pending user review per phase3_critical_path.md §8 MUST-Engage discipline appendix | Currently MUST-Engage by default |
+| MUST-Engage → MUST-Anchor user-review flags | Pending user review per importance_tiers.md §8 MUST-Engage discipline appendix | Currently MUST-Engage by default |
 | SHOULD-cuts under falling-behind | execution_plan §A.1 layered cut list (M48 rebuild: Layer 0+1 absorbed as baseline-bonus; Layer 2 = first reactive cut) | Layer 2 first; escalate by failure of recovery; Layer 3 requires §2.4 override |
 | W3.2 topic and venue choices | Phase II Skizzen + Comparison Exercise output; M39 lock-in per M48 rebuild (was M34) | Open until M35 R5 candidate-topics exercise per M48 rebuild |
 | Per-week tactical choices | Bonus reading selections, session structure, module-boundary checkpoint placement | Reader judgement; defaults in execution_plan §B–§E |
