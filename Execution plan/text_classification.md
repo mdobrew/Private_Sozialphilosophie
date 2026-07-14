@@ -57,7 +57,8 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 1.3 | Hegel | Phänomenologie des Geistes ch. IV.A | DE | ~30 | Dense | | 1 | Single section (master-slave dialectic). |
 | 1.4 | Pippin | Hegel's Practical Philosophy, chs. 1–4 | EN | ~200 | Transparent | | 4 | [NE]. |
 | 1.5 | Wood | Hegel's Ethical Thought, chs. 1–4, 10–14 | EN | ~250 | Transparent | | 9 | [NE]. 4 + 5 chs. |
-| 1.6 | Khurana | Das Leben der Freiheit, Intro + Part I | DE | ~150 | Systematic | | 4 (est) | Suhrkamp monograph; Khurana's prose is dense-systematic. |
+| 1.6 | Khurana | Das Leben der Freiheit, Einleitung only | DE | ~20 | Systematic | | 1 | **[Backfilled 2026-07-13 (propagation pass):** row corrected from "Intro + Part I, ~150pp" per the 2026-07-12 syllabus revision — the Hegelian reconstruction is *Teil II*, not "Part I"; Module 1 now reads the *Einleitung* only (orientation tier), and the substantive read is the 1.6F pre-block row below.] Suhrkamp monograph; Khurana's prose is dense-systematic. |
+| 1.6F | Khurana | Das Leben der Freiheit, Einleitung-recap + Teil II (chs. III–V + Schluss) — Module 7 Kant→Khurana pre-block | DE | ~230 | Systematic | | 4 | **[Backfilled 2026-07-13 (propagation pass).]** The *Teil II* read deferred from Module 1 per syllabus 1.6 (2026-07-12); scheduled at the Module 7 pre-block (M20–21, opt-in) with Kant prerequisites I.1.5 + I.1.7 (Appendix I section below). Same class as 1.6. |
 | 1.7 | Honneth | Leiden an Unbestimmtheit | DE | ~130 | Systematic | | 3 (est) | **[Added 2026-07-13 (coverage audit).]** Special rule #3 — Honneth monograph → Systematic. Lecture-based, ~3 parts. |
 
 ### Module 2: Marx
@@ -104,6 +105,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 | 4.11 | Adorno | Drei Studien zu Hegel ("Aspekte" + "Skoteinos") | DE | ~120 | Dense | | 3 | **[Backfilled 2026-06-27 — present in syllabus/phase3 but absent from this table.]** Adorno → Dense per framework. |
 | 4.12 | Freud | Das Unbehagen in der Kultur | DE | ~80 | Layered | | 8 | **[Added 2026-06-27.]** Eight untitled sections. Freud's prose is lucid (Goethe-Prize stylist) but the argument is conceptually layered — Layered, not Dense. See borderline note. |
 | 4.13 | Nietzsche | Zur Genealogie der Moral, Abhandlungen I–II | DE | ~90 | Layered | | 2 | **[Added 2026-06-27.]** Two continuous essays (not aphoristic — no flag). Reads fast but argument-dense; borderline Dense — see note. |
+| 4.14 | Benjamin + Horkheimer | *Lebensphilosophie* reckoning (thread): Benjamin, "Über einige Motive bei Baudelaire" §§I–III + Horkheimer, "Zu Bergsons Metaphysik der Zeit" | DE | ~70 | Dense | | 2 | **[Backfilled 2026-07-13 (propagation pass).]** Syllabus 4.14 (added 2026-07-12). **Bonus thread, not a scheduled slot — not in any hour baseline** (headroom/Phase IV; conditional MUST-Engage only if Track D Adornian-negativism commits). Benjamin essay → Dense (cf. 4.10 Kunstwerk, no aphoristic flag); Horkheimer → Dense per framework. The Jay *Songs of Experience* chapters and the *Lebensphilosophie* trunk (Bergson/Dilthey/Simmel/Klages) are map-only — no rows. |
 | 4.15 | Neumann | Behemoth (selections on totalitarian monopoly capitalism) | EN | ~25 | Layered | | 1 (est) | **[Added 2026-07-13 (coverage audit).]** Written in English. Institutional-economic Frankfurt analysis; clearer prose than Adorno — Layered, cf. Pollock 4.3. |
 
 ### Module 4A: Pragmatism
@@ -573,6 +575,17 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 
 ---
 
+## Appendix I — Building Toward Hegel (scheduled items only)
+
+**[Section backfilled 2026-07-13 (propagation pass).]** Syllabus Appendix I (added 2026-05-29) is the full deep-Hegel build-up programme (~725–940h) and is mostly [NE]/deferred with no scheduled slots; rows below cover only the items the schedule actually executes — the two Kant items of the Module 7 Kant→Khurana pre-block (2026-07-12; see 1.6F above). Remaining Appendix I items (I.1.1–I.1.4, I.1.6, I.1.8–I.1.10, the I.4.x deep-Hegel tracks, I.0a) get rows if and when they are scheduled — a known, flagged gap against this file's "every text" claim, accepted because unscheduled appendix material generates no hour budget.
+
+| ID | Author | Title | Lang | Pages | Class | Flag | n_chapters | Notes |
+|---|---|---|---|---|---|---|---|---|
+| I.1.5 | Kant | Grundlegung zur Metaphysik der Sitten (complete: Vorrede + Abschnitte I–III) | DE | ~80 | Systematic | | 4 | **[Backfilled 2026-07-13 (propagation pass).]** Scheduled via the Module 7 pre-block (M20–21, opt-in; Layer-2 *retained* — also underwrites Forst 7.7). Classical German primary but tightly structured and largely self-standing; borderline Dense — see borderline note. Syllabus estimate 8–10h ≈ 8–10 pp/h. |
+| I.1.7 | Kant | Kritik der Urteilskraft — Kritik der teleologischen Urteilskraft, §§64–66 | DE | ~20 | Dense | | 1 | **[Backfilled 2026-07-13 (propagation pass).]** Scheduled via the Module 7 pre-block (M20–21, opt-in; Layer-2 first cut); direct prerequisite for Khurana 1.6F's life–freedom analogy. Late-Kant teleology → Dense (syllabus 4–6h ≈ 3–5 pp/h). |
+
+---
+
 ## Notes on cross-listings and special cases
 
 **Cross-listed (counted once at primary):**
@@ -610,6 +623,7 @@ Five prose-difficulty classes, bottom-of-range pp/h:
 - G.4 Merleau-Ponty — Dense vs. Systematic. Went Dense.
 - 4.12 Freud *Unbehagen* — Layered vs. Transparent. Went Layered; lucid prose but a conceptually demanding primary theory, not an intro/secondary text.
 - 4.13 Nietzsche *Genealogie* I–II — Layered vs. Dense. Went Layered (German-fluent reader; vivid continuous prose, not Hegel-slow), but read slowly for the argument despite the surface pace.
+- I.1.5 Kant *Grundlegung* — Systematic vs. Dense. Went Systematic **[Backfilled 2026-07-13 (propagation pass)]**: scholastic but tightly structured treatise prose, faster than Hegel/KrV pace; the syllabus/plan estimate (~8–10h for ~80pp) sits at the Systematic/Layered boundary, not at Dense. The KU teleology sections (I.1.7) stay Dense.
 
 **Page-count anomalies in syllabus (listed verbatim per syllabus, but likely errors — flagged for downstream sanity-check):**
 - A.2.2 Harding chs. 1–5 listed as ~30 (syllabus column) — likely should be ~150–200. Listed verbatim.

@@ -1,9 +1,9 @@
 # Phase III Critical Path — Reading Prioritisation Against the Phase III Publication Target
 
-**Version 2.1** — 2026-05-24 (bridge-update + top-5 Anchor upgrades pass). Prior: v2.0 (2026-05-22, ground-up reclassification of [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) under the v1.3 importance framework).
+**Version 2.2** — 2026-07-13 (calendar re-anchor to the M48 baseline + §8.4 override-revert + §4 dependency-annotation pass, per the 2026-07-13 plan audit / upstream-reconciliation pass). Prior: v2.1 (2026-05-24, bridge-update + top-5 Anchor upgrades pass); v2.0 (2026-05-22, ground-up reclassification of [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) under the v1.3 importance framework).
 
-> [!warning] Calendar anchors superseded by the M48 rebuild (2026-05-25) — re-anchor at next revision (v2.2)
-> This document (v2.1, 2026-05-24) predates the M48 schedule rebuild by one day, so **every month/week calendar anchor below is pre-rebuild and stale** — e.g. submission "M44", Phase III "17 months", R5 "M30", presentation "M37–M39", Tagung "M39–M42", Phase boundaries "post-M44". The **authoritative calendar is the [execution_plan.md](execution_plan.md) milestone table** (M48 baseline: R5 = M35, Comparison Exercise M37–38, W3.2 lock-in M38, CFP M39, Writing Block W1 = M40, presentations M41–46, Writing Block W2 = M47, submission M48; M50 fallback). The **importance classifications** (MUST-Anchor / MUST-Engage / SHOULD / COULD / DISCRETIONARY) and tier derivations in this document are *not* affected by the rebuild and remain valid — only the dates are stale. (The "M44 = Jan 2030" recency-caveat reasoning in §1/point 5 holds *a fortiori* at M48 ≈ Jun 2030.)
+> [!note] Calendar anchors re-anchored to the M48 baseline (v2.2, 2026-07-13) — resolves the v2.1 stale-dates warning
+> This document (v2.1, 2026-05-24) predated the M48 schedule rebuild (2026-05-25) by one day; its calendar anchors were flagged stale until this pass. **All live sections (§1, §3 item rationales, §4–§8) now carry the post-rebuild anchors**: R5 = M35 (≈ Apr 2029), Comparison Exercise M37–38, W3.2 topic lock-in M38, CFP submission M39, Writing Block W1 = M40, informal presentation M41–M43, formal Tagung/workshop M43–M46, Writing Block W2 = M47, journal submission M48 (≈ Jun 2030); M50 W13-trigger fallback, M52 sustained-overage stretch. The **authoritative calendar remains the [execution_plan.md](execution_plan.md) milestone table**; the importance classifications and tier derivations here were never affected by the rebuild. **Historical exception:** the version-changelog material below (the numbered v2.1-changes list and §3.0a/§3.0b) records pre-rebuild dates ("M44 = Jan 2030", "M30 R5", presentation "M37–M39", Tagung "M39–M42") and the then-open "~20% capacity overage" language *as a version record* — historical mentions, not live claims. (The recency-caveat arithmetic computed against M44 = Jan 2030 holds *a fortiori* at M48 ≈ Jun 2030.)
 
 **v2.1 changes vs v2.0** (driven by [bridge_document.md](bridge_document.md) update 2026-05-24):
 1. **Top-5 MUST-Engage → MUST-Anchor upgrades applied**: 3A.1 Lukács, 5.2 Habermas *EuI*, 7.7 Forst *Recht auf Rechtfertigung*, 8.6 Allen *End of Progress*, 9.2 Fricker — per §8 discipline-flag review. §4 conditional-Anchor entries for these items removed (now baseline). §8 rewritten as a decision log.
@@ -20,22 +20,22 @@
 
 **Role in document architecture**: this is the 6th document, between [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) (intellectual map) and [execution_plan.md](execution_plan.md) (schedule). It classifies every meaningful item in the syllabus against the Phase III publication target so the execution plan can schedule against a prioritised set rather than the full syllabus.
 
-**Naming convention.** Phases I/II/III/IV (Roman numerals) refer to programme stretches anchored to programme months M1–M44+, not calendar years (Phase I = 15 months; Phase II = 12 months; Phase III = 17 months post-Path-D'; Phase IV = post-M44). Filename `phase3_critical_path.md` retained as cross-reference anchor; inner content uses "Phase III".
+**Naming convention.** Phases I/II/III/IV (Roman numerals) refer to programme stretches anchored to programme months M1–M48+, not calendar years (Phase I = 15 months, M1–M15; Phase II = 19 months, M16–M34; Phase III = 14 months, M35–M48; Phase IV = post-M48 — per the M48 rebuild 2026-05-25, re-anchored here 2026-07-13). Filename `phase3_critical_path.md` retained as cross-reference anchor; inner content uses "Phase III".
 
 ---
 
 ## 1. What "Phase III frontier" means
 
 **Target outputs:**
-- Phase II–III publication-cycle deliverables (per [bridge_document.md](bridge_document.md) §2.4 + §4, and the Phase III production cycle in [execution_plan.md](execution_plan.md) M30–M44):
+- Phase II–III publication-cycle deliverables (per [bridge_document.md](bridge_document.md) §2.4 + §4, and the Phase III production cycle in [execution_plan.md](execution_plan.md) M35–M48) *[dates re-anchored 2026-07-13 to the M48 baseline]*:
   - Phase II (community-entry signal moves):
-    - One **book review** (~20–25h including the read) to *DZfPh* / *WestEnd* / *Mittelweg 36* at M24–M26
-    - One **cross-disciplinary short essay** (~10–20h) to *Soziopolis* / *Geschichte der Gegenwart* / *WestEnd* Diskussion at M25–M30
+    - One **book review** (~20–25h including the read) to *DZfPh* / *WestEnd* / *Mittelweg 36* at ~M28–M30 (window canonical in bridge §2.4)
+    - One **cross-disciplinary short essay** (~10–20h) to *Soziopolis* / *Geschichte der Gegenwart* / *WestEnd* Diskussion at ~M29–M36 (the mandatory *Zwischenstück* per reading_practices.md Part II; window canonical in bridge §2.4)
   - Phase III (production cycle):
-    - One **informal working-group / IfS-style presentation** (M37–M39)
-    - One **formal Tagung/workshop presentation** (M39–M42, CFP-submitted typically M35)
-    - One **7,000–10,000-word article** (C3.2 draft) submitted to a Frankfurt-tradition journal at **M44 = Jan 2030** (baseline; M46 fallback per W13 calibration trigger)
-    - One **critical review** (~1,500 words, C3.3) — may be the second book-review instance per bridge §2.4
+    - One **informal working-group / IfS-style presentation** (M41–M43)
+    - One **formal Tagung/workshop presentation** (M43–M46, CFP-submitted typically M39)
+    - One **7,000–10,000-word article** (C3.2 draft) submitted to a Frankfurt-tradition journal at **M48 ≈ Jun 2030** (baseline; M50 fallback per W13 calibration trigger; M52 sustained-overage stretch fallback)
+    - One **critical review** (~1,500 words, C3.3/W3.3, ~M42) — may be the second book-review instance per bridge §2.4
 
 **Target journals (ranked by relevance to Sozialphilosophie):**
 - *Deutsche Zeitschrift für Philosophie* (DZfPh) — core German-language venue
@@ -55,7 +55,7 @@
 **Phase III contribution shape (assumed default, revisable as topic firms up):**
 - A single contribution-length piece in Sozialphilosophie, defensible against Frankfurt-tradition reviewer norms
 - Likely terrain: social pathologies / recognition / immanent critique / capitalism-as-form / methodological reconstruction-vs-alternatives
-- Open territory pending Phase III topic firm-up (Months 22–28, per [execution_plan.md](execution_plan.md))
+- Open territory pending Phase III topic firm-up (Skizze cycle ~M25 onward; candidate topics at M35 R5; lock-in M38 — per [execution_plan.md](execution_plan.md)) *[re-anchored 2026-07-13]*
 
 **Classification is provisional.** Triggers for re-classification (see §5):
 1. Phase III topic firms up around a specific subfield → conditional COULDs auto-promote to MUSTs in that subfield
@@ -173,7 +173,7 @@ Most v1.3 classifications carry over with mechanical renumbering to v6 IDs (e.g.
 
 #### 3.0c Changes 2026-06-27 (Part-0 orientation review — literature additions)
 
-Six texts added to the syllabus after the Part-0 review of Honneth's "Pathologien des Sozialen" (0.2) surfaced absences (Freud's pathology-of-civilisation substrate; the recognition triangle's Taylor vertex; the primary-Nietzsche gap; and the Freudo-Marxist primaries making Appendix H.1 load-bearing). Not a reclassification pass — version stays v2.1; calendar re-anchor (v2.2) still pending per the warning box.
+Six texts added to the syllabus after the Part-0 review of Honneth's "Pathologien des Sozialen" (0.2) surfaced absences (Freud's pathology-of-civilisation substrate; the recognition triangle's Taylor vertex; the primary-Nietzsche gap; and the Freudo-Marxist primaries making Appendix H.1 load-bearing). Not a reclassification pass — version stayed v2.1 at the time; the calendar re-anchor was performed 2026-07-13 (v2.2).
 
 | v6 ID | Item | Class | Tier | Rationale |
 |---|---|---|---|---|
@@ -296,7 +296,7 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 7.7 Forst *Recht auf Rechtfertigung* | **MUST-Anchor** | **Full** | **Upgraded v2.1 from MUST-Engage per §8 discipline review.** The major intra-Frankfurt alternative to recognition; positioning-against requires Full-tier reconstruction of justification-order apparatus, not Light coverage. Apparatus for any Phase III piece that contests Forst's Kantian-constructivist framing of normativity. |
 | 7.8 Forst "Noumenal Power" | MUST-Engage | Light | Forst's framework in operation. Reviewer-expected; not apparatus reuse. |
 | 7.9 Forst *Normativität und Macht* (2017) | SHOULD | Light | Systematic statement of justification-order framework; conditional MUST-Engage/Anchor if Phase III commits to power-and-justification themes (§4). |
-| 7.10 Forst *The Noumenal Republic* (2024) | SHOULD | Light | Forst's current statement; supersedes 7.9 as "the late Forst" for the M44 (Jan 2030) submission — ~6 years of reception by submission, recency worry minimal. Conditional MUST-Engage / MUST-Anchor per §4. |
+| 7.10 Forst *The Noumenal Republic* (2024) | SHOULD | Light | Forst's current statement; supersedes 7.9 as "the late Forst" for the M48 (≈ Jun 2030) submission — ~6 years of reception by submission, recency worry minimal. Conditional MUST-Engage / MUST-Anchor per §4. |
 | 7.11 Jessica Benjamin *Bonds of Love* | COULD | Orientation | Psychoanalytic dimension; promote if Phase III touches care/love sphere or socialisation (§4). [ES] tag — Orient under §2.3 extension. |
 | 7.12 Fraser public-sphere essay | SHOULD | Light | Exemplary immanent critique on a canonical Frankfurt concept. |
 | 7.13 Renault *Souffrances sociales* | SHOULD *(deferrable under capacity)* | Light | **Un-deferred v2.1.** Phenomenology of social suffering. Active SHOULD baseline; first-cut under falling-behind if capacity overage (bridge §6 Class A) is not resolved by topic trim. |
@@ -304,8 +304,8 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 7.15 Ikäheimo & Laitinen | COULD | Orientation | Social-ontology direction. |
 | 7.16 Gregoratto | COULD | Orientation | Affect/embodiment direction; promote if those themes commit. |
 | 7.17 Bedorf *Verkennende Anerkennung* | SHOULD *(deferrable under capacity)* | Light | **Un-deferred v2.1.** Phenomenological-Levinasian critic. Active SHOULD baseline; deferrable if capacity overage isn't resolved otherwise. |
-| 7.18 Honneth *Anerkennung* (2018) | MUST-Engage baseline + **conditional MUST-Anchor** | Light partial (Phase II) + Full conditional (M37–M39) | "The late Honneth"; ~12 years of reception by M44 (Jan 2030) — settled-reception text. Path D' split: partial Phase II Light; conditional Full completion if Phase III commits to recognition/Honneth track. |
-| 7.19 Honneth *Der arbeitende Souverän* (2023) | MUST-Engage baseline | Light | Honneth's most recent major statement; ~7 years of reception by M44 (Jan 2030) — recency caveat substantially softened. The natural docking point for the ECB-economist Phase III piece. Conditional MUST-Anchor if Phase III commits to work/recognition/democratic-*Sittlichkeit* (§4). |
+| 7.18 Honneth *Anerkennung* (2018) | MUST-Engage baseline + **conditional MUST-Anchor** | Light partial (Phase II) + Full conditional (M41–M43, post-R5 Layer C) | "The late Honneth"; ~12 years of reception by M48 (≈ Jun 2030) — settled-reception text. Path D' split: partial Phase II Light; conditional Full completion if Phase III commits to recognition/Honneth track. |
+| 7.19 Honneth *Der arbeitende Souverän* (2023) | MUST-Engage baseline | Light | Honneth's most recent major statement; ~7 years of reception by M48 (≈ Jun 2030) — recency caveat substantially softened. The natural docking point for the ECB-economist Phase III piece. Conditional MUST-Anchor if Phase III commits to work/recognition/democratic-*Sittlichkeit* (§4). |
 | 7.20 Pilapil *Recognition and Critical Theory Today* | SHOULD | Light | **NEW in v6.** The constructive recognition-extender voice balancing the current critic-heavy line-up. Conditional MUST-Engage if recognition track commits (§4). |
 | 7.21 Allen *Politics of Our Selves* | MUST-Engage | Light | **NEW promotion vs v1.3.** v6 cross-listed from H.2.2: Allen is the second-major recognition+power critic alongside *End of Progress*; appendix-burial under-weighted her role. Reviewer-expected for any recognition/power debate. |
 | 7.22 Jütten on Honneth market | SHOULD | Light | **Upgraded v2.1 from COULD Orient; relocated from 8.10, 2026-05-29 (it is a Honneth item).** Bridge §2.4 names Jütten as a Phase II–III interlocutor + future-co-authorship target ("precise fit" for outsider-insider profile; already at the intersection of normative reconstruction and economic analysis). Direct test of Honneth 7.5 *Markt* chapter against empirical economics — the methodological-pressure-test of the Module 7 reading (scheduled in the Module 7 window, right after 7.5). |
@@ -324,7 +324,7 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 8.7 Menke *Kritik der Rechte* | DISCRETIONARY | Skip | Hegelian-Adornian; departure from mainstream pathologies debate. |
 | 8.8 Stahl *Immanente Kritik* | SHOULD | Light | Bridges analytic ontology and Frankfurt critique. |
 | 8.9 Rosa *Resonanz* | SHOULD | Light | Direct rival diagnostic framework. |
-| 8.12 Jaeggi *Fortschritt und Regression* (2023) | MUST-Engage baseline | Light | Jaeggi's first major monograph since 2014; ~7 years of reception by M44 — settled-reception by Jan 2030. Reads as engaging 2014-Jaeggi rather than current Jaeggi without it. Conditional MUST-Anchor per §4. |
+| 8.12 Jaeggi *Fortschritt und Regression* (2023) | MUST-Engage baseline | Light | Jaeggi's first major monograph since 2014; ~7 years of reception by M48 — settled-reception by mid-2030. Reads as engaging 2014-Jaeggi rather than current Jaeggi without it. Conditional MUST-Anchor per §4. |
 | 8.13 Allen & Mendieta on Jaeggi | COULD | Orientation | **Relocated from 7.14, 2026-05-29 (it is a volume on Jaeggi).** Useful if Phase III touches Jaeggi-Allen debate directly. |
 
 ### Module 8A: Außereuropäische Kritik
@@ -442,10 +442,10 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 14.5 Wright *Envisioning Real Utopias* | SHOULD | Light | Alternatives framework. |
 | 14.6 W. Brown *Undoing the Demos* | SHOULD | Light | Foucauldian neoliberalism analysis. |
 | 14.7 Honneth *Idee des Sozialismus* | MUST-Engage | Light | Honneth's positive economic-philosophical statement. Short, programmatic; reviewer-expected for any capitalism-or-Honneth-track piece. (Honneth-monograph decouple does not bind — programmatic essay-monograph.) |
-| 14.8 von Redecker | SHOULD | Light | **Upgraded v2.1 from COULD Orient.** Bridge §2.4 names von Redecker as a younger-generation, methodologically-permissive contact target — strong fit for the short-essay route (M25–M30). *Phantombesitz* concept is property-theoretical bridge between Marx, Jaeggi, and Fraser. Conditional MUST-Engage if Phase III commits to property/protest/Anthropocene (§4). |
+| 14.8 von Redecker | SHOULD | Light | **Upgraded v2.1 from COULD Orient.** Bridge §2.4 names von Redecker as a younger-generation, methodologically-permissive contact target — strong fit for the short-essay route (~M29–M36 per bridge §2.4). *Phantombesitz* concept is property-theoretical bridge between Marx, Jaeggi, and Fraser. Conditional MUST-Engage if Phase III commits to property/protest/Anthropocene (§4). |
 | 14.9 Aglietta *Capitalist Regulation* | SHOULD *(deferrable under capacity)* | Orientation | **Un-deferred v2.1.** Régulation-school foundational; [O] tag → Orient. Macroeconomic-institutional bridge between Marxist value-form and empirical capitalism analysis. Promote conditionally if Phase III commits to capitalism-as-form via macroeconomic terrain (§4). |
 | 14.10 Lordon *Willing Slaves of Capital* | COULD | Orientation | Affective Spinozist extension; promote if affect/desire dimension commits. |
-| 14.11 Mau *Mute Compulsion* | SHOULD *(conditional MUST-Engage if impersonal-domination track)* | Light | **NEW in v6.** Most-discussed 2023 capitalism-critique monograph; ~7 years of reception by M44 — recency unproblematic. Accessible to economist-reader. Bridges Postone 14.4 to current Anglophone capitalism-critique reception. |
+| 14.11 Mau *Mute Compulsion* | SHOULD *(conditional MUST-Engage if impersonal-domination track)* | Light | **NEW in v6.** Most-discussed 2023 capitalism-critique monograph; ~7 years of reception by M48 — recency unproblematic. Accessible to economist-reader. Bridges Postone 14.4 to current Anglophone capitalism-critique reception. |
 | 14.12 Castel *Métamorphoses de la question sociale* | SHOULD *(conditional MUST-Engage if Arbeitende-Souverän track)* | Light | **NEW in v6.** (Castel 1995; no recency issue.) Empirical-sociological underpinning for Honneth 7.19; long-historical apparatus for precarisation-as-*Sittlichkeit*-transformation. If Phase III commits to work/recognition (§4), promote in tandem with 7.19. |
 | 14.13 Engster *Das Geld als Maß, Mittel und Methode* | COULD *(conditional SHOULD if money-as-measure / quantification wedge commits)* | Orientation | **NEW 2026-06-29 (branch B, economist wedge).** Value-form-as-measurement; German, almost no Anglophone engagement. |
 | 14.14 Lapavitsas *Profiting Without Producing* | SHOULD *(conditional MUST-Engage if financialisation / central-bank track)* | Light | **NEW 2026-06-29 (branch B, economist wedge).** Marxist monetary theory; the central-bank-as-institutional-form opening. |
@@ -462,7 +462,7 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 | 15.5 Rosa *Beschleunigung* | SHOULD | Light | Acceleration as temporal pathology. |
 | 15.6 Polanyi *Great Transformation* | MUST-Engage | Light | Phase II Context Layer; foundational for capitalism-critique cluster. |
 | 15.7 Illouz *Cold Intimacies* | COULD | Orientation | Promote if Phase III touches recognition/emotion/love sphere. |
-| 15.8 Reckwitz *Verlust* (2024) | SHOULD *(conditional MUST-Engage if post-progress Zeitdiagnose track)* | Light | **NEW in v6.** ~6 years of reception by M44 — recency unproblematic. *Verlust* as diagnostic concept extends 15.4 *Singularitäten* and connects to Allen 8.6 progress-critique. |
+| 15.8 Reckwitz *Verlust* (2024) | SHOULD *(conditional MUST-Engage if post-progress Zeitdiagnose track)* | Light | **NEW in v6.** ~6 years of reception by M48 — recency unproblematic. *Verlust* as diagnostic concept extends 15.4 *Singularitäten* and connects to Allen 8.6 progress-critique. |
 
 ### Module 16: Social Phenomenology *(was Module 10 in v5)*
 
@@ -490,7 +490,7 @@ New §4 conditional-promotion row added: "Psychoanalytic substrate / authoritari
 
 ### Part V: Craft Block
 
-All items MUST-Engage. C1 (immanent-critique method), C2 (exemplary diagnostics), C3 (practical writing exercises) are the production-cycle infrastructure. Craft-Block re-reads of specimens (Honneth *RdF* "Markt"; Rosa *Beschleunigung* Pt III; Jaeggi-Fraser chs. 1–3) are dissection passes — tier-equivalent to Full Recon-style engagement on the specimen chapters but not generating new chapter-level Recons (see execution_plan §M30–32).
+All items MUST-Engage. C1 (immanent-critique method), C2 (exemplary diagnostics), C3 (practical writing exercises) are the production-cycle infrastructure. Craft-Block re-reads of specimens (Honneth *RdF* "Markt"; Rosa *Beschleunigung* Pt III; Jaeggi-Fraser chs. 1–3) are dissection passes — tier-equivalent to Full Recon-style engagement on the specimen chapters but not generating new chapter-level Recons (see the execution_plan Craft Block section, M35–37 per M48 rebuild) *[cross-ref re-anchored 2026-07-13]*.
 
 | Item | Class | Tier | Rationale |
 |---|---|---|---|
@@ -620,7 +620,7 @@ Part 0 (0.1–0.3) → Module 1 (Hegel: 1.1, 1.2, 1.3)
 - Module 7.18 (Honneth *Anerkennung* 2018) presupposes 7.1 *Kampf um Anerkennung* and 7.5 *Recht der Freiheit*.
 - Module 10.3 (Taylor) is methodologically central; informs the Craft Block (W1, W2, W3) directly.
 - Module 14.2 (Fraser *Cannibal Capitalism*) depends on 8A.6 (Robinson) for the racial-capitalism category.
-- Module 6.6 (F&G) is presupposed by Forst 7.7–7.10.
+- Module 6.6 (F&G) is presupposed by Forst 7.7–7.10. *[Waiver note 2026-07-13 (plan audit §5): at baseline the Habermas backdrop for 7.7 is carried by 5.2 *Erkenntnis und Interesse* + 6.3 TKH Bd. 1; 6.6 itself fires as a conditional pre-read if the power/justification Layer C route (7.10) is chosen at R5 (M35).]*
 - Module 6.7 (Strukturwandel) is presupposed by Fraser 7.12 (public-sphere essay).
 - Module 14.12 (Castel) is presupposed-companion to Honneth 7.19 if work-recognition track commits.
 
@@ -633,9 +633,9 @@ Part 0 (0.1–0.3) → Module 1 (Hegel: 1.1, 1.2, 1.3)
 - 7.19 Honneth *Arbeitende Souverän* (2023) ← 7.5 + 7.18 (+ 14.7 *Idee des Sozialismus* if Module 14 work has started)
 - 7.20 Pilapil ← 7.1 + 7.18
 - 8.8 Stahl ← 8.2
-- 8.9 Rosa *Resonanz* ← 8.2 + 15.5
+- 8.9 Rosa *Resonanz* ← 8.2 + 15.5 *[Satisfied-by-substitute, 2026-07-13 (plan audit §5): the *Beschleunigung* Part III material arrives at the Craft Block (W2.2); *Resonanz* at Light tier does not require 15.5 at Full beforehand.]*
 - 8.12 Jaeggi *Fortschritt und Regression* (2023) ← 8.2 + 8.6 (Allen)
-- 4.6 Freyenhagen ← 4.5
+- 4.6 Freyenhagen ← 4.5 *[Satisfied-by-substitute, 2026-07-13 (plan audit §5): Freyenhagen is the designated ND substitute at baseline (4.5 selections Phase IV-deferred); the dependency holds only if ND itself is promoted.]*
 - 4.11 Adorno *Drei Studien zu Hegel* ← 4.5 + (forward) 13.2 Reichelt
 - 14.3 Bhattacharya ← 14.2
 - 14.9 Aglietta ← Module 2 + 15.6 Polanyi
@@ -708,11 +708,11 @@ This document is revised by the user (not by Claude) when one of the following t
 
 | Trigger | What changes | When |
 |---|---|---|
-| **Phase III topic firms up** (Months 22–28, per execution plan) | Conditional COULDs auto-promote per §4 dependency table; some SHOULDs may demote to COULD; some DISCRETIONARYs may promote if topic-adjacent | Phase II mid-late |
+| **Phase III topic firms up** (Skizze cycle ~M25 onward; candidate topics at M35 R5; lock-in M38, per execution plan) | Conditional COULDs auto-promote per §4 dependency table; some SHOULDs may demote to COULD; some DISCRETIONARYs may promote if topic-adjacent | Phase II late → M35 R5 |
 | **4-week+ falling-behind protocol activates** | First cut: SHOULDs in current module; second cut: SHOULDs in adjacent modules; SOME SHOULDs may permanently demote to COULD | As triggered by [execution_plan.md](execution_plan.md) §A and §A.1 |
 | **New frontier text published** that displaces an existing one | Re-classify or add | Continuously |
-| **Workshop discussant identifies gap** | Add or promote the missing item | M35 informal presentation onward |
-| **Vogelmann 9.6 reception accumulates** (post-2026) | Promote to MUST if EJP, *Constellations*, DZfPh treat as canonical reference | Provisional [P?] re-evaluation at M30 |
+| **Workshop discussant identifies gap** | Add or promote the missing item | M41 informal presentation onward |
+| **Vogelmann 9.6 reception accumulates** (post-2026) | Promote to MUST if EJP, *Constellations*, DZfPh treat as canonical reference | Provisional [P?] re-evaluation at M35 R5 |
 | **MUST-Engage discipline review** (per §8) | If on review the user judges a §8-flagged item really warrants Anchor depth, upgrade individual items to MUST-Anchor | Periodically at module-close R-events |
 
 **Owner of revision**: the user. Re-classification is a Phase II/Phase III decision, informed by topic commitment and external feedback, not a planning-time decision.
@@ -770,7 +770,9 @@ Per-text Hrs are computed ground-up via the Style × Tier matrix and time formul
 
 **Aggregate net effect v2.0 → v2.1**: roughly **+100 to +165h all-in baseline** versus v2.0. Combined with the v2.0 → v1.3 delta of +45 to +70h, total v1.3 → v2.1 is roughly **+145 to +235h all-in baseline**.
 
-**Capacity implication (urgent)**. Bridge §6 Class A flagged a ~20% capacity overage (~1,524h scheduled vs ~1,269h envelope) *before* the v2.1 additions. v2.1 makes this worse, not better. Three resolution paths (user decision):
+**Capacity implication — resolved 2026-05-25 per bridge §2.1 (M48 rebuild); block retained for the record.** *[Note 2026-07-13: the block below presented the ~20% overage as an open user decision. It was resolved at the M48 rebuild (bridge §2.1: Inv-as-basis tally ~1,506h vs the M48 envelope = +8.8%, within the 13% tolerance, via the L0+L1 baseline-bonus framework). The residual Phase II-local overage identified by the 2026-07-13 plan audit was addressed 2026-07-13 by reverting the §8.4 executed-tier overrides to this document's §8.2/§3 Light decisions (~40–55h recovered). The original text follows unchanged as documentation of the reasoning.]*
+
+Bridge §6 Class A flagged a ~20% capacity overage (~1,524h scheduled vs ~1,269h envelope) *before* the v2.1 additions. v2.1 makes this worse, not better. Three resolution paths (user decision):
 
 1. **Default to M46 fallback** (extends envelope to ~1,326h baseline) — partial relief only.
 2. **Trim scope**: under falling-behind, the v2.1-un-deferred SHOULDs (7.13, 7.17, 9.7, 9.9, 14.9) are the first cut, returning to Phase IV-deferred. v2.1 explicitly marks them as "deferrable under capacity" for exactly this purpose.
@@ -783,7 +785,7 @@ The v2.1 framework is field-importance-correct, not capacity-arithmetic-feasible
 1. The execution plan's Inventory Tier-column annotations should derive from the v2.1 Class + Tier columns in §3, not from the syllabus tag alone.
 2. The 5 newly-promoted MUST-Anchors (3A.1, 5.2, 7.7, 8.6, 9.2) need Full-tier scheduling slots — significant impact on Module 3A, Module 5, Module 7, Module 8, Module 9 hour budgets in the schedule-rebuild pass.
 3. The un-deferred Path D' items need active scheduling slots, but the rebuild should flag them with `[v2.1 un-deferred; first-cut under capacity overage]` so falling-behind protocols can act on them quickly.
-4. The conditional-MUST-Anchor reserves (now ~3–7 items remaining after v2.1 baseline absorbs 5) are documented in §4 for M30 R5 retreat decisions.
+4. The conditional-MUST-Anchor reserves (now ~3–7 items remaining after v2.1 baseline absorbs 5) are documented in §4 for M35 R5 retreat decisions.
 5. SHOULDs remain schedulable-but-cuttable under falling-behind protocols.
 6. COULDs remain Phase IV-deferrable unless §4 triggers fire.
 7. DISCRETIONARYs remain excluded from the active schedule.
@@ -796,7 +798,7 @@ If MUST-Anchor load consistently exceeds capacity even after the per-text Hrs gr
 
 **Purpose:** the user raised a specific concern at v2.0 design time that MUST-Engage may be over-used as a *polite skip*. Light tier (150–250w/chapter, no four-part structure, no C1 questions, no closing-sentence) produces a much lighter intellectual artefact than Full tier (500–800w/chapter + structured four-part + C1 questions + closing sentence + empirical-presuppositions sub-head). If the framework calls *too many* texts MUST-Engage, the depth of tradition engagement suffers in aggregate.
 
-This appendix served as the **review surface** for that concern in v2.0 (every MUST-Engage classification + one-line "why not Anchor" check + 5 flagged items). In v2.1 it is **converted to a decision log**: the five v2.0 flags have been resolved (all upgraded to MUST-Anchor), and the remaining MUST-Engage entries are now annotated with their decision status. Future MUST-Engage discipline reviews (e.g., at M30 R5) re-use this section as the working surface.
+This appendix served as the **review surface** for that concern in v2.0 (every MUST-Engage classification + one-line "why not Anchor" check + 5 flagged items). In v2.1 it is **converted to a decision log**: the five v2.0 flags have been resolved (all upgraded to MUST-Anchor), and the remaining MUST-Engage entries are now annotated with their decision status. Future MUST-Engage discipline reviews (e.g., at M35 R5) re-use this section as the working surface.
 
 ### 8.1 v2.1 decisions on the v2.0 ⚠ FLAGs
 
@@ -825,7 +827,7 @@ All five v2.0 ⚠ FLAGs upgraded to **MUST-Anchor** by user decision 2026-05-24,
 | 6.1 | Outhwaite | Orient-tier secondary; orientation purpose only. |
 | 6.2 | McCarthy chs. 4–5 | Continuation of 5.1 portal role. |
 | 6.4 | TKH Bd. 1 chs. II–III | TKH ch I (6.3) is the apparatus-Anchor; chs. II–III are coverage of Habermas's Weber/Frankfurt reconstructions. |
-| 6.5 | TKH Bd. 2 ch. VI + ch. VIII | Colonisation-thesis chapters; tradition-anchoring (b), but reviewer-coverage rather than apparatus the user redeploys directly. **Secondary flag:** at Phase III commit to Habermas-track, could be MUST-Anchor — re-review at M30 R5. |
+| 6.5 | TKH Bd. 2 ch. VI + ch. VIII | Colonisation-thesis chapters; tradition-anchoring (b), but reviewer-coverage rather than apparatus the user redeploys directly. **Secondary flag:** at Phase III commit to Habermas-track, could be MUST-Anchor — re-review at M35 R5. |
 | 6.6 | F&G | Load-bearing for Forst 7.7–7.10 backdrop. Conditional MUST-Anchor in §4 if democratic-legitimacy track. |
 | 6.7 | Strukturwandel | Backwards-reading for Fraser 7.12. Coverage role; not apparatus. |
 | 7.2 | Anerkennung als Ideologie | Reviewer-expected coverage; settles whether recognition can be ideological. Single article. |
@@ -855,28 +857,30 @@ All five v2.0 ⚠ FLAGs upgraded to **MUST-Anchor** by user decision 2026-05-24,
 
 ### 8.3 Working surface for future reviews
 
-**Total MUST-Engage items at v2.1 baseline: ~28** (was ~33 in v2.0; −5 from §8.1 upgrades). **Items flagged for future review at M30 R5 (Phase III topic firm-up): 1** — 6.5 TKH Bd. 2 ch. VI + VIII, conditional on Habermas-track commitment.
+**Total MUST-Engage items at v2.1 baseline: ~28** (was ~33 in v2.0; −5 from §8.1 upgrades). **Items flagged for future review at M35 R5 (Phase III topic firm-up): 1** — 6.5 TKH Bd. 2 ch. VI + VIII, conditional on Habermas-track commitment.
 
 **Future-review trigger.** Per bridge §6 Class C row 5 ("MUST-Engage → MUST-Anchor user-review flags ... currently MUST-Engage by default"), the discipline appendix is a standing Class C revisable parameter. Re-apply the review at:
-- **M30 R5 retreat** (Phase III topic firm-up, per bridge §3.7 R5): any §4 conditional-Anchor item whose trigger fires gets resolved here; any remaining MUST-Engage item whose tradition-anchoring case has firmed up during reading can be flagged for upgrade.
-- **Workshop/Tagung feedback** (M35–M42): if a reviewer or discussant identifies a depth-gap in a MUST-Engage item that the user characterised but did not Anchor, that's a signal to upgrade and rewrite.
+- **M35 R5 retreat** (Phase III topic firm-up, per bridge §3.7 R5): any §4 conditional-Anchor item whose trigger fires gets resolved here; any remaining MUST-Engage item whose tradition-anchoring case has firmed up during reading can be flagged for upgrade.
+- **Workshop/Tagung feedback** (M41–M46): if a reviewer or discussant identifies a depth-gap in a MUST-Engage item that the user characterised but did not Anchor, that's a signal to upgrade and rewrite.
 - **Module-close R-events** generally: lightweight scan of the current module's MUST-Engage items for "did I actually need Full here?" — folded into the regular comprehension check.
 
 **Reading of the v2.1 baseline:** the five v2.0-flagged items had the strongest framework-internal case for Anchor; their v2.1 upgrade resolves the "polite skip" concern at the depth-of-tradition-engagement level. The remaining ~28 MUST-Engage items are either (a) reviewer-coverage with apparatus genuinely elsewhere (e.g., 6.4/6.5 vs 6.3 ch I; 5.1 vs 5.2 EuI), (b) single-article-length frames where Light is the right load (Fraser 7.3, Zurn 8.3, Quijano 8A.4), or (c) conditional-Anchor items in §4 awaiting topic firm-up. The discipline check passes for v2.1.
 
 ### 8.4 Executed-tier override log (v2.2, 2026-07-13)
 
-The 2026-07-13 execution-plan audit (`archive/audit_execution_plan_2026-07-13.md`) found that `execution_plan.md` executes several items at **Full** tier where this document's §8.2 (and, for 8.9, the §3 module table) decided **Light**. Per user decision 2026-07-13 these are logged here as **standing overrides** rather than left as silent divergence: the plan's executed tier stands, and this section is the record that it knowingly departs from the §8.2 decision. The aggregate hour consequence (~40–55h across Phases I–II per the audit's workflow-inclusive estimate; ~35h by the plan's Appendix A formula alone) is an **open decision** flagged in the plan audit, pending user review.
+The 2026-07-13 execution-plan audit (`archive/audit_execution_plan_2026-07-13.md`) found that `execution_plan.md` executes several items at **Full** tier where this document's §8.2 (and, for 8.9, the §3 module table) decided **Light**. Initially (earlier on 2026-07-13) these were logged here as standing overrides. **Resolved 2026-07-13 (upstream-reconciliation pass): the user has decided to REVERT all eight logged overrides to this document's §8.2/§3 Light decisions — execution plan v3 compiles its tiers directly from this document.** The table is retained (not deleted) as the record of the divergence and its resolution; the aggregate hour consequence (~40–55h across Phases I–II per the audit's workflow-inclusive estimate; ~35h by the plan's Appendix A formula alone) is thereby recovered into the Phase II envelope (see the §7 capacity note).
 
 | Item (plan ID / this doc's ID where they differ) | §8.2 decision | Executed tier in plan | ~Δ hours | Status |
 |---|---|---|---|---|
-| 5.1 McCarthy, *Critical Theory of Jürgen Habermas* chs. 1–3 | MUST-Engage → Light ("portal text, not apparatus; v1.3 already audit-corrected from Full → Light") | `[ES*] → Full (executed; baseline MUST-Engage Light)` | ~1h | standing override — hour consequence pending user review |
-| 6b / 6.2 McCarthy chs. 4–5 | MUST-Engage → Light ("continuation of 5.1 portal role") | `[ES] → Full (executed; MUST-Engage; Layer 3 non-conflict demote candidate)` | ~1h | standing override — hour consequence pending user review |
-| 6.3 / 6.5 Habermas *TKH* Bd. 2 ch. VI + ch. VIII | MUST-Engage → Light (reviewer-coverage; conditional Anchor only on Habermas-track at M30 R5) | `[P*] → Full (executed; MUST-Engage; Layer 3 non-conflict Full→Light candidate; re-promote check at M35 R5 if Habermas-track)` | ~3h | standing override — hour consequence pending user review |
-| 4A.1 Dewey, *The Public and Its Problems* chs. 1–5 | MUST-Engage → Light ("user invokes Dewey-via-Jaeggi; Joas 4A.2 + Jaeggi 8.2 supply the apparatus") | `[P*] → Full (MUST-Engage; executed at Full per Phase II pre-load)` | ~2h | standing override — hour consequence pending user review |
-| 8.3 Zurn, "Second-Order Disorders" | MUST-Engage → Light ("v1.3 audit: clearest case of [P*] tag over-claiming; Light is correct") | `[P*] → Full (executed; MUST-Engage baseline; demote candidate if capacity pressure)` | ~1h | standing override — hour consequence pending user review |
-| 8.4 Laitinen & Särkelä, "Four Conceptions of Social Pathology" | MUST-Engage → Light ("20pp typology article; Full reconstruction overhead unjustified") | `[P*] → Full (executed; MUST-Engage baseline; demote candidate if capacity pressure)` | ~1h | standing override — hour consequence pending user review |
-| 8.5 Jaeggi & Fraser, *Capitalism* | MUST-Engage → Light ("dialogue volume; Light per text suffices") | `[P*] → Full (executed; MUST-Engage; demote candidate to free ~16h)` | ~16h (plan's own demote-note figure) | standing override — hour consequence pending user review |
-| 8.9 Rosa, *Resonanz* selections *(not a §8.2 item — SHOULD → Light per this doc's §3 Module 8 table)* | SHOULD → Light ("direct rival diagnostic framework") | `[P] → Full (executed; rival diagnostic for Skizze #3; Layer 3 non-conflict demote candidate frees ~10h)` | ~10h (plan's own demote-note figure) | standing override — hour consequence pending user review |
+| 5.1 McCarthy, *Critical Theory of Jürgen Habermas* chs. 1–3 | MUST-Engage → Light ("portal text, not apparatus; v1.3 already audit-corrected from Full → Light") | `[ES*] → Full (executed; baseline MUST-Engage Light)` | ~1h | resolved 2026-07-13 — reverted to the §8.2/§3 tier per user decision; execution plan v3 compiles directly from this document |
+| 6b / 6.2 McCarthy chs. 4–5 | MUST-Engage → Light ("continuation of 5.1 portal role") | `[ES] → Full (executed; MUST-Engage; Layer 3 non-conflict demote candidate)` | ~1h | resolved 2026-07-13 — reverted to the §8.2/§3 tier per user decision; execution plan v3 compiles directly from this document |
+| 6.3 / 6.5 Habermas *TKH* Bd. 2 ch. VI + ch. VIII | MUST-Engage → Light (reviewer-coverage; conditional Anchor only on Habermas-track at M35 R5) | `[P*] → Full (executed; MUST-Engage; Layer 3 non-conflict Full→Light candidate; re-promote check at M35 R5 if Habermas-track)` | ~3h | resolved 2026-07-13 — reverted to the §8.2/§3 tier per user decision; execution plan v3 compiles directly from this document |
+| 4A.1 Dewey, *The Public and Its Problems* chs. 1–5 | MUST-Engage → Light ("user invokes Dewey-via-Jaeggi; Joas 4A.2 + Jaeggi 8.2 supply the apparatus") | `[P*] → Full (MUST-Engage; executed at Full per Phase II pre-load)` | ~2h | resolved 2026-07-13 — reverted to the §8.2/§3 tier per user decision; execution plan v3 compiles directly from this document |
+| 8.3 Zurn, "Second-Order Disorders" | MUST-Engage → Light ("v1.3 audit: clearest case of [P*] tag over-claiming; Light is correct") | `[P*] → Full (executed; MUST-Engage baseline; demote candidate if capacity pressure)` | ~1h | resolved 2026-07-13 — reverted to the §8.2/§3 tier per user decision; execution plan v3 compiles directly from this document |
+| 8.4 Laitinen & Särkelä, "Four Conceptions of Social Pathology" | MUST-Engage → Light ("20pp typology article; Full reconstruction overhead unjustified") | `[P*] → Full (executed; MUST-Engage baseline; demote candidate if capacity pressure)` | ~1h | resolved 2026-07-13 — reverted to the §8.2/§3 tier per user decision; execution plan v3 compiles directly from this document |
+| 8.5 Jaeggi & Fraser, *Capitalism* | MUST-Engage → Light ("dialogue volume; Light per text suffices") | `[P*] → Full (executed; MUST-Engage; demote candidate to free ~16h)` | ~16h (plan's own demote-note figure) | resolved 2026-07-13 — reverted to the §8.2/§3 tier per user decision; execution plan v3 compiles directly from this document |
+| 8.9 Rosa, *Resonanz* selections *(not a §8.2 item — SHOULD → Light per this doc's §3 Module 8 table)* | SHOULD → Light ("direct rival diagnostic framework") | `[P] → Full (executed; rival diagnostic for Skizze #3; Layer 3 non-conflict demote candidate frees ~10h)` | ~10h (plan's own demote-note figure) | resolved 2026-07-13 — reverted to the §8.2/§3 tier per user decision; execution plan v3 compiles directly from this document |
 
 **Verification notes.** (a) 6.4 *TKH* Bd. 1 chs. II–III was checked against the plan (plan ID 6.2) and is executed at **Light** as decided here — no override. (b) The plan additionally bumps 7.23 Neuhouser "Honneth's Theory of Social Freedom" from baseline **COULD** to `Full (executed)` (~1h); logged for completeness, though its baseline decision sits in the §3 tables, not §8.2. (c) Δ-hour figures without a plan-quoted number are Appendix A formula deltas (Full-vs-Light α plus per-Full C1 overhead), rounded.
+
+**Item-ID canonicity note (2026-07-13).** The plan↔phase3 item-ID divergence found in the 2026-07-13 audit — plan "6b" = this document's **6.2** (McCarthy chs. 4–5); plan "6.3" = this document's **6.5** (TKH Bd. 2 ch. VI + ch. VIII) — is resolved in favour of this document: **this document's item IDs are canonical; execution plan v3 adopts them.**
