@@ -170,21 +170,21 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W1 | 📚 0.1 *Einführung* Foreword + Kap. 1 | ~40 | ~2.5 | — |
+| W1 · 15 Jun | 📚 0.1 *Einführung* Foreword + Kap. 1 | ~40 | ~2.5 | — |
 | | ✍ Reading Log started (Track 1 + Track 2) | — | — | ~0.25 |
-| W2 | 📚 0.1 *Einführung* Kap. 2–3 | ~70 | ~4 | — |
-| W3 | 📚 0.1 *Einführung* Kap. 4–5 | ~70 | ~4 | — |
+| W2 · 22 Jun | 📚 0.1 *Einführung* Kap. 2–3 | ~70 | ~4 | — |
+| W3 · 29 Jun | 📚 0.1 *Einführung* Kap. 4–5 | ~70 | ~4 | — |
 | | 📚 0.2 Honneth "Pathologien" first read | ~25 | ~1.5 | — |
-| W4 | 📚 0.1 *Einführung* Kap. 6–7 (finish) | ~70 | ~4 | — |
+| W4 · 6 Jul | 📚 0.1 *Einführung* Kap. 6–7 (finish) | ~70 | ~4 | — |
 | | 📚 0.2 *Pathologien* re-read critically | ~25 | ~1 | — |
-| W5 | 📚 0.3 Jaeggi, "What (if Anything) Is Wrong with Capitalism?" | ~25 | ~1.5 | — |
+| W5 · 13 Jul | 📚 0.3 Jaeggi, "What (if Anything) Is Wrong with Capitalism?" | ~25 | ~1.5 | — |
 | | 📝 Full Recon *Pathologien* 0.2 + C1 set | — | — | ~1.5 |
-| W6 | 📚 0.4 Jay chs. 1–2 | ~100 | ~5 | — |
+| W6 · 20 Jul | 📚 0.4 Jay chs. 1–2 | ~100 | ~5 | — |
 | | ✍ Light note 0.3 | — | — | ~0.5 |
-| W7 | 📚 0.4 Jay ch. 3 (+ [O] reading-log line) | ~50 | ~2.5 | ~0.25 |
+| W7 · 27 Jul | 📚 0.4 Jay ch. 3 (+ [O] reading-log line) | ~50 | ~2.5 | ~0.25 |
 | | ✍ Re-read W5 Recon + W6 note | — | — | ~1 |
 | | ✍ Pre-retreat sketch (1 page) | — | — | ~3 |
-| W8 | ⛰ R1 retreat (2–3 leave days, ~16–20h — leave pool, outside the weekly columns) | — | — | — |
+| W8 · 3 Aug | ⛰ R1 retreat (2–3 leave days, ~16–20h — leave pool, outside the weekly columns) | — | — | — |
 | | **Week sums** | | **~26** | **~6.5** |
 
 *Sums: Read ~26h + Practice ~6.5h = ~32.5h — Inventory ~28h (texts incl. writing-α) + ~4.5h module practice items (C1 · consolidation/sketch).*
@@ -308,25 +308,25 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W9 | 📚 1.1 Neuhouser Intro + chs. 1–2 | ~90 | ~4.5 | — |
+| W9 · 10 Aug | 📚 1.1 Neuhouser Intro + chs. 1–2 | ~90 | ~4.5 | — |
 | | 📝 per-chapter Fulls begin (running) | — | — | ~0.75 |
-| W10 | 📚 1.1 Neuhouser chs. 3–4 | ~80 | ~4 | — |
+| W10 · 17 Aug | 📚 1.1 Neuhouser chs. 3–4 | ~80 | ~4 | — |
 | | 📝 per-chapter Fulls continue | — | — | ~0.75 |
-| W11 | 📚 1.1 Neuhouser chs. 5–6 | ~60 | ~3 | — |
+| W11 · 24 Aug | 📚 1.1 Neuhouser chs. 5–6 | ~60 | ~3 | — |
 | | 📚 1.2 RP Preface + §§1–33 begins | ~40 | ~4 | — |
 | | 📝 per-chapter Fulls + thesis paragraph | — | — | ~1 |
-| W12 | 📚 1.1 Neuhouser chs. 7–8 | ~50 | ~2.5 | — |
+| W12 · 31 Aug | 📚 1.1 Neuhouser chs. 7–8 | ~50 | ~2.5 | — |
 | | 📚 1.2 Preface re-read + RP §§1–33 continue | ~40 | ~4 | — |
 | | 📝 per-chapter Fulls; ✍ RP segment-Lights ×2 | — | — | ~1.55 |
-| W13 | 📚 1.2 RP §§142–181 (*Familie*) + 1.1 wrap | ~50 | ~8 | — |
+| W13 · 7 Sep | 📚 1.2 RP §§142–181 (*Familie*) + 1.1 wrap | ~50 | ~8 | — |
 | | 📝 closing Neuhouser Full (draft); ✍ RP segment-Light; ⚖ calibration tally | — | — | ~1.65 |
-| W14 | 📚 1.2 RP §§182–208 (*System der Bedürfnisse*) | ~30 | ~4 | — |
+| W14 · 14 Sep | 📚 1.2 RP §§182–208 (*System der Bedürfnisse*) | ~30 | ~4 | — |
 | | 📝 Neuhouser Fulls completed + C1 set; ✍ RP segment-Light | — | — | ~1.65 |
-| W15 | 📚 1.2 RP §§209–256 (*Rechtspflege, Polizei, Korporation*) | ~50 | ~7 | — |
+| W15 · 21 Sep | 📚 1.2 RP §§209–256 (*Rechtspflege, Polizei, Korporation*) | ~50 | ~7 | — |
 | | ✍ RP segment-Light (5 of 5); QM1 article picks | — | — | ~0.65 |
-| W16 | 📚 1.3 *Phänomenologie* IV.A (incl. 2h re-read sitting) | ~30 | ~6 | — |
+| W16 · 28 Sep | 📚 1.3 *Phänomenologie* IV.A (incl. 2h re-read sitting) | ~30 | ~6 | — |
 | | 📝 Full Recon 1.3 + C1 set | — | — | ~2.5 |
-| W17 | 🎯 Module 1 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.5 |
+| W17 · 5 Oct | 🎯 Module 1 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.5 |
 | | 📋 QM1 | — | — | ~2.5 |
 | | **Week sums** | | **~47** | **~18.5** |
 
@@ -482,31 +482,31 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W18 | 📚 2.1 ÖpM "Entfremdete Arbeit" first read | ~40 | ~4.5 | — |
+| W18 · 12 Oct | 📚 2.1 ÖpM "Entfremdete Arbeit" first read | ~40 | ~4.5 | — |
 | | 📚 1.7 Khurana *Einleitung* (Module 1 item; + [O] log line) | ~20 | ~2.5 | ~0.25 |
 | | ✍ Neuhouser Recon re-read | — | — | ~1 |
-| W19 | 📚 2.1 re-read (GovC prep — reading only) | ~40 | ~3.5 | — |
+| W19 · 19 Oct | 📚 2.1 re-read (GovC prep — reading only) | ~40 | ~3.5 | — |
 | | 📚 2.2 *Deutsche Ideologie* Feuerbach selections begin | ~25 | ~4 | — |
-| W20 | 📚 2.2 finish + "Thesen über Feuerbach" (GovC week) | ~20 | ~5 | — |
+| W20 · 26 Oct | 📚 2.2 finish + "Thesen über Feuerbach" (GovC week) | ~20 | ~5 | — |
 | | 📚 2.3a *Kapital* I ch. 1 §1 begins | ~10 | ~0.5 | — |
 | | ✍ 2.2 Lights ×2 | — | — | ~1.5 |
-| W21 | 📚 2.3a §§2–3 | ~30 | ~3.5 | — |
+| W21 · 2 Nov | 📚 2.3a §§2–3 | ~30 | ~3.5 | — |
 | | 📝 ÖpM Full Recon (rerouted) + C1 set | — | — | ~2.5 |
 | | 📝 2.3a §1 Full | — | — | ~2 |
-| W22 | 📚 2.3a §4 fetishism (re-read 2–3×, one 2h sitting) | ~20 | ~4 | — |
+| W22 · 9 Nov | 📚 2.3a §4 fetishism (re-read 2–3×, one 2h sitting) | ~20 | ~4 | — |
 | | 📚 2.3b ch. 2 begins | ~20 | ~2 | — |
 | | 📝 2.3a §§2–3 Fulls | — | — | ~4 |
-| W23 | 📚 2.3b chs. 2–3 continue (exchange, money) | ~40 | ~8 | — |
+| W23 · 16 Nov | 📚 2.3b chs. 2–3 continue (exchange, money) | ~40 | ~8 | — |
 | | 📝 2.3a §4 Full + C1 set | — | — | ~2.5 |
 | | ✍ 2.3b Lights chs. 2 + 3 | — | — | ~1.5 |
-| W24 | 📚 2.3b ch. 3 wrap + ch. 10 (*Der Arbeitstag*) | ~60 | ~10 | — |
+| W24 · 23 Nov | 📚 2.3b ch. 3 wrap + ch. 10 (*Der Arbeitstag*) | ~60 | ~10 | — |
 | | 📚 2.4 Heinrich Kap. 1–2 begins | ~50 | ~2.75 | — |
 | | ✍ 2.3b ch. 10 Light + Heinrich Kap. 1–2 Lights | — | — | ~1.15 |
-| W25 | 📚 2.3b ch. 10 finish | ~20 | ~4 | — |
+| W25 · 30 Nov | 📚 2.3b ch. 10 finish | ~20 | ~4 | — |
 | | 📚 2.4 Heinrich Kap. 3–5 | ~90 | ~5 | — |
 | | ✍ Heinrich Lights (5 of 5) | — | — | ~0.55 |
 | | 🔧 Anwendung #1 | — | — | ~4 |
-| W26 | 🎯 Module 2 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
+| W26 · 7 Dec | 🎯 Module 2 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | ✍ ÖpM-Recon re-read vs. Heinrich + QM1-article re-read | — | — | ~2.5 |
 | | **Week sums** | | **~59.25** | **~29** |
 
@@ -670,13 +670,13 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W27 | 📚 3.1 "Wissenschaft als Beruf" (read twice) | ~30 | ~6 | — |
+| W27 · 14 Dec | 📚 3.1 "Wissenschaft als Beruf" (read twice) | ~30 | ~6 | — |
 | | ✍ 3.1 Light note | — | — | ~0.75 |
-| W28 | 📚 3.2 "Objektivität" first half (Christmas week) | ~30 | ~6 | — |
-| W29 | 📚 3.2 finish | ~30 | ~6 | — |
+| W28 · 21 Dec | 📚 3.2 "Objektivität" first half (Christmas week) | ~30 | ~6 | — |
+| W29 · 28 Dec | 📚 3.2 finish | ~30 | ~6 | — |
 | | 📚 3.3 *W&G* I.1 §§1–10 | ~40 | ~3.5 | — |
 | | ✍ 3.2 Light note | — | — | ~0.75 |
-| W30 | 📚 3.3 §§11–17 | ~40 | ~6.5 | — |
+| W30 · 4 Jan 27 | 📚 3.3 §§11–17 | ~40 | ~6.5 | — |
 | | ✍ W&G segment Lights ×2 | — | — | ~1.5 |
 | | 🎯 Module 3 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~28** | **~8.6** |
@@ -760,17 +760,17 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W31 | 📚 3A.2 Feenberg chs. 3–4 (read first) | ~70 | ~3.5 | — |
+| W31 · 11 Jan | 📚 3A.2 Feenberg chs. 3–4 (read first) | ~70 | ~3.5 | — |
 | | 📚 3A.1 Lukács Section I begins | ~35 | ~3.5 | — |
 | | ✍ Feenberg Lights ×2 | — | — | ~0.4 |
-| W32 | 📚 3A.1 Section I finish | ~35 | ~3.5 | — |
+| W32 · 18 Jan | 📚 3A.1 Section I finish | ~35 | ~3.5 | — |
 | | 📝 Full Recon Section I | — | — | ~2 |
 | | 📋 QM2; ⚖ second calibration checkpoint | — | — | ~3 |
-| W33 | 📚 3A.1 Section II | ~35 | ~6.5 | — |
+| W33 · 25 Jan | 📚 3A.1 Section II | ~35 | ~6.5 | — |
 | | 📚 3A.2 Feenberg ch. 5 | ~30 | ~1.5 | — |
 | | 📝 Full Recon Section II; ✍ Feenberg ch. 5 Light | — | — | ~2.2 |
 | | 🔧 Anwendung #2 | — | — | ~4 |
-| W34 | 📚 3A.1 Section III | ~30 | ~6.5 | — |
+| W34 · 1 Feb | 📚 3A.1 Section III | ~30 | ~6.5 | — |
 | | 📝 Full Recon Section III + C1 set | — | — | ~2.5 |
 | | 🎯 Module 3A close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~25** | **~19.7** |
@@ -892,25 +892,25 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W37 | 📚 4.1 Horkheimer, "Traditionelle und kritische Theorie" (two reads) | ~40 | ~6 | — |
+| W37 · 22 Feb | 📚 4.1 Horkheimer, "Traditionelle und kritische Theorie" (two reads) | ~40 | ~6 | — |
 | | 📚 4.13 Freud, *Das Unbehagen in der Kultur* begins | ~40 | ~3 | — |
 | | 📝 Horkheimer Full begins | — | — | ~1 |
-| W38 | 📚 4.1 final pass + 4.13 finish | ~40 | ~5.25 | — |
+| W38 · 1 Mar | 📚 4.1 final pass + 4.13 finish | ~40 | ~5.25 | — |
 | | 📚 4.2 *DdA* "Begriff der Aufklärung" | ~40 | ~6 | — |
 | | 📝 Horkheimer Full filed + C1 set; ✍ 4.13 Light | — | — | ~2.25 |
-| W39 | 📚 4.2 Odysseus Exkurs (one 2h sitting) | ~40 | ~10 | — |
+| W39 · 8 Mar | 📚 4.2 Odysseus Exkurs (one 2h sitting) | ~40 | ~10 | — |
 | | 📚 4.3 Pollock, "State Capitalism" | ~20 | ~1.5 | — |
 | | ✍ DdA Lights ×2 + Pollock Light | — | — | ~2 |
-| W40 | 📚 4.5 *Minima Moralia* selection | ~50 | ~12 | — |
+| W40 · 15 Mar | 📚 4.5 *Minima Moralia* selection | ~50 | ~12 | — |
 | | ✍ MM Light note; ⚠ ND decision logged | — | — | ~1.25 |
-| W41 | 📚 4.7 Freyenhagen chs. 1–2 | ~80 | ~4 | — |
+| W41 · 22 Mar | 📚 4.7 Freyenhagen chs. 1–2 | ~80 | ~4 | — |
 | | ✍ per-chapter Lights | — | — | ~0.4 |
-| W42 | 📚 4.7 chs. 3–4 + 4.10 Benjamin Theses begin | ~95 | ~5.5 | — |
+| W42 · 29 Mar | 📚 4.7 chs. 3–4 + 4.10 Benjamin Theses begin | ~95 | ~5.5 | — |
 | | ✍ per-chapter Lights | — | — | ~0.4 |
-| W43 | 📚 4.10 re-read + 4.7 ch. 5 + 4.11 "Kunstwerk" begins | ~70 | ~5.75 | — |
+| W43 · 5 Apr | 📚 4.10 re-read + 4.7 ch. 5 + 4.11 "Kunstwerk" begins | ~70 | ~5.75 | — |
 | | ✍ Theses Light + Freyenhagen ch. 5 Light | — | — | ~0.95 |
 | | 🔧 Anwendung #3 | — | — | ~4 |
-| W44 | 📚 4.11 finish | ~25 | ~6.25 | — |
+| W44 · 12 Apr | 📚 4.11 finish | ~25 | ~6.25 | — |
 | | ✍ Kunstwerk Light | — | — | ~0.75 |
 | | 🎯 Module 4 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~65.25** | **~18.6** |
@@ -1057,16 +1057,16 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W45 | 📚 4A.1 Dewey chs. 1–3 | ~100 | ~5 | — |
+| W45 · 19 Apr | 📚 4A.1 Dewey chs. 1–3 | ~100 | ~5 | — |
 | | ✍ per-chapter Lights | — | — | ~0.6 |
-| W46 | 📚 4A.1 chs. 4–5 | ~80 | ~3.5 | — |
+| W46 · 26 Apr | 📚 4A.1 chs. 4–5 | ~80 | ~3.5 | — |
 | | 📚 4A.2 Joas ch. 3 begins | ~50 | ~5.5 | — |
 | | ✍ Dewey Lights complete (5 of 5) | — | — | ~0.4 |
-| W47 | 📚 4A.2 chs. 4–5 | ~100 | ~9.5 | — |
+| W47 · 3 May | 📚 4A.2 chs. 4–5 | ~100 | ~9.5 | — |
 | | ✍ Joas Lights (3 of 3) | — | — | ~2 |
-| W48 | 📚 4A.3 Mead, Part III "The Self" | ~100 | ~4.5 | — |
+| W48 · 10 May | 📚 4A.3 Mead, Part III "The Self" | ~100 | ~4.5 | — |
 | | 📝 Full Recon Mead + C1 set | — | — | ~2 |
-| W49 | 📚 Re-read Joas ch. 5 | — | ~2 | — |
+| W49 · 17 May | 📚 Re-read Joas ch. 5 | — | ~2 | — |
 | | 🎯 Module 4A close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~30** | **~10.6** |
 
@@ -1159,24 +1159,24 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W50 | 📚 5.1 McCarthy chs. 1–2 | ~80 | ~4 | — |
+| W50 · 24 May | 📚 5.1 McCarthy chs. 1–2 | ~80 | ~4 | — |
 | | ✍ per-chapter Lights begin | — | — | ~0.35 |
-| W51 | 📚 5.1 ch. 3 | ~30 | ~1.5 | — |
+| W51 · 31 May | 📚 5.1 ch. 3 | ~30 | ~1.5 | — |
 | | 📚 5.4 Gadamer, *W&M* Part II.1 begins | ~60 | ~8 | — |
 | | ✍ 5.1 ch. 3 Light + Gadamer log line | — | — | ~0.4 |
-| W52 | 📚 5.4 Part II.2 | ~60 | ~8.25 | — |
+| W52 · 7 Jun | 📚 5.4 Part II.2 | ~60 | ~8.25 | — |
 | | ✍ Gadamer log line ([O] output) | — | — | ~0.25 |
-| W53 | 📚 5.5 "Universalitätsanspruch der Hermeneutik" | ~60 | ~7.5 | — |
+| W53 · 14 Jun | 📚 5.5 "Universalitätsanspruch der Hermeneutik" | ~60 | ~7.5 | — |
 | | ✍ 5.5 Light | — | — | ~0.75 |
-| W54 | 📚 5.2 *EuI* ch. 1 | ~70 | ~8.75 | — |
-| W55 | 📚 5.2 ch. 2 | ~60 | ~7.5 | — |
+| W54 · 21 Jun | 📚 5.2 *EuI* ch. 1 | ~70 | ~8.75 | — |
+| W55 · 28 Jun | 📚 5.2 ch. 2 | ~60 | ~7.5 | — |
 | | 📝 Full Recon ch. 1 | — | — | ~2 |
-| W56 | 📚 5.2 ch. 3 + Nachwort begins | ~70 | ~7 | — |
+| W56 · 5 Jul | 📚 5.2 ch. 3 + Nachwort begins | ~70 | ~7 | — |
 | | 📝 Full Recons chs. 2–3 | — | — | ~4 |
-| W57 | 📚 5.2 Nachwort finish; 📚 5.3 begins | ~30 | ~4.75 | — |
+| W57 · 12 Jul | 📚 5.2 Nachwort finish; 📚 5.3 begins | ~30 | ~4.75 | — |
 | | 📝 Full Recon Nachwort + C1 set | — | — | ~2.5 |
 | | 🔧 Anwendung #4 [BONUS — opt-in; not in baseline] | — | — | (~4) |
-| W58 | 📚 5.3 finish + McCarthy ch. 3 consolidation re-read | ~30 | ~6 | — |
+| W58 · 19 Jul | 📚 5.3 finish + McCarthy ch. 3 consolidation re-read | ~30 | ~6 | — |
 | | ✍ 5.3 Lights ×2 | — | — | ~1.5 |
 | | 🎯 Module 5 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~63.25** | **~17.35 (+4 opt-in)** |
@@ -1306,16 +1306,16 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W59 | 📚 Light buffer: Module 5 carryover + re-reads | — | ~4 | — |
+| W59 · 26 Jul | 📚 Light buffer: Module 5 carryover + re-reads | — | ~4 | — |
 | | ✍ QM1/QM2 comparison prep | — | — | ~0.5 |
-| W60 | 📋 Journal Test (2–3 recent articles + 1–2pp report) | — | — | ~9 |
-| W61 | 📋 Field Report (1,500–2,000w) | — | — | ~9 |
+| W60 · 2 Aug | 📋 Journal Test (2–3 recent articles + 1–2pp report) | — | — | ~9 |
+| W61 · 9 Aug | 📋 Field Report (1,500–2,000w) | — | — | ~9 |
 | | 📋 External-calibration letter | — | — | ~3 |
-| W62 | 📚 Buffer: 6.2 skim + R2-synthesis re-read | — | ~2 | — |
+| W62 · 16 Aug | 📚 Buffer: 6.2 skim + R2-synthesis re-read | — | ~2 | — |
 | | ✍ "running questions for Habermas" list | — | — | ~1 |
-| W63 | ⛰ R3, part 1 (~16–20h across the fortnight — leave pool) | — | — | — |
-| W64 | ⛰ R3, part 2 (leave pool) | — | — | — |
-| W65 | 📚 Light transition | — | ~2 | — |
+| W63 · 23 Aug | ⛰ R3, part 1 (~16–20h across the fortnight — leave pool) | — | — | — |
+| W64 · 30 Aug | ⛰ R3, part 2 (leave pool) | — | — | — |
+| W65 · 6 Sep | 📚 Light transition | — | ~2 | — |
 | | ✍ Phase II calendar setup | — | — | ~1 |
 | | **Week sums** | | **~8** | **~23.5** |
 
@@ -1466,11 +1466,11 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 
 | Month | Assignments |
 |---|---|
-| M16 W1 | ⛰ **R4** (~16–20h leave)<br>re-read the R3 synthesis + Field Report; pre-load the Field-Report (d) "running questions for Habermas"<br>skim 6.1 Outhwaite chs. 3–6 as the TKH scaffold<br>**plan the first 8 weeks of Module 6 at week level** (~3h — the first late-binding stage)<br>interlocutor-map foundation work (~3–4h; incl. any W61 letter reply)<br>Goethe Vorlesungsverzeichnis check — register as Gasthörer *now* if a genuine topic fit exists (Forst on justification, Honneth-tradition seminars, Celikates on Kritik; §2.4 selective rule — mid-Oct Anmeldefenster). |
-| M16 | 📚 6.1 Outhwaite chs. 3–6 (Orientation)<br>📚 6.2 McCarthy chs. 4–5 + Light notes (reverted tier)<br>📚 CL1 Horster begins — scheduled to run alongside TKH ch. I: reading Horster while reading ch. I makes TKH's anti-Luhmann polemical structure visible. |
-| M17 | 📚 6.3 TKH Bd. 1 ch. I (validity claims, communicative rationality)<br>📚 CL1 continues (no active practice — Orientation). |
-| M18 | 📝 **Full Recon 6.3**<br>📚 6.4 TKH Bd. 1 chs. II–III selective (Weber + Frankfurt reconstructions; the syllabus cap on 6.4 is satisfied by this selective read) + Light notes<br>📚 6.5 TKH Bd. 2 ch. VI begins (ch. VI reads at Protocol 2 — the genuinely dense stretch of TKH). |
-| M19 | 📚 6.5 ch. VI finish + ch. VIII (colonisation thesis) + Light notes<br>📚 6.6 "Diskursethik — Notizen zu einem Begründungsprogramm" + Light note (U/D principles — the missing link between 6.3 and Forst 7.7)<br>✏ **first H2 evaluation** (candidate: 6.3 or 6.5; the ~1-in-3 cadence starts here; hallucination caveat — require Claude to cite specific passages and verify each in source)<br>🎯 **Module 6 close** per §D.2 + 📋 **QM3** (compare against the R3 baseline)<br>Apply the colonisation thesis to a concrete case — a fragment of the W61 Field Report is the natural candidate. |
+| M16 W1 · Sep 2027 | ⛰ **R4** (~16–20h leave)<br>re-read the R3 synthesis + Field Report; pre-load the Field-Report (d) "running questions for Habermas"<br>skim 6.1 Outhwaite chs. 3–6 as the TKH scaffold<br>**plan the first 8 weeks of Module 6 at week level** (~3h — the first late-binding stage)<br>interlocutor-map foundation work (~3–4h; incl. any W61 letter reply)<br>Goethe Vorlesungsverzeichnis check — register as Gasthörer *now* if a genuine topic fit exists (Forst on justification, Honneth-tradition seminars, Celikates on Kritik; §2.4 selective rule — mid-Oct Anmeldefenster). |
+| M16 · Sep 2027 | 📚 6.1 Outhwaite chs. 3–6 (Orientation)<br>📚 6.2 McCarthy chs. 4–5 + Light notes (reverted tier)<br>📚 CL1 Horster begins — scheduled to run alongside TKH ch. I: reading Horster while reading ch. I makes TKH's anti-Luhmann polemical structure visible. |
+| M17 · Oct 2027 | 📚 6.3 TKH Bd. 1 ch. I (validity claims, communicative rationality)<br>📚 CL1 continues (no active practice — Orientation). |
+| M18 · Nov 2027 | 📝 **Full Recon 6.3**<br>📚 6.4 TKH Bd. 1 chs. II–III selective (Weber + Frankfurt reconstructions; the syllabus cap on 6.4 is satisfied by this selective read) + Light notes<br>📚 6.5 TKH Bd. 2 ch. VI begins (ch. VI reads at Protocol 2 — the genuinely dense stretch of TKH). |
+| M19 · Dec 2027 | 📚 6.5 ch. VI finish + ch. VIII (colonisation thesis) + Light notes<br>📚 6.6 "Diskursethik — Notizen zu einem Begründungsprogramm" + Light note (U/D principles — the missing link between 6.3 and Forst 7.7)<br>✏ **first H2 evaluation** (candidate: 6.3 or 6.5; the ~1-in-3 cadence starts here; hallucination caveat — require Claude to cite specific passages and verify each in source)<br>🎯 **Module 6 close** per §D.2 + 📋 **QM3** (compare against the R3 baseline)<br>Apply the colonisation thesis to a concrete case — a fragment of the W61 Field Report is the natural candidate. |
 
 ### Inventory
 
@@ -1507,12 +1507,12 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 
 | Month | Assignments |
 |---|---|
-| M20 | 📚 **1.4 Honneth, *Leiden an Unbestimmtheit*** — Module 7 pre-block: normative reconstruction first tried on Hegel; the RP→*RdF* bridge, read just before 7.5<br>Re-read the Mead Full Recon (W48) + the 1.3 Herr/Knecht Recon (W16) — the two textual ancestors of *KuA*<br>📚 7.1 *KuA* begins (Intro + Hegel reception)<br>📚 11A.2 Foucault, 1976 lecture — Layer 2 member; scheduled here so Foucault's challenge to recognition-as-power is heard *before* Honneth's positive answer. |
-| M21 | 📚 7.1 *KuA* middle (Mead sociopsychology; the three recognition spheres)<br>📚 11A.1 *Surveiller et punir* selections + Light notes ×2<br>📚 7.2 "Anerkennung als Ideologie" + Light note<br>Khurana 1.7 cross-reference: revisit the *Einleitung* (W18) selectively alongside the pre-block. |
-| M22 | 📚 7.1 finish<br>📝 *KuA* chapter Fulls filed (~9: Intro, Hegel reception, Mead sociopsychology, love/rights/solidarity, *Missachtung* forms, struggle-as-praxis) — these compose the **recognition-spheres/Missachtung map**; tag → M37–38<br>📚 7.3 Fraser 1995 + Light note<br>✍ **Skizze #1** (first positive-claim attempt, 1,000–1,500w; e.g. "recognition theory needs an account of institutional *Missachtung* below the level of explicit denial")<br>📋 **reading-group/colloquium join** (deliverable: *attending regularly by M24*; online fallback — ConTrust / IfS — fires end-M23). |
-| M23 | 📚 7.4 *Umverteilung oder Anerkennung?* (Fraser opener + Honneth reply)<br>📝 Recons in progress — the 7.3 + 7.4 Fulls compose the **Fraser–Honneth disagreement** deliverable (monism vs. dualism); tag → M37–38<br>📚 7.5 *RdF* selections begin (methodological intro — normative reconstruction stated as method). |
-| M24 | 📚 7.4 rejoinders finish<br>📝 7.4 Fulls filed (4: opener, reply, both rejoinders)<br>📚 7.5 "Persönliche Beziehungen" + "Der Markt" + 3 Light notes (Full *Markt* dissection deferred to Craft Block W2.1)<br>📚 7.22 Jütten + 7.23 Neuhouser (Light — logged deviation) **immediately after the *Markt* chapter** — the market pressure-test pair<br>📚 7.12 Fraser "Public Sphere" + Light note (read against a summarised *Strukturwandel* — 6.8 is conditional)<br>📚 7.24 Herzog, *Inventing the Market* begins. |
-| M25 | 📚 7.24 finish + Light notes (4)<br>📚 7.7 Forst *RauR* chs. 1–4<br>📝 7.7 Fulls (4) — compose the **right-to-justification** deliverable; tag → M37–38<br>📚 7.8 "Noumenal Power" + Light note (Forst-vs-Honneth Full deferred to the Comparison Exercise)<br>🎯 **Module 7 close** per §D.2 + 📋 **QM4**<br>📋 **interlocutor map build** (~8–10h; milestone: 5–7 scholars whose work intersects the emerging contribution; fold in any W61 letter reply)<br>📚 Practice F re-read: RP §§142–180 against the recognition spheres (~4h; note where Honneth's "love" sphere diverges from §158). |
+| M20 · Jan 2028 | 📚 **1.4 Honneth, *Leiden an Unbestimmtheit*** — Module 7 pre-block: normative reconstruction first tried on Hegel; the RP→*RdF* bridge, read just before 7.5<br>Re-read the Mead Full Recon (W48) + the 1.3 Herr/Knecht Recon (W16) — the two textual ancestors of *KuA*<br>📚 7.1 *KuA* begins (Intro + Hegel reception)<br>📚 11A.2 Foucault, 1976 lecture — Layer 2 member; scheduled here so Foucault's challenge to recognition-as-power is heard *before* Honneth's positive answer. |
+| M21 · Feb 2028 | 📚 7.1 *KuA* middle (Mead sociopsychology; the three recognition spheres)<br>📚 11A.1 *Surveiller et punir* selections + Light notes ×2<br>📚 7.2 "Anerkennung als Ideologie" + Light note<br>Khurana 1.7 cross-reference: revisit the *Einleitung* (W18) selectively alongside the pre-block. |
+| M22 · Mar 2028 | 📚 7.1 finish<br>📝 *KuA* chapter Fulls filed (~9: Intro, Hegel reception, Mead sociopsychology, love/rights/solidarity, *Missachtung* forms, struggle-as-praxis) — these compose the **recognition-spheres/Missachtung map**; tag → M37–38<br>📚 7.3 Fraser 1995 + Light note<br>✍ **Stilübung #1** (register imitation, ~0.75h; reading_practices Part II) — immediately before Skizze #1, imitating the register it will be written in<br>✍ **Skizze #1** (first positive-claim attempt, 1,000–1,500w; e.g. "recognition theory needs an account of institutional *Missachtung* below the level of explicit denial")<br>📋 **reading-group/colloquium join** (deliverable: *attending regularly by M24*; online fallback — ConTrust / IfS — fires end-M23). |
+| M23 · Apr 2028 | 📚 7.4 *Umverteilung oder Anerkennung?* (Fraser opener + Honneth reply)<br>📝 Recons in progress — the 7.3 + 7.4 Fulls compose the **Fraser–Honneth disagreement** deliverable (monism vs. dualism); tag → M37–38<br>📚 7.5 *RdF* selections begin (methodological intro — normative reconstruction stated as method). |
+| M24 · May 2028 | 📚 7.4 rejoinders finish<br>📝 7.4 Fulls filed (4: opener, reply, both rejoinders)<br>📚 7.5 "Persönliche Beziehungen" + "Der Markt" + 3 Light notes (Full *Markt* dissection deferred to Craft Block W2.1)<br>📚 7.22 Jütten + 7.23 Neuhouser (Light — logged deviation) **immediately after the *Markt* chapter** — the market pressure-test pair<br>📚 7.12 Fraser "Public Sphere" + Light note (read against a summarised *Strukturwandel* — 6.8 is conditional)<br>📚 7.24 Herzog, *Inventing the Market* begins. |
+| M25 · Jun 2028 | 📚 7.24 finish + Light notes (4)<br>📚 7.7 Forst *RauR* chs. 1–4<br>📝 7.7 Fulls (4) — compose the **right-to-justification** deliverable; tag → M37–38<br>📚 7.8 "Noumenal Power" + Light note (Forst-vs-Honneth Full deferred to the Comparison Exercise)<br>🎯 **Module 7 close** per §D.2 + 📋 **QM4**<br>📋 **interlocutor map build** (~8–10h; milestone: 5–7 scholars whose work intersects the emerging contribution; fold in any W61 letter reply)<br>📚 Practice F re-read: RP §§142–180 against the recognition spheres (~4h; note where Honneth's "love" sphere diverges from §158). |
 
 **Kant→Khurana pre-block (M20–21) — opt-in, not in baseline hours.** (i) Kant *Grundlegung* (I.1.5, ~8–10h; Layer-2-*retained* — also underwrites Forst 7.7) + *KU* §§64–66 (I.1.7, ~4–6h); (ii) Khurana 1.7F *Einleitung*-recap + *Teil II* (~14–18h). Fires if the Hegelian-freedom / Kantian-constructivism track is live; first cut is the *KU* + Khurana half.
 
@@ -1564,11 +1564,11 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 
 | Month | Assignments |
 |---|---|
-| M25–26 | 📚 8.1 *Entfremdung*<br>📝 4 Fulls (Intro + 3 main chapters) — compose the **alienation-rehabilitated** deliverable; tag → M37–38<br>✍ **Skizze #2** (M26; forms of life / problem-solving — e.g. "Jaeggi's problem-solving criterion has a hidden requirement of *legibility*"). |
-| M26–27 | 📚 8.2 *KvL* chs. 1–3 + 8<br>📚 CL3 Bourdieu, *La distinction* Intro + Part I (Orientation brief — habitus vs. "inhabited" forms of life; Bourdieu's challenge to discursive rationality matters for the pathologies debate)<br>📚 8.8 Stahl, *Immanente Kritik* Teil I (chs. 1–3 — the taxonomy of critique + the Frankfurt models §3.1/§3.2; **ch. 5 optional here** — §5.5 is Stahl's own recognition-model view — else it moves to Craft Block W1.1) + Light notes. |
-| M27–28 | 📚 8.2 chs. 4–7 + 9–10<br>📝 10 *KvL* Fulls filed — compose the **problem-solving model** deliverable; tag → M37–38<br>📚 8.3 Zurn + 8.4 Laitinen & Särkelä + Light notes (reverted tier — cite, don't rebuild; both feed the Comparison Exercise materials). |
-| M28–29 | 📚 8.5 Jaeggi & Fraser, *Capitalism* + 4 Light notes (reverted tier)<br>📚 8.6 Allen, *End of Progress* chs. 1–3 + 6<br>📝 8.6 Fulls (4) — compose the **Allen anti-progress challenge** deliverable; tag → M37–38<br>✍ **Skizze #3** (M29; the Honneth↔Jaeggi disagreement — direct pre-work for the Comparison Exercise). |
-| M29–30 | 📚 8.9 Rosa, *Resonanz* selections + 3 Light notes (reverted tier; still the rival-diagnostic input to Skizze #3)<br>📚 CL4 Postone, *TLSD* Intro + ch. 1 (Orientation, post-Jaeggi; pre-loads 14.5)<br>🎯 **Module 8 close** per §D.2 (M30 — Nov 2028 GovC vulnerability, pre-check calendar)<br>📚 Practice F re-read: Dewey, *The Public and Its Problems* selected sections against the problem-solving model (~3–4h). |
+| M25–26 · Jun–Jul 2028 | 📚 8.1 *Entfremdung*<br>📝 4 Fulls (Intro + 3 main chapters) — compose the **alienation-rehabilitated** deliverable; tag → M37–38<br>✍ **Skizze #2** (M26; forms of life / problem-solving — e.g. "Jaeggi's problem-solving criterion has a hidden requirement of *legibility*"). |
+| M26–27 · Jul–Aug 2028 | 📚 8.2 *KvL* chs. 1–3 + 8<br>📚 CL3 Bourdieu, *La distinction* Intro + Part I (Orientation brief — habitus vs. "inhabited" forms of life; Bourdieu's challenge to discursive rationality matters for the pathologies debate)<br>📚 8.8 Stahl, *Immanente Kritik* Teil I (chs. 1–3 — the taxonomy of critique + the Frankfurt models §3.1/§3.2; **ch. 5 optional here** — §5.5 is Stahl's own recognition-model view — else it moves to Craft Block W1.1) + Light notes. |
+| M27–28 · Aug–Sep 2028 | 📚 8.2 chs. 4–7 + 9–10<br>📝 10 *KvL* Fulls filed — compose the **problem-solving model** deliverable; tag → M37–38<br>📚 8.3 Zurn + 8.4 Laitinen & Särkelä + Light notes (reverted tier — cite, don't rebuild; both feed the Comparison Exercise materials). |
+| M28–29 · Sep–Oct 2028 | 📚 8.5 Jaeggi & Fraser, *Capitalism* + 4 Light notes (reverted tier)<br>📚 8.6 Allen, *End of Progress* chs. 1–3 + 6<br>📝 8.6 Fulls (4) — compose the **Allen anti-progress challenge** deliverable; tag → M37–38<br>✍ **Skizze #3** (M29; the Honneth↔Jaeggi disagreement — direct pre-work for the Comparison Exercise). |
+| M29–30 · Oct–Nov 2028 | 📚 8.9 Rosa, *Resonanz* selections + 3 Light notes (reverted tier; still the rival-diagnostic input to Skizze #3)<br>📚 CL4 Postone, *TLSD* Intro + ch. 1 (Orientation, post-Jaeggi; pre-loads 14.5)<br>🎯 **Module 8 close** per §D.2 (M30 — Nov 2028 GovC vulnerability, pre-check calendar)<br>📚 Practice F re-read: Dewey, *The Public and Its Problems* selected sections against the problem-solving model (~3–4h). |
 
 ### Inventory
 
@@ -1622,9 +1622,9 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 
 | Month | Assignments |
 |---|---|
-| M30 | 📚 9.1 Mannheim, *Ideologie und Utopie* Part I + Light note (the *Seinsverbundenheit* problem — Celikates answers it)<br>📚 9.2 Fricker begins (Full Recons in progress). |
-| M31 | 📚 9.2 finish<br>📝 9.2 chapter Fulls (7)<br>📚 9.3 Celikates begins<br>📚 9.4 Jaeggi "Was ist Ideologiekritik?" + 9.5 Shelby — read together (framework + test case; both revise 2.2) + Light notes<br>✍ **Skizze #4** (ideology critique or lay normativity, drawing on Celikates)<br>📋 **book review** drafting in this stretch (canonical window ~M28–M30 per §2.4: a recent Stahl/Celikates/Vogelmann/Jaeggi monograph → *DZfPh*, *WestEnd*, or *Mittelweg 36*; ~20–25h incl. the read; 3–4 month editorial lead time). |
-| M32 | 📚 9.3 finish<br>📝 9.3 Fulls (7)<br>📚 9.8 Hartsock + Light note<br>📚 9.10 Collins selection + 3 Light notes (bridge to 8A)<br>🎯 **Module 9 close** per §D.2 + 📋 **QM5** (Jan 2029 GovC vulnerability — pre-check calendar)<br>📋 interlocutor-map refresh (~2–3h)<br>**Phase II review** (~4–6h): re-read 0.1, the W5 Honneth Recon, the R3 synthesis; document the shift. |
+| M30 · Nov 2028 | 📚 9.1 Mannheim, *Ideologie und Utopie* Part I + Light note (the *Seinsverbundenheit* problem — Celikates answers it)<br>📚 9.2 Fricker begins (Full Recons in progress). |
+| M31 · Dec 2028 | 📚 9.2 finish<br>📝 9.2 chapter Fulls (7)<br>📚 9.3 Celikates begins<br>📚 9.4 Jaeggi "Was ist Ideologiekritik?" + 9.5 Shelby — read together (framework + test case; both revise 2.2) + Light notes<br>✍ **Skizze #4** (ideology critique or lay normativity, drawing on Celikates)<br>📋 **book review** drafting in this stretch (canonical window ~M28–M30 per §2.4: a recent Stahl/Celikates/Vogelmann/Jaeggi monograph → *DZfPh*, *WestEnd*, or *Mittelweg 36*; ~20–25h incl. the read; 3–4 month editorial lead time). |
+| M32 · Jan 2029 | 📚 9.3 finish<br>📝 9.3 Fulls (7)<br>📚 9.8 Hartsock + Light note<br>📚 9.10 Collins selection + 3 Light notes (bridge to 8A)<br>🎯 **Module 9 close** per §D.2 + 📋 **QM5** (Jan 2029 GovC vulnerability — pre-check calendar)<br>📋 interlocutor-map refresh (~2–3h)<br>**Phase II review** (~4–6h): re-read 0.1, the W5 Honneth Recon, the R3 synthesis; document the shift. |
 
 ### Inventory
 
@@ -1657,9 +1657,9 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 
 | Month | Assignments |
 |---|---|
-| M32 | 📚 8A.1 Said, *Orientalism* Introduction + Light note<br>📚 8A.2 Chakrabarty begins (overlaps the Module 9 close items — Light-tier practice only in this bridge). |
-| M33 | 📚 8A.2 finish + 2 Light notes<br>📚 8A.3 Spivak + 8A.4 Quijano + Light notes<br>📚 **8A.6 Fanon** (ch. 5 + the Hegel section of ch. 7) — *before* 8A.7, per its *Baut auf* 1.3/7.1: the colonial failure of the master–slave dialectic; + 2 Light notes<br>📚 7.18 *Anerkennung* partial begins<br>✍ **Zwischenstück** drafting opens (window M33–36; 2,000–3,000w on a methodological intersection → *Soziopolis*, *Geschichte der Gegenwart*, or *WestEnd* Diskussion). |
-| M34 | 📚 8A.5 Mignolo (Orientation — demoted [ES]→[O])<br>📚 8A.7 Robinson (Foreword + chs. 1, 11) + 3 Light notes<br>📚 7.18 partial finish + 3 Light notes<br>✍ **Synthetic note** (~600–900w): "What does 8A change about how I would write a Sozialphilosophie contribution?" → input to R5 + the Comparison Exercise<br>🎯 **Module 8A close** (reduced form per v2: no comprehension check — the module is a type-(b) external challenge, not a positive position to summarise; instead log the *disagreement* between the Frankfurt apparatus and 8A's challenge as a structured note; adversarial note: "8A is not Sozialphilosophie" → "the immanent-critique 'we' is racially and colonially structured")<br>**Phase II ends.** |
+| M32 · Jan 2029 | 📚 8A.1 Said, *Orientalism* Introduction + Light note<br>📚 8A.2 Chakrabarty begins (overlaps the Module 9 close items — Light-tier practice only in this bridge). |
+| M33 · Feb 2029 | 📚 8A.2 finish + 2 Light notes<br>📚 8A.3 Spivak + 8A.4 Quijano + Light notes<br>📚 **8A.6 Fanon** (ch. 5 + the Hegel section of ch. 7) — *before* 8A.7, per its *Baut auf* 1.3/7.1: the colonial failure of the master–slave dialectic; + 2 Light notes<br>📚 7.18 *Anerkennung* partial begins<br>✍ **Zwischenstück** drafting opens (window M33–36; 2,000–3,000w on a methodological intersection → *Soziopolis*, *Geschichte der Gegenwart*, or *WestEnd* Diskussion). |
+| M34 · Mar 2029 | 📚 8A.5 Mignolo (Orientation — demoted [ES]→[O])<br>📚 8A.7 Robinson (Foreword + chs. 1, 11) + 3 Light notes<br>📚 7.18 partial finish + 3 Light notes<br>✍ **Synthetic note** (~600–900w): "What does 8A change about how I would write a Sozialphilosophie contribution?" → input to R5 + the Comparison Exercise<br>🎯 **Module 8A close** (reduced form per v2: no comprehension check — the module is a type-(b) external challenge, not a positive position to summarise; instead log the *disagreement* between the Frankfurt apparatus and 8A's challenge as a structured note; adversarial note: "8A is not Sozialphilosophie" → "the immanent-critique 'we' is racially and colonially structured")<br>**Phase II ends.** |
 
 ### Inventory
 
@@ -1700,13 +1700,13 @@ Five conditional MUST-Anchor promotions, topic-commitment-driven (distinct from 
 
 | Block | Months | Key items |
 |---|---|---|
-| ⛰ R5 | M35 | 3 candidate topics (from W61 Field Report + *Markt*/Jütten/Herzog/Streeck + Skizzen)<br>**Layer C 3-of-5 decision**<br>6.5 re-promote check (importance_tiers §8.3) |
-| Craft Block W1–W2 + W3.1 + Module 10 pre-work | M35–37 | Method note (~1,000w)<br>W3.1 reconstructive essay (~2,000w)<br>10.3 Taylor Full + 10.2 Woodward + 10.1 Hollis (moved from Phase II — W3.2 methodological pre-work)<br>9.6 Vogelmann (M36–37)<br>Zwischenstück finishes (≤M36) |
-| Comparison Exercise + preemption pass | M37–38 | Comparison essay (~3,000w) = proof-of-positioning gate<br>📋 QM6<br>Layer C preemption pass (7.19 + 8.10, *Einleitung*+*Schluss*, before lock-in) |
-| W3.2 first draft | M38–41 | 📋 Topic lock-in (M38)<br>CFP submission (M39)<br>✍ Writing Block W1 (M40)<br>14.9 von Redecker (M38–39) |
-| Informal presentation + frontier reading + W3.3 | M41–43 | 📋 QM7<br>Layer C firing reads<br>Mills + Boltanski-Chiapello<br>W3.3 critical review (~1,500w, convertible to 2nd book review) |
-| Revision + formal presentation | M43–46 | Substantive revision (≥1 of 5 sections rewritten)<br>Tagung/workshop |
-| Final revision + submission | M46–48 | ✍ Writing Block W2 (M47)<br>📋 submission + suggested reviewers + 1–2 substantive contact emails<br>three-generation "Pathologien" re-read |
+| ⛰ R5 | M35 · Apr 2029 | 3 candidate topics (from W61 Field Report + *Markt*/Jütten/Herzog/Streeck + Skizzen)<br>**Layer C 3-of-5 decision**<br>6.5 re-promote check (importance_tiers §8.3) |
+| Craft Block W1–W2 + W3.1 + Module 10 pre-work | M35–37 · Apr–Jun 2029 | Method note (~1,000w)<br>W3.1 reconstructive essay (~2,000w)<br>10.3 Taylor Full + 10.2 Woodward + 10.1 Hollis (moved from Phase II — W3.2 methodological pre-work)<br>9.6 Vogelmann (M36–37)<br>Zwischenstück finishes (≤M36) |
+| Comparison Exercise + preemption pass | M37–38 · Jun–Jul 2029 | Comparison essay (~3,000w) = proof-of-positioning gate<br>📋 QM6<br>Layer C preemption pass (7.19 + 8.10, *Einleitung*+*Schluss*, before lock-in) |
+| W3.2 first draft | M38–41 · Jul–Oct 2029 | 📋 Topic lock-in (M38)<br>CFP submission (M39)<br>✍ Writing Block W1 (M40)<br>14.9 von Redecker (M38–39) |
+| Informal presentation + frontier reading + W3.3 | M41–43 · Oct–Dec 2029 | 📋 QM7<br>Layer C firing reads<br>Mills + Boltanski-Chiapello<br>W3.3 critical review (~1,500w, convertible to 2nd book review) |
+| Revision + formal presentation | M43–46 · Dec 2029–Mar 2030 | Substantive revision (≥1 of 5 sections rewritten)<br>Tagung/workshop |
+| Final revision + submission | M46–48 · Mar–Jun 2030 | ✍ Writing Block W2 (M47)<br>📋 submission + suggested reviewers + 1–2 substantive contact emails<br>three-generation "Pathologien" re-read |
 
 ## Phase III reading-side Inventory (bucket structure)
 
@@ -1736,6 +1736,7 @@ Five conditional MUST-Anchor promotions, topic-commitment-driven (distinct from 
 - **W1 (immanent critique as method):** Stahl Teil II–III method read (~3–4h if ch. 5 was read in Module 8, else ~6–8h) + Celikates 2006 (~5h) → **method note** (~1,000w): what immanent critique commits its practitioner to.
 - **W2 (exemplary diagnostics):** *RdF* "Der Markt" Full dissection (~8h) · *Beschleunigung* Part III (~6h) · Jaeggi & Fraser chs. 1–3 re-read (~10h).
 - **W3.1 (reconstructive essay, ~2,000w, ~10h):** one Honneth or Jaeggi diagnostic chapter — phenomenon / implicit norms / deviation / empirical presuppositions.
+- **Stilübung #2** (register imitation, ~0.75h; reading_practices Part II) — alongside W3.1: second and final scheduled instance, re-tuning the register before drafting.
 - **Module 10 pre-work** (P3.Inv.0) and **9.6 Vogelmann** (P3.Inv.11) run alongside; **Zwischenstück** finishes by ~M36 and is submitted (*Soziopolis* / *Geschichte der Gegenwart* / *WestEnd* Diskussion).
 - **Scholar email #1 (M35–37, ~3h, community):** substantive question to one younger-generation scholar per programme_parameters §2.4.
 

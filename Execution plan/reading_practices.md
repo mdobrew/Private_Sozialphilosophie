@@ -443,6 +443,16 @@ Beginning in Phase II (after Honneth, ~M25), at roughly 6–8 week intervals, wr
 
 ---
 
+## Stilübung: register imitation (twice in the programme, ~45 min each)
+
+A small standalone exercise, not a lettered practice. The Skizze and the Phase III writing exercises demand a *Frankfurt-voiced* register (see Practice J's "What a Skizze is"), but nothing in the regime trains that voice — it is asserted, then expected. The Stilübung closes the gap at minimal cost.
+
+**Procedure (~45 min).** Take a ~300-word passage from Jaeggi or Honneth (German or English, per the Part I language default under Practice G). Write one paragraph in the same register on your own material — the claim you are about to defend, an Anwendung phenomenon. Then diff the two side by side: sentence rhythm; hedging pattern (what is asserted flat, what arrives qualified); how claims are staged (where the thesis lands, how objections are anticipated before they are answered); and what the author *never* does (bullet lists, signposted roadmaps, premise–conclusion numbering, decision-theoretic idiom). The diff, not the imitation paragraph, is the output that teaches — file it with the Skizze/W3.1 materials.
+
+**Scheduled twice, and only twice:** once at ~M21–22, immediately before Skizze #1 (imitating the register you are about to write in), and once in the Craft Block (M35–37) alongside writing exercise W3.1. Not tapered, not repeated beyond these two instances — unless Skizze feedback flags voice as a weakness, in which case repeat once before the next Skizze.
+
+---
+
 ## The Zwischenstück: cross-disciplinary short essay (~M29–M34) **[added 2026-07-13 (practices audit)]**
 
 The *Zwischenstück* (intermediate piece) is the **mandatory rung between the Skizze and the publishable piece**: one essay of 2,000–3,000 words with a single argumentative arc, built from 2–3 prior Skizzen, written at ~M29–M34 for a *Soziopolis*/*WestEnd*-type venue. It is the bridge document's cross-disciplinary short essay — venue options, timing, submission logistics, and community-track function live in **bridge §2.4** (cite, don't restate) — promoted here into the practice ladder. What changes is its status: it is part of the production pipeline, not optional community garnish, and it may not be dropped as such.
