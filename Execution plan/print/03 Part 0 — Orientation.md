@@ -8,21 +8,21 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W1 | 📚 0.1 *Einführung* Foreword + Kap. 1 | ~40 | ~2.5 | — |
+| W1 · 15 Jun | 📚 0.1 *Einführung* Foreword + Kap. 1 | ~40 | ~2.5 | — |
 | | ✍ Reading Log started (Track 1 + Track 2) | — | — | ~0.25 |
-| W2 | 📚 0.1 *Einführung* Kap. 2–3 | ~70 | ~4 | — |
-| W3 | 📚 0.1 *Einführung* Kap. 4–5 | ~70 | ~4 | — |
+| W2 · 22 Jun | 📚 0.1 *Einführung* Kap. 2–3 | ~70 | ~4 | — |
+| W3 · 29 Jun | 📚 0.1 *Einführung* Kap. 4–5 | ~70 | ~4 | — |
 | | 📚 0.2 Honneth "Pathologien" first read | ~25 | ~1.5 | — |
-| W4 | 📚 0.1 *Einführung* Kap. 6–7 (finish) | ~70 | ~4 | — |
+| W4 · 6 Jul | 📚 0.1 *Einführung* Kap. 6–7 (finish) | ~70 | ~4 | — |
 | | 📚 0.2 *Pathologien* re-read critically | ~25 | ~1 | — |
-| W5 | 📚 0.3 Jaeggi, "What (if Anything) Is Wrong with Capitalism?" | ~25 | ~1.5 | — |
+| W5 · 13 Jul | 📚 0.3 Jaeggi, "What (if Anything) Is Wrong with Capitalism?" | ~25 | ~1.5 | — |
 | | 📝 Full Recon *Pathologien* 0.2 + C1 set | — | — | ~1.5 |
-| W6 | 📚 0.4 Jay chs. 1–2 | ~100 | ~5 | — |
+| W6 · 20 Jul | 📚 0.4 Jay chs. 1–2 | ~100 | ~5 | — |
 | | ✍ Light note 0.3 | — | — | ~0.5 |
-| W7 | 📚 0.4 Jay ch. 3 (+ [O] reading-log line) | ~50 | ~2.5 | ~0.25 |
+| W7 · 27 Jul | 📚 0.4 Jay ch. 3 (+ [O] reading-log line) | ~50 | ~2.5 | ~0.25 |
 | | ✍ Re-read W5 Recon + W6 note | — | — | ~1 |
 | | ✍ Pre-retreat sketch (1 page) | — | — | ~3 |
-| W8 | ⛰ R1 retreat (2–3 leave days, ~16–20h — leave pool, outside the weekly columns) | — | — | — |
+| W8 · 3 Aug | ⛰ R1 retreat (2–3 leave days, ~16–20h — leave pool, outside the weekly columns) | — | — | — |
 | | **Week sums** | | **~26** | **~6.5** |
 
 *Sums: Read ~26h + Practice ~6.5h = ~32.5h — Inventory ~28h (texts incl. writing-α) + ~4.5h module practice items (C1 · consolidation/sketch).*

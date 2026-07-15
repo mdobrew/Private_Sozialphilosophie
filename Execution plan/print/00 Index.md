@@ -19,12 +19,12 @@ These are the per-module print exports of the Sozialphilosophie execution plan (
 | `11 Motivational Checkpoint + Phase I close.md` | Motivational Checkpoint (M14, W59–W61) incl. Journal Test, Field Report, external-calibration letter; buffer W62; ⛰ R3 retreat (W63–64); transition W65; Phase I summary. |
 | `12 Phase II — Systematic Core + Community Entry.md` | Phase II header (M16–M34), "Phase II at a glance" table, Skizze cycle definition and cadence. |
 | `13 Module 6 — Habermas TKH.md` | Module 6 (M16–M19): month-level schedule, inventory, capability targets. |
-| `14 Module 7 — Honneth + Forst + Fraser.md` | Module 7 (M20–M25). |
+| `14 Module 7 — Honneth + Forst + Fraser.md` | Module 7 (M20–M25), incl. the M22 Stilübung. |
 | `15 Module 8 — Jaeggi + Allen + Rosa.md` | Module 8 (M25–M30). |
 | `16 Streeck block.md` | Streeck block — Polanyi → Legitimationsprobleme → Streeck (M29–M33). |
 | `17 Module 9 — Social Epistemology.md` | Module 9 (M30–M32). |
 | `18 Module 8A — Außereuropäische Kritik.md` | Module 8A bridge (M32–M34) + 7.18 partial. |
-| `19 Phase III — Production, Presentation, Submission.md` | Phase III (M35–M48): Layer C decision, at-a-glance, reading-side inventory, and all month sections R5 → submission. |
+| `19 Phase III — Production, Presentation, Submission.md` | Phase III (M35–M48): Layer C decision, at-a-glance, reading-side inventory, and all month sections R5 → submission (incl. the Craft-Block Stilübung). |
 | `20 Capacity envelope report.md` | Capacity envelope report (M48 baseline): accounting convention, productive-weeks reconciliation, cut-cascade hours. |
 | `21 Reference — Buffer, Conditional, Phase IV register.md` | Reference: buffer/bookkeeping; conditional / Phase IV register; Phase IV connection register (by track, by week/month). |
 | `22 Appendix A — falling-behind.md` | Appendix A falling-behind protocols, incl. A.1 cut-list cascade and A.2 Phase III slip protocol. |

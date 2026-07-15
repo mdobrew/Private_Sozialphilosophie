@@ -8,16 +8,16 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W45 | 📚 4A.1 Dewey chs. 1–3 | ~100 | ~5 | — |
+| W45 · 19 Apr | 📚 4A.1 Dewey chs. 1–3 | ~100 | ~5 | — |
 | | ✍ per-chapter Lights | — | — | ~0.6 |
-| W46 | 📚 4A.1 chs. 4–5 | ~80 | ~3.5 | — |
+| W46 · 26 Apr | 📚 4A.1 chs. 4–5 | ~80 | ~3.5 | — |
 | | 📚 4A.2 Joas ch. 3 begins | ~50 | ~5.5 | — |
 | | ✍ Dewey Lights complete (5 of 5) | — | — | ~0.4 |
-| W47 | 📚 4A.2 chs. 4–5 | ~100 | ~9.5 | — |
+| W47 · 3 May | 📚 4A.2 chs. 4–5 | ~100 | ~9.5 | — |
 | | ✍ Joas Lights (3 of 3) | — | — | ~2 |
-| W48 | 📚 4A.3 Mead, Part III "The Self" | ~100 | ~4.5 | — |
+| W48 · 10 May | 📚 4A.3 Mead, Part III "The Self" | ~100 | ~4.5 | — |
 | | 📝 Full Recon Mead + C1 set | — | — | ~2 |
-| W49 | 📚 Re-read Joas ch. 5 | — | ~2 | — |
+| W49 · 17 May | 📚 Re-read Joas ch. 5 | — | ~2 | — |
 | | 🎯 Module 4A close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~30** | **~10.6** |
 

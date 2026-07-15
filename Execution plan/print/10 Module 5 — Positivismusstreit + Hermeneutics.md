@@ -8,24 +8,24 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W50 | 📚 5.1 McCarthy chs. 1–2 | ~80 | ~4 | — |
+| W50 · 24 May | 📚 5.1 McCarthy chs. 1–2 | ~80 | ~4 | — |
 | | ✍ per-chapter Lights begin | — | — | ~0.35 |
-| W51 | 📚 5.1 ch. 3 | ~30 | ~1.5 | — |
+| W51 · 31 May | 📚 5.1 ch. 3 | ~30 | ~1.5 | — |
 | | 📚 5.4 Gadamer, *W&M* Part II.1 begins | ~60 | ~8 | — |
 | | ✍ 5.1 ch. 3 Light + Gadamer log line | — | — | ~0.4 |
-| W52 | 📚 5.4 Part II.2 | ~60 | ~8.25 | — |
+| W52 · 7 Jun | 📚 5.4 Part II.2 | ~60 | ~8.25 | — |
 | | ✍ Gadamer log line ([O] output) | — | — | ~0.25 |
-| W53 | 📚 5.5 "Universalitätsanspruch der Hermeneutik" | ~60 | ~7.5 | — |
+| W53 · 14 Jun | 📚 5.5 "Universalitätsanspruch der Hermeneutik" | ~60 | ~7.5 | — |
 | | ✍ 5.5 Light | — | — | ~0.75 |
-| W54 | 📚 5.2 *EuI* ch. 1 | ~70 | ~8.75 | — |
-| W55 | 📚 5.2 ch. 2 | ~60 | ~7.5 | — |
+| W54 · 21 Jun | 📚 5.2 *EuI* ch. 1 | ~70 | ~8.75 | — |
+| W55 · 28 Jun | 📚 5.2 ch. 2 | ~60 | ~7.5 | — |
 | | 📝 Full Recon ch. 1 | — | — | ~2 |
-| W56 | 📚 5.2 ch. 3 + Nachwort begins | ~70 | ~7 | — |
+| W56 · 5 Jul | 📚 5.2 ch. 3 + Nachwort begins | ~70 | ~7 | — |
 | | 📝 Full Recons chs. 2–3 | — | — | ~4 |
-| W57 | 📚 5.2 Nachwort finish; 📚 5.3 begins | ~30 | ~4.75 | — |
+| W57 · 12 Jul | 📚 5.2 Nachwort finish; 📚 5.3 begins | ~30 | ~4.75 | — |
 | | 📝 Full Recon Nachwort + C1 set | — | — | ~2.5 |
 | | 🔧 Anwendung #4 [BONUS — opt-in; not in baseline] | — | — | (~4) |
-| W58 | 📚 5.3 finish + McCarthy ch. 3 consolidation re-read | ~30 | ~6 | — |
+| W58 · 19 Jul | 📚 5.3 finish + McCarthy ch. 3 consolidation re-read | ~30 | ~6 | — |
 | | ✍ 5.3 Lights ×2 | — | — | ~1.5 |
 | | 🎯 Module 5 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~63.25** | **~17.35 (+4 opt-in)** |

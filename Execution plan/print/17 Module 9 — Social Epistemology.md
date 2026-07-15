@@ -8,9 +8,9 @@
 
 | Month | Assignments |
 |---|---|
-| M30 | 📚 9.1 Mannheim, *Ideologie und Utopie* Part I + Light note (the *Seinsverbundenheit* problem — Celikates answers it)<br>📚 9.2 Fricker begins (Full Recons in progress). |
-| M31 | 📚 9.2 finish<br>📝 9.2 chapter Fulls (7)<br>📚 9.3 Celikates begins<br>📚 9.4 Jaeggi "Was ist Ideologiekritik?" + 9.5 Shelby — read together (framework + test case; both revise 2.2) + Light notes<br>✍ **Skizze #4** (ideology critique or lay normativity, drawing on Celikates)<br>📋 **book review** drafting in this stretch (canonical window ~M28–M30 per §2.4: a recent Stahl/Celikates/Vogelmann/Jaeggi monograph → *DZfPh*, *WestEnd*, or *Mittelweg 36*; ~20–25h incl. the read; 3–4 month editorial lead time). |
-| M32 | 📚 9.3 finish<br>📝 9.3 Fulls (7)<br>📚 9.8 Hartsock + Light note<br>📚 9.10 Collins selection + 3 Light notes (bridge to 8A)<br>🎯 **Module 9 close** per §D.2 + 📋 **QM5** (Jan 2029 GovC vulnerability — pre-check calendar)<br>📋 interlocutor-map refresh (~2–3h)<br>**Phase II review** (~4–6h): re-read 0.1, the W5 Honneth Recon, the R3 synthesis; document the shift. |
+| M30 · Nov 2028 | 📚 9.1 Mannheim, *Ideologie und Utopie* Part I + Light note (the *Seinsverbundenheit* problem — Celikates answers it)<br>📚 9.2 Fricker begins (Full Recons in progress). |
+| M31 · Dec 2028 | 📚 9.2 finish<br>📝 9.2 chapter Fulls (7)<br>📚 9.3 Celikates begins<br>📚 9.4 Jaeggi "Was ist Ideologiekritik?" + 9.5 Shelby — read together (framework + test case; both revise 2.2) + Light notes<br>✍ **Skizze #4** (ideology critique or lay normativity, drawing on Celikates)<br>📋 **book review** drafting in this stretch (canonical window ~M28–M30 per §2.4: a recent Stahl/Celikates/Vogelmann/Jaeggi monograph → *DZfPh*, *WestEnd*, or *Mittelweg 36*; ~20–25h incl. the read; 3–4 month editorial lead time). |
+| M32 · Jan 2029 | 📚 9.3 finish<br>📝 9.3 Fulls (7)<br>📚 9.8 Hartsock + Light note<br>📚 9.10 Collins selection + 3 Light notes (bridge to 8A)<br>🎯 **Module 9 close** per §D.2 + 📋 **QM5** (Jan 2029 GovC vulnerability — pre-check calendar)<br>📋 interlocutor-map refresh (~2–3h)<br>**Phase II review** (~4–6h): re-read 0.1, the W5 Honneth Recon, the R3 synthesis; document the shift. |
 
 ### Inventory
 

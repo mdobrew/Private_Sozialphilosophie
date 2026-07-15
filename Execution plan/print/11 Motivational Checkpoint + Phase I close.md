@@ -8,16 +8,16 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W59 | 📚 Light buffer: Module 5 carryover + re-reads | — | ~4 | — |
+| W59 · 26 Jul | 📚 Light buffer: Module 5 carryover + re-reads | — | ~4 | — |
 | | ✍ QM1/QM2 comparison prep | — | — | ~0.5 |
-| W60 | 📋 Journal Test (2–3 recent articles + 1–2pp report) | — | — | ~9 |
-| W61 | 📋 Field Report (1,500–2,000w) | — | — | ~9 |
+| W60 · 2 Aug | 📋 Journal Test (2–3 recent articles + 1–2pp report) | — | — | ~9 |
+| W61 · 9 Aug | 📋 Field Report (1,500–2,000w) | — | — | ~9 |
 | | 📋 External-calibration letter | — | — | ~3 |
-| W62 | 📚 Buffer: 6.2 skim + R2-synthesis re-read | — | ~2 | — |
+| W62 · 16 Aug | 📚 Buffer: 6.2 skim + R2-synthesis re-read | — | ~2 | — |
 | | ✍ "running questions for Habermas" list | — | — | ~1 |
-| W63 | ⛰ R3, part 1 (~16–20h across the fortnight — leave pool) | — | — | — |
-| W64 | ⛰ R3, part 2 (leave pool) | — | — | — |
-| W65 | 📚 Light transition | — | ~2 | — |
+| W63 · 23 Aug | ⛰ R3, part 1 (~16–20h across the fortnight — leave pool) | — | — | — |
+| W64 · 30 Aug | ⛰ R3, part 2 (leave pool) | — | — | — |
+| W65 · 6 Sep | 📚 Light transition | — | ~2 | — |
 | | ✍ Phase II calendar setup | — | — | ~1 |
 | | **Week sums** | | **~8** | **~23.5** |
 

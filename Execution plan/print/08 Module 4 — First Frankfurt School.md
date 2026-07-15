@@ -8,25 +8,25 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W37 | 📚 4.1 Horkheimer, "Traditionelle und kritische Theorie" (two reads) | ~40 | ~6 | — |
+| W37 · 22 Feb | 📚 4.1 Horkheimer, "Traditionelle und kritische Theorie" (two reads) | ~40 | ~6 | — |
 | | 📚 4.13 Freud, *Das Unbehagen in der Kultur* begins | ~40 | ~3 | — |
 | | 📝 Horkheimer Full begins | — | — | ~1 |
-| W38 | 📚 4.1 final pass + 4.13 finish | ~40 | ~5.25 | — |
+| W38 · 1 Mar | 📚 4.1 final pass + 4.13 finish | ~40 | ~5.25 | — |
 | | 📚 4.2 *DdA* "Begriff der Aufklärung" | ~40 | ~6 | — |
 | | 📝 Horkheimer Full filed + C1 set; ✍ 4.13 Light | — | — | ~2.25 |
-| W39 | 📚 4.2 Odysseus Exkurs (one 2h sitting) | ~40 | ~10 | — |
+| W39 · 8 Mar | 📚 4.2 Odysseus Exkurs (one 2h sitting) | ~40 | ~10 | — |
 | | 📚 4.3 Pollock, "State Capitalism" | ~20 | ~1.5 | — |
 | | ✍ DdA Lights ×2 + Pollock Light | — | — | ~2 |
-| W40 | 📚 4.5 *Minima Moralia* selection | ~50 | ~12 | — |
+| W40 · 15 Mar | 📚 4.5 *Minima Moralia* selection | ~50 | ~12 | — |
 | | ✍ MM Light note; ⚠ ND decision logged | — | — | ~1.25 |
-| W41 | 📚 4.7 Freyenhagen chs. 1–2 | ~80 | ~4 | — |
+| W41 · 22 Mar | 📚 4.7 Freyenhagen chs. 1–2 | ~80 | ~4 | — |
 | | ✍ per-chapter Lights | — | — | ~0.4 |
-| W42 | 📚 4.7 chs. 3–4 + 4.10 Benjamin Theses begin | ~95 | ~5.5 | — |
+| W42 · 29 Mar | 📚 4.7 chs. 3–4 + 4.10 Benjamin Theses begin | ~95 | ~5.5 | — |
 | | ✍ per-chapter Lights | — | — | ~0.4 |
-| W43 | 📚 4.10 re-read + 4.7 ch. 5 + 4.11 "Kunstwerk" begins | ~70 | ~5.75 | — |
+| W43 · 5 Apr | 📚 4.10 re-read + 4.7 ch. 5 + 4.11 "Kunstwerk" begins | ~70 | ~5.75 | — |
 | | ✍ Theses Light + Freyenhagen ch. 5 Light | — | — | ~0.95 |
 | | 🔧 Anwendung #3 | — | — | ~4 |
-| W44 | 📚 4.11 finish | ~25 | ~6.25 | — |
+| W44 · 12 Apr | 📚 4.11 finish | ~25 | ~6.25 | — |
 | | ✍ Kunstwerk Light | — | — | ~0.75 |
 | | 🎯 Module 4 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~65.25** | **~18.6** |

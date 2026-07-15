@@ -10,13 +10,13 @@ Five conditional MUST-Anchor promotions, topic-commitment-driven (distinct from 
 
 | Block | Months | Key items |
 |---|---|---|
-| ⛰ R5 | M35 | 3 candidate topics (from W61 Field Report + *Markt*/Jütten/Herzog/Streeck + Skizzen)<br>**Layer C 3-of-5 decision**<br>6.5 re-promote check (importance_tiers §8.3) |
-| Craft Block W1–W2 + W3.1 + Module 10 pre-work | M35–37 | Method note (~1,000w)<br>W3.1 reconstructive essay (~2,000w)<br>10.3 Taylor Full + 10.2 Woodward + 10.1 Hollis (moved from Phase II — W3.2 methodological pre-work)<br>9.6 Vogelmann (M36–37)<br>Zwischenstück finishes (≤M36) |
-| Comparison Exercise + preemption pass | M37–38 | Comparison essay (~3,000w) = proof-of-positioning gate<br>📋 QM6<br>Layer C preemption pass (7.19 + 8.10, *Einleitung*+*Schluss*, before lock-in) |
-| W3.2 first draft | M38–41 | 📋 Topic lock-in (M38)<br>CFP submission (M39)<br>✍ Writing Block W1 (M40)<br>14.9 von Redecker (M38–39) |
-| Informal presentation + frontier reading + W3.3 | M41–43 | 📋 QM7<br>Layer C firing reads<br>Mills + Boltanski-Chiapello<br>W3.3 critical review (~1,500w, convertible to 2nd book review) |
-| Revision + formal presentation | M43–46 | Substantive revision (≥1 of 5 sections rewritten)<br>Tagung/workshop |
-| Final revision + submission | M46–48 | ✍ Writing Block W2 (M47)<br>📋 submission + suggested reviewers + 1–2 substantive contact emails<br>three-generation "Pathologien" re-read |
+| ⛰ R5 | M35 · Apr 2029 | 3 candidate topics (from W61 Field Report + *Markt*/Jütten/Herzog/Streeck + Skizzen)<br>**Layer C 3-of-5 decision**<br>6.5 re-promote check (importance_tiers §8.3) |
+| Craft Block W1–W2 + W3.1 + Module 10 pre-work | M35–37 · Apr–Jun 2029 | Method note (~1,000w)<br>W3.1 reconstructive essay (~2,000w)<br>10.3 Taylor Full + 10.2 Woodward + 10.1 Hollis (moved from Phase II — W3.2 methodological pre-work)<br>9.6 Vogelmann (M36–37)<br>Zwischenstück finishes (≤M36) |
+| Comparison Exercise + preemption pass | M37–38 · Jun–Jul 2029 | Comparison essay (~3,000w) = proof-of-positioning gate<br>📋 QM6<br>Layer C preemption pass (7.19 + 8.10, *Einleitung*+*Schluss*, before lock-in) |
+| W3.2 first draft | M38–41 · Jul–Oct 2029 | 📋 Topic lock-in (M38)<br>CFP submission (M39)<br>✍ Writing Block W1 (M40)<br>14.9 von Redecker (M38–39) |
+| Informal presentation + frontier reading + W3.3 | M41–43 · Oct–Dec 2029 | 📋 QM7<br>Layer C firing reads<br>Mills + Boltanski-Chiapello<br>W3.3 critical review (~1,500w, convertible to 2nd book review) |
+| Revision + formal presentation | M43–46 · Dec 2029–Mar 2030 | Substantive revision (≥1 of 5 sections rewritten)<br>Tagung/workshop |
+| Final revision + submission | M46–48 · Mar–Jun 2030 | ✍ Writing Block W2 (M47)<br>📋 submission + suggested reviewers + 1–2 substantive contact emails<br>three-generation "Pathologien" re-read |
 
 ## Phase III reading-side Inventory (bucket structure)
 
@@ -46,6 +46,7 @@ Five conditional MUST-Anchor promotions, topic-commitment-driven (distinct from 
 - **W1 (immanent critique as method):** Stahl Teil II–III method read (~3–4h if ch. 5 was read in Module 8, else ~6–8h) + Celikates 2006 (~5h) → **method note** (~1,000w): what immanent critique commits its practitioner to.
 - **W2 (exemplary diagnostics):** *RdF* "Der Markt" Full dissection (~8h) · *Beschleunigung* Part III (~6h) · Jaeggi & Fraser chs. 1–3 re-read (~10h).
 - **W3.1 (reconstructive essay, ~2,000w, ~10h):** one Honneth or Jaeggi diagnostic chapter — phenomenon / implicit norms / deviation / empirical presuppositions.
+- **Stilübung #2** (register imitation, ~0.75h; reading_practices Part II) — alongside W3.1: second and final scheduled instance, re-tuning the register before drafting.
 - **Module 10 pre-work** (P3.Inv.0) and **9.6 Vogelmann** (P3.Inv.11) run alongside; **Zwischenstück** finishes by ~M36 and is submitted (*Soziopolis* / *Geschichte der Gegenwart* / *WestEnd* Diskussion).
 - **Scholar email #1 (M35–37, ~3h, community):** substantive question to one younger-generation scholar per programme_parameters §2.4.
 

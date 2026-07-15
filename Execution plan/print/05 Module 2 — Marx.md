@@ -8,31 +8,31 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W18 | 📚 2.1 ÖpM "Entfremdete Arbeit" first read | ~40 | ~4.5 | — |
+| W18 · 12 Oct | 📚 2.1 ÖpM "Entfremdete Arbeit" first read | ~40 | ~4.5 | — |
 | | 📚 1.7 Khurana *Einleitung* (Module 1 item; + [O] log line) | ~20 | ~2.5 | ~0.25 |
 | | ✍ Neuhouser Recon re-read | — | — | ~1 |
-| W19 | 📚 2.1 re-read (GovC prep — reading only) | ~40 | ~3.5 | — |
+| W19 · 19 Oct | 📚 2.1 re-read (GovC prep — reading only) | ~40 | ~3.5 | — |
 | | 📚 2.2 *Deutsche Ideologie* Feuerbach selections begin | ~25 | ~4 | — |
-| W20 | 📚 2.2 finish + "Thesen über Feuerbach" (GovC week) | ~20 | ~5 | — |
+| W20 · 26 Oct | 📚 2.2 finish + "Thesen über Feuerbach" (GovC week) | ~20 | ~5 | — |
 | | 📚 2.3a *Kapital* I ch. 1 §1 begins | ~10 | ~0.5 | — |
 | | ✍ 2.2 Lights ×2 | — | — | ~1.5 |
-| W21 | 📚 2.3a §§2–3 | ~30 | ~3.5 | — |
+| W21 · 2 Nov | 📚 2.3a §§2–3 | ~30 | ~3.5 | — |
 | | 📝 ÖpM Full Recon (rerouted) + C1 set | — | — | ~2.5 |
 | | 📝 2.3a §1 Full | — | — | ~2 |
-| W22 | 📚 2.3a §4 fetishism (re-read 2–3×, one 2h sitting) | ~20 | ~4 | — |
+| W22 · 9 Nov | 📚 2.3a §4 fetishism (re-read 2–3×, one 2h sitting) | ~20 | ~4 | — |
 | | 📚 2.3b ch. 2 begins | ~20 | ~2 | — |
 | | 📝 2.3a §§2–3 Fulls | — | — | ~4 |
-| W23 | 📚 2.3b chs. 2–3 continue (exchange, money) | ~40 | ~8 | — |
+| W23 · 16 Nov | 📚 2.3b chs. 2–3 continue (exchange, money) | ~40 | ~8 | — |
 | | 📝 2.3a §4 Full + C1 set | — | — | ~2.5 |
 | | ✍ 2.3b Lights chs. 2 + 3 | — | — | ~1.5 |
-| W24 | 📚 2.3b ch. 3 wrap + ch. 10 (*Der Arbeitstag*) | ~60 | ~10 | — |
+| W24 · 23 Nov | 📚 2.3b ch. 3 wrap + ch. 10 (*Der Arbeitstag*) | ~60 | ~10 | — |
 | | 📚 2.4 Heinrich Kap. 1–2 begins | ~50 | ~2.75 | — |
 | | ✍ 2.3b ch. 10 Light + Heinrich Kap. 1–2 Lights | — | — | ~1.15 |
-| W25 | 📚 2.3b ch. 10 finish | ~20 | ~4 | — |
+| W25 · 30 Nov | 📚 2.3b ch. 10 finish | ~20 | ~4 | — |
 | | 📚 2.4 Heinrich Kap. 3–5 | ~90 | ~5 | — |
 | | ✍ Heinrich Lights (5 of 5) | — | — | ~0.55 |
 | | 🔧 Anwendung #1 | — | — | ~4 |
-| W26 | 🎯 Module 2 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
+| W26 · 7 Dec | 🎯 Module 2 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | ✍ ÖpM-Recon re-read vs. Heinrich + QM1-article re-read | — | — | ~2.5 |
 | | **Week sums** | | **~59.25** | **~29** |
 

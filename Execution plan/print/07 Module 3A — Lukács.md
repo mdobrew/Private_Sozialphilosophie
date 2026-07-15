@@ -8,17 +8,17 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W31 | 📚 3A.2 Feenberg chs. 3–4 (read first) | ~70 | ~3.5 | — |
+| W31 · 11 Jan | 📚 3A.2 Feenberg chs. 3–4 (read first) | ~70 | ~3.5 | — |
 | | 📚 3A.1 Lukács Section I begins | ~35 | ~3.5 | — |
 | | ✍ Feenberg Lights ×2 | — | — | ~0.4 |
-| W32 | 📚 3A.1 Section I finish | ~35 | ~3.5 | — |
+| W32 · 18 Jan | 📚 3A.1 Section I finish | ~35 | ~3.5 | — |
 | | 📝 Full Recon Section I | — | — | ~2 |
 | | 📋 QM2; ⚖ second calibration checkpoint | — | — | ~3 |
-| W33 | 📚 3A.1 Section II | ~35 | ~6.5 | — |
+| W33 · 25 Jan | 📚 3A.1 Section II | ~35 | ~6.5 | — |
 | | 📚 3A.2 Feenberg ch. 5 | ~30 | ~1.5 | — |
 | | 📝 Full Recon Section II; ✍ Feenberg ch. 5 Light | — | — | ~2.2 |
 | | 🔧 Anwendung #2 | — | — | ~4 |
-| W34 | 📚 3A.1 Section III | ~30 | ~6.5 | — |
+| W34 · 1 Feb | 📚 3A.1 Section III | ~30 | ~6.5 | — |
 | | 📝 Full Recon Section III + C1 set | — | — | ~2.5 |
 | | 🎯 Module 3A close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~25** | **~19.7** |

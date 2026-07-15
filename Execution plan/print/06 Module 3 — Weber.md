@@ -8,13 +8,13 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W27 | 📚 3.1 "Wissenschaft als Beruf" (read twice) | ~30 | ~6 | — |
+| W27 · 14 Dec | 📚 3.1 "Wissenschaft als Beruf" (read twice) | ~30 | ~6 | — |
 | | ✍ 3.1 Light note | — | — | ~0.75 |
-| W28 | 📚 3.2 "Objektivität" first half (Christmas week) | ~30 | ~6 | — |
-| W29 | 📚 3.2 finish | ~30 | ~6 | — |
+| W28 · 21 Dec | 📚 3.2 "Objektivität" first half (Christmas week) | ~30 | ~6 | — |
+| W29 · 28 Dec | 📚 3.2 finish | ~30 | ~6 | — |
 | | 📚 3.3 *W&G* I.1 §§1–10 | ~40 | ~3.5 | — |
 | | ✍ 3.2 Light note | — | — | ~0.75 |
-| W30 | 📚 3.3 §§11–17 | ~40 | ~6.5 | — |
+| W30 · 4 Jan 27 | 📚 3.3 §§11–17 | ~40 | ~6.5 | — |
 | | ✍ W&G segment Lights ×2 | — | — | ~1.5 |
 | | 🎯 Module 3 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~28** | **~8.6** |

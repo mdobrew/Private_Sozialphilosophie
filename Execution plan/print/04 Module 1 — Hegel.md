@@ -8,25 +8,25 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W9 | 📚 1.1 Neuhouser Intro + chs. 1–2 | ~90 | ~4.5 | — |
+| W9 · 10 Aug | 📚 1.1 Neuhouser Intro + chs. 1–2 | ~90 | ~4.5 | — |
 | | 📝 per-chapter Fulls begin (running) | — | — | ~0.75 |
-| W10 | 📚 1.1 Neuhouser chs. 3–4 | ~80 | ~4 | — |
+| W10 · 17 Aug | 📚 1.1 Neuhouser chs. 3–4 | ~80 | ~4 | — |
 | | 📝 per-chapter Fulls continue | — | — | ~0.75 |
-| W11 | 📚 1.1 Neuhouser chs. 5–6 | ~60 | ~3 | — |
+| W11 · 24 Aug | 📚 1.1 Neuhouser chs. 5–6 | ~60 | ~3 | — |
 | | 📚 1.2 RP Preface + §§1–33 begins | ~40 | ~4 | — |
 | | 📝 per-chapter Fulls + thesis paragraph | — | — | ~1 |
-| W12 | 📚 1.1 Neuhouser chs. 7–8 | ~50 | ~2.5 | — |
+| W12 · 31 Aug | 📚 1.1 Neuhouser chs. 7–8 | ~50 | ~2.5 | — |
 | | 📚 1.2 Preface re-read + RP §§1–33 continue | ~40 | ~4 | — |
 | | 📝 per-chapter Fulls; ✍ RP segment-Lights ×2 | — | — | ~1.55 |
-| W13 | 📚 1.2 RP §§142–181 (*Familie*) + 1.1 wrap | ~50 | ~8 | — |
+| W13 · 7 Sep | 📚 1.2 RP §§142–181 (*Familie*) + 1.1 wrap | ~50 | ~8 | — |
 | | 📝 closing Neuhouser Full (draft); ✍ RP segment-Light; ⚖ calibration tally | — | — | ~1.65 |
-| W14 | 📚 1.2 RP §§182–208 (*System der Bedürfnisse*) | ~30 | ~4 | — |
+| W14 · 14 Sep | 📚 1.2 RP §§182–208 (*System der Bedürfnisse*) | ~30 | ~4 | — |
 | | 📝 Neuhouser Fulls completed + C1 set; ✍ RP segment-Light | — | — | ~1.65 |
-| W15 | 📚 1.2 RP §§209–256 (*Rechtspflege, Polizei, Korporation*) | ~50 | ~7 | — |
+| W15 · 21 Sep | 📚 1.2 RP §§209–256 (*Rechtspflege, Polizei, Korporation*) | ~50 | ~7 | — |
 | | ✍ RP segment-Light (5 of 5); QM1 article picks | — | — | ~0.65 |
-| W16 | 📚 1.3 *Phänomenologie* IV.A (incl. 2h re-read sitting) | ~30 | ~6 | — |
+| W16 · 28 Sep | 📚 1.3 *Phänomenologie* IV.A (incl. 2h re-read sitting) | ~30 | ~6 | — |
 | | 📝 Full Recon 1.3 + C1 set | — | — | ~2.5 |
-| W17 | 🎯 Module 1 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.5 |
+| W17 · 5 Oct | 🎯 Module 1 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.5 |
 | | 📋 QM1 | — | — | ~2.5 |
 | | **Week sums** | | **~47** | **~18.5** |
 
