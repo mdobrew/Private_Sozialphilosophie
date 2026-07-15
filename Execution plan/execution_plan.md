@@ -1,8 +1,8 @@
 # Sozialphilosophie Execution Plan — v3.0 (compiled 2026-07-14)
 
-**Compiled from four upstream documents:** [sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) (texts, selections, dependency fields), [reading_speed_classes.md](reading_speed_classes.md) (prose classes × language × n_chapters), [importance_tiers.md](importance_tiers.md) (importance classes and tier derivation; item IDs canonical), [programme_parameters.md](programme_parameters.md) (capacity, phase boundaries, retreats, falling-behind design, community track) — with [reading_practices.md](reading_practices.md) supplying the module-close artifact set and practice definitions. **This document supersedes the v2 plan** (archived at [archive/execution_plan_v2_final_2026-07-14.md](archive/execution_plan_v2_final_2026-07-14.md); note: the archived v2 uses pre-2026-07-14 item IDs — decoder table at the end of the changelog); **amended 2026-07-14 (detail revision):** restores v2's working-level weekly detail (Core / Practice / Bonus / Notes per week, calendar dates, session shapes, dependency lines, filed-by-Sunday definitions of done) on the v3 spine, implements the resolutions of the 2026-07-14 review, and reprices the seven 2026-07-13 additions by the Style × Tier formula. **Format revision (2026-07-14, same day, per user review):** Phase I presentation restored to the v2 block format — weekly `### Week` blocks (Core / Practice / Session shape / Notes / Filed by Sunday / Bonus), split-hour module schedule tables, checkbox capability targets, syllabus-convention callouts — content, numbers, and decisions unchanged. Revision history: [execution_plan_changelog.md](execution_plan_changelog.md).
+**v3.0 (2026-07-14).** Compiled from the syllabus, reading_speed_classes.md, importance_tiers.md, and programme_parameters.md; reading_practices.md supplies the practice apparatus. Supersedes the v2 plan (archived, pre-renumbering item IDs — decoder table in [execution_plan_changelog.md](execution_plan_changelog.md), which owns all revision history).
 
-**Compile rule (single ownership).** Parameters live upstream; this document *derives*. Where v2 restated bridge values, v3 cites ("per programme_parameters §X"). Every derived number appears exactly once: per-text hours in the module **Inventory** tables (Style × Tier formula, Appendix ref-A); module sums in the phase **at-a-glance** tables (sums of the Inventories); phase totals in the **Capacity envelope report**. Everything else references these. Week/month rows carry *assignments*, not a second hour tally.
+Hour numbers appear once each: per-text in the module Inventories; phase totals in the Capacity envelope report.
 
 **Scope.** Phase I (M1–M15): week-by-week. Phase II (M16–M34) and Phase III (M35–M48): month-level. Phase IV: connection register only. Submission target **M48 (~Jun 2030) baseline; M50 W13-trigger fallback; M52 sustained-overage stretch** — per programme_parameters §2.1.
 
@@ -11,8 +11,6 @@
 **Calendar anchor.** M1 W1 = week of 2026-06-15 (per programme_parameters §6 Class B). Weekly dates below are plain 7-day steps from that Monday.
 
 **How to read a Phase I week block.** Every week W1–W65 has one `### Week N (Mon YYYY-MM-DD) | <symbol> <title> (~Xh: YR + ZP)` block — X = total hours, Y = reading hours, Z = practice hours, consistent with the module's split-hour schedule table (±0.5h rounding). Bullets in fixed order: **Core** (each reading tagged tier · reading protocol per reading_practices — P1 systematic, P2 dense two-pass, P2a aphoristic, P3 short programmatic; ↳ line = the core text's syllabus *Builds on / Leads to* fields, compressed) · **Practice** (items due) · **Session shape** (suggested split per programme_parameters §3.1: default ≈5×1h + one 2h writing block; deviations flagged) · **Notes** (approach guidance; split into **Approach** / **Watch** where long) · **Filed by Sunday** (checkboxes — the definition of done; the practice-debt trigger counts unticked boxes over the last two weeks) · **Floor** (flagged pressure weeks only — GovC, module closes, documented peaks: the degraded-but-never-nothing version per the degradation ladder) · **Bonus** (opt-in only; skipping never creates a gap). Context callouts sit between weeks: `> [!tip] Economist's note` (syllabus convention), `> [!note] Phase IV connection`, `> [!warning]` for gates / GovC / peak load.
-
-**Decisions of the 2026-07-14 review are implemented inline.** The one-line resolution log is the final section *Decisions resolved (2026-07-14)*.
 
 ---
 
@@ -32,8 +30,8 @@ Phase hour totals and phase-local capacity balances live **only** in the [Capaci
 
 **Bonus / opt-in pools (not in baseline hours):**
 - **L0 (legacy bonus):** 1.5 Pippin, 2.5 Wood, 4.8 Wiggershaus, 4A.2 Joas chs. 1–2, 4.9 Marcuse preview, 4.6 *ND* trim (~10–15h). *Note: the Layer-0 headroom is accounted as spent — 2.2 *Die deutsche Ideologie* was absorbed from it (see Module 2).*
-- **L1 (low-interlocutor bonus, per programme_parameters §2.1):** 8.11 Allen-Mendieta (~13.5h), 7.11 J. Benjamin (~9h), 11A.4 Allen bridge (~1.5h), 9.9 Harding (~4h Orient), 7.20 Pilapil (~8–12h — moved to L1 by the 2026-07-13 syllabus audit).
-- **L2-pool (v3 pre-deferral, ratified 2026-07-14):** 7.13 Renault (~18h), 7.17 Bedorf (~14h), 9.7 Boltanski *On Critique* (~16h). See the Phase II header and Appendix A.1.
+- **L1 (low-interlocutor bonus, per programme_parameters §2.1):** 8.11 Allen-Mendieta (~13.5h), 7.11 J. Benjamin (~9h), 11A.4 Allen bridge (~1.5h), 9.9 Harding (~4h Orient), 7.20 Pilapil (~8–12h).
+- **L2-pool:** 7.13 Renault (~18h), 7.17 Bedorf (~14h), 9.7 Boltanski *On Critique* (~16h). See the Phase II header and Appendix A.1.
 - **L_H (deep-Hegel opt-in):** RP §§34–141 (~15–25h; natural home = Phase III RP re-read) and *Phänomenologie* ch. VI (~30–40h; lighter Phase II stretch or Phase IV). Full Appendix I programme (~725–940h) is a Phase IV option. Layer-divergence note: the syllabus lists §§34–141 as canonical Module 1 selection; the plan keeps it opt-in to protect Phase I hours.
 - **14.10 Aglietta (~10h Orient):** bonus baseline; promotes to Layer C conditional if the capitalism-as-form track commits.
 
@@ -64,9 +62,9 @@ Programme-week/month labels are invariant under start-date shift; calendar dates
 | ⚖ Calibration window | W9–W13 | Two-gate trigger evaluation (see below) |
 | W17 Module 1 close + QM1 | 2026-10-05 | 3 weeks before Oct 2026 GovC — high ECB load |
 | W19–W20 GovC reroute | 2026-10-19 / 10-26 | Reading-only weeks; ÖpM Full Recon deferred to W21 |
-| Module 2 close | W26 — 2026-12-07 | (was W25 in v2 — honest-hours re-spacing) |
-| ⚖ W32 second calibration checkpoint | 2027-01-18 | Dense-German re-measure on Lukács Section I (implements the 2026-07-13 audit fix; rides QM2) |
-| R2 retreat | W35–36 — 2027-02-08 / 02-15 | End Hegel/Marx/Weber/Lukács (was W33–34; propagated to programme_parameters §3.7, 2026-07-14) |
+| Module 2 close | W26 — 2026-12-07 | |
+| ⚖ W32 second calibration checkpoint | 2027-01-18 | Dense-German re-measure on Lukács Section I (rides QM2) |
+| R2 retreat | W35–36 — 2027-02-08 / 02-15 | End Hegel/Marx/Weber/Lukács |
 | ⚠ W40 *ND* early-read decision | 2027-03-15 | Module 4 |
 | Motivational Checkpoint | W59–61 — 2027-07-26 → 08-09 | Journal Test + Field Report + 📋 external-calibration letter (~3h) |
 | R3 retreat | W63–64 — Aug 2027 | End Phase I (unchanged anchor) |
@@ -105,13 +103,13 @@ Part 0 (W1–W8) is a deliberate ramp; pacing there is *not* diagnostic. The cal
 
 **Pre-committed response if the trigger fires at steady-state:** accept the timeline extension to **M50** (~Aug 2030 submission). Phase I slips ~8 weeks; R4 slips past the WS 2027/28 Anmeldefenster (Vorlesung defers to SS 2028); do **not** compress Phase III from the inside. If the trigger does not fire, proceed on M48 baseline.
 
-**⚖ W32 second calibration checkpoint (Dense-German re-measure).** The W9–W13 window contains no Dense German at volume. At **W32**, re-measure Dense-German pp/h on Lukács Section I (~70pp read W31–W32) against the same bands (bottom 4–5; midpoint 2.5–4). ~30 min of logging alongside QM2 — no new reading. If W32 contradicts W13 in either direction, **the W32 value governs**; if W32 lands at midpoint or slower under steady-state capacity, apply the Gate-2 response logic at the Module 3A → Module 4 boundary. Purpose: validate the Dense-German verdict before the Module 5 *EuI* block and the Phase II Dense load. *(This implements the 2026-07-13 audit's second-checkpoint fix; the week number is W32 in the v3 grid because Lukács now sits at W31–W34, per the Phase I re-spacing.)*
+**⚖ W32 second calibration checkpoint (Dense-German re-measure).** The W9–W13 window contains no Dense German at volume. At **W32**, re-measure Dense-German pp/h on Lukács Section I (~70pp read W31–W32) against the same bands (bottom 4–5; midpoint 2.5–4). ~30 min of logging alongside QM2 — no new reading. If W32 contradicts W13 in either direction, **the W32 value governs**; if W32 lands at midpoint or slower under steady-state capacity, apply the Gate-2 response logic at the Module 3A → Module 4 boundary. Purpose: validate the Dense-German verdict before the Module 5 *EuI* block and the Phase II Dense load.
 
 **R1 capacity check (W8).** If any 2 of the 4 most recent weeks fell below 4h *and* private commitments will persist past W12, extend the ramp 2 weeks and defer the calibration window to W15.
 
 ---
 
-# FRONT MATTER
+## How this plan is operated
 
 ## B. Comprehension infrastructure
 
@@ -121,7 +119,7 @@ Part 0 (W1–W8) is a deliberate ramp; pacing there is *not* diagnostic. The cal
 - **Module-close artifact set** — per reading_practices Part III ("Module-close practices — canonical definitions"): comprehension check (~2–3h) + adversarial module note (~1h; Translation + Objection + Positioning — absorbs the former Dialogue Moment, H1 note, and C2 question) + 🗺 Practice D debate map (~1.5–2h) + spaced-repetition prompts (~20 min). ≈ 5–6.5h; QM weeks +2–3h.
 - **Monthly vault walk** (30 min, standing): reread three old notes; exit = one synthesis note or one logged "no connection" line; doubles as vault hygiene. Per reading_practices Practice E. (M16–M35: the three notes are drawn from prior-phase Full reconstructions — see §D.2.)
 - **Practice debt / degradation floor** — per reading_practices Part III: a Full reconstruction that cannot get its writing time degrades to a Light note *in the same week as the read*; a Light note degrades to a log line; ≥2 tier-mandated notes missing at a weekly review = practice debt (protocol row in Appendix A). Operationally: **count unticked Filed-by-Sunday checkboxes over the last two weeks.**
-- **Module schedule tables (split-hour convention, 2026-07-14).** Each Phase I module schedule distributes the module's totals across weeks — it is a *distribution*, not a second tally; the Inventory remains the single owner of per-text totals. **Read h** = the Style × Tier formula's reading component (Inventory Hrs minus the α writing component). **Practice h** = the α writing component (Recon/note writing, Appendix ref-A) plus the individually priced items per reading_practices Appendix C: C1 sets (~0.5h per Full-tier text), module-close artifact set (~5.5–6h; QM weeks +~2.5h), Anwendungen (~4h), calibration tallies (~0.5h), and listed consolidation/sketch items. Module column sums re-derive the Inventory reading total (±1h rounding) and the priced practice load. The standing monthly vault walk (~0.5h/month) rides the weekly review and is not shown per-week. Session-shape lines describe wall-clock session structure (workflow-inclusive per §L.12 — what the calibration gates measure); the columns price formula hours.
+- **Module schedule tables (split-hour convention).** Each Phase I module schedule distributes the module's totals across weeks — it is a *distribution*, not a second tally; the Inventory remains the single owner of per-text totals. **Read h** = the Style × Tier formula's reading component (Inventory Hrs minus the α writing component). **Practice h** = the α writing component (Recon/note writing, Appendix ref-A) plus the individually priced items per reading_practices Appendix C: C1 sets (~0.5h per Full-tier text), module-close artifact set (~5.5–6h; QM weeks +~2.5h), Anwendungen (~4h), calibration tallies (~0.5h), and listed consolidation/sketch items. Module column sums re-derive the Inventory reading total (±1h rounding) and the priced practice load. The standing monthly vault walk (~0.5h/month) rides the weekly review and is not shown per-week. Session-shape lines describe wall-clock session structure (workflow-inclusive per §L.12 — what the calibration gates measure); the columns price formula hours.
 
 ### B.0 Reading Log
 
@@ -137,7 +135,7 @@ One running document (Obsidian, vault root), started W1. **Track 1 — marginali
 
 **Cuts applied at construction** (vs. maximalist syllabus): 4.9 Marcuse → Phase II context/bonus; 4.6 *Negative Dialektik* → Phase IV (early-read flag W40); 4.8 Wiggershaus → bonus; RP §§257–360 → Phase III conditional re-read (scheduled at P3.Inv.6); RP §§34–141 → L_H opt-in; 4A.2 Joas chs. 1–2 → bonus; 4.14 Nietzsche → optional early read (headroom only); 4.15 *Lebensphilosophie* thread → headroom only.
 
-**New in v3:** 2.2 *Die deutsche Ideologie* scheduled in Module 2 (Light; absorbed from Layer-0 bonus headroom — the L0 pool is thereby spent); 1.4 *Leiden an Unbestimmtheit* is **not** scheduled in Phase I (Module 7 pre-block instead — resolved 2026-07-14); the three v2 Full-bumps touching Phase I (5.1 McCarthy, 4A.1 Dewey) revert to Light per importance_tiers §8.2/§8.4.
+**New in v3:** 2.2 *Die deutsche Ideologie* scheduled in Module 2 (Light; absorbed from Layer-0 bonus headroom — the L0 pool is thereby spent); 1.4 *Leiden an Unbestimmtheit* is **not** scheduled in Phase I (Module 7 pre-block instead); the three v2 Full-bumps touching Phase I (5.1 McCarthy, 4A.1 Dewey) revert to Light per importance_tiers §8.2/§8.4.
 
 ## Phase I at a glance (module sums = sums of the Inventories below)
 
@@ -160,7 +158,7 @@ One running document (Obsidian, vault root), started W1. **Track 1 — marginali
 
 Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h; buffers/consolidation ~25h) and Anwendungen (~12–16h) are tallied in the Capacity envelope report — one home per number.
 
-**Phase I re-spacing (resolved 2026-07-14).** v2's week grid under-scheduled the formula-derived inventory hours (audit §8, item 5: Phase I tallies disagreed three ways). v3 re-spaces module boundaries so week rows and Inventories agree: Module 2 close W25→W26, Module 3 W27–30, Module 3A W31–34 (calibration re-measure W30→W32), **R2 W33–34→W35–36**, Module 4 W37–44, Module 4A W45–49, Module 5 W50–58, Checkpoint W55–57→W59–61. R3 (W63–64) and the W13 gate are unchanged. The R2 move is propagated to programme_parameters §3.7 (done 2026-07-14). Even re-spaced, the grid runs at ~8–8.5h/week nominal — see the Capacity envelope report for the productive-weeks reconciliation.
+**Phase I re-spacing.** v3 re-spaces module boundaries so week rows and Inventories agree: Module 2 close W25→W26, Module 3 W27–30, Module 3A W31–34 (calibration re-measure W30→W32), **R2 W33–34→W35–36**, Module 4 W37–44, Module 4A W45–49, Module 5 W50–58, Checkpoint W55–57→W59–61. R3 (W63–64) and the W13 gate are unchanged. Even re-spaced, the grid runs at ~8–8.5h/week nominal — see the Capacity envelope report for the productive-weeks reconciliation.
 
 ---
 
@@ -189,7 +187,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | W8 | ⛰ R1 retreat (2–3 leave days, ~16–20h — leave pool, outside the weekly columns) | — | — | — |
 | | **Week sums** | | **~26** | **~6.5** |
 
-*Consistency: Read ~26h + α/notes ~2h (0.2 write 1.0 · 0.3 note 0.5 · 0.1/0.4 log lines 0.5) = Inventory ~28h ✓; remaining practice = C1 (~0.5) + consolidation/sketch (~4).*
+*Sums: Read ~26h + Practice ~6.5h = ~32.5h — Inventory ~28h (texts incl. writing-α) + ~4.5h module practice items (C1 · consolidation/sketch).*
 
 ### Inventory
 
@@ -200,6 +198,12 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | 0.3 | Jaeggi, "What (if Anything) Is Wrong with Capitalism?" | EN | ~25 | ~2 | [P] → Light (MUST-Engage) | W5–6 |
 | 0.4 | Jay, *Dialectical Imagination*, chs. 1–3 | EN | ~150 | ~7.5 | [O] → Orientation (SHOULD) | W6–7 |
 | | **Part 0 sum** | | | **~28** | 1 Full + 1 Light | |
+
+### Capability targets — by end of Part 0 you should be able to (test at R1):
+
+- [ ] State Honneth's distinction between Sozialphilosophie, political philosophy, moral philosophy, and empirical sociology, and explain what work the concept of "social pathology" does that no neighbouring concept can.
+- [ ] State Jaeggi's three modes of critique (functional, moral, ethical) and identify which mode a given critical claim is operating in.
+- [ ] Locate the early Frankfurt School institutionally (Jay) and explain how its institutional structure related to its intellectual programme.
 
 ---
 
@@ -212,7 +216,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] 0.1 reading-log line
   - [ ] weekly hours + pp/h logged
-- **Bonus:** None.
 
 ### Week 2 (Mon 2026-06-22) | 📚 Ramp continues (~4h: 4R + 0P)
 - **Core:** 0.1 Kap. 2–3 (~70pp) — Orientation · P1.
@@ -221,7 +224,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Note which live debates recur in the Einführung's map — you pick two journal issues from exactly this terrain at R1, and QM1 tests you against it at W17.
 - **Filed by Sunday:**
   - [ ] log line + metrics
-- **Bonus:** None.
 
 ### Week 3 (Mon 2026-06-29) | 📚 Einführung mid + Honneth first read (~5.5h: 5.5R + 0P)
 - **Core:** 0.1 Kap. 4–5 (~70pp) — Orientation · P1. 0.2 Honneth, "Pathologien des Sozialen" first read (~25pp) — Full (Recon due W5) · P3.
@@ -240,7 +242,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Honneth's four-way contrast (Sozialphilosophie vs. political philosophy, moral philosophy, empirical sociology) is the orientational compass for all of Part I — memorise it.
 - **Filed by Sunday:**
   - [ ] log lines + metrics
-- **Bonus:** None.
 
 ### Week 5 (Mon 2026-07-13) | 📝 First steady-state — Honneth Full Recon + Jaeggi (~3h: 1.5R + 1.5P)
 - **Core:** 0.3 Jaeggi, "What (if Anything) Is Wrong with Capitalism?" (~25pp, EN or DE) — Light · P3.
@@ -251,7 +252,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] 0.2 Full Recon + C1 set
   - [ ] overhead hours logged (all-in)
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > Jaeggi's three modes (functional / moral / ethical) are the recurring lens — track which mode each Part I thinker operates in. "Functional" critique will feel closest to economic intuition and is the weakest of the three for this tradition.
@@ -276,7 +276,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] Jay log line
   - [ ] 1-page sketch in vault
-- **Bonus:** None — save energy for the retreat.
 
 > [!tip] Economist's note
 > Pollock's role in the Institute is one of the few places an economist worked alongside the philosophers — structurally the position you might occupy.
@@ -295,16 +294,9 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] debate sentences (Part IV §§1–5)
   - [ ] QM1 journal-issue shortlist
   - [ ] capacity-check verdict in log
-- **Bonus:** None.
 
 > [!warning] R1 capacity check / ramp-extension gate
 > If any 2 of the last 4 weeks fell below 4h *and* private commitments persist past W12 → extend the ramp 2 weeks (W9–10 = continued Part 0 at reduced pace) and defer the calibration window to W15.
-
-### Capability targets — by end of Part 0 you should be able to (test at R1):
-
-- [ ] State Honneth's distinction between Sozialphilosophie, political philosophy, moral philosophy, and empirical sociology, and explain what work the concept of "social pathology" does that no neighbouring concept can.
-- [ ] State Jaeggi's three modes of critique (functional, moral, ethical) and identify which mode a given critical claim is operating in.
-- [ ] Locate the early Frankfurt School institutionally (Jay) and explain how its institutional structure related to its intellectual programme.
 
 ---
 
@@ -338,7 +330,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | | 📋 QM1 | — | — | ~2.5 |
 | | **Week sums** | | **~47** | **~18.5** |
 
-*Consistency: Read ~47h + α ~8.5h (1.1 4.5 · 1.2 segment-Lights 2 · 1.3 2) = ~55.5h = Inventory ~58h minus 1.7 Khurana (~2.5h, read W18 — scheduled in the Module 2 table) ✓; remaining practice = C1 ×2 (~1) + calibration tally (~0.5) + QM planning (~0.25) + close set + QM1 (~8).*
+*Sums: Read ~47h + Practice ~18.5h = ~65.5h — Inventory ~58h less 1.7 Khurana ~2.5h (read W18, in the Module 2 table) = ~55.5h texts incl. writing-α + ~9.75h module practice items (C1 ×2 · calibration tally · QM1 planning · close set + QM1).*
 
 ### Inventory
 
@@ -350,7 +342,14 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | 1.7 | Khurana, *Das Leben der Freiheit*, **Einleitung only** (*Teil II* → Module 7 pre-block) | DE | ~20 | ~2.5 | [O] → Orientation (SHOULD) | W18 |
 | | **Module 1 sum** | | | **~58** | 10 Full + 5 Light | |
 
-**Deferred:** RP §§257–360 (*Staat*) → Phase III conditional re-read, scheduled as a P3.Inv.6 line (fires only on a Hegelian/recognition topic). **Opt-in:** RP §§34–141 per L_H. **1.4 *Leiden an Unbestimmtheit*** is scheduled at the Module 7 pre-block (M20), not here (resolved 2026-07-14).
+**Deferred:** RP §§257–360 (*Staat*) → Phase III conditional re-read, scheduled as a P3.Inv.6 line (fires only on a Hegelian/recognition topic). **Opt-in:** RP §§34–141 per L_H. **1.4 *Leiden an Unbestimmtheit*** is scheduled at the Module 7 pre-block (M20), not here.
+
+### Capability targets — by end of Module 1 you should be able to:
+
+- [ ] Explain why Hegel thinks abstract individual rights (*Moralität*) are insufficient for freedom and require institutional *Sittlichkeit*.
+- [ ] Reconstruct the master-slave dialectic as an argument about the intersubjective constitution of self-consciousness (not merely as a story about labour and recognition).
+- [ ] State what "normative reconstruction" means methodologically and why it differs from both empirical description and external moral evaluation.
+- [ ] Locate Hegel's account of *bürgerliche Gesellschaft* (§§182–256) and identify what makes it distinctly *normative* analysis rather than proto-economic theory.
 
 ---
 
@@ -364,7 +363,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] hours + pp/h entries
   - [ ] completed chapter Fulls (as chapters complete)
-- **Bonus:** None — keep frequency high on Neuhouser.
 
 ### Week 10 (Mon 2026-08-17) | 📚 Neuhouser — the will + Sittlichkeit emerging (~4.75h: 4R + 0.75P)
 - **Core:** 1.1 chs. 3–4 (~80pp).
@@ -387,7 +385,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] Neuhouser Fulls current
   - [ ] thesis paragraph in log
   - [ ] Dense-DE pp/h entries
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > Pre-load for W14–15: §§182–256 will look formally like institutional economics — Hegel on market dynamics, the tendency toward inequality, *Korporationen* as mediating institutions. It will need active translation effort to keep the *normative* frame: the content of freedom is constituted by institutional participation, not instrumentally related to pre-given preferences.
@@ -400,7 +397,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] chapter Fulls current
   - [ ] RP segment-Lights (2 of 5)
-- **Bonus:** None.
 
 > [!note] Phase IV connection
 > RP *Sittlichkeit* → H.6.2 Heydorn (*Bildung* as Hegelian self-formation) — Phase IV Track B.
@@ -427,7 +423,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] Neuhouser Fulls (9 of 9) + C1 set
   - [ ] §§182–208 segment-Light
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > §§189–208 is the closest Hegel comes to economics (syllabus-flagged). Resist mapping *Bedürfnis*/*Arbeit*/*Vermögen* onto utility/labour-supply/capital — the argument is about how each is *constituted* by participation in the system, not how they aggregate. Note disagreements — they return at the Comparison Exercise (M37–38) and in W3.2.
@@ -440,7 +435,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] §§209–256 segment-Light (5 of 5)
   - [ ] QM1 article choices logged
-- **Bonus:** None.
 
 > [!note] Phase IV connection
 > §§189–208 → C.9 Heller (radical needs generated within a social form).
@@ -454,7 +448,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] 1.3 Full Recon
   - [ ] C1 set
-- **Bonus:** None.
 
 > [!note] Phase IV connection
 > *Phän.* IV.A → H.5.4 Vygotsky/Mead (developmental account of intersubjectivity) — Phase IV Track B.
@@ -475,17 +468,9 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] debate map + SR prompts
   - [ ] QM1 report
 - **Floor:** Comprehension check compressed to ~1h + adversarial note; map and QM1 slip to W18 — never silently dropped.
-- **Bonus:** None — QM replaces this week's bonus.
 
 > [!warning] ECB load
 > W17 sits 3 weeks before the Oct 2026 GovC — high ECB load: protect the close artifacts, defer everything else. The W18–W21 reroute (Module 2) is built for this.
-
-### Capability targets — by end of Module 1 you should be able to:
-
-- [ ] Explain why Hegel thinks abstract individual rights (*Moralität*) are insufficient for freedom and require institutional *Sittlichkeit*.
-- [ ] Reconstruct the master-slave dialectic as an argument about the intersubjective constitution of self-consciousness (not merely as a story about labour and recognition).
-- [ ] State what "normative reconstruction" means methodologically and why it differs from both empirical description and external moral evaluation.
-- [ ] Locate Hegel's account of *bürgerliche Gesellschaft* (§§182–256) and identify what makes it distinctly *normative* analysis rather than proto-economic theory.
 
 ---
 
@@ -525,18 +510,26 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | | ✍ ÖpM-Recon re-read vs. Heinrich + QM1-article re-read | — | — | ~2.5 |
 | | **Week sums** | | **~59.25** | **~29** |
 
-*Consistency: Read ~59.25h + α ~15h (2.1 2 · 2.2 1.5 · 2.3a 8 · 2.3b 2.25 · 2.4 0.95 · 1.7 log 0.25) = ~74.25 ≈ Inventory ~71h + 1.7 Khurana ~2.5h (Module 1 item read here) ✓ (±1h rounding); remaining practice = C1 ×2 (~1) + Anwendung #1 (~4) + consolidation re-reads (~3.5) + close set (~5.6).*
+*Sums: Read ~59.25h + Practice ~29h = ~88.25h — Inventory ~71h + 1.7 Khurana ~2.5h (Module 1 item, read here) ≈ ~74.25h texts incl. writing-α (±1h rounding) + ~14.1h module practice items (C1 ×2 · Anwendung #1 · consolidation re-reads · close set).*
 
 ### Inventory
 
 | ID | Text | Lang | Pages | Hrs | Class/Tier | Weeks |
 |---|---|---|---|---|---|---|
 | 2.1 | Marx, ÖpM "Entfremdete Arbeit" | DE | ~40 | ~10 | [P*] → Full (MUST-Anchor) | W18–21 |
-| 2.2 | Marx & Engels, *Die deutsche Ideologie* (Feuerbach selections) + *Thesen über Feuerbach* | DE | ~45 | ~10.5 *(formula: Dense-DE 45pp + Light cap n=2; supersedes syllabus est. 6–8h — repriced 2026-07-14)* | [P] → Light (MUST-Engage) — **NEW 2026-07-13; absorbed from Layer-0 bonus headroom (L0 now spent)** | W19–20 |
+| 2.2 | Marx & Engels, *Die deutsche Ideologie* (Feuerbach selections) + *Thesen über Feuerbach* | DE | ~45 | ~10.5 *(formula: Dense-DE 45pp + Light cap n=2; supersedes syllabus est. 6–8h — repriced)* | [P] → Light (MUST-Engage) — **NEW; absorbed from Layer-0 bonus headroom (L0 now spent)** | W19–20 |
 | 2.3a | Marx, *Kapital* I ch. 1 §§1–4 | DE | ~40 | ~16 | [P*] → Full (MUST-Anchor; per-§ Recons) | W20–23 |
 | 2.3b | Marx, *Kapital* I chs. 2–3 + ch. 10 | DE | ~120 | ~26 | [P] → Light (MUST-Engage) | W23–25 |
 | 2.4 | Heinrich, *Kritik der politischen Ökonomie*, Kap. 1–5 | DE | ~140 | ~8.5 | [ES] → Light (MUST-Anchor by class, executed Light as reading-companion per v2 convention; apparatus carried by the 2.3a Fulls) | W24–25 |
 | | **Module 2 sum** | | | **~71** | 5 Full + 10 Light | |
+
+### Capability targets — by end of Module 2 you should be able to:
+
+- [ ] State the four dimensions of alienation in the 1844 Manuscripts and explain why Jaeggi rejects the essentialist anthropology but retains the diagnostic category.
+- [ ] Explain commodity fetishism as a *social-ontological* claim (not merely a psychological error or false belief).
+- [ ] Distinguish Marx's critique of capitalism-as-social-form from a critique of capitalism-as-inefficient-allocation, and articulate why this distinction matters for the Frankfurt tradition's approach to economic critique.
+- [ ] State Heinrich's distinction between *value-form* and *labour-value-as-quantity*, and explain what this distinction protects Marx from.
+- [ ] **New (2.2):** state the camera-obscura figure and base/superstructure in their pre-dogmatic form — the template that Celikates (9.3), Jaeggi (9.4), Shelby (9.5) and Althusser (13.5) revise (*Leads to* per syllabus).
 
 ---
 
@@ -550,7 +543,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] Khurana log line
   - [ ] Neuhouser re-read note in log
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > The four dimensions of alienation (product, activity, species-being, others) are *not* a typology of bad working conditions — they describe what labour *as such* becomes under capitalist conditions. Jaeggi strips the species-being assumption, keeps the diagnostic.
@@ -568,7 +560,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] reroute logged
   - [ ] pp/h entries
 - **Floor:** Reading only is already the floor — hold the daily contact with the German text, log lines suffice.
-- **Bonus:** None (GovC).
 
 ### Week 20 (Mon 2026-10-26) | 📚 GovC week — Deutsche Ideologie finish + Kapital opens (~7h: 5.5R + 1.5P)
 - **Core:** *(GovC week — light.)* 2.2 finish + "Thesen über Feuerbach". 2.3a *Kapital* I ch. 1 §1 begins — Full (per-§ Recons) · P2.
@@ -579,7 +570,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] 2.2 Lights ×2
 - **Floor:** 2.2 Lights degrade to log lines; 2.3a §1 slips to W21 whole.
-- **Bonus:** None (GovC).
 
 > [!note] Phase IV connection
 > 2.2 *Deutsche Ideologie* → 13.5 Althusser (the ISA essay explicitly revises this text).
@@ -592,7 +582,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] ÖpM Full Recon + C1 set
   - [ ] 2.3a §1 Full current
-- **Bonus:** None.
 
 ### Week 22 (Mon 2026-11-09) | 📚📝 Kapital §4 — fetishism (~10h: 6R + 4P)
 - **Core:** 2.3a §4 fetishism (~20pp) — re-read 2–3×, one 2h sitting on §4 alone. 2.3b ch. 2 begins (~20pp) — Light · P2.
@@ -604,7 +593,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] §§2–3 Fulls current
   - [ ] log entries
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > The value-form argument is *logical*, not historical — *if* production is organised through private exchange, *then* a general equivalent must emerge, *then* relations between persons appear as relations between things. Heinrich (W24–25) separates this from empirical history.
@@ -624,7 +612,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] 2.3a Fulls (4 of 4) + C1 set
   - [ ] 2.3b Lights (2 of 3)
 - **Floor:** §4 Full holds (MUST-Anchor); 2.3b Lights degrade to log lines; ch. 3 §§A–C read at Orientation depth if the week collapses.
-- **Bonus:** None.
 
 ### Week 24 (Mon 2026-11-23) | 📚 Der Arbeitstag + Heinrich begins (~13.9h: 12.75R + 1.15P)
 - **Core:** 2.3b ch. 3 wrap + ch. 10 (*Der Arbeitstag*, ~60pp). 2.4 Heinrich Kap. 1–2 begins (~50pp) — Light (reading-companion; apparatus carried by the 2.3a Fulls) · P1.
@@ -637,7 +624,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] 2.3b ch. 10 Light (architecture note tagged → Craft Block)
   - [ ] Heinrich Kap. 1–2 Lights
 - **Floor:** Ch. 10 at Orientation depth + 10-min architecture log line; Heinrich holds (it is next week's leverage).
-- **Bonus:** None.
 
 ### Week 25 (Mon 2026-11-30) | 🔧 Heinrich value-form + Anwendung #1 (~13.55h: 9R + 4.55P)
 - **Core:** 2.3b ch. 10 finish (~20pp). 2.4 Heinrich Kap. 3–5 (Wert und Wertform; Geld; ~90pp).
@@ -673,15 +659,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] ÖpM re-read log line
   - [ ] QM1-article re-read log line
 - **Floor:** Check at ~1h + adversarial note; both re-reads drop; map to W27.
-- **Bonus:** None.
-
-### Capability targets — by end of Module 2 you should be able to:
-
-- [ ] State the four dimensions of alienation in the 1844 Manuscripts and explain why Jaeggi rejects the essentialist anthropology but retains the diagnostic category.
-- [ ] Explain commodity fetishism as a *social-ontological* claim (not merely a psychological error or false belief).
-- [ ] Distinguish Marx's critique of capitalism-as-social-form from a critique of capitalism-as-inefficient-allocation, and articulate why this distinction matters for the Frankfurt tradition's approach to economic critique.
-- [ ] State Heinrich's distinction between *value-form* and *labour-value-as-quantity*, and explain what this distinction protects Marx from.
-- [ ] **New (2.2):** state the camera-obscura figure and base/superstructure in their pre-dogmatic form — the template that Celikates (9.3), Jaeggi (9.4), Shelby (9.5) and Althusser (13.5) revise (*Leads to* per syllabus).
 
 ---
 
@@ -704,7 +681,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | | 🎯 Module 3 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~28** | **~8.6** |
 
-*Consistency: Read ~28h + α ~3h (3.1 0.75 · 3.2 0.75 · 3.3 1.5) = ~31h = Inventory ~31h ✓; remaining practice = close set (~5.6).*
+*Sums: Read ~28h + Practice ~8.6h = ~36.6h — Inventory ~31h (texts incl. writing-α) + ~5.6h module practice items (close set).*
 
 ### Inventory
 
@@ -714,6 +691,13 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | 3.2 | Weber, "Objektivität" | DE | ~60 | ~13 | [P] → Light (MUST-Engage) | W28–29 |
 | 3.3 | Weber, *W&G* I.1 §§1–17 | DE | ~80 | ~11 | [P] → Light (SHOULD) | W29–30 |
 | | **Module 3 sum** | | | **~31** | 4 Light | |
+
+### Capability targets — by end of Module 3 you should be able to:
+
+- [ ] State Weber's distinction between *Zweckrationalität* and *Wertrationalität* and explain why the Frankfurt tradition treats the dominance of *Zweckrationalität* as a pathology.
+- [ ] Explain why the "iron cage" of rationalisation is the *problem statement* the Frankfurt School tries to answer.
+- [ ] State what kind of "objectivity" Weber claims social science can have, and where he draws the line between scientific work and value-judgement (the line Module 5 attacks).
+- [ ] Distinguish Weberian ideal types from predictive stylisation in DSGE / VAR / structural modelling, and identify what is at stake in the difference.
 
 ---
 
@@ -725,7 +709,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** **Mark the polytheism-of-values passage** — the seed of the entire *Positivismusstreit* (Module 5). Short, brilliant, programmatic: disenchantment and the problem of meaning in a rationalised world.
 - **Filed by Sunday:**
   - [ ] 3.1 Light note
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > Module-wide: Weber's *Wertfreiheit* is the implicit epistemology of mainstream economics; Module 5 will argue it is itself a normatively committed position. This is the module where your methodological self-understanding is most directly on the table — track which Weberian commitments you keep and which you let go.
@@ -739,7 +722,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] log lines + hours
 - **Floor:** ~3–4h accessible reading, log line only — the seasonal-slowdown row of Appendix A applies as designed.
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > The "ideal type" maps approximately onto stylised modelling — but Weber explicitly denies ideal types make *predictive* claims; they are heuristics that organise historical material. Note the divergence from DSGE/VAR/structural-model abstraction — this is a capability target.
@@ -751,7 +733,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Year-end lull — keep the two Weber threads distinct: methodology (3.1/3.2) vs. Grundbegriffe (3.3 — the conceptual vocabulary: social action, legitimate domination, bureaucracy).
 - **Filed by Sunday:**
   - [ ] 3.2 Light note
-- **Bonus:** None.
 
 ### Week 30 (Mon 2027-01-04) | 🎯 Grundbegriffe finish + Module 3 close (~13.6h: 6.5R + 7.1P)
 - **Core:** 3.3 §§11–17 (types of legitimate domination, bureaucracy; ~40pp). 🎯 **Module 3 close** per §D.2.
@@ -768,14 +749,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] adversarial note
   - [ ] map + SR prompts
 - **Floor:** Check at ~1h + short adversarial note; §§11–17 at Orientation depth + log line; map drops.
-- **Bonus:** None.
-
-### Capability targets — by end of Module 3 you should be able to:
-
-- [ ] State Weber's distinction between *Zweckrationalität* and *Wertrationalität* and explain why the Frankfurt tradition treats the dominance of *Zweckrationalität* as a pathology.
-- [ ] Explain why the "iron cage" of rationalisation is the *problem statement* the Frankfurt School tries to answer.
-- [ ] State what kind of "objectivity" Weber claims social science can have, and where he draws the line between scientific work and value-judgement (the line Module 5 attacks).
-- [ ] Distinguish Weberian ideal types from predictive stylisation in DSGE / VAR / structural modelling, and identify what is at stake in the difference.
 
 ---
 
@@ -802,7 +775,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | | 🎯 Module 3A close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~25** | **~19.7** |
 
-*Consistency: Read ~25h + α ~6.6h (3A.1 Fulls 6 · 3A.2 Lights 0.6) = ~31.6 ≈ Inventory ~31.5h ✓; remaining practice = C1 (~0.5) + QM2 (~2.5) + checkpoint (~0.5) + Anwendung #2 (~4) + close set (~5.6).*
+*Sums: Read ~25h + Practice ~19.7h = ~44.7h — Inventory ~31.5h (texts incl. writing-α) + ~13.1h module practice items (C1 · QM2 · calibration checkpoint · Anwendung #2 · close set).*
 
 ### Inventory
 
@@ -811,6 +784,12 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | 3A.1 | Lukács, "Verdinglichung" essay | DE | ~100 | ~26 | [P] → Full (MUST-Anchor — v2.1 §8.1 upgrade) | W31–34 |
 | 3A.2 | Feenberg, *Philosophy of Praxis*, chs. 3–5 | EN | ~100 | ~5.5 | [ES] → Light (SHOULD) | W31–33 |
 | | **Module 3A sum** | | | **~31.5** | 3 Full + 3 Light | |
+
+### Capability targets — by end of Module 3A you should be able to:
+
+- [ ] Reconstruct how Lukács synthesises Marx's commodity fetishism and Weber's rationalisation into a total diagnosis of bourgeois consciousness (*Verdinglichung*).
+- [ ] Explain why Lukács thinks the proletariat occupies a privileged epistemic position, and identify why the Frankfurt School later abandons this claim.
+- [ ] Trace the line from Lukács's reification (1923) to Honneth's *Verdinglichung* (2005), noting what changes in the translation — the move you'll see Jaeggi attack from a different direction.
 
 ---
 
@@ -824,7 +803,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] Feenberg Lights ×2
   - [ ] pp/h entries
-- **Bonus:** None.
 
 ### Week 32 (Mon 2027-01-18) | 📝📋⚖ Section I Recon + QM2 + second checkpoint (~8.5h: 3.5R + 5P)
 - **Core:** 3A.1 Section I finish (~35pp).
@@ -836,7 +814,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] QM2 report
   - [ ] checkpoint log entry
 - **Floor:** Recon I holds (MUST-Anchor); QM2 compresses to one article; checkpoint tally is non-negotiable (~30 min).
-- **Bonus:** None — QM replaces bonus.
 
 > [!warning] ⚖ W32 — second calibration checkpoint (Dense-German re-measure)
 > ~30 min, no new reading: Dense-DE pp/h on Lukács Section I (~70pp W31–32) vs. the W13 bands (bottom 4–5; midpoint 2.5–4). On contradiction with W13, **W32 governs**; midpoint-or-slower at steady-state → Gate-2 response at the 3A→4 boundary. Purpose: validate the Dense-German verdict before the Module 5 *EuI* block and the Phase II Dense load.
@@ -854,7 +831,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] Feenberg ch. 5 Light
   - [ ] anwendung-02.md
 - **Floor:** Recon II holds; Anwendung #2 slips to W34/W35 (production slips before close artifacts at this stage); Feenberg light → log line.
-- **Bonus:** None.
 
 > [!warning] W33–W34 — Module 3A peak
 > Recon + Anwendung (W33) and Recon + close (W34) stack to ~14h weeks by the formula. This is the price of the compressed 4-week Lukács block; the R2 retreat (W35–36) is the recovery buffer immediately after.
@@ -877,19 +853,12 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] adversarial note
   - [ ] map + SR prompts
 - **Floor:** Recon III holds; check at ~1h; map and the Translation subsection slip into the R2 fortnight.
-- **Bonus:** None.
-
-### Capability targets — by end of Module 3A you should be able to:
-
-- [ ] Reconstruct how Lukács synthesises Marx's commodity fetishism and Weber's rationalisation into a total diagnosis of bourgeois consciousness (*Verdinglichung*).
-- [ ] Explain why Lukács thinks the proletariat occupies a privileged epistemic position, and identify why the Frankfurt School later abandons this claim.
-- [ ] Trace the line from Lukács's reification (1923) to Honneth's *Verdinglichung* (2005), noting what changes in the translation — the move you'll see Jaeggi attack from a different direction.
 
 ---
 
 ### ⛰ R2 — Transition Retreat 2 (W35–W36; end Hegel/Marx/Weber/Lukács)
 
-2–3 leave days somewhere in this fortnight, ~16–20h total. **No new reading.** *(Moved from W33–34 per the Phase I re-spacing; propagated to programme_parameters §3.7.)*
+2–3 leave days somewhere in this fortnight, ~16–20h total. **No new reading.**
 
 ### Week 35 (Mon 2027-02-08) | ⛰ R2, part 1 — Hegel–Marx synthesis (retreat; leave pool)
 - **Core:** ⛰ R2, part 1 — no new reading.
@@ -899,7 +868,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** This question is the spine of the whole tradition's relationship to Hegel and Marx. Draw on the Reading Log's Track 1 marginalia (that is what it is for).
 - **Filed by Sunday:**
   - [ ] 4pp synthesis draft
-- **Bonus:** None.
 
 ### Week 36 (Mon 2027-02-15) | ⛰ R2, part 2 — re-reads + resistance diagnosis (retreat; leave pool)
 - **Core:** ⛰ R2, part 2 — no new reading.
@@ -913,7 +881,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] 4pp synthesis final
   - [ ] resistance diagnosis
   - [ ] retreat log entries
-- **Bonus:** None.
 
 ---
 
@@ -948,7 +915,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | | 🎯 Module 4 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~65.25** | **~18.6** |
 
-*Consistency: Read ~65.25h + α ~8.25h (4.1 2 · 4.13 0.75 · 4.2 1.5 · 4.3 0.5 · 4.5 1 · 4.7 1 · 4.10 0.75 · 4.11 0.75) = ~73.5h = Inventory ~73.5h ✓; remaining practice = C1 (~0.5) + ND decision log (~0.25) + Anwendung #3 (~4) + close set (~5.6).*
+*Sums: Read ~65.25h + Practice ~18.6h = ~83.85h — Inventory ~73.5h (texts incl. writing-α) + ~10.35h module practice items (C1 · ND decision log · Anwendung #3 · close set).*
 
 ### Inventory
 
@@ -966,6 +933,13 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 **Conditional (not scheduled):** 4.4 Neumann *Behemoth* (~3–4h; fires with a state/economy angle — see Conditional register). **Headroom-only flags:** 4.14 Nietzsche *Genealogie* I–II (~6–8h, W39–40); 4.15 *Lebensphilosophie* thread (~6–9h, W43–44); *Phänomenologie* ch. VI (L_H).
 
+### Capability targets — by end of Module 4 you should be able to:
+
+- [ ] State what makes theory "critical" in Horkheimer's 1937 sense, and distinguish this from Popperian critical rationalism (where "critical" means open to falsification).
+- [ ] Explain the thesis that "Enlightenment reverts to myth" — as a *structural* argument, not a slogan — and identify what the structural claim commits its proponents to.
+- [ ] Distinguish Adorno's negativism (filtered through Freyenhagen) from Habermas's later constructive turn, and articulate what each gains and loses.
+- [ ] Locate Benjamin's "Theses on History" within the developmental-narrative debate that Allen later reactivates against Habermas and Jaeggi.
+
 ---
 
 ### Week 37 (Mon 2027-02-22) | 📝 Module 4 begins — Horkheimer + Freud substrate (~10h: 9R + 1P)
@@ -978,7 +952,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] Recon draft
   - [ ] log entries
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > Freud's renunciation is not a preferences-vs-constraints trade-off: it is constitutive of the agent, not a cost optimised against a budget — the super-ego is endogenous to the disciplining process.
@@ -1035,7 +1008,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Freyenhagen is the ND-substitute at baseline (dependency satisfied-by-substitute per importance_tiers §4). Deliberately light week — recovery from the W38–40 front-load.
 - **Filed by Sunday:**
   - [ ] chs. 1–2 Lights
-- **Bonus:** None.
 
 ### Week 42 (Mon 2027-03-29) | 📚 Freyenhagen II + Benjamin Theses (~5.9h: 5.5R + 0.4P)
 - **Core:** 4.7 chs. 3–4 (~80pp). 4.10 Benjamin, Geschichtsphilosophische Thesen begin (~15pp) — Light · P2a.
@@ -1044,7 +1016,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Chs. 3–4 (negative experience → normative claims) are the *live* position in the social-pathologies debate — **tag `→ M37–38`**: where does Adornian negativism diverge from Jaeggi's constructive problem-solving?
 - **Filed by Sunday:**
   - [ ] chs. 3–4 Lights + tags
-- **Bonus:** None.
 
 ### Week 43 (Mon 2027-04-05) | 🔧 Benjamin + Freyenhagen finish + Anwendung #3 (~10.7h: 5.75R + 4.95P)
 - **Core:** 4.10 re-read. 4.7 ch. 5 (~40pp). 4.11 "Kunstwerk" begins (~15pp — distribution: the W44 close week takes only its finish).
@@ -1076,13 +1047,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Floor:** Check at ~1h + adversarial note; Kunstwerk degrades to a log line; map slips into W45 (light week).
 - **Bonus:** Lebensphilosophie window closes. *Phänomenologie* ch. VI optimal-context flag (L_H opt-in): Lukács reworks VI.B and *ND* presupposes VI — the surrounding context here is maximally productive, but it exceeds Phase I headroom; natural home = lighter Phase II stretch / Phase IV. Start with the *Einleitung*, not the *Vorrede*.
 
-### Capability targets — by end of Module 4 you should be able to:
-
-- [ ] State what makes theory "critical" in Horkheimer's 1937 sense, and distinguish this from Popperian critical rationalism (where "critical" means open to falsification).
-- [ ] Explain the thesis that "Enlightenment reverts to myth" — as a *structural* argument, not a slogan — and identify what the structural claim commits its proponents to.
-- [ ] Distinguish Adorno's negativism (filtered through Freyenhagen) from Habermas's later constructive turn, and articulate what each gains and loses.
-- [ ] Locate Benjamin's "Theses on History" within the developmental-narrative debate that Allen later reactivates against Habermas and Jaeggi.
-
 ---
 
 ## Module 4A — Pragmatism (W45–W49)
@@ -1106,7 +1070,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | | 🎯 Module 4A close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~30** | **~10.6** |
 
-*Consistency: Read ~28h + α ~4.5h (4A.1 1 · 4A.2 2 · 4A.3 1.5) = ~32.5h = Inventory ~32.5h ✓ (the W49 Joas re-read ~2h is priced consolidation); remaining practice = C1 (~0.5) + close set (~5.6).*
+*Sums: Read ~30h + Practice ~10.6h = ~40.6h — Inventory ~32.5h (texts incl. writing-α) + ~8.1h module practice items (W49 Joas re-read ~2h consolidation · C1 · close set).*
 
 ### Inventory
 
@@ -1116,6 +1080,13 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | 4A.2 | Joas, *Die Kreativität des Handelns*, chs. 3–5 | DE | ~150 | ~17 | [P] → Light (SHOULD) | W46–47 |
 | 4A.3 | Mead, *Mind, Self, and Society*, Part III | EN | ~100 | ~6 | [P] → Full (MUST-Anchor) | W48 |
 | | **Module 4A sum** | | | **~32.5** | 1 Full + 8 Light | |
+
+### Capability targets — by end of Module 4A you should be able to:
+
+- [ ] Explain Dewey's concept of "publics" as constituted by the indirect consequences of action, and distinguish this from social-choice-theoretic aggregation of preferences.
+- [ ] State Joas's critique of rational-choice and Habermasian action models, and explain what his "creativity of action" adds.
+- [ ] Identify the specific Deweyan architecture you'll be looking for in Jaeggi's *Kritik von Lebensformen* when you reach it in Phase II.
+- [ ] Explain Mead's I/me distinction and why it is *constitutive* of agency for recognition theory, not merely causally formative.
 
 ---
 
@@ -1127,7 +1098,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Clearly written and immediately accessible — democracy as "a mode of associated living", inquiry as response to practical breakdowns in the conduct of life, not theoretical puzzles.
 - **Filed by Sunday:**
   - [ ] chs. 1–3 Lights
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > Dewey's inquiry concept resembles adaptive learning — but "problems" are not exogenous; they are *constituted by the form of life*, and "solutions" transform the problem-space rather than optimising within it (closer to Kuhnian paradigm shifts than Bayesian updating). This distinction is the spine of Jaeggi's framework — **get it right now**.
@@ -1148,7 +1118,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Ch. 4 is the **Mead reconstruction** — the framework Honneth needs (re-read before *KuA*, M20); ch. 5 is the framework for Jaeggi (forms of life as experimental responses to problems).
 - **Filed by Sunday:**
   - [ ] Joas Lights (3 of 3)
-- **Bonus:** None.
 
 > [!note] Phase IV connection
 > Joas ch. 4 → H.5.4 Vygotsky (converging on the social constitution of the self).
@@ -1161,7 +1130,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] Mead Full Recon
   - [ ] C1 set
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > This will feel familiar from social psychology; the difference is constitutive vs. causal — for Mead (and Honneth) the social constitution of the self is not just a formative influence on an independently specifiable agent.
@@ -1180,13 +1148,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] map + SR prompts
 - **Floor:** Check at ~1h + adversarial note; the Joas re-read drops.
 - **Bonus:** Skim a recent journal article if surplus.
-
-### Capability targets — by end of Module 4A you should be able to:
-
-- [ ] Explain Dewey's concept of "publics" as constituted by the indirect consequences of action, and distinguish this from social-choice-theoretic aggregation of preferences.
-- [ ] State Joas's critique of rational-choice and Habermasian action models, and explain what his "creativity of action" adds.
-- [ ] Identify the specific Deweyan architecture you'll be looking for in Jaeggi's *Kritik von Lebensformen* when you reach it in Phase II.
-- [ ] Explain Mead's I/me distinction and why it is *constitutive* of agency for recognition theory, not merely causally formative.
 
 ---
 
@@ -1220,7 +1181,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | | 🎯 Module 5 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.6 |
 | | **Week sums** | | **~63.25** | **~17.35 (+4 opt-in)** |
 
-*Consistency: Read ~63.25h (incl. ~1h McCarthy consolidation re-read) + α ~11.25h (5.1 0.5 · 5.4 logs 0.5 · 5.5 0.75 · 5.2 8 · 5.3 1.5) = ~74.5 ≈ Inventory ~73.5h ✓ (±1h); remaining practice = C1 (~0.5) + close set (~5.6); Anwendung #4 is opt-in bonus, outside the baseline columns.*
+*Sums: Read ~63.25h (incl. ~1h McCarthy consolidation re-read) + Practice ~17.35h = ~80.6h — Inventory ~73.5h (texts incl. writing-α, ±1h) + ~6.1h module practice items (C1 · close set); Anwendung #4 (~4h) is opt-in bonus, outside the baseline columns.*
 
 ### Inventory
 
@@ -1233,6 +1194,13 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | 5.3 | *Positivismusstreit* — Adorno + Habermas contributions | DE | ~40 | ~9.5 | [P] → Light (SHOULD) | W57–58 |
 | | **Module 5 sum** | | | **~73.5** | 4 Full + 6 Light | |
 
+### Capability targets — by end of Module 5 you should be able to:
+
+- [ ] State Habermas's three knowledge-constitutive interests (technical, practical, emancipatory) and the corresponding forms of science.
+- [ ] Explain why Adorno thinks value-freedom in social science is impossible (not merely undesirable), and where the substantive disagreement with Popper lies (deeper than "facts vs. values").
+- [ ] State Gadamer's *Wirkungsgeschichte* and explain why Habermas thinks hermeneutic understanding must be supplemented by explanatory social theory (the move that motivates ideology critique).
+- [ ] State what the Nachwort to *Erkenntnis und Interesse* retracts from the 1968 argument, and why the retraction is the move into the Habermas of TKH.
+
 ---
 
 ### Week 50 (Mon 2027-05-24) | 📚 Module 5 — McCarthy as scaffold (~4.35h: 4R + 0.35P)
@@ -1242,7 +1210,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Reading order for the module: 5.1 McCarthy → 5.4 Gadamer (selective) → 5.5 Habermas-on-Gadamer → 5.2 *EuI* → 5.3 *Positivismusstreit*. Still the clearest English-language reconstruction of the early Habermas programme.
 - **Filed by Sunday:**
   - [ ] chs. 1–2 Lights
-- **Bonus:** None.
 
 ### Week 51 (Mon 2027-05-31) | 📚 McCarthy finish + Gadamer begins (~9.9h: 9.5R + 0.4P)
 - **Core:** 5.1 ch. 3 (~30pp). 5.4 Gadamer, *W&M* Part II.1 begins (*Vorurteil*, hermeneutic circle; ~60pp DE) — Orientation ([RS]) · P2 — reading-log line only.
@@ -1253,7 +1220,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] 5.1 Lights (3 of 3)
   - [ ] Gadamer log line
-- **Bonus:** None.
 
 ### Week 52 (Mon 2027-06-07) | 📚 Gadamer — Wirkungsgeschichte (~8.5h: 8.25R + 0.25P)
 - **Core:** 5.4 Part II.2 (*Wirkungsgeschichte* + the application of understanding; ~60pp).
@@ -1262,7 +1228,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** *Wirkungsgeschichte* — every act of understanding is itself shaped by the historical effects of what it tries to understand — is the direct challenge to the claim that ideology critique can reach a standpoint outside tradition; it is also the genealogical background to the Jaeggi-vs-Gadamerian methodological dispute. **Minimum-cut rule** (carried from v2): if still in Gadamer at end-W52 and behind, the *Vorurteil* + *Wirkungsgeschichte* sections are the absolute minimum — the rest counts as bonus.
 - **Filed by Sunday:**
   - [ ] Gadamer log line + hours
-- **Bonus:** None.
 
 ### Week 53 (Mon 2027-06-14) | 📚 Habermas vs. Gadamer (~8.25h: 7.5R + 0.75P)
 - **Core:** 5.5 Habermas, "Der Universalitätsanspruch der Hermeneutik" (~60pp) — Light · P1.
@@ -1271,7 +1236,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** Habermas's move: hermeneutic understanding reaches its limit at systematically distorted communication; the hermeneutic circle must be supplemented by explanatory social theory (psychoanalysis, ideology critique). This is the epistemological argument grounding the whole enterprise of diagnosing pathology against the grain of participants' self-understanding.
 - **Filed by Sunday:**
   - [ ] 5.5 Light
-- **Bonus:** None.
 
 > [!note] Phase IV connection
 > 5.5 → 13.5 Althusser (ideology *constitutes* subjects — the radicalisation of Gadamer's worry).
@@ -1284,7 +1248,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** The dense systematic core of Module 5 — 1h daily, don't skip >1 day.
 - **Filed by Sunday:**
   - [ ] pp/h + log
-- **Bonus:** None.
 
 > [!tip] Economist's note
 > This is the module most directly relevant to your methodological self-understanding as a social scientist: the *Positivismusstreit* asks whether model-building + hypothesis-testing + the positive/normative separation is the *only* legitimate form of social knowledge. You will feel the pull of the positivist side strongly; the three knowledge-constitutive interests (5.2) is the argument you need to engage most seriously.
@@ -1295,7 +1258,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Session shape:** 5×1h dense + 2h Recon.
 - **Filed by Sunday:**
   - [ ] ch. 1 Full
-- **Bonus:** None.
 
 ### Week 56 (Mon 2027-07-05) | 📝 EuI ch. 3 + Nachwort begins (~11h: 7R + 4P)
 - **Core:** 5.2 ch. 3 (~40pp) + Nachwort (1973) begins (~30pp).
@@ -1304,7 +1266,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** The Nachwort contains Habermas's own self-corrections — read ch. 3 and the Nachwort as one arc.
 - **Filed by Sunday:**
   - [ ] chs. 2–3 Fulls
-- **Bonus:** None.
 
 ### Week 57 (Mon 2027-07-12) | 📝🔧 Nachwort Recon (+ opt-in Anwendung #4) (~7.25h: 4.75R + 2.5P, +4 opt-in)
 - **Core:** 5.2 Nachwort finish. 5.3 begins if the Nachwort wraps early (distribution: the close week takes its finish).
@@ -1331,17 +1292,9 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] adversarial note
   - [ ] map + SR prompts
 - **Floor:** Check at ~1h + adversarial note (this module's is the one not to thin); 5.3 Lights degrade to log lines; map slips into W59 buffer.
-- **Bonus:** None — close week.
 
 > [!tip] Economist's note
 > The methodological hinge of the programme — the Frankfurt claim is not that empirical science is wrong but that it is *incomplete*: it cannot on its own terms identify the normative distortions built into what it studies, because its method requires treating those structures as given. Test this against your own practice in the W61 Field Report.
-
-### Capability targets — by end of Module 5 you should be able to:
-
-- [ ] State Habermas's three knowledge-constitutive interests (technical, practical, emancipatory) and the corresponding forms of science.
-- [ ] Explain why Adorno thinks value-freedom in social science is impossible (not merely undesirable), and where the substantive disagreement with Popper lies (deeper than "facts vs. values").
-- [ ] State Gadamer's *Wirkungsgeschichte* and explain why Habermas thinks hermeneutic understanding must be supplemented by explanatory social theory (the move that motivates ideology critique).
-- [ ] State what the Nachwort to *Erkenntnis und Interesse* retracts from the 1968 argument, and why the retraction is the move into the Habermas of TKH.
 
 ---
 
@@ -1366,7 +1319,13 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 | | ✍ Phase II calendar setup | — | — | ~1 |
 | | **Week sums** | | **~8** | **~23.5** |
 
-*Consistency: the checkpoint is non-text work — the ~23h Motivational Checkpoint line and the buffer/consolidation pool of the Phase I summary own these hours; R3 rides the retreat leave pool.*
+*Sums: Read ~8h + Practice ~23.5h = ~31.5h — no module Inventory; the ~23h Motivational Checkpoint line and the buffer/consolidation pool of the Phase I summary own these hours (R3 rides the retreat leave pool).*
+
+### Capability targets — by end of the Motivational Checkpoint you should be able to:
+
+- [ ] Follow the argumentative structure and main references of a recent journal article in Sozialphilosophie, identifying which concepts you command, which you don't, and which thinker (typically Habermas) is the missing piece.
+- [ ] Apply the Frankfurt apparatus reflexively to a phenomenon from your professional world: identify a practice's self-understanding, find a tension on its own terms, attempt a structural explanation, and explicitly name where your apparatus runs out.
+- [ ] State (a) the 2–3 *strongest* and (b) 2–3 *weakest* points in Part I's intellectual apparatus as you now understand them — the weak points being candidate openings for your own contribution.
 
 ---
 
@@ -1377,7 +1336,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Notes:** You read *about* Honneth's 2005 *Verdinglichung* in Module 3A; reading the primary now is bonus, not required.
 - **Filed by Sunday:**
   - [ ] log lines
-- **Bonus:** **7.6 Honneth, *Verdinglichung* — Tanner-Lectures edition skim** (OUP 2008: lecture text + Butler/Geuss/Lear commentaries + Honneth's reply; the 2026-07-13 syllabus amendment adds ~+3–4h of commentaries to this existing bonus slot; formula-priced ~11.5h if ever executed Light — stays a skim) **or** 6.2 McCarthy chs. 4–5 prep (Phase II pre-load) — choose by energy.
+- **Bonus:** **7.6 Honneth, *Verdinglichung* — Tanner-Lectures edition skim** (OUP 2008: lecture text + Butler/Geuss/Lear commentaries + Honneth's reply; the syllabus amendment adds ~+3–4h of commentaries to this existing bonus slot; formula-priced ~11.5h if ever executed Light — stays a skim) **or** 6.2 McCarthy chs. 4–5 prep (Phase II pre-load) — choose by energy.
 
 ### Week 60 (Mon 2027-08-02) | 📋 Motivational Checkpoint — Journal Test (~9h: 0R + 9P)
 - **Core:** 📋 **Journal Test** (~8–10h) — the checkpoint replaces core reading.
@@ -1387,7 +1346,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] Journal Test report
   - [ ] comparison vs. QM1/QM2
-- **Bonus:** None.
 
 ### Week 61 (Mon 2027-08-09) | 📋 Field Report + external-calibration letter (~12h: 0R + 12P)
 - **Core:** 📋 **Field Report** (~8–10h, 1,500–2,000w). 📋 **External-calibration letter** (~3h).
@@ -1397,7 +1355,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] Field Report
   - [ ] letter sent
   - [ ] reply log line (as/if it arrives)
-- **Bonus:** None.
 
 ### Week 62 (Mon 2027-08-16) | 📚 Buffer + running questions (~3h: 2R + 1P)
 - **Core:** Buffer: carryover; skim 6.2 McCarthy chs. 4–5 (Phase II prep); re-read the R2 synthesis in light of Modules 4–5.
@@ -1414,7 +1371,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Session shape:** Retreat blocks.
 - **Filed by Sunday:**
   - [ ] 6pp synthesis draft
-- **Bonus:** None.
 
 ### Week 64 (Mon 2027-08-30) | ⛰ R3, part 2 — year-end calibration (retreat; leave pool)
 - **Core:** ⛰ **R3, part 2** — no new reading.
@@ -1427,7 +1383,6 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
   - [ ] 6pp synthesis final
   - [ ] strongest/weakest note
   - [ ] retreat log entries
-- **Bonus:** None.
 
 ### Week 65 (Mon 2027-09-06) | 📚 Light transition to Phase II (~3h: 2R + 1P)
 - **Core:** Light transition (~3–4h).
@@ -1436,15 +1391,8 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 - **Filed by Sunday:**
   - [ ] Phase II calendar
   - [ ] log line
-- **Bonus:** None.
 
 **Checkpoint deliverables:** Journal Test report · Field Report (re-read at end-Phase II and at R5) · external-calibration letter sent · comparison vs. QM1/QM2.
-
-### Capability targets — by end of the Motivational Checkpoint you should be able to:
-
-- [ ] Follow the argumentative structure and main references of a recent journal article in Sozialphilosophie, identifying which concepts you command, which you don't, and which thinker (typically Habermas) is the missing piece.
-- [ ] Apply the Frankfurt apparatus reflexively to a phenomenon from your professional world: identify a practice's self-understanding, find a tension on its own terms, attempt a structural explanation, and explicitly name where your apparatus runs out.
-- [ ] State (a) the 2–3 *strongest* and (b) 2–3 *weakest* points in Part I's intellectual apparatus as you now understand them — the weak points being candidate openings for your own contribution.
 
 ---
 
@@ -1470,13 +1418,13 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 **Goal.** Modules 6–8 + Module 9 + Streeck block + 8A bridge; community engagement per programme_parameters §2.4. By M34: full apparatus Habermas → Jaeggi; frontier-level engagement with the social-pathologies debate; 5–7 natural interlocutors identified; two submitted community pieces (book review; Zwischenstück).
 
-**Tier compilation.** All tiers compile directly from importance_tiers §3 with the §2.3 mapping rule and the §8.2 Light decisions. **The eight v2 Full-bumps are Light again** (5.1, 6.2, 6.5, 4A.1, 8.3, 8.4, 8.5, 8.9 — per the §8.4 override-revert of 2026-07-13). Item IDs are importance_tiers IDs throughout (the v2 plan's non-canonical IDs for McCarthy chs. 4–5 and TKH Bd. 2 map to 6.2 and 6.5 — see importance_tiers §8.4 item-ID canonicity note).
+**Tier compilation.** All tiers compile directly from importance_tiers §3 with the §2.3 mapping rule and the §8.2 Light decisions. **The eight v2 Full-bumps are Light again** (5.1, 6.2, 6.5, 4A.1, 8.3, 8.4, 8.5, 8.9 — per the §8.4 override-revert). Item IDs are importance_tiers IDs throughout (the v2 plan's non-canonical IDs for McCarthy chs. 4–5 and TKH Bd. 2 map to 6.2 and 6.5 — see importance_tiers §8.4 item-ID canonicity note).
 
 **Community engagement (per programme_parameters §2.4 — honest budget ~55–70h Phase II, additive Class A):** book review **~M28–M30** (canonical window; ~20–25h incl. the read) · **Zwischenstück** (cross-disciplinary short essay, mandatory practice-ladder rung per reading_practices Part II) at **M33–M36** — placed at the late end of the bridge's ~M29–M36 window to de-stack M27–M33 (~10–20h; double-homes as practice — counted once, here) · discussant role (opportunistic, M20–M34, ~8–10h) · interlocutor map (M25 build ~8–10h; M32 refresh ~2–3h) · selective Vorlesung (only on genuine topic fit; ~0–15h) · 3–5 events with one post-event interaction each (~10–12h) · reading-group/colloquium join **~M22** with hard deliverable *attending regularly by M24* and named fallback (online colloquium — ConTrust / IfS — if no in-person Rhein-Main group by end M23) (~1h/month).
 
 **Productive practice (budgeted separately per reading_practices):** Skizzen #1–4 (+#5 bonus) ~20–25h · Anwendungen at ~8–10-week cadence ~20–25h · H2 evaluations from Module 6 (~1 in 3 major texts, ~10–12h) · Practice F named re-reads (post-M7 RP §§142–180 ~4h; post-M8 Dewey ~3–4h) · Phase II review at M32 (~5h) · monthly vault walk (30 min/month).
 
-**De-stacking moves compiled into the v3 baseline (decision 8 — all five moves ratified 2026-07-14):** even after the eight tier reverts, the importance_tiers baseline does not fit the Phase II envelope (see Capacity envelope report). v3 therefore drafts with: (a) **7.9 Forst *Normativität und Macht* → conditional** (fires with the power/justification Layer C route alongside 7.10, which importance_tiers itself says supersedes it as "the late Forst"; −22h); (b) **7.13 Renault, 7.17 Bedorf, 9.7 Boltanski → L2-pool baseline-bonus** (the L0/L1 treatment; first re-adds under surplus, first candidates never to return under pressure; −48h); (c) **Module 10 → Phase III M35–37 pre-work** (10.3 Taylor is explicitly W3.2 pre-work; −18h); (d) **9.6 Vogelmann → M36–37, 14.9 von Redecker → M38–39** (interlocutor-timed, ahead of the M35–37 scholar email and the M38+ drafting; −35h); (e) 10.1 Hollis at Orientation and 8A.5 Mignolo at Orientation per their 2026-07-13 syllabus demotions to [O]. The falling-behind cascade is re-cut accordingly in Appendix A.1.
+**De-stacking moves compiled into the v3 baseline (decision 8):** even after the eight tier reverts, the importance_tiers baseline does not fit the Phase II envelope (see Capacity envelope report). v3 therefore drafts with: (a) **7.9 Forst *Normativität und Macht* → conditional** (fires with the power/justification Layer C route alongside 7.10, which importance_tiers itself says supersedes it as "the late Forst"; −22h); (b) **7.13 Renault, 7.17 Bedorf, 9.7 Boltanski → L2-pool baseline-bonus** (the L0/L1 treatment; first re-adds under surplus, first candidates never to return under pressure; −48h); (c) **Module 10 → Phase III M35–37 pre-work** (10.3 Taylor is explicitly W3.2 pre-work; −18h); (d) **9.6 Vogelmann → M36–37, 14.9 von Redecker → M38–39** (interlocutor-timed, ahead of the M35–37 scholar email and the M38+ drafting; −35h); (e) 10.1 Hollis at Orientation and 8A.5 Mignolo at Orientation per their syllabus demotions to [O]. The falling-behind cascade is re-cut accordingly in Appendix A.1.
 
 **H1/adversarial-note cadence:** the note is written at every module close; its Translation subsection tapers per reading_practices (full text only where a substantive external impulse arose — from Module 7 onward one line may satisfy it). **Peak-week rule:** to ~M24 the production item (Anwendung/Skizze) slips rather than the module-close artifacts; **from ~M25 the priority inverts** — the production pipeline holds, the comprehension check compresses to ~1h, the adversarial note slips (per reading_practices, peak-week guidance).
 
@@ -1486,7 +1434,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 |---|---|---|---|
 | ⛰ R4 | M16 W1 | (~17 leave) | Module 6 week-level plan<br>Vorlesungsverzeichnis check<br>interlocutor-map foundation |
 | Module 6 — Habermas | M16–M19 | ~73 | 1 Full + 7 Light<br>✏ H2 begins<br>🎯 M19 + 📋 QM3 |
-| Module 7 — Honneth + Forst + Fraser | M20–M25 | ~194 | 17 Full + 19 Light<br>✍ Skizze #1 (M22, resolved 2026-07-14)<br>📋 reading-group join (M22)<br>🎯 M25 + 📋 QM4 + interlocutor map |
+| Module 7 — Honneth + Forst + Fraser | M20–M25 | ~194 | 17 Full + 19 Light<br>✍ Skizze #1 (M22)<br>📋 reading-group join (M22)<br>🎯 M25 + 📋 QM4 + interlocutor map |
 | Module 8 — Jaeggi + Allen + Rosa | M25–M30 | ~171.5 | 18 Full + 13 Light<br>✍ Skizzen #2 (M26), #3 (M29)<br>🎯 M30 |
 | Streeck block (Polanyi → Legitimationsprobleme → Streeck) | M29–M33 | ~39 | 5 Full + 2 Light<br>📋 book review lands in this stretch |
 | Module 9 — Social Epistemology | M30–M32 | ~91.5 | 14 Full + 7 Light<br>✍ Skizze #4 (M31)<br>🎯 M32 + 📋 QM5 + Phase II review + map refresh |
@@ -1502,7 +1450,7 @@ Non-text scheduled work (module closes + QMs ~40h; Motivational Checkpoint ~23h;
 
 Per reading_practices Practice J: 1,000–1,500-word essays defending one positive claim, ~4.5–6h each, filed `drafts/skizze-XX.md`; best survivors become W3.2 raw material. Claude verification of "has this been said?" is hypothesis, not ground truth.
 
-1. **Skizze #1 — M22 (post-*KuA*; ratified 2026-07-14):** by end-M22 the landscape is Honneth vs. Fraser (7.3) vs. Foucault (11A.1–2) — the 2026-07-13 audit judged this sufficient for a first positive claim, and worth converting the M20–30 reconstruction tunnel into one with a mid-point authored output. Defending a positive claim needs a competing-positions landscape — pre-Honneth attempts produce wisps (v2's rationale for its later M25 start).
+1. **Skizze #1 — M22 (post-*KuA*):** by end-M22 the landscape is Honneth vs. Fraser (7.3) vs. Foucault (11A.1–2) — this is sufficient for a first positive claim, and worth converting the M20–30 reconstruction tunnel into one with a mid-point authored output. Defending a positive claim needs a competing-positions landscape — pre-Honneth attempts produce wisps (v2's rationale for its later M25 start).
 2. **Skizze #2 — M26 (mid-Jaeggi):** forms of life / problem-solving.
 3. **Skizze #3 — M29 (post-*KvL*/Allen):** the Honneth↔Jaeggi disagreement — pre-work for the Comparison Exercise.
 4. **Skizze #4 — M31 (Module 9):** ideology critique or lay normativity, drawing on Celikates.
@@ -1512,6 +1460,8 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 
 ## Module 6 — Habermas TKH (M16–M19)
 
+**Why this module matters (sequencing).** Phase II opens with Habermas because everything after him — Honneth's and Jaeggi's corrections, Forst's constructivism — is positioned against TKH; the W61 Field Report's "running questions for Habermas" land here, and CL1 Horster runs alongside ch. I to make TKH's anti-Luhmann polemical structure visible. The Skizze cycle does *not* begin here — productive practice in Module 6 = Fulls, the first H2, and the Anwendung cadence. Protect under pressure: the 6.3 Full and the colonisation-thesis Lights. [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-6-habermas--communicative-rationality-and-the-colonisation-of-the-lifeworld).
+
 ### Schedule (month-level)
 
 | Month | Assignments |
@@ -1519,7 +1469,7 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 | M16 W1 | ⛰ **R4** (~16–20h leave)<br>re-read the R3 synthesis + Field Report; pre-load the Field-Report (d) "running questions for Habermas"<br>skim 6.1 Outhwaite chs. 3–6 as the TKH scaffold<br>**plan the first 8 weeks of Module 6 at week level** (~3h — the first late-binding stage)<br>interlocutor-map foundation work (~3–4h; incl. any W61 letter reply)<br>Goethe Vorlesungsverzeichnis check — register as Gasthörer *now* if a genuine topic fit exists (Forst on justification, Honneth-tradition seminars, Celikates on Kritik; §2.4 selective rule — mid-Oct Anmeldefenster). |
 | M16 | 📚 6.1 Outhwaite chs. 3–6 (Orientation)<br>📚 6.2 McCarthy chs. 4–5 + Light notes (reverted tier)<br>📚 CL1 Horster begins — scheduled to run alongside TKH ch. I: reading Horster while reading ch. I makes TKH's anti-Luhmann polemical structure visible. |
 | M17 | 📚 6.3 TKH Bd. 1 ch. I (validity claims, communicative rationality)<br>📚 CL1 continues (no active practice — Orientation). |
-| M18 | 📝 **Full Recon 6.3**<br>📚 6.4 TKH Bd. 1 chs. II–III selective (Weber + Frankfurt reconstructions; the 2026-07-13 syllabus cap on 6.4 is satisfied by this selective read) + Light notes<br>📚 6.5 TKH Bd. 2 ch. VI begins (ch. VI reads at Protocol 2 — the genuinely dense stretch of TKH). |
+| M18 | 📝 **Full Recon 6.3**<br>📚 6.4 TKH Bd. 1 chs. II–III selective (Weber + Frankfurt reconstructions; the syllabus cap on 6.4 is satisfied by this selective read) + Light notes<br>📚 6.5 TKH Bd. 2 ch. VI begins (ch. VI reads at Protocol 2 — the genuinely dense stretch of TKH). |
 | M19 | 📚 6.5 ch. VI finish + ch. VIII (colonisation thesis) + Light notes<br>📚 6.6 "Diskursethik — Notizen zu einem Begründungsprogramm" + Light note (U/D principles — the missing link between 6.3 and Forst 7.7)<br>✏ **first H2 evaluation** (candidate: 6.3 or 6.5; the ~1-in-3 cadence starts here; hallucination caveat — require Claude to cite specific passages and verify each in source)<br>🎯 **Module 6 close** per §D.2 + 📋 **QM3** (compare against the R3 baseline)<br>Apply the colonisation thesis to a concrete case — a fragment of the W61 Field Report is the natural candidate. |
 
 ### Inventory
@@ -1531,13 +1481,11 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 | 6.3 | Habermas, *TKH* Bd. 1 ch. I | DE | ~80 | ~12 | [P] → Full (MUST-Anchor) | M17–18 |
 | 6.4 | Habermas, *TKH* Bd. 1 chs. II–III (selective) | DE | ~80 (of ~200) | ~11.5 | [RS] → Light (MUST-Engage) | M18 |
 | 6.5 | Habermas, *TKH* Bd. 2 ch. VI + ch. VIII | DE | ~150 | ~20 | [P] → Light (MUST-Engage) — **v3 revert per §8.2/§8.4**; v2 "6.3" executed Full. **Re-promote check at M35 R5 if Habermas-track** (importance_tiers §8.3 flag). | M18–19 |
-| 6.6 | Habermas, "Diskursethik — Notizen zu einem Begründungsprogramm" | DE | ~75 | ~10 *(formula: Systematic-DE 75pp + Light cap n=1 ≈ 10.1 — repriced 2026-07-14, coincides with the syllabus estimate)* | [P] → Light (MUST-Engage) — **NEW 2026-07-13**; read between 6.5 and (conditional) 6.7 | M19 |
+| 6.6 | Habermas, "Diskursethik — Notizen zu einem Begründungsprogramm" | DE | ~75 | ~10 *(formula: Systematic-DE 75pp + Light cap n=1 ≈ 10.1 — repriced, coincides with the syllabus estimate)* | [P] → Light (MUST-Engage) — **NEW**; read between 6.5 and (conditional) 6.7 | M19 |
 | CL1 | Horster, *Niklas Luhmann* (11B.1) | DE | ~150 | ~8.5 | [O] → Orientation (SHOULD) | M17–18 |
 | | **Module 6 sum** | | | **~73** | 1 Full + 7 Light | |
 
 **Conditional (not in baseline; re-decide at R4/R5):** 6.7 *Faktizität und Geltung* chs. 1–4 (~32h; MUST-Engage Light, conditional MUST-Anchor — fires with the power/justification/democratic-legitimacy route; its prerequisite role for Forst 7.7 is **waived at baseline** per importance_tiers §4: *EuI* + TKH Bd. 1 carry the backdrop); 6.8 *Strukturwandel* (~28h; fires with public-sphere terrain; its absence is why 7.12 Fraser is annotated "read against a summarised original").
-
-**Why this module matters (sequencing).** Phase II opens with Habermas because everything after him — Honneth's and Jaeggi's corrections, Forst's constructivism — is positioned against TKH; the W61 Field Report's "running questions for Habermas" land here, and CL1 Horster runs alongside ch. I to make TKH's anti-Luhmann polemical structure visible. The Skizze cycle does *not* begin here — productive practice in Module 6 = Fulls, the first H2, and the Anwendung cadence. Protect under pressure: the 6.3 Full and the colonisation-thesis Lights. [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-6-habermas--communicative-rationality-and-the-colonisation-of-the-lifeworld).
 
 ### Capability targets — by end of Module 6 you should be able to:
 
@@ -1552,6 +1500,8 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 ---
 
 ## Module 7 — Honneth + Forst + Fraser (M20–M25)
+
+**Why this module matters (sequencing).** Honneth follows TKH directly because *KuA* is its correction (normativity located at too abstract a level — the real normative structure of social life is *Anerkennung*), and this is the framework W3.2 will most likely be positioned against or alongside. The module builds the Comparison Exercise corpus (`→ M37–38` tags), carries the *Markt* pressure-test triangle (your most direct professional engagement in Phase II), and opens the community track (M22 reading-group join, Skizze #1). [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-7-honneth--recognition-as-the-normative-grammar-of-social-life).
 
 ### Schedule (month-level)
 
@@ -1570,15 +1520,15 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 
 | ID | Text | Lang | Pages | Hrs | Class/Tier | Months |
 |---|---|---|---|---|---|---|
-| 1.4 | Honneth, *Leiden an Unbestimmtheit* | DE | ~130 | ~18.5 *(formula: Systematic-DE 130pp + Light cap n=3; supersedes syllabus est. 8–10h — repriced 2026-07-14)* | [ES] → Light (SHOULD) — **NEW 2026-07-13**; Module 7 pre-block placement (resolved 2026-07-14) | M20 |
+| 1.4 | Honneth, *Leiden an Unbestimmtheit* | DE | ~130 | ~18.5 *(formula: Systematic-DE 130pp + Light cap n=3; supersedes syllabus est. 8–10h — repriced)* | [ES] → Light (SHOULD) — **NEW**; Module 7 pre-block placement | M20 |
 | 7.1 | Honneth, *Kampf um Anerkennung* | DE | ~250 | ~44 | [P*] → Full (MUST-Anchor; monograph decouple) | M20–22 |
 | 7.2 | Honneth, "Anerkennung als Ideologie" | DE | ~30 | ~4 | [P] → Light (MUST-Engage) | M21 |
 | 7.3 | Fraser, "From Redistribution to Recognition?" | EN | ~25 | ~2 | [P] → Light (MUST-Engage) | M22 |
 | 7.4 | Fraser & Honneth, *Umverteilung oder Anerkennung?* | DE | ~300 | ~45.5 | [P*] → Full (MUST-Anchor) | M23–24 |
 | 7.5 | Honneth, *Das Recht der Freiheit* (selections) | DE | ~150 | ~21 | [P] → Light Phase II (MUST-Anchor) + **Full dissection deferred to Craft Block W2.1** (per v2 carryover; annotated deviation) | M23–24 |
 | 7.22 | Jütten, "Is the Market a Sphere of Social Freedom?" | EN | ~25 | ~2 | [ES] → Light (SHOULD; interlocutor upgrade v2.1) | M24 |
-| 7.23 | Neuhouser, "Honneth's Theory of Social Freedom" | EN | ~30 | ~2 | [ES] → Light (COULD) — logged deviation from importance_tiers COULD→Orientation (user 2026-07-14: wants a filed note for the market pressure-test triangle); v2 executed Full | M24 |
-| 7.24 | Herzog, *Inventing the Market* (selections) | EN | ~150 | ~9.5 *(formula: Analytic-EN 150pp + Light α; supersedes syllabus est. 10–12h — repriced 2026-07-14)* | [ES] → Light (SHOULD) — **NEW 2026-07-13**; read near 7.22/7.23 | M24–25 |
+| 7.23 | Neuhouser, "Honneth's Theory of Social Freedom" | EN | ~30 | ~2 | [ES] → Light (COULD) — logged deviation from importance_tiers COULD→Orientation (wants a filed note for the market pressure-test triangle); v2 executed Full | M24 |
+| 7.24 | Herzog, *Inventing the Market* (selections) | EN | ~150 | ~9.5 *(formula: Analytic-EN 150pp + Light α; supersedes syllabus est. 10–12h — repriced)* | [ES] → Light (SHOULD) — **NEW**; read near 7.22/7.23 | M24–25 |
 | 7.12 | Fraser, "Rethinking the Public Sphere" | EN | ~30 | ~2 | [P] → Light (SHOULD; Layer 2 reactive-cut member; 6.8 backdrop conditional) | M24 |
 | 7.7 | Forst, *Das Recht auf Rechtfertigung*, chs. 1–4 | DE | ~150 | ~27 | [P] → Full (MUST-Anchor — v2.1 §8.1 upgrade; 6.7 prerequisite waived at baseline per importance_tiers §4) | M25 |
 | 7.8 | Forst, "Noumenal Power" | EN | ~25 | ~1.5 | [P] → Light (MUST-Engage) | M25 |
@@ -1586,7 +1536,7 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 | 11A.2 | Foucault, 1976 lecture | FR/EN | ~25 | ~2 | [P] → Light (SHOULD; Layer 2 reactive-cut member) | M20 |
 | | **Module 7 sum** | | | **~194** | 17 Full + 19 Light | |
 
-**Moved out (v3 de-stack, ratified):** 7.9 Forst *N&M* → conditional (with 7.10); 7.13 Renault + 7.17 Bedorf → L2-pool bonus; **7.18 *Anerkennung* partial → M33–34** (still pre-R5, so the Layer C decision on 7.18F remains informed). **Bonus (L1):** 7.11 J. Benjamin; 8.11 Allen-Mendieta (Module 8 item); 11A.4 Allen bridge; 7.20 Pilapil. **7.6 *Verdinglichung* (Tanner ed.):** bonus slot at W59 (Phase I close), +3–4h for the Butler/Geuss/Lear commentaries per the 2026-07-13 syllabus amendment.
+**Moved out (v3 de-stack):** 7.9 Forst *N&M* → conditional (with 7.10); 7.13 Renault + 7.17 Bedorf → L2-pool bonus; **7.18 *Anerkennung* partial → M33–34** (still pre-R5, so the Layer C decision on 7.18F remains informed). **Bonus (L1):** 7.11 J. Benjamin; 8.11 Allen-Mendieta (Module 8 item); 11A.4 Allen bridge; 7.20 Pilapil. **7.6 *Verdinglichung* (Tanner ed.):** bonus slot at W59 (Phase I close), +3–4h for the Butler/Geuss/Lear commentaries per the syllabus amendment.
 
 ### Capability targets — by end of Module 7 you should be able to:
 
@@ -1594,8 +1544,6 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 - [ ] Reconstruct the Fraser–Honneth disagreement (monism vs. dualism) — tag → M37–38.
 - [ ] State normative reconstruction and its "rationalises the existing" vulnerability (1.4 is now the textual bridge for this).
 - [ ] Position Forst's right to justification against recognition: alternatives, or different levels?
-
-**Why this module matters (sequencing).** Honneth follows TKH directly because *KuA* is its correction (normativity located at too abstract a level — the real normative structure of social life is *Anerkennung*), and this is the framework W3.2 will most likely be positioned against or alongside. The module builds the Comparison Exercise corpus (`→ M37–38` tags), carries the *Markt* pressure-test triangle (your most direct professional engagement in Phase II), and opens the community track (M22 reading-group join, Skizze #1). [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-7-honneth--recognition-as-the-normative-grammar-of-social-life).
 
 > [!tip] Economist's note
 > The *Markt* chapter (7.5) is your most direct professional engagement in Phase II. Read 7.22 Jütten and 7.23 Neuhouser immediately after — the methodological tests of normative reconstruction against social science — and 7.24 Herzog as the philosophy-of-economics frame around all three (she is also the bridge document's prototype interlocutor).
@@ -1609,6 +1557,8 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 ---
 
 ## Module 8 — Jaeggi + Allen + Rosa (M25–M30)
+
+**Why this module matters (sequencing).** Jaeggi directly after Honneth, so the Comparison Exercise (M37–38) meets both corpora fresh; this is where Module 4A's Deweyan architecture cashes out (*KvL*'s problem-solving model) and where Allen's anti-progress challenge is heard in the same module it targets. Skizzen #2–3 ride the block as pre-work for the comparison. Protect under pressure: the 8.1/8.2 Fulls (the current cutting edge and the likeliest W3.2 counterpart); the reverted Lights (8.3–8.5, 8.9) cite rather than rebuild. [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-8-jaeggi--alienation-forms-of-life-and-immanent-critique).
 
 ### Schedule (month-level)
 
@@ -1633,7 +1583,7 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 | 8.8 | Stahl, *Immanente Kritik*, chs. 1–3 (+ch. 5 opt.) | DE | ~180 | ~18 | [ES] → Light (SHOULD; Craft-Block W1.1 method re-read at M35–37) | M26–27 |
 | 8.9 | Rosa, *Resonanz* (Intro + I + IV) | DE | ~200 | ~23 | [P] → Light (SHOULD) — **v3 revert per §3/§8.4** | M29 |
 | CL3 | Bourdieu, *La distinction*, Intro + Part I | FR/DE | ~70 | ~9 | [P] (11C.2) → Orientation brief (SHOULD) — executed partial read; full Light coverage rides 11C if a practice-theory angle fires (annotated deviation) | M26–27 |
-| CL4 | Postone, *TLSD*, Intro + ch. 1 | EN | ~80 | ~8.5 | [P] (14.5) → Orientation partial (MUST-Engage) — executed partial; full Light/conditional Full rides P3.Inv.6 + Layer C (annotated deviation; routing ratified 2026-07-14) | M29–30 |
+| CL4 | Postone, *TLSD*, Intro + ch. 1 | EN | ~80 | ~8.5 | [P] (14.5) → Orientation partial (MUST-Engage) — executed partial; full Light/conditional Full rides P3.Inv.6 + Layer C (annotated deviation) | M29–30 |
 | | **Module 8 sum** | | | **~171.5** | 18 Full + 13 Light | |
 
 ### Capability targets — by end of Module 8 you should be able to:
@@ -1642,8 +1592,6 @@ Per reading_practices Practice J: 1,000–1,500-word essays defending one positi
 - [ ] State the problem-solving model: what "solving"/"failing" means for a form of life.
 - [ ] Locate Zurn's first- vs. second-order pathologies against Honneth and Jaeggi.
 - [ ] Reconstruct Allen's critique of the implicit progressive philosophy of history.
-
-**Why this module matters (sequencing).** Jaeggi directly after Honneth, so the Comparison Exercise (M37–38) meets both corpora fresh; this is where Module 4A's Deweyan architecture cashes out (*KvL*'s problem-solving model) and where Allen's anti-progress challenge is heard in the same module it targets. Skizzen #2–3 ride the block as pre-work for the comparison. Protect under pressure: the 8.1/8.2 Fulls (the current cutting edge and the likeliest W3.2 counterpart); the reverted Lights (8.3–8.5, 8.9) cite rather than rebuild. [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-8-jaeggi--alienation-forms-of-life-and-immanent-critique).
 
 > [!tip] Phase IV flags
 > 13.3–13.4 Gramsci (what stabilises non-recognition — during *KvL* chs. 8–10) · C.6 Brenner (during 8.5) · H.6.5 Mollenhauer (socialisation question Jaeggi leaves open).
@@ -1657,7 +1605,7 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 | ID | Text | Lang | Pages | Hrs | Class/Tier | Months |
 |---|---|---|---|---|---|---|
 | CL5 | Polanyi, *The Great Transformation*, Parts I–II | EN | ~200 | ~10 | [P] (15.6) → Orientation (MUST-Engage) | M29–30 |
-| 14.1 | Habermas, *Legitimationsprobleme im Spätkapitalismus*, Teil II + Offe selection | DE | ~70 | ~10.5 *(formula: Systematic-DE 70pp + Light cap n=2; supersedes syllabus est. 7–10h — repriced 2026-07-14)* | [P] → Light (SHOULD) — **NEW 2026-07-13**; read immediately before 14.2 (*Baut auf* per syllabus: *Gekaufte Zeit* returns to and revises this apparatus) | M32 |
+| 14.1 | Habermas, *Legitimationsprobleme im Spätkapitalismus*, Teil II + Offe selection | DE | ~70 | ~10.5 *(formula: Systematic-DE 70pp + Light cap n=2; supersedes syllabus est. 7–10h — repriced)* | [P] → Light (SHOULD) — **NEW**; read immediately before 14.2 (*Baut auf* per syllabus: *Gekaufte Zeit* returns to and revises this apparatus) | M32 |
 | 14.2 | Streeck, *Gekaufte Zeit* | DE | ~250 | ~18.5 | [P] → Full (MUST-Anchor per importance_tiers §3) — v2 executed Light; v3 compiles the Anchor: 5 chapter Fulls. Read asking: what concept of pathology is Streeck operating with? | M32–33 |
 | | **Streeck block sum** | | | **~39** | 5 Full + 2 Light | |
 
@@ -1667,6 +1615,8 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 ---
 
 ## Module 9 — Social Epistemology (M30–M32)
+
+**Why this module matters (sequencing).** Placed at Phase II's close so the question "who has epistemic access to social pathology?" is asked with the full Honneth/Jaeggi apparatus in hand: this is where the 2.2 *Deutsche Ideologie* template earns its keep (the 9.3/9.4/9.5 revisions), and Celikates pre-loads W3.2's methodological terrain. Protect under pressure: the 9.2 and 9.3 Fulls; Mannheim has a named selections-demote. [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-9-social-epistemology--knowledge-power-and-the-grounds-of-critique).
 
 ### Schedule (month-level)
 
@@ -1691,8 +1641,6 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 
 **Moved/bonus:** 9.6 Vogelmann → Phase III M36–37 (interlocutor-timed, de-stack 8d); 9.7 Boltanski → L2-pool bonus; 9.9 Harding → L1 bonus.
 
-**Why this module matters (sequencing).** Placed at Phase II's close so the question "who has epistemic access to social pathology?" is asked with the full Honneth/Jaeggi apparatus in hand: this is where the 2.2 *Deutsche Ideologie* template earns its keep (the 9.3/9.4/9.5 revisions), and Celikates pre-loads W3.2's methodological terrain. Protect under pressure: the 9.2 and 9.3 Fulls; Mannheim has a named selections-demote. [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-9-social-epistemology--knowledge-power-and-the-grounds-of-critique).
-
 ### Capability targets — by end of Module 9 you should be able to:
 
 - [ ] Distinguish ideology critique (Marx→Jaeggi) vs. epistemic injustice (Fricker) vs. lay normativity (Celikates).
@@ -1703,13 +1651,15 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 
 ## Module 8A — Außereuropäische Kritik (bridge, M32–M34) + 7.18 partial
 
+**Why this module matters (sequencing).** 8A closes Phase II as the external-challenge block deliberately heard *before* R5's topic lock-in: the three rising-severity challenges to immanent critique's "we" (postcolonial, decolonial, Black radical) must inform the M34 synthetic note and the Comparison Exercise, and reviewers at the target journals increasingly expect engagement with at least one. Reduced close by design (disagreement log, no comprehension check). Protect under pressure: the MUST-tier hard floor named in the cut-order note below. [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-8a-außereuropäische-kritik-der-moderne--postkolonial-dekolonial-black-radical).
+
 ### Schedule (month-level)
 
 | Month | Assignments |
 |---|---|
 | M32 | 📚 8A.1 Said, *Orientalism* Introduction + Light note<br>📚 8A.2 Chakrabarty begins (overlaps the Module 9 close items — Light-tier practice only in this bridge). |
 | M33 | 📚 8A.2 finish + 2 Light notes<br>📚 8A.3 Spivak + 8A.4 Quijano + Light notes<br>📚 **8A.6 Fanon** (ch. 5 + the Hegel section of ch. 7) — *before* 8A.7, per its *Baut auf* 1.3/7.1: the colonial failure of the master–slave dialectic; + 2 Light notes<br>📚 7.18 *Anerkennung* partial begins<br>✍ **Zwischenstück** drafting opens (window M33–36; 2,000–3,000w on a methodological intersection → *Soziopolis*, *Geschichte der Gegenwart*, or *WestEnd* Diskussion). |
-| M34 | 📚 8A.5 Mignolo (Orientation — demoted [ES]→[O] 2026-07-13)<br>📚 8A.7 Robinson (Foreword + chs. 1, 11) + 3 Light notes<br>📚 7.18 partial finish + 3 Light notes<br>✍ **Synthetic note** (~600–900w): "What does 8A change about how I would write a Sozialphilosophie contribution?" → input to R5 + the Comparison Exercise<br>🎯 **Module 8A close** (reduced form per v2: no comprehension check — the module is a type-(b) external challenge, not a positive position to summarise; instead log the *disagreement* between the Frankfurt apparatus and 8A's challenge as a structured note; adversarial note: "8A is not Sozialphilosophie" → "the immanent-critique 'we' is racially and colonially structured")<br>**Phase II ends.** |
+| M34 | 📚 8A.5 Mignolo (Orientation — demoted [ES]→[O])<br>📚 8A.7 Robinson (Foreword + chs. 1, 11) + 3 Light notes<br>📚 7.18 partial finish + 3 Light notes<br>✍ **Synthetic note** (~600–900w): "What does 8A change about how I would write a Sozialphilosophie contribution?" → input to R5 + the Comparison Exercise<br>🎯 **Module 8A close** (reduced form per v2: no comprehension check — the module is a type-(b) external challenge, not a positive position to summarise; instead log the *disagreement* between the Frankfurt apparatus and 8A's challenge as a structured note; adversarial note: "8A is not Sozialphilosophie" → "the immanent-critique 'we' is racially and colonially structured")<br>**Phase II ends.** |
 
 ### Inventory
 
@@ -1719,8 +1669,8 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 | 8A.2 | Chakrabarty, *Provincializing Europe*, Intro + ch. 1 | EN | ~80 | ~7 | [P] → Light (MUST-Engage) | M32–33 |
 | 8A.3 | Spivak, "Can the Subaltern Speak?" | EN | ~40 | ~3.5 | [ES] → Light (SHOULD) | M33 |
 | 8A.4 | Quijano, "Coloniality of Power" | EN | ~30 | ~2.5 | [P] → Light (MUST-Engage) | M33 |
-| 8A.6 | Fanon, *Peau noire, masques blancs*, ch. 5 + Hegel section (ch. 7; numbering varies by edition) | FR→DE/EN | ~50 | ~4.5 *(formula: Layered 50pp at the EN-translation rate — the 11A.1/9.7 FR-original convention — + Light cap n=2; supersedes syllabus est. 5–8h — repriced 2026-07-14)* | [P] → Light (MUST-Engage) — **NEW 2026-07-13**; read before 8A.7 | M33 |
-| 8A.5 | Mignolo, *Darker Side of Western Modernity* (selection) | EN | ~80 | ~4 | [O] → Orientation (SHOULD; [ES]→[O] syllabus demotion 2026-07-13) | M34 |
+| 8A.6 | Fanon, *Peau noire, masques blancs*, ch. 5 + Hegel section (ch. 7; numbering varies by edition) | FR→DE/EN | ~50 | ~4.5 *(formula: Layered 50pp at the EN-translation rate — the 11A.1/9.7 FR-original convention — + Light cap n=2; supersedes syllabus est. 5–8h — repriced)* | [P] → Light (MUST-Engage) — **NEW**; read before 8A.7 | M33 |
+| 8A.5 | Mignolo, *Darker Side of Western Modernity* (selection) | EN | ~80 | ~4 | [O] → Orientation (SHOULD; [ES]→[O] syllabus demotion) | M34 |
 | 8A.7 | Robinson, *Black Marxism*, Foreword + chs. 1, 11 | EN | ~120 | ~10.5 | [P] → Light (MUST-Engage; cond. MUST-Anchor if Fraser-track racial-capitalism bridge) | M33–34 |
 | 7.18 | Honneth, *Anerkennung* (2018), partial (Intro + one tradition ch. + concluding systematic ch.) | DE | ~140 | ~20 | [P] → Light partial (MUST-Engage) — moved here from M24–25 per the de-stack (still pre-R5, so the Layer C decision on 7.18F stays informed); conditional Full completion 7.18F at M41–43 under Layer C | M33–34 |
 | | **Module 8A (+7.18) sum** | | | **~54.5** | 13 Light | |
@@ -1728,8 +1678,6 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 **Deferred (COULD → Phase III frontier / Phase IV):** 8A.8 Wilderson (~6h; radicalises Fanon), 8A.9 Mbembe (~6h; presupposes Fanon) — promote if recognition-ontology or racial-capitalism terrain commits.
 
 **Cut order if 8A cannot fit** (unchanged from v2): first 8A.5 (now Orientation anyway), then 8A.3; hard floor = 8A.1 + 8A.2 + 8A.4 + **8A.6** + 8A.7 (MUST-tier) — if even these fail, escalate to topic re-scope, not budget violation.
-
-**Why this module matters (sequencing).** 8A closes Phase II as the external-challenge block deliberately heard *before* R5's topic lock-in: the three rising-severity challenges to immanent critique's "we" (postcolonial, decolonial, Black radical) must inform the M34 synthetic note and the Comparison Exercise, and reviewers at the target journals increasingly expect engagement with at least one. Reduced close by design (disagreement log, no comprehension check). Protect under pressure: the MUST-tier hard floor named in the cut-order note above. [Full rationale → syllabus](sozialphilosophie_syllabus.md#module-8a-außereuropäische-kritik-der-moderne--postkolonial-dekolonial-black-radical).
 
 ### Capability targets — by end of Module 8A you should be able to:
 
@@ -1746,7 +1694,7 @@ Deliberate scaffold: Polanyi (CL5, M29–30) → 14.1 crisis typology (M32) → 
 
 ### Layer C — R5 conditional-MUST decision (M35)
 
-Five conditional MUST-Anchor promotions, topic-commitment-driven (distinct from the falling-behind cascade): **7.18F** *Anerkennung* Full completion (~18–25h; recognition track — the M33–34 partial is already read), **7.19** *Der arbeitende Souverän* (~32–40h Light; work / democratic *Sittlichkeit*; 14.13 Castel promotes in tandem per §4), **8.10** *Fortschritt und Regression* (~28–36h Light), **7.10** *The Noumenal Republic* (~18–25h Light; power/justification — **rider:** 7.9 *Normativität und Macht* pre-read fires with it, ~10–22h, since 7.10 ← 7.7 + 7.8 + 7.9 per importance_tiers §4; 6.7 F&G conditional pre-read also lives on this route), **14.10** Aglietta (~10h Orient → Light; capitalism-as-form — **rider:** Marx re-entry ~4h: *Kapital* ch. 1 §4 + one Heinrich chapter re-read — ratified 2026-07-14 as a conditional rider). **Baseline assumption: 3-of-5 firing (~83h), decided at R5.** 4+ endangers the timeline; 2 underpowers reviewer coverage.
+Five conditional MUST-Anchor promotions, topic-commitment-driven (distinct from the falling-behind cascade): **7.18F** *Anerkennung* Full completion (~18–25h; recognition track — the M33–34 partial is already read), **7.19** *Der arbeitende Souverän* (~32–40h Light; work / democratic *Sittlichkeit*; 14.13 Castel promotes in tandem per §4), **8.10** *Fortschritt und Regression* (~28–36h Light), **7.10** *The Noumenal Republic* (~18–25h Light; power/justification — **rider:** 7.9 *Normativität und Macht* pre-read fires with it, ~10–22h, since 7.10 ← 7.7 + 7.8 + 7.9 per importance_tiers §4; 6.7 F&G conditional pre-read also lives on this route), **14.10** Aglietta (~10h Orient → Light; capitalism-as-form — **rider:** Marx re-entry ~4h: *Kapital* ch. 1 §4 + one Heinrich chapter re-read — a conditional rider). **Baseline assumption: 3-of-5 firing (~83h), decided at R5.** 4+ endangers the timeline; 2 underpowers reviewer coverage.
 
 ## Phase III at a glance
 
@@ -1764,13 +1712,13 @@ Five conditional MUST-Anchor promotions, topic-commitment-driven (distinct from 
 
 | ID | Bucket | Tier | Hrs | Months | Notes |
 |---|---|---|---|---:|---|
-| P3.Inv.0 | **Module 10 pre-work** — 10.3 Taylor "Interpretation and the Sciences of Man" (**MUST-Anchor Full**, ~3h) + 10.2 Woodward chs. 1–3 (SHOULD Light, ~9.5h) + 10.1 Hollis (Orientation per 2026-07-13 syllabus demotion, ~5.5h) | mixed | ~18 | M35–37 | Moved from Phase II (de-stack 8c) — Taylor is the W3.2 methodological pre-work ("the single most provocative text in the corpus for an economist" — v2's flag stands: allocate the Full); natural home is the Craft Block window. |
+| P3.Inv.0 | **Module 10 pre-work** — 10.3 Taylor "Interpretation and the Sciences of Man" (**MUST-Anchor Full**, ~3h) + 10.2 Woodward chs. 1–3 (SHOULD Light, ~9.5h) + 10.1 Hollis (Orientation per syllabus demotion, ~5.5h) | mixed | ~18 | M35–37 | Moved from Phase II (de-stack 8c) — Taylor is the W3.2 methodological pre-work ("the single most provocative text in the corpus for an economist" — v2's flag stands: allocate the Full); natural home is the Craft Block window. |
 | P3.Inv.1 | Craft Block W1 method specimens (W1.1 Stahl Teil II–III re-read + W1.2 Celikates 2006) | Light | ~8 | M35–36 | Method-note writing (~4h) counted in the writing budget. |
 | P3.Inv.2 | Craft Block W2 diagnostics (W2.1 *RdF* "Der Markt" Full dissection — deferred from Phase II — + W2.2 *Beschleunigung* Pt III + W2.3 Jaeggi & Fraser chs. 1–3) | Full-dissection specimens | ~24 | M35–37 | Satisfies 8.9's *Beschleunigung* dependency by substitute (importance_tiers §4). |
 | P3.Inv.3 | Comparison Exercise Phase-B reading-pass (tagged passages: *KuA* chs. 5–6, *RdF* method intro, *KvL* chs. 3 + 8–10, Zurn, Allen ch. 6) | re-read | ~6 | M37–38 | Phases A (~3h) and C–D (~7–9h) in the writing budget. |
 | P3.Inv.4 | **Layer C frontier set — 3-of-5 fires** | Light + 1 cond. Full | ~83 | M41–43 | Per R5. Riders: 7.9 with 7.10; Marx re-entry (~4h) with 14.10 (ratified conditional). 4+ firings endanger the timeline; 2 underpower reviewer coverage. |
 | P3.Inv.5 | Scheduled Phase III MUSTs: 12.6 Mills (~10–12h Light) + 15.3 Boltanski & Chiapello Part I + theoretical chs. (~10h Light) | Light | ~20 | M41 | |
-| P3.Inv.6 | Targeted topic-conditional research. Opens with the **Layer C preemption pass** (7.19 + 8.10, *Einleitung*+*Schluss*, ~10–15h, M37–38, before lock-in). **Conditional line:** RP §§257–360 re-read (+§§34–141 opt-in per L_H), ~8–10h — fires only on a Hegelian/recognition topic (the Phase III home of the Module 1 deferral). **Conditional line:** 14.3 Fraser / 14.5 Postone full / 14.8 *Idee des Sozialismus* / 6.7 / 6.8 coverage as the locked topic requires (P3.Inv.6 routing ratified 2026-07-14). | mixed | ~45 | M37–43 | |
+| P3.Inv.6 | Targeted topic-conditional research. Opens with the **Layer C preemption pass** (7.19 + 8.10, *Einleitung*+*Schluss*, ~10–15h, M37–38, before lock-in). **Conditional line:** RP §§257–360 re-read (+§§34–141 opt-in per L_H), ~8–10h — fires only on a Hegelian/recognition topic (the Phase III home of the Module 1 deferral). **Conditional line:** 14.3 Fraser / 14.5 Postone full / 14.8 *Idee des Sozialismus* / 6.7 / 6.8 coverage as the locked topic requires (P3.Inv.6 routing). | mixed | ~45 | M37–43 | |
 | P3.Inv.7 | W3.3 critical-review reading (one 2023–25 monograph) | Orient + selective | ~6 | M42 | +~10h writing; +3–5h if converted to a second book-review submission. |
 | P3.Inv.8 | Tagung-prep secondary reading | Orient | ~10 | M43–45 | |
 | P3.Inv.9 | Module 9/10 re-skim (Celikates, Taylor, Woodward) in light of W3.2 | Orient | ~5 | M46 | |
@@ -1837,9 +1785,9 @@ Substantive revision (~30–40h; rewrite ≥1 of the 5 major sections) incorpora
 
 **Community engagement (additive Class A budget, not in the table above):** Phase I ~3h (external-calibration letter) · Phase II **~55–70h** (honest restatement per programme_parameters §2.4 — the v2 "~30h" line is superseded) · Phase III ~25–30h. The Zwischenstück's ~10–20h double-homes as the practice-ladder rung and is counted once (here).
 
-## Accounting convention (decision 7, resolved 2026-07-14)
+## Accounting convention (decision 7)
 
-programme_parameters §2.1 (Class A) records programme demand as "~1,506h → +8.8% vs. the ~1,384h M48 envelope — resolved." That figure reproduces only under v2's inventory-basis accounting (per-text hours + selected add-ons, with module closes, productive practices, and the honest community budget left out — and with v2 module headline-targets that understated their own inventory sums; audit §8 items 5–6). **v3's like-for-like inventory total is ~1,292.5h text-hours (post-repricing); its all-in study-side total is ~1,786.5h (+22%).** The machinery for this was always present (M50/M52 fallbacks, the cut cascade, the W13/W32 gates); what changes is that the number is now visible. **Resolution (2026-07-14):** the honest all-in accounting stands as this report's convention; the phase-local balances above are the plan's own numbers (updated for the formula repricing). M50/M52 remain gate-triggered fallbacks, not a pre-adopted baseline; the programme_parameters §2.1 Class A row update is an upstream propagation item.
+programme_parameters §2.1 (Class A) records programme demand as "~1,506h → +8.8% vs. the ~1,384h M48 envelope — resolved." That figure reproduces only under v2's inventory-basis accounting (per-text hours + selected add-ons, with module closes, productive practices, and the honest community budget left out — and with v2 module headline-targets that understated their own inventory sums; audit §8 items 5–6). **v3's like-for-like inventory total is ~1,292.5h text-hours (post-repricing); its all-in study-side total is ~1,786.5h (+22%).** The machinery for this was always present (M50/M52 fallbacks, the cut cascade, the W13/W32 gates); what changes is that the number is now visible. **Resolution:** the honest all-in accounting stands as this report's convention; the phase-local balances above are the plan's own numbers (updated for the formula repricing). M50/M52 remain gate-triggered fallbacks, not a pre-adopted baseline; the programme_parameters §2.1 Class A row update is an upstream propagation item.
 
 ## Productive-weeks reconciliation (per the ~40-productive-weeks premise)
 
@@ -1855,13 +1803,13 @@ Layer 2 ~17h → Layer 3 non-conflict ~50h → Layer 3 override ~46.5h → Layer
 
 # REFERENCE: BUFFER / BOOKKEEPING
 
-- **Falling-behind triggers** are expressed in **hours-logged vs. hours-planned** (from the reading log's Track 2), with the old weeks-behind equivalents in parentheses — re-expressed 2026-07-14 (decision 6, mirrored in programme_parameters §3.4) so predictable dead weeks don't masquerade as slippage. Layer responses unchanged; see Appendix A.
+- **Falling-behind triggers** are expressed in **hours-logged vs. hours-planned** (from the reading log's Track 2), with the old weeks-behind equivalents in parentheses — re-expressed (decision 6, mirrored in programme_parameters §3.4) so predictable dead weeks don't masquerade as slippage. Layer responses unchanged; see Appendix A.
 - **Community engagement: never cut first.** §2.4 deliverables (book review ~M28–M30; Zwischenstück M33–36; interlocutor map M25/M32) are structural. Cut order per Appendix A.
 - If Phase I buffer is drawn beyond ~50h, Phase II compresses per Appendix A.1 Layer 3, not ad hoc.
 
 # REFERENCE: CONDITIONAL / PHASE IV REGISTER
 
-Items **out of the v3 baseline**, with their triggers (per importance_tiers §4 and the 2026-07-13 syllabus additions):
+Items **out of the v3 baseline**, with their triggers (per importance_tiers §4 and the syllabus additions):
 
 | Item | ~Hrs | Trigger |
 |---|---:|---|
@@ -1873,12 +1821,12 @@ Items **out of the v3 baseline**, with their triggers (per importance_tiers §4 
 | 8.10 *Fortschritt und Regression* | ~28–36 | Layer C, immanent critique / progress |
 | 7.10 *The Noumenal Republic* | ~18–25 | Layer C, power/justification (pulls 7.9, possibly 6.7) |
 | 14.10 Aglietta + **Marx re-entry rider** (*Kapital* ch. 1 §4 + one Heinrich ch. re-read, ~4h — ratified conditional) | ~10–14 | Layer C, capitalism-as-form via macroeconomic terrain |
-| 14.3 Fraser *Cannibal Capitalism* / 14.5 Postone (beyond CL4 partial) / 14.8 *Idee des Sozialismus* / 15.3 beyond selections | ~18–25 each | MUST-Engage coverage riding P3.Inv.6 by locked topic (routing ratified 2026-07-14; importance_tiers §3 annotation queued upstream) |
+| 14.3 Fraser *Cannibal Capitalism* / 14.5 Postone (beyond CL4 partial) / 14.8 *Idee des Sozialismus* / 15.3 beyond selections | ~18–25 each | MUST-Engage coverage riding P3.Inv.6 by locked topic (importance_tiers §3 annotation queued upstream) |
 | RP §§257–360 re-read (+§§34–141 opt-in) | ~8–10 | Hegelian/recognition topic at R5/M38 (P3.Inv.6 line) |
-| **11A.5 Foucault, *Naissance de la biopolitique* (ordoliberalism lectures)** | ~5–7 | **NEW 2026-07-13, conditional:** genealogy/power track or a neoliberalism/central-bank angle in W3.2 |
-| **4.4 Neumann, *Behemoth* (selections)** | ~3–4 | **NEW 2026-07-13, conditional:** state/economy angle fires (counterweight to Pollock 4.3; successor debate = 14.1) |
-| **H.1.10 Allen, *Critique on the Couch*** | ~8–12 | **NEW 2026-07-13, conditional:** psychoanalytic-substrate track (read after H.1.8 Layton) |
-| **H.6.4 Klafki, *Neue Studien*** (selections) | ~6–8 | **NEW 2026-07-13, conditional:** Bildung/socialisation track (Phase IV Track B) |
+| **11A.5 Foucault, *Naissance de la biopolitique* (ordoliberalism lectures)** | ~5–7 | **NEW, conditional:** genealogy/power track or a neoliberalism/central-bank angle in W3.2 |
+| **4.4 Neumann, *Behemoth* (selections)** | ~3–4 | **NEW, conditional:** state/economy angle fires (counterweight to Pollock 4.3; successor debate = 14.1) |
+| **H.1.10 Allen, *Critique on the Couch*** | ~8–12 | **NEW, conditional:** psychoanalytic-substrate track (read after H.1.8 Layton) |
+| **H.6.4 Klafki, *Neue Studien*** (selections) | ~6–8 | **NEW, conditional:** Bildung/socialisation track (Phase IV Track B) |
 | 8A.8 Wilderson / 8A.9 Mbembe | ~6 each | Recognition-ontology or racial-capitalism terrain (both downstream of 8A.6 Fanon) |
 | H.1.5 Marcuse / H.1.6 Fromm / H.1.7 Mitscherlich; 4.14 Nietzsche | var. | Psychoanalytic-substrate / genealogy triggers per importance_tiers §4 |
 | L_H deep-Hegel items; Appendix I programme | ~15–40 / ~725–940 | Writing-project-driven; Phase IV |
@@ -1929,7 +1877,7 @@ Items **out of the v3 baseline**, with their triggers (per importance_tiers §4 
 
 # Appendix A: Falling-behind protocols
 
-Triggers are read from the reading log's Track 2 as **cumulative hours-logged vs. hours-planned** (re-expressed 2026-07-14, decision 6; mirrored in programme_parameters §3.4). At the ~7.5h/week planning rate the thresholds correspond to the old weeks-behind triggers, retained in parentheses. Responses unchanged.
+Triggers are read from the reading log's Track 2 as **cumulative hours-logged vs. hours-planned** (re-expressed, decision 6; mirrored in programme_parameters §3.4). At the ~7.5h/week planning rate the thresholds correspond to the old weeks-behind triggers, retained in parentheses. Responses unchanged.
 
 | Trigger | Action |
 |---|---|
@@ -1970,7 +1918,7 @@ Phase III is event-driven; the reading cascade does not apply.
 | CFP rejected / no venue by ~M41 | Presentation is for feedback, not a gate: private feedback session with 2–3 trusted scholars. Do not delay submission for a venue. |
 | Feedback delayed | Proceed to W2 (M47) on best-available feedback; fold late feedback into the Phase IV post-submission cycle. |
 | Writing Block W1/W2 unbookable | Move to the named fallback month; never drop the block — it is not substitutable by spread evenings. |
-| **⚠ Retreat leave denied (R1–R5)** (protocol ratified 2026-07-14) | Convert to **two consecutive weekends (~2×8h) within ±3 weeks** of the boundary. **R5's Layer C decision may not slip past M36.** |
+| **⚠ Retreat leave denied (R1–R5)** | Convert to **two consecutive weekends (~2×8h) within ±3 weeks** of the boundary. **R5's Layer C decision may not slip past M36.** |
 | W3.2 draft overruns (4–6 wk in M40–43) | Slip the submission date (M48 → M50), keep draft → present → feedback → revise intact. |
 
 **Governing rule:** slip the *submission date* (M48 → M50 → M52), never the cycle.
@@ -2032,14 +1980,14 @@ Protocol: (1) Practice A four-part reconstruction (500–800w); (2) closing sent
 | 📋 QM *(complete list: QM1 W17 · QM2 W32 · QM3 M19 · QM4 M25 · QM5 M32 · QM6 M37 · QM7 M41)* | One recent article (*WestEnd* / *DZfPh* / *Constellations*): follow / can't-follow / missing. Replaces that week's bonus reading. | ~2–3h |
 | Monthly vault walk *(standing, not close-bound)* | Reread three old notes (one Recon, one concept entry, one synthesis/map); exit = synthesis note or logged line; includes vault hygiene. **M16–M35 variant (resolves the corpus-review proposal at zero cost):** draw the three reread notes from *prior-phase Full reconstructions* — the only mechanism touching Phase I primary material during the M16–35 retention desert. | ~30 min/month |
 
-Standard close ≈ 5–6.5h; QM close ≈ 7–9.5h. The audit's proposed standing *corpus-review* line is folded into the vault walk's M16–M35 selection variant above (decision 3, resolved 2026-07-14 — zero-cost variant chosen over the separate ~10h line).
+Standard close ≈ 5–6.5h; QM close ≈ 7–9.5h. The audit's proposed standing *corpus-review* line is folded into the vault walk's M16–M35 selection variant above (decision 3 — zero-cost variant chosen over the separate ~10h line).
 
 ## E. Transition retreats
 
 | # | Timing | Purpose |
 |---|---|---|
 | R1 | W8 | 2-page field overview; capacity check / ramp-extension gate |
-| R2 | **W35–36** (re-spaced 2026-07-14) | Hegel→Marx synthesis (~4pp) |
+| R2 | **W35–36** | Hegel→Marx synthesis (~4pp) |
 | R3 | W63–64 | Part I synthesis (~6pp); "Pathologien" re-read #2 |
 | R4 | M16 W1 | Phase II opener; Vorlesungsverzeichnis; Module 6 week-plan |
 | R5 | M35 | Phase III opener; W3.2 candidates; **Layer C 3-of-5**; 6.5 re-promote check |
@@ -2057,6 +2005,14 @@ W1 at **M40** (first-draft consolidation) · W2 at **M47** (submission version).
 | Phase I | Heads-down. One exception: W61 external-calibration letter. Passive online orientation M12–15 (~1–2h). | ~3 |
 | Phase II | Reading-group join M22 (attending by M24; online fallback end-M23)<br>events with one post-event interaction each<br>interlocutor map M25 / refresh M32<br>**book review ~M28–M30**<br>**Zwischenstück M33–36**<br>discussant slot opportunistic<br>selective Vorlesung only on topic fit | **~55–70** |
 | Phase III | Scholar emails M35–37 / M41–43 / M46–48<br>Oberseminar if topical fit<br>informal presentation M41–43<br>formal Tagung M43–46<br>reviewer-database signup at M48 | ~25–30 |
+
+---
+
+## Maintenance notes (for future revisions — not needed for reading)
+
+**Compile rule (single ownership).** Parameters live upstream; this document *derives*. Where v2 restated bridge values, v3 cites ("per programme_parameters §X"). Every derived number appears exactly once: per-text hours in the module **Inventory** tables (Style × Tier formula, Appendix ref-A); module sums in the phase **at-a-glance** tables (sums of the Inventories); phase totals in the **Capacity envelope report**. Everything else references these. Week/month rows carry *assignments*, not a second hour tally.
+
+**Decisions of the 2026-07-14 review are implemented inline.** The one-line resolution log is the final section *Decisions resolved (2026-07-14)*.
 
 ---
 
