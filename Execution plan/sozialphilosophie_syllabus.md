@@ -92,6 +92,9 @@ The general principle: use secondary literature heavily for pre-20th-century fig
 
 **Why start here:** The original syllabus front-loads ~275 hours of historical foundations before you encounter the current debates. This phase inverts that: you acquire a map of the entire field — what Sozialphilosophie is, what "social pathology" means, where the tradition comes from and where it's going — before reading any primary historical text. Everything in Part I then has a clear motivating question attached to it.
 
+> **What this module answers**
+> What is Sozialphilosophie — as distinct from political philosophy, moral philosophy, and empirical sociology — and what work does its central diagnostic category, "social pathology," do that no neighbouring concept can? The second orientation question: which of Jaeggi's three modes of critiquing capitalism — functional, moral, ethical — is a given critical claim operating in? Together these give you the map of where the tradition came from and where it is going, before you read a single primary historical text.
+
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
 | 0.1 | Robin Celikates & Rahel Jaeggi, *Sozialphilosophie: Eine Einführung* (2017) | [O*] | 12–15 | ~250 | The most efficient entry point into the entire field. Maps questions, methods, and positions from the standpoint of the current generation. Available only in German. |
@@ -111,6 +114,9 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 
 **Why this matters:** Honneth's recognition theory, Jaeggi's concept of immanent critique, and the entire Frankfurt tradition's understanding of social rationality are unintelligible without Hegel. The key ideas: freedom realised through social institutions (*Sittlichkeit*); self-consciousness as constitutively intersubjective (*Anerkennung*); immanent critique as measuring a social order against its own rational standards; and the method of "normative reconstruction" — reconstructing the rational content already implicit in existing institutions.
 
+> **What this module answers**
+> What does it mean to say that freedom is *actualised* through participation in rational social institutions, rather than exercised against them — and why does Hegel hold that abstract right and *Moralität* (the standpoint of individual morality) are insufficient forms of freedom on their own? Behind this stands the method the whole tradition inherits: what is "normative reconstruction," and how does it differ from both empirical description and external moral evaluation?
+
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
 | 1.1 | Frederick Neuhouser, *Foundations of Hegel's Social Theory: Actualizing Freedom* (2000) | [ES*] | 25–35 | ~300 | **Read first.** The best analytical reconstruction of Hegel's *Rechtsphilosophie* for non-specialists. ~300 pp. Reads Hegel as a social philosopher, not a metaphysician. Will save you enormous time on the primary text.<br>**Leads to:** 1.2 (RP — read with Neuhouser in hand). |
@@ -126,11 +132,15 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 > [!tip] Economist's note
 > Hegel's *Sittlichkeit* argument — that freedom is not the absence of constraint but is actualised through rational social institutions — runs directly against the libertarian-individualist concept of freedom that implicitly structures most economic modelling. The temptation will be to translate Hegel's claims into incentive-compatibility or mechanism-design language; resist this. The argument is that the *content* of freedom is constituted by institutional participation, not that institutions are instrumental to pre-given preferences. Neuhouser (1.1) is particularly good at making this clear. A productive bridge: Hegel's account of civil society (*bürgerliche Gesellschaft*) in §§182–256 of the *Rechtsphilosophie* contains a sophisticated analysis of market dynamics, the tendency toward inequality, and the role of corporations (*Korporationen*) as mediating institutions — you will recognise structural parallels to institutionalist economics, but the normative framework is entirely different.
 
-**Comprehension indicator:** After this module, you should be able to (a) explain why Hegel thinks abstract individual rights (*Moralität*) are insufficient for freedom and require institutional *Sittlichkeit*; (b) reconstruct the master-slave dialectic as an argument about the intersubjective constitution of self-consciousness; (c) state what "normative reconstruction" means methodologically and why it differs from both empirical description and external moral evaluation.
+> [!Note] Comprehension indicator
+> After this module, you should be able to (a) explain why Hegel thinks abstract individual rights (*Moralität*) are insufficient for freedom and require institutional *Sittlichkeit*; (b) reconstruct the master-slave dialectic as an argument about the intersubjective constitution of self-consciousness; (c) state what "normative reconstruction" means methodologically and why it differs from both empirical description and external moral evaluation.
 
 ### Module 2: Marx — Alienation, Ideology, and the Critique of Political Economy
 
 **Why this matters:** Marx is not merely a historical predecessor but an active reference point for Jaeggi, Fraser, and the ongoing debate about whether and how capitalism can be criticised from within. Jaeggi's alienation book is explicitly a rehabilitation of the Marxian concept. The critique of political economy — reading economic categories (commodity, value, money) as expressions of social relations — is the template for the Frankfurt tradition's approach to social analysis.
+
+> **What this module answers**
+> What is Marx's critique of political economy a critique *of* — the social forms (commodity, value, money) through which social relations are lived, or quantitative economic magnitudes — and why does that difference decide what the Frankfurt tradition takes from Marx? The test case is commodity fetishism: what kind of claim is it that social relations between persons appear as relations between things — a social-ontological claim about capitalism, or merely a psychological error?
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -146,16 +156,20 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 > [!tip] Economist's note
 > This is the module where your training is simultaneously the greatest asset and the greatest liability. You will understand the economic content of *Kapital* faster than a philosophy student — the labour theory of value, the reproduction schemes, the tendency of the rate of profit to fall are familiar territory, if only as heterodox positions. The danger is that this familiarity leads you to evaluate Marx's arguments *as economics*, which misses what the Frankfurt tradition takes from Marx entirely. What matters for Sozialphilosophie is not whether the labour theory of value is correct but what the *commodity-fetishism* passage reveals about the social-ontological structure of capitalism: social relations between persons appearing as relations between things. Heinrich (2.4) is explicitly designed to distinguish Marx's *critique* from his *economics* — pay close attention to his argument that the value-form, not labour-value as a quantitative magnitude, is the key analytical category.
 
-**Comprehension indicator:** After this module, you should be able to (a) state the four dimensions of alienation in the 1844 Manuscripts and explain why Jaeggi rejects the essentialist anthropology but retains the diagnostic category; (b) explain what "commodity fetishism" means as a social-ontological claim (not merely a psychological error); (c) distinguish Marx's critique of capitalism-as-social-form from a critique of capitalism-as-inefficient-allocation.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state the four dimensions of alienation in the 1844 Manuscripts and explain why Jaeggi rejects the essentialist anthropology but retains the diagnostic category; (b) explain what "commodity fetishism" means as a social-ontological claim (not merely a psychological error); (c) distinguish Marx's critique of capitalism-as-social-form from a critique of capitalism-as-inefficient-allocation.
 
 *Jaeggi 0.3 (Part 0) is best read before the Marx module — it shows where this tradition is heading.*
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *For the philosophical foundations of the neue Marx-Lektüre — the argument that Marx's critique targets the social forms (commodity, money, capital) rather than quantitative magnitudes — see Module 13, items 13.1 (Backhaus) and 13.2 (Reichelt). Read after Heinrich (2.4).*
 
 ### Module 3: Weber — Rationalisation, Verstehen, and the Disenchantment of the World
 
 **Why this matters:** Weber's diagnosis of modernity as a process of rationalisation that culminates in the "iron cage" (*stahlhartes Gehäuse*) is the problem statement that the entire Frankfurt School tries to answer. His methodological writings on *Verstehen*, ideal types, and value-freedom define the position Habermas and Honneth react against. You also need Weber to understand why Sozialphilosophie insists on normativity where Weberian social science demands value-neutrality.
+
+> **What this module answers**
+> Why is Weber's diagnosis of rationalisation — culminating in the iron cage (*stahlhartes Gehäuse*) — the *problem statement* the entire Frankfurt School tries to answer? And what exactly does *Wertfreiheit* (value-freedom) claim about social science, such that Sozialphilosophie's insistence on normativity is a considered rejection of Weber's position rather than a methodological lapse?
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -169,10 +183,14 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 > [!tip] Economist's note
 > Weber's methodological writings — particularly the "Objektivität" essay (3.2) — define the concept of value-freedom (*Wertfreiheit*) that is the implicit epistemological foundation of mainstream economics. The Frankfurt tradition's entire project is, in one sense, a sustained argument that Weber was wrong about value-freedom — or rather, that value-freedom is itself a normatively committed position. Your instinct will be to side with Weber here; the syllabus asks you to take seriously the possibility that he is wrong, and the Positivismusstreit (Module 5) is where the argument is joined most directly. A second bridge: Weber's ideal types have a structural resemblance to stylised models in economics — both are deliberate simplifications that sacrifice realism for analytical traction — but Weber insists that ideal types are *heuristic* rather than predictive, which puts them in a different epistemic category.
 
-**Comprehension indicator:** After this module, you should be able to (a) state Weber's distinction between *Zweckrationalität* and *Wertrationalität* and explain why the Frankfurt tradition treats the dominance of *Zweckrationalität* as a pathology; (b) explain why the "iron cage" (*stahlhartes Gehäuse*) of rationalisation is the *problem statement* the Frankfurt School tries to answer.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state Weber's distinction between *Zweckrationalität* and *Wertrationalität* and explain why the Frankfurt tradition treats the dominance of *Zweckrationalität* as a pathology; (b) explain why the "iron cage" (*stahlhartes Gehäuse*) of rationalisation is the *problem statement* the Frankfurt School tries to answer.
 
 ### Module 3A: Lukács — Reification and the Standpoint of Totality
 **Why this matters:** Georg Lukács's *Geschichte und Klassenbewußtsein* (1923) is the single most important mediating text between Hegel/Marx/Weber and the Frankfurt School. Lukács transforms Marx's analysis of commodity fetishism (*Kapital* ch. 1 §4, read in Module 2) and Weber's diagnosis of rationalisation (Module 3) into a *total* diagnosis of bourgeois consciousness: the reification (*Verdinglichung*) of social relations under capitalism is not merely an economic phenomenon but pervades the entire structure of modern thought, including science, law, and philosophy. The subject-object split characteristic of modern rationality is itself an expression of the commodity form. This is the argument Horkheimer and Adorno radicalise in the *Dialektik der Aufklärung* — their thesis that Enlightenment reverts to myth is a generalisation of Lukács's reification thesis beyond the capitalist mode of production. It is also the argument Habermas thinks he can rescue by relocating rationality in communicative action rather than in consciousness. Without Lukács, the transition from Marx and Weber to the first Frankfurt School has a missing step, and the concept of *Verdinglichung* as it recurs throughout the tradition — in Honneth's *Verdinglichung* (2005), in Berger & Luckmann, in Jaeggi's critique of Honneth's psychologisation of a structural phenomenon — lacks its proper genealogy.
+
+> **What this module answers**
+> What does it mean to say that the commodity form structures *consciousness* — that *Verdinglichung* pervades modern science, law, and philosophy, not only the economy — and how does Lukács get this total diagnosis out of Marx's fetishism analysis and Weber's rationalisation thesis? The follow-on question sets up the whole first Frankfurt School: why do Horkheimer and Adorno keep the reification diagnosis while abandoning its resolution — the proletariat as identical subject-object of history?
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -181,14 +199,18 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 
 **Module 3A total: 32–40 hours**
 
-**Comprehension indicator:** After this module, you should be able to (a) explain how Lukács transforms Marx's commodity fetishism and Weber's rationalisation into a *total* diagnosis of bourgeois consciousness (*Verdinglichung*); (b) state why Lukács thinks the proletariat occupies a privileged epistemic position (the "identical subject-object of history") and why the Frankfurt School abandons this claim; (c) trace the line from Lukács's reification to Honneth's *Verdinglichung* (2005) and explain what changes in the translation.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) explain how Lukács transforms Marx's commodity fetishism and Weber's rationalisation into a *total* diagnosis of bourgeois consciousness (*Verdinglichung*); (b) state why Lukács thinks the proletariat occupies a privileged epistemic position (the "identical subject-object of history") and why the Frankfurt School abandons this claim; (c) trace the line from Lukács's reification to Honneth's *Verdinglichung* (2005) and explain what changes in the translation.
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Backhaus's value-form analysis (Module 13 item 13.1) clarifies with greater analytical precision what Lukács was reaching for in the reification essay: the commodity form as a total social form structuring consciousness. Kosík's Dialektik des Konkreten (Appendix C item C.12) develops the Lukácsian project from a phenomenological direction.*
 
 ### Module 4: The First Frankfurt School — Critical Theory as Programme
 
 **Why this matters:** This is the direct institutional and intellectual predecessor. The key move you need to understand: combining Marx's critique of political economy with Weber's diagnosis of rationalisation, Lukács's theory of reification, and (in Adorno/Horkheimer) psychoanalytic theory to explain why emancipation failed — why Enlightenment reason dialectically produced domination. The first Frankfurt School also establishes the distinctive *method* of Sozialphilosophie: immanent critique, ideology critique, diagnosis of social pathology.
+
+> **What this module answers**
+> What makes theory *critical* rather than traditional — and why did the first Frankfurt School conclude that Enlightenment reason itself dialectically produces domination? Grasping "Enlightenment reverts to myth" as a structural argument about instrumental reason, not a slogan, is what decides whether Adorno's negativism — identifying what is wrong without a positive account of the right — is a coherent normative position or the dead end Habermas judged it to be.
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -213,17 +235,21 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 > [!tip] Economist's note
 > The *Dialektik der Aufklärung* (4.2) will feel alien — deliberately anti-systematic, aphoristic, and resistant to the kind of propositional summary economists are trained to produce. This is not a deficiency but a method: Adorno and Horkheimer argue that the very demand for systematic, instrumentally rational argumentation is part of the pathology they are diagnosing. You need not accept this claim, but you must understand it to engage with the Adornian wing of the tradition (Freyenhagen, Menke, Allen's use of Benjamin). A productive bridge: Marcuse's *One-Dimensional Man* (4.9) is structurally closer to what you are used to — it is a thesis-driven book with identifiable empirical claims about technology, productivity, and consumer behaviour. Start with Marcuse if you want a foothold before entering the more demanding Adorno/Horkheimer texts.
 
-**Comprehension indicator:** After this module, you should be able to (a) state what makes theory "critical" in Horkheimer's 1937 sense (and how this differs from Popperian critical rationalism); (b) explain the thesis that "Enlightenment reverts to myth" — not as a slogan but as a structural argument about instrumental reason; (c) distinguish Adorno's negativism (we can identify what is wrong without a positive theory of the good) from Habermas's later constructive turn.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state what makes theory "critical" in Horkheimer's 1937 sense (and how this differs from Popperian critical rationalism); (b) explain the thesis that "Enlightenment reverts to myth" — not as a slogan but as a structural argument about instrumental reason; (c) distinguish Adorno's negativism (we can identify what is wrong without a positive theory of the good) from Habermas's later constructive turn.
 
-*Note on Bildung: Adorno's "Theorie der Halbbildung" (1959, Appendix H item H.6.1) is a natural companion to items 4.2–4.5 — it applies the Dialektik der Aufklärung argument specifically to education and cultural formation. If the question of how social pathologies reproduce themselves through the formation of persons interests you, read it alongside or immediately after this module.*
+> Note on Bildung: Adorno's "Theorie der Halbbildung" (1959, Appendix H item H.6.1) is a natural companion to items 4.2–4.5 — it applies the Dialektik der Aufklärung argument specifically to education and cultural formation. If the question of how social pathologies reproduce themselves through the formation of persons interests you, read it alongside or immediately after this module.*
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *For the argument that Adorno's critique of identity-thinking and Marx's critique of the commodity form are structurally homologous, see Module 13 item 13.2 (Reichelt). Read after 4.6–4.6. For Gramsci's concept of hegemony as a complementary account to Marcuse's one-dimensional thought — Gramsci provides the institutional mechanism, Marcuse the experiential-psychological diagnosis — see Module 13, items 13.3–13.4.*
 
 *Bonus reading — Hegel, Phänomenologie ch. VI (Geist): This is the optimal point to read the *Phänomenologie*'s social-historical core ([Appendix I.4.2](#i42-phänomenologie-des-geistes), item I.4.2.2; ~30–40h). Lukács's reification (Module 3A) is a Marxist reworking of Phän. VI.B, and Adorno's negative dialectics (4.6–4.7) presupposes the Hegelian dialectic ch. VI enacts — so the surrounding context here makes it maximally productive. It is the one substantial slice of deep Hegel the triage recommends scheduling into the core path; treat it as optional bonus reading during a lighter stretch, not a blocking dependency. Start on the* Einleitung *(I.4.2.1), not the* Vorrede.
 
 ### Module 4A: Pragmatism — Inquiry, Problem-Solving, and Democratic Life
 **Why this matters:** Jaeggi's *Kritik von Lebensformen* — the most important systematic contribution in recent Sozialphilosophie — is built on a Deweyan architecture. Her claim that forms of life are rationally evaluable by whether they successfully process the problems they generate is an adaptation of Dewey's experimentalist epistemology and social philosophy. Without reading Dewey, you will *recognise* this structure in Jaeggi but not *understand* its philosophical motivation, its strengths, or its vulnerabilities (which is precisely where Amy Allen's critique bites: is problem-solving inherently progressive?). Hans Joas's *Die Kreativität des Handelns* is the key bridging text between pragmatism and German social theory — it reconstructs what Habermas and Honneth take from Mead and what they miss, and it motivates Jaeggi's departures from both.
+
+> **What this module answers**
+> Why is Jaeggi's claim that forms of life are rationally evaluable by how they process the problems they generate a *Deweyan* claim — and what do you need from Dewey's experimentalist account of inquiry and Mead's social constitution of the self to *understand*, rather than merely recognise, the architecture of *Kritik von Lebensformen* and *Kampf um Anerkennung* when you reach them? Joas is the bridge: what do Habermas and Honneth take from Mead, and what do they miss?
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -238,10 +264,14 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 > [!tip] Economist's note
 > Dewey's *The Public and Its Problems* (4A.1) will be one of the more immediately accessible texts on the syllabus for an economist. Dewey's concept of "inquiry" has structural similarities to adaptive learning models: agents encounter indeterminate situations, form hypotheses, test them through intervention, and update. Jaeggi's problem-solving model (Module 8) maps directly onto this. The key difference — and the point where your economic intuitions need recalibration — is that for Dewey (and Jaeggi), the "problems" are not given exogenously but are constituted by the form of life itself, and "solutions" transform the problem-space rather than optimising within it. This is closer to Kuhnian paradigm shifts than to Bayesian updating.
 
-**Comprehension indicator:** After this module, you should be able to (a) explain Dewey's concept of "publics" as constituted by the indirect consequences of action (and why this differs from a social-choice-theoretic aggregation of preferences); (b) state Joas's critique of both rational-choice and Habermasian action models and what his "creativity of action" adds; (c) identify the specific Deweyan architecture in Jaeggi's *Kritik von Lebensformen* when you reach it.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) explain Dewey's concept of "publics" as constituted by the indirect consequences of action (and why this differs from a social-choice-theoretic aggregation of preferences); (b) state Joas's critique of both rational-choice and Habermasian action models and what his "creativity of action" adds; (c) identify the specific Deweyan architecture in Jaeggi's *Kritik von Lebensformen* when you reach it.
 
 ### Module 5: The Positivismusstreit, the Hermeneutics Debate, and Habermas's Epistemological Turn
 **Why this matters:** This module covers the two major methodological confrontations that shaped Habermas's position and, through him, the entire later Frankfurt tradition. The *Positivismusstreit* is the explicit confrontation between Critical Theory and positivist philosophy of science — the debate about whether social science can and should be value-free. The *Habermas–Gadamer debate* is the confrontation between Critical Theory and philosophical hermeneutics — the question of whether understanding (*Verstehen*) is inherently tradition-bound (Gadamer) or can be critically transcended through the analysis of ideology (Habermas). Together, these debates define the epistemological space in which Sozialphilosophie operates: against positivism (social inquiry is not value-free), but also against a purely hermeneutic self-understanding (understanding tradition is not enough — critique must be able to go *beyond* what participants already understand). Habermas's *Erkenntnis und Interesse* is the epistemological foundation for the claim that critical social theory constitutes a legitimate, distinctive form of knowledge.
+
+> **What this module answers**
+> Can social science be value-free — and can understanding (*Verstehen*) transcend the tradition it stands in? The *Positivismusstreit* and the Habermas–Gadamer debate together define the epistemological space in which Sozialphilosophie operates: against positivism (social inquiry is not value-free), but also against a purely hermeneutic self-understanding (critique must be able to go beyond what participants already understand). *Erkenntnis und Interesse* is the module's systematic answer: the argument that critical social theory is a legitimate, distinctive form of knowledge.
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -256,7 +286,8 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 > [!tip] Economist's note
 > This is the module most directly relevant to your methodological self-understanding as a social scientist. The *Positivismusstreit* is, at bottom, a debate about whether what you do as an economist — build models, test hypotheses, maintain methodological separation between positive and normative analysis — constitutes the only legitimate form of social knowledge, or whether there is a distinct form of *critical* knowledge that is irreducible to empirical-analytic science. You will feel the pull of the positivist side strongly. The Frankfurt position is not that empirical science is wrong but that it is *incomplete*: it cannot, on its own terms, identify the normative distortions built into the social structures it studies, because its method requires treating those structures as given. Habermas's three knowledge-constitutive interests (technical, practical, emancipatory) in *Erkenntnis und Interesse* (5.2) is the argument you need to engage with most seriously.
 
-**Comprehension indicator:** After this module, you should be able to (a) state Habermas's three knowledge-constitutive interests and the corresponding forms of science; (b) explain why Adorno thinks value-freedom in social science is impossible (not merely undesirable); (c) state Gadamer's concept of *Wirkungsgeschichte* and explain why Habermas thinks hermeneutic understanding must be supplemented by explanatory social theory.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state Habermas's three knowledge-constitutive interests and the corresponding forms of science; (b) explain why Adorno thinks value-freedom in social science is impossible (not merely undesirable); (c) state Gadamer's concept of *Wirkungsgeschichte* and explain why Habermas thinks hermeneutic understanding must be supplemented by explanatory social theory.
 
 **PART I TOTAL: ~394–523 hours (core without [NE]: ~354–473 hours). Second-revision net: +8–12h (Khurana 1.7 [O] in Module 1) + 2–3h (Pollock 4.3 [ES] in Module 4) ≈ +10–15h. [2026-07-13 coverage-audit net: +8–10h (1.4) + 6–8h (2.2) = +14–18h propagated; 4.4 Neumann conditional, excluded.]**
 
@@ -269,6 +300,9 @@ The goal here is not mastery of Hegel or Marx for their own sake, but a working 
 **Why this matters:** Habermas is the pivot between the first Frankfurt School and the current generation. His central move: shifting the normative foundation of critical theory from the philosophy of consciousness (*Bewusstseinsphilosophie*) to a theory of communicative action (*kommunikatives Handeln*). Normativity is grounded not in a pre-social human essence (Marx) or in the self-reflection of reason (Adorno) but in the pragmatic presuppositions of linguistic understanding — whenever we communicate, we implicitly raise and recognise validity claims (truth, rightness, sincerity) whose redemption presupposes rational discourse. The "colonisation of the Lebenswelt" thesis — that systemic media (money, administrative power) distort communicatively structured domains of life — is the mature Frankfurt School diagnosis of modernity's pathology.
 
 Understanding Habermas is essential because Honneth's recognition theory is explicitly a *correction* of Habermas (recognition, not communication, is the more fundamental normative category), and Jaeggi's work can be read as an attempt to overcome limitations in *both* Habermas and Honneth.
+
+> **What this module answers**
+> Once critical theory abandons the philosophy of consciousness, where does the normativity that grounds social critique come from — and can it really be located in the validity claims we implicitly raise whenever we communicate? The diagnostic payoff is the colonisation thesis: what exactly goes wrong when systemic media (money, administrative power) reorganise communicatively structured domains of life — and why is this the mature Frankfurt-School statement of modernity's pathology?
 
 **Revision note:** The original module assigned 120–155 hours. This version compresses to ~65–82 hours on the core path by using McCarthy and Outhwaite for the architecture, reading the essential TKH chapters closely, and treating the reconstructive middle sections as reference material.
 
@@ -292,14 +326,18 @@ Understanding Habermas is essential because Honneth's recognition theory is expl
 > [!tip] Economist's note
 > Habermas's system/Lebenswelt distinction (6.5) will have immediate resonance for an economist: the "system" side (money, administrative power, functional integration) describes approximately what economists model, while the "Lebenswelt" side (communicative action, normative consensus, social integration) describes what economists typically treat as exogenous or ignore. The colonisation thesis — that systemic media *distort* communicatively structured domains — is the philosophical articulation of a concern you may recognise in debates about the financialisation of healthcare, education, or family life. The productive friction: Habermas treats money and power as inherently non-normative "steering media," whereas an economist might argue that market prices *communicate* information (Hayek) and that monetary exchange can be *normatively appropriate* in many domains. This is precisely the disagreement Honneth's *Das Recht der Freiheit* (Module 7) tries to address with its normative reconstruction of the market.
 
-**Comprehension indicator:** After this module, you should be able to (a) state the distinction between strategic and communicative action and explain why Habermas thinks communicative action is normatively more fundamental; (b) explain the colonisation thesis — how systemic imperatives distort the Lebenswelt — with a concrete example; (c) state why Honneth thinks Habermas's framework is too abstract and needs to be grounded in pre-theoretical experiences of recognition.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state the distinction between strategic and communicative action and explain why Habermas thinks communicative action is normatively more fundamental; (b) explain the colonisation thesis — how systemic imperatives distort the Lebenswelt — with a concrete example; (c) state why Honneth thinks Habermas's framework is too abstract and needs to be grounded in pre-theoretical experiences of recognition.
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Márkus's Language and Production (Appendix C item C.11) is the most philosophically rigorous challenge to Habermas's paradigm shift from production to communication. Márkus argues — from within the Marxist tradition, as a student of Lukács — that Habermas's dichotomy between instrumental and communicative action misrepresents Marx's concept of production, which already contains a communicative and expressive dimension. Read after TKH Bd. 1 ch. I (6.3).*
 
 ### Module 7: Honneth — Recognition as the Normative Grammar of Social Life
 
 **Why this matters:** Honneth's fundamental claim is that Habermas located normativity at too abstract a level (the presuppositions of discourse). The more basic normative structure of social life is **recognition** (*Anerkennung*): humans develop intact self-relations (self-confidence, self-respect, self-esteem) only through being recognised by others in three spheres — love (intimate relations), rights (legal equality), and solidarity (social esteem for one's distinctive contributions). Social pathologies are forms of systematic *Missachtung* (disrespect, denial of recognition). This provides the normative criterion for critical social philosophy without requiring the demanding rationalist apparatus of discourse ethics.
+
+> **What this module answers**
+> Is recognition, rather than communication, the fundamental normative structure of social life — such that social pathologies can be diagnosed as systematic forms of *Missachtung*? And can Honneth's method of normative reconstruction be defended against its two standing objections: that recognition cannot subsume the injustices of material distribution (Fraser), and that reconstructing the normative content of existing institutions merely rationalises them?
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -339,16 +377,20 @@ Item-level hour additions across the three revisions: –25–35h (Khurana 7.15 
 > [!tip] Economist's note
 > Module 7 is where your professional identity most directly converts into Phase III publication terrain. Three specific leverage points: (a) **7.5 *Recht der Freiheit*** market chapter is the methodological specimen the Craft Block re-reads as W2.1 — dissect its argumentative architecture with an economist's eye; the audit-grade question is whether normative reconstruction survives contact with how markets actually work. (b) **7.19 *Der arbeitende Souverän* (2023)** is the natural docking point for an ECB-economist Phase III piece within Module 7; conditional-MUST per [importance_tiers.md §4](importance_tiers.md) if Phase III commits to work/recognition/democratic-Sittlichkeit terrain. (c) **The methodological-gap triangle 7.5 ↔ 7.22 Jütten ↔ 7.23 Neuhouser** tests whether Honneth's normative reconstruction of market exchange can be defended against the empirical economics of how markets actually function. (7.22 + 7.23 are Module 7 items — they assess Honneth — and the execution plan schedules them in the Module 7 window, right after the *Markt* chapter 7.5, as its pressure-test.) Three hazards to flag: (i) "rational" in Honneth's account is Hegelian-actualisation-of-freedom, not optimisation; (ii) the Fraser–Honneth disagreement (7.3 + 7.4) is *not* about whether economic factors matter but about whether they reduce to recognition-categories — keep the disagreement at the right level of abstraction; (iii) Forst's right-to-justification (7.7) is a *Kantian-constructivist* alternative to Honneth's *Hegelian-reconstructivist* method, and the choice between them is downstream of how much weight you give to historical institutions vs. transcendentally-derived norms.
 
-**Comprehension indicator:** After this module, you should be able to (a) state Honneth's three spheres of recognition (love, rights, solidarity), the corresponding self-relations (self-confidence, self-respect, self-esteem), and the corresponding forms of *Missachtung*; (b) explain the Fraser-Honneth debate — why Fraser thinks recognition cannot subsume redistribution, and why Honneth thinks it can; (c) articulate Honneth's method of "normative reconstruction" (*normative Rekonstruktion*) in *Das Recht der Freiheit* and identify at least one point where it is vulnerable to the objection that it merely rationalises existing institutions; (d) explain why Forst thinks justification rather than recognition is the more fundamental normative concept.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state Honneth's three spheres of recognition (love, rights, solidarity), the corresponding self-relations (self-confidence, self-respect, self-esteem), and the corresponding forms of *Missachtung*; (b) explain the Fraser-Honneth debate — why Fraser thinks recognition cannot subsume redistribution, and why Honneth thinks it can; (c) articulate Honneth's method of "normative reconstruction" (*normative Rekonstruktion*) in *Das Recht der Freiheit* and identify at least one point where it is vulnerable to the objection that it merely rationalises existing institutions; (d) explain why Forst thinks justification rather than recognition is the more fundamental normative concept.
 
 *Honneth 0.2 (Part 0) is essential preliminary for this module.*
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Agnes Heller's theory of radical needs (Appendix C, items C.9–C.10) develops a normative criterion for social critique that parallels and in some cases anticipates Honneth's recognition theory: needs generated by capitalism that capitalism cannot satisfy provide the basis for immanent critique. Heller was Lukács's most philosophically ambitious student, and her work represents the road not taken — what Frankfurt-style critical theory might look like if developed through Lukács and the Budapest School rather than through Habermas.*
 
 ### Module 8: Jaeggi — Alienation, Forms of Life, and Immanent Critique
 
 **Why this matters:** Jaeggi represents the current cutting edge. Her innovations: (a) rehabilitating the concept of alienation without relying on a fixed human essence; (b) developing a framework for the rational critique of forms of life (*Lebensformen*) that avoids both liberal neutrality ("forms of life are beyond rational evaluation") and perfectionism ("there is one correct way to live"); (c) a **problem-solving** account of social rationality with structural analogies to pragmatist epistemology — forms of life are rational to the extent they successfully process the problems they generate, and pathological when they systematically fail to do so or block their own learning processes.
+
+> **What this module answers**
+> Can forms of life be rationally criticised without either a fixed human essence or a perfectionist standard of the one correct way to live? Jaeggi's problem-solving model is the current tradition's answer — forms of life are rational to the extent they process the problems they generate — and the module's live questions are whether "pathology" can be given analytical precision as a second-order blockage of social learning (Zurn), and whether the model smuggles in a progressive philosophy of history (Allen).
 
 **Cross-reference:** Read Module 4A (especially 4A.1 and 4A.2) before or alongside *Kritik von Lebensformen*. Jaeggi's chs. 8–10 are substantially more transparent once you have Dewey's *The Public and Its Problems* and Joas's action theory in hand.
 
@@ -371,9 +413,10 @@ Item-level hour additions across the three revisions: –25–35h (Khurana 7.15 
 > [!tip] Economist's note
 > Jaeggi's problem-solving model will feel like the most natural entry point in the entire syllabus: forms of life are evaluated by whether they process the problems they generate, and pathological when they systematically fail. This has a structural resemblance to adaptive efficiency or institutional fitness arguments in institutional economics (North, Acemoglu). Two hazards: (1) Jaeggi's "problems" are not exogenous shocks but *contradictions internal to the form of life itself* — the closest economic analogue is an endogenous crisis model, not an impulse-response framework; (2) Jaeggi explicitly rejects the idea that there is a stable welfare criterion against which solutions can be measured — the criterion is transformed by the solution, which is why she calls it "problem-solving" rather than "optimisation." Jütten's article (7.22) on whether the market is a sphere of social freedom, and Neuhouser's (7.23) on the gap between normative reconstruction and empirical social science — both Module 7 (Honneth) items, read right after 7.5 *Markt* — most directly engage your professional competence: read them with the question: could an economist show that Honneth's normative reconstruction of the market fails to survive contact with how markets actually work?
 
-**Comprehension indicator:** After this module, you should be able to (a) explain Jaeggi's concept of alienation as a "relation of relationlessness" (*Beziehung der Beziehungslosigkeit*) and why it does not require a fixed human essence; (b) reconstruct the problem-solving model: what it means for a form of life to "solve" or "fail to solve" its problems, and how this generates a non-relativist but non-perfectionist criterion of evaluation; (c) state Zurn's distinction between first-order social problems and second-order pathologies; (d) articulate Allen's critique — that the problem-solving model implicitly presupposes a progressive philosophy of history — and identify where it bites.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) explain Jaeggi's concept of alienation as a "relation of relationlessness" (*Beziehung der Beziehungslosigkeit*) and why it does not require a fixed human essence; (b) reconstruct the problem-solving model: what it means for a form of life to "solve" or "fail to solve" its problems, and how this generates a non-relativist but non-perfectionist criterion of evaluation; (c) state Zurn's distinction between first-order social problems and second-order pathologies; (d) articulate Allen's critique — that the problem-solving model implicitly presupposes a progressive philosophy of history — and identify where it bites.
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Three connections (Module 13 / Appendix C) to this module: (1) If forms of life can be pathological without their inhabitants recognising the pathology, what mechanism stabilises this non-recognition? Gramsci's concept of hegemony (Module 13 items 13.3–13.4) fills a gap in Jaeggi's framework. (2) For a third definition of capitalism — through social property relations rather than through functional logic (Jaeggi) or institutional boundaries (Fraser) — see Brenner (Appendix C item C.6). (3) Heller's theory of "radical needs" (Appendix C item C.9) provides a Marxist-humanist alternative to Jaeggi's problem-solving model as a criterion for diagnosing social pathology.*
 
 ### Module 8A: Außereuropäische Kritik der Moderne — Postkolonial, Dekolonial, Black Radical
@@ -384,6 +427,9 @@ Item-level hour additions across the three revisions: –25–35h (Khurana 7.15 
 - **Black radical** tradition (Robinson, Wilderson, Hartman, Mbembe) operates at the structural level: racial capitalism (Robinson) and anti-Black ontology (Wilderson) are not pathologies *within* modernity but constitutive of its form. Wilderson's Afropessimism poses the sharpest test: if anti-Blackness is ontological rather than relational, no recognition-based remedy can address it.
 
 Allen's *End of Progress* (8.6) opens this challenge within Frankfurt-school circles but draws primarily on Chakrabarty. Fraser's *Cannibal Capitalism* (Module 14 item 14.3) explicitly engages racial capitalism. Neither alone is sufficient: the full force of the challenge requires reading these traditions in their own voice. This module is treated as Part II "Systematic Core" rather than Part III "Instrumental Readings" because the challenge is type-(b) external — not a resource for doing Sozialphilosophie better, but a contest over whether the Frankfurt project's normative ambitions can be sustained at all.
+
+> **What this module answers**
+> Can the Frankfurt tradition's project of immanent critique be sustained when its presupposed "we" is shown to be racially and colonially structured — not contingently, but constitutively? Three traditions answer at increasing levels of severity. After this module you should be able to (a) state the difference between postcolonial and decolonial critique and explain why decolonials reject European theory's salvageability; (b) reconstruct Robinson's racial-capitalism thesis and identify where it bites against the Frankfurt-line Marx reading (Module 2, Module 3A); (c) articulate Wilderson's ontological claim and evaluate whether it can be addressed within a recognition-theoretic framework or requires its abandonment.
 
 **Internal structure:** Sub-section A (postkolonial + dekolonial) and Sub-section B (Black radical) can be read sequentially or in parallel. Robinson (8A.7) has Quijano (8A.4) as soft prerequisite for the racial-capitalism framing; otherwise the sequencing is flexible.
 
@@ -400,9 +446,6 @@ Allen's *End of Progress* (8.6) opens this challenge within Frankfurt-school cir
 | 8A.9 | Achille Mbembe, *Critique de la raison nègre* (Paris: La Découverte, 2013; English: *Critique of Black Reason*, Duke UP, 2017), Introduction + chs. 1, 6 | [O] | 5–8 | ~100 | More accommodating to European critical theory than Wilderson, but still decisively external. Mbembe traces the figure of "the Negro" (*le nègre*) as a category of European philosophical thought and the contemporary "becoming-Black of the world" — the generalisation of conditions historically reserved for racialised others. Read alongside Robinson; provides the philosophical-historical infrastructure Wilderson presupposes but does not develop. ~100 pp. selection. |
 
 **Module 8A total: 48–73 hours (core [P]+[ES]: 35–52 hours; with [O] full: 48–73 hours)** **[REVISED 2026-07-13 (coverage audit): +5–8h 8A.6 Fanon [P]; 8A.5 Mignolo demoted [ES] → [O], hour column 6–8 → 3–5.]**
-
-> [!question] What this module answers
-> Can the Frankfurt tradition's project of immanent critique be sustained when its presupposed "we" is shown to be racially and colonially structured — not contingently, but constitutively? Three traditions answer at increasing levels of severity. After this module you should be able to (a) state the difference between postcolonial and decolonial critique and explain why decolonials reject European theory's salvageability; (b) reconstruct Robinson's racial-capitalism thesis and identify where it bites against the Frankfurt-line Marx reading (Module 2, Module 3A); (c) articulate Wilderson's ontological claim and evaluate whether it can be addressed within a recognition-theoretic framework or requires its abandonment.
 
 > [!tip] Economist's note
 > Robinson's racial-capitalism thesis (8A.7) is the most economically substantive item in this module. The claim that capitalism was racial *from its origins* is not a moralised gloss on standard economic history; it is a *structural-historical* argument with empirical content — that the early modern Atlantic system's labour regimes, primitive accumulation, and forms of dispossession cannot be analytically separated from racial differentiation. This is the bridge between the Brenner (Appendix C item C.6) social-property-relations definition of capitalism and Fraser's expanded conception (Module 14 item 14.3). For the economist reading: the testable disagreement is whether racial differentiation is causally upstream of capitalist development (Robinson), downstream (the Brenner "core" Marxist line), or constituted by it in non-decomposable form (Fraser-Bhattacharya).
@@ -422,6 +465,10 @@ These readings are selected for their direct relevance to doing Sozialphilosophi
 
 **Why this matters for Sozialphilosophie:** The critical-theory tradition claims that social arrangements can be diagnosed as pathological. But this claim raises epistemological questions: Who has epistemic access to social pathology? Can subjects' own self-understandings be trusted, or might they be ideologically distorted? Does the critical theorist have privileged epistemic access, and if so, on what basis?
 
+> **What this module answers**
+> If critical theory diagnoses social pathologies that participants may not recognise as pathologies, what epistemological warrant does the theorist have for overriding participants' self-understandings — and what happens to the critical project if no such warrant exists? This is the *epistemic authority* problem, and it is the most fundamental challenge to the Frankfurt tradition's coherence. Celikates (9.3) offers the most developed answer within the tradition: take seriously agents' own critical capacities rather than assuming a gap between false consciousness and correct theory.
+
+
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
 | 9.1 | Karl Mannheim, *Ideologie und Utopie* (1929), Part I ("Ideologie und Utopie") | [P] | 12–15 | ~100 | The founding text of *Wissenssoziologie*. All thought is socially situated (*Seinsverbundenheit des Denkens*). Raises the problem Habermas, Honneth, and Celikates all grapple with: if knowledge is socially conditioned, how can critique claim to be more than the expression of a particular social position?<br>**Leads to:** 9.3 (Celikates — the tradition's most developed answer to the epistemic-authority problem Mannheim bequeaths). |
@@ -437,17 +484,18 @@ These readings are selected for their direct relevance to doing Sozialphilosophi
 
 **Module total: 97–133 hours (core [P]+[ES]: 89–125 hours; second-revision net: Vogelmann demoted [P]→[ES] –6–7h, Harding demoted [ES]→[O] –6–7h)**
 
-> [!question] What this module answers
-> If critical theory diagnoses social pathologies that participants may not recognise as pathologies, what epistemological warrant does the theorist have for overriding participants' self-understandings — and what happens to the critical project if no such warrant exists? This is the *epistemic authority* problem, and it is the most fundamental challenge to the Frankfurt tradition's coherence. Celikates (9.3) offers the most developed answer within the tradition: take seriously agents' own critical capacities rather than assuming a gap between false consciousness and correct theory.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state Fricker's distinction between testimonial and hermeneutical injustice and explain why hermeneutical injustice is directly usable as a mechanism for rendering social pathology invisible; (b) explain Celikates's concept of "lay normativity" and how it resolves the tension between respecting agents' self-understandings and diagnosing ideology; (c) articulate the difference between Mannheim's *Wissenssoziologie* (all thought is socially situated) and the Frankfurt tradition's ideology critique (some social situatedness is distorting) — and explain why this difference matters for the epistemological status of critical theory itself.
 
-**Comprehension indicator:** After this module, you should be able to (a) state Fricker's distinction between testimonial and hermeneutical injustice and explain why hermeneutical injustice is directly usable as a mechanism for rendering social pathology invisible; (b) explain Celikates's concept of "lay normativity" and how it resolves the tension between respecting agents' self-understandings and diagnosing ideology; (c) articulate the difference between Mannheim's *Wissenssoziologie* (all thought is socially situated) and the Frankfurt tradition's ideology critique (some social situatedness is distorting) — and explain why this difference matters for the epistemological status of critical theory itself.
-
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Althusser's ISA essay (Module 13 item 13.5) is the sharpest formulation of the problem Jaeggi's ideology-critique essay (9.4) tries to solve: if ideology constitutes subjects rather than distorting pre-existing consciousness, where does the standpoint for critique come from? Celikates's concept of "lay normativity" (9.3) is implicitly a response to the Althusserian challenge.*
 
 ### Module 10: Philosophy of Social Science — Explanation, Causation, and the Place of Values
 
 **Why this matters for Sozialphilosophie:** Sozialphilosophie makes claims about social reality that must somehow relate to what empirical research discovers. Understanding the philosophy of social science helps you think about how normative-diagnostic claims relate to causal-explanatory claims.
+
+> **What this module answers**
+> How do the Frankfurt tradition's normative-diagnostic claims ("this social arrangement is pathological") relate to the kind of causal-explanatory claims that empirical social science produces? Can pathology-diagnosis be *combined with* causal explanation, or does it require a fundamentally different kind of knowledge?
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -460,13 +508,11 @@ These readings are selected for their direct relevance to doing Sozialphilosophi
 
 **Module total: 26–36 hours (core without [NE]: 26–36 hours)** **[REVISED 2026-07-13 (coverage audit): 10.1 Hollis demoted to Orientation skim, hour column 12–15 → 5–6; frees ~7–9h for 7.24 Herzog.]**
 
-> [!question] What this module answers
-> How do the Frankfurt tradition's normative-diagnostic claims ("this social arrangement is pathological") relate to the kind of causal-explanatory claims that empirical social science produces? Can pathology-diagnosis be *combined with* causal explanation, or does it require a fundamentally different kind of knowledge?
-
 > [!tip] Economist's note
 > This is your home territory — but seen from a different angle. Woodward's interventionism (10.2) will feel familiar (it is the philosophical underpinning of the potential-outcomes framework). Taylor's "Interpretation and the Sciences of Man" (10.3) is described in the syllabus as "one of the most provocative things an economist can read in philosophy" — and it is. Taylor argues that the interpretive dimension of social phenomena (the meanings agents attach to their actions) is not eliminable through better measurement or more sophisticated econometrics, because meaning is *constitutive* of the phenomena, not merely accompanying them. The implication: DSGE models that treat expectations as variables within a formal system may be systematically missing something about what expectations *are*. You need not accept Taylor's argument, but understanding it will sharpen your sense of what the Frankfurt tradition means by insisting on *Verstehen* alongside *Erklären*.
 
-**Comprehension indicator:** After this module, you should be able to (a) state the interventionist account of causation and explain how it relates to the credibility revolution in economics; (b) reconstruct Taylor's argument that social phenomena are "constituted" by meanings in a way that natural phenomena are not; (c) articulate the position the Frankfurt tradition occupies in the Erklären/Verstehen debate — neither pure interpretation nor pure causal explanation but their integration.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state the interventionist account of causation and explain how it relates to the credibility revolution in economics; (b) reconstruct Taylor's argument that social phenomena are "constituted" by meanings in a way that natural phenomena are not; (c) articulate the position the Frankfurt tradition occupies in the Erklären/Verstehen debate — neither pure interpretation nor pure causal explanation but their integration.
 
 ### Modules 11A–11D: Rival Paradigms — Challenges to the Frankfurt Tradition's Method and Self-Understanding
 
@@ -474,6 +520,9 @@ The following four modules each present a major alternative framework that conte
 
 ### Module 11A: Foucault and the Analytics of Power
 **Why this matters:** Foucault's analytics of power is a standing challenge to the Frankfurt tradition. Habermas distinguishes legitimate communicative power from illegitimate systemic colonisation; Honneth distinguishes recognition from misrecognition. Foucault denies that power can be neatly separated into legitimate and illegitimate forms — power is productive, not merely repressive, and it operates through the constitution of subjects, not against pre-given subjects. This challenge shapes: Forst's concept of "noumenal power"; Allen's *The End of Progress* (which draws on Foucault's genealogy as an alternative to Frankfurt-style developmental narratives); and the broader debate about whether critical theory needs a genealogical or a reconstructive method.
+
+> **What this module answers**
+> Can the Frankfurt tradition's distinction between legitimate normativity and illegitimate power survive Foucault's argument that power is *constitutive* of subjects and norms, not merely a distortion of them? If Foucault is right, the concepts of "recognition" and "communicative rationality" are themselves effects of power rather than standpoints from which power can be evaluated.
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -485,14 +534,14 @@ The following four modules each present a major alternative framework that conte
 
 **Module 11A total: 17–23 hours (core); 30–40 hours (with [RS])** **[2026-07-13: 11A.5 *Naissance de la biopolitique* [P] +5–7h is COULD-Orientation conditional (Layer-0 headroom) — not in the baseline figures; promotes if a technocracy/neoliberalism angle fires at R5.]**
 
-> [!question] What this module answers
-> Can the Frankfurt tradition's distinction between legitimate normativity and illegitimate power survive Foucault's argument that power is *constitutive* of subjects and norms, not merely a distortion of them? If Foucault is right, the concepts of "recognition" and "communicative rationality" are themselves effects of power rather than standpoints from which power can be evaluated.
-
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Foucault's concept of subject-constitution through power descends from Althusser's theory of interpellation (Module 13 item 13.5). Reading the ISA essay before Surveiller et punir (11A.1) makes the genealogy visible.*
 
 ### Module 11B: Luhmann and Systems Theory — The Rival Paradigm
 **Why this matters for Sozialphilosophie:** Niklas Luhmann's systems theory is the most powerful alternative to the Frankfurt tradition within German social theory. The Habermas–Luhmann debate (early 1970s) is one of the two defining methodological confrontations of postwar German sociology (the other being the *Positivismusstreit*). Habermas's *Theorie des kommunikativen Handelns* is partly written *against* Luhmann: Habermas insists that social integration must be grounded in communicative action and the normativity of the Lebenswelt, precisely because Luhmann argues that modern functionally differentiated societies operate through self-referential systems (economy, law, politics, science) that are normatively "blind" — they process information according to their own binary codes (payment/non-payment, legal/illegal, etc.) without reference to a shared lifeworld of intersubjective meaning. If Luhmann is right, the Frankfurt tradition's attempt to ground social critique in communicative rationality or recognition is, at best, a self-description of one functional system (science or politics) mistaking itself for the standpoint of the whole. You need not become a systems theorist, but you need enough command to understand why the Frankfurt tradition takes the shape it does — much of it is a sustained response to the systems-theoretic challenge.
+
+> **What this module answers**
+> Is the Frankfurt tradition's insistence on normativity — that social critique requires a normative standpoint — a deep philosophical insight or a pre-modern residue? Luhmann provides the strongest version of the argument that modern societies are functionally differentiated systems operating without normative integration, and that the demand for normative foundations is itself just one system's self-description.
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -502,14 +551,14 @@ The following four modules each present a major alternative framework that conte
 
 **Module 11B total: 28–37 hours**
 
-> [!question] What this module answers
-> Is the Frankfurt tradition's insistence on normativity — that social critique requires a normative standpoint — a deep philosophical insight or a pre-modern residue? Luhmann provides the strongest version of the argument that modern societies are functionally differentiated systems operating without normative integration, and that the demand for normative foundations is itself just one system's self-description.
-
 > [!tip] Economist's note
 > Luhmann's systems theory will feel surprisingly familiar in some respects. The idea that the economic system operates through a binary code (payment/non-payment) and is autopoietically closed — reproducing itself through its own operations without normative guidance from "society as a whole" — describes approximately how general-equilibrium theory models the economy. Luhmann radicalises this: *all* social systems (law, politics, science, education) operate this way. The productive friction for an economist: if Luhmann is right about functional differentiation, then the Frankfurt tradition's demand that economic processes be evaluated against the norms of the Lebenswelt (Habermas) or against standards of social freedom (Honneth) commits a category error — it applies the logic of one system to another.
 
 ### Module 11C: Bourdieu — Practice, Habitus, and Symbolic Domination
 **Why this matters for Sozialphilosophie:** Pierre Bourdieu's practice theory — the concepts of *habitus*, *field* (*champ*), and *symbolic capital* — constitutes a standing challenge to the Frankfurt tradition's emphasis on discursive rationality and conscious recognition. Where Habermas locates normativity in the explicit validity claims of communicative action and Honneth in the experience of (dis)respect, Bourdieu shows that social domination operates largely through *embodied dispositions* — pre-reflective, incorporated schemes of perception and action that reproduce class hierarchies without passing through anyone's explicit consciousness. This raises sharp questions for Sozialphilosophie: if domination is reproduced through habitus rather than ideology, is ideology critique sufficient? If agents' practical sense (*sens pratique*) is structured by the very power relations it would need to transcend, what does "emancipation" mean? Jaeggi's concept of *Lebensformen* as "inhabited" rather than chosen is structurally close to Bourdieu's account of habitus, and Celikates (*Kritik als soziale Praxis*, Module 9.3) explicitly engages with the question of whether Bourdieu's sociology of domination is compatible with a theory of "lay normativity."
+
+> **What this module answers**
+> If social domination operates through *embodied dispositions* (habitus) rather than through explicit beliefs or conscious ideology, is the Frankfurt tradition's emphasis on discursive rationality, communicative action, and explicit recognition sufficient? Can there be social pathology that operates entirely below the threshold of conscious experience and discursive articulation?
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -519,20 +568,20 @@ The following four modules each present a major alternative framework that conte
 
 **Module 11C total: 30–38 hours**
 
-> [!question] What this module answers
-> If social domination operates through *embodied dispositions* (habitus) rather than through explicit beliefs or conscious ideology, is the Frankfurt tradition's emphasis on discursive rationality, communicative action, and explicit recognition sufficient? Can there be social pathology that operates entirely below the threshold of conscious experience and discursive articulation?
-
 **Note:** Boltanski was Bourdieu's student and later broke with him. The following text represents the most important non-Frankfurt alternative framework for evaluating social practices:
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
 | 11C.4 | Luc Boltanski & Laurent Thévenot, *De la justification: Les économies de la grandeur* (1991; English: *On Justification: Economies of Worth*, 2006), Introduction + chs. 1–3 | [RS] | 15–20 | ~150 | Social actors evaluate and justify actions by appealing to multiple, incommensurable "orders of worth" (*cités*) — civic, market, industrial, domestic, inspired, fame-based. ~150 pp. in this selection. Raises a sharp challenge to critical theory: if actors *already* possess and deploy normative vocabularies, what does the critical theorist's standpoint add? **Connects to:** Module 9 (Celikates's "lay normativity" in 9.3 is implicitly a response to this challenge); Module 8 (Jaeggi's immanent critique — if social actors already criticise their own practices, is the philosopher's standpoint redundant?). Boltanski's later *De la critique* (2009; English: *On Critique*, 2011) directly confronts Frankfurt-School critical theory but can be deferred. |
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Bourdieu's habitus, Gramsci's hegemony, and Althusser's interpellation are three complementary accounts of how domination reproduces itself without conscious coercion. See Module 13, items 13.3–13.5.*
 
 ### Module 11D: Critical Realism — Stratified Ontology and Explanatory Critique
 **Why this matters for Sozialphilosophie:** Critical realism (Bhaskar, Sayer) is the explicit methodological foil to the Frankfurt tradition's reconstructive-immanent approach. Where Frankfurt critique starts from the norms internal to social practice and asks whether the practice lives up to them, critical realism starts from a stratified *ontology* of social mechanisms (real / actual / empirical levels) and asks what generative structures explain observable patterns of harm. The two methodologies are not strictly incompatible — Sayer in particular has argued they can complement each other — but they emphasise different aspects of social explanation: critical realism foregrounds depth-explanatory adequacy, immanent critique foregrounds normative grounding from within. The module's purpose is *not* to convert the reader to critical realism but to sharpen what immanent critique commits to by making its methodological alternative explicit. The friction is most productive for readers with empirical-scientific training (philosophy of science familiar) reading the Frankfurt tradition for the first time.
+
+> **What this module answers**
+> What does the Frankfurt tradition's method of immanent / normative reconstruction commit to *methodologically*, when set against an explicit, well-developed alternative that starts from social ontology rather than from social norms? After this module you should be able to (a) state the stratified-ontology framework (real / actual / empirical) and identify where it would commit critical theory to ontological claims it currently leaves implicit; (b) reconstruct Sayer's argument that social science is *necessarily* value-laden and compare it to Taylor (10.3); (c) articulate what critical realism *cannot* easily do that immanent critique can — particularly, ground normative evaluation without recourse to a stipulated theory of well-being.
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -542,15 +591,15 @@ The following four modules each present a major alternative framework that conte
 
 **Module 11D total: 15–22 hours (all [O])**
 
-> [!question] What this module answers
-> What does the Frankfurt tradition's method of immanent / normative reconstruction commit to *methodologically*, when set against an explicit, well-developed alternative that starts from social ontology rather than from social norms? After this module you should be able to (a) state the stratified-ontology framework (real / actual / empirical) and identify where it would commit critical theory to ontological claims it currently leaves implicit; (b) reconstruct Sayer's argument that social science is *necessarily* value-laden and compare it to Taylor (10.3); (c) articulate what critical realism *cannot* easily do that immanent critique can — particularly, ground normative evaluation without recourse to a stipulated theory of well-being.
-
 > [!tip] Economist's note
 > Critical realism is methodologically the closest position in philosophy of social science to the way empirically-trained economists think about social explanation: identify the underlying mechanisms (deep-structural, causal-generative), distinguish them from the observable regularities they produce, and explain the latter in terms of the former. The mainstream of economics has shifted in this direction since the credibility revolution (potential outcomes, identification of mechanisms via natural experiments). Critical realism gives this stance an explicit philosophical articulation. The productive friction: critical realism's mechanism-talk *can* be made compatible with immanent critique (Sayer does this in 11D.2), but at the cost of importing normative commitments the mechanism-ontology cannot itself ground. If you find Sayer's account compelling and Honneth's *Recht der Freiheit* normative reconstruction frustrating, this is the diagnosis of the disagreement — not a moral failing of one side or the other.
 
 ### Module 12: Political Philosophy — The Rawlsian Background and Its Critics
 
 **Why this matters for Sozialphilosophie:** Sozialphilosophie defines itself partly against Rawlsian political philosophy, and you need to understand the target to appreciate the critique. The key disagreements: (a) Rawls restricts justice to the "basic structure" and treats forms of life as beyond the scope of justice (Jaeggi directly challenges this); (b) Rawlsian theory is "ideal theory," whereas Sozialphilosophie starts from actual pathology and suffering; (c) Rawls separates the right from the good, whereas the Frankfurt tradition holds that this separation is itself a substantive and contestable commitment.
+
+> **What this module answers**
+> What exactly is Sozialphilosophie rejecting when it defines itself against Rawlsian political philosophy? You need enough command of the Rawlsian framework to evaluate whether the Frankfurt tradition's objections (Rawls ignores forms of life, Rawls separates the right from the good, Rawls operates in ideal theory) actually hit their target — or whether they mischaracterise a more sophisticated position.
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -576,16 +625,18 @@ The following four modules each present a major alternative framework that conte
 
 **Module total: 50–63 hours core [P] + [O] (12.1, 12.3, 12.5, 12.6, 12.7); 86–113 hours with new sub-section 12.8–12.13 [O]; 116–148 hours with [RS] (12.4) and [NE] (12.2)**
 
-> [!question] What this module answers
-> What exactly is Sozialphilosophie rejecting when it defines itself against Rawlsian political philosophy? You need enough command of the Rawlsian framework to evaluate whether the Frankfurt tradition's objections (Rawls ignores forms of life, Rawls separates the right from the good, Rawls operates in ideal theory) actually hit their target — or whether they mischaracterise a more sophisticated position.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state Rawls's two principles of justice and explain why Sozialphilosophie objects to the restriction of justice to the "basic structure"; (b) reconstruct Young's argument that justice is about domination and oppression, not only distribution; (c) explain Mills's concept of "epistemologies of ignorance" and evaluate whether it is a form of social pathology in Zurn's sense.
 
-**⚠ [Revision flag — Rawlsian counterweight]:** The current framing treats Rawls almost exclusively as a target for Frankfurt-style critique (through Young, Anderson, Mills, and the general contrast with normative reconstruction). This risks producing a one-sided understanding. A reader who completes this module can explain why the Frankfurt tradition objects to Rawls but cannot defend Rawls against those objections. **Consider adding:** Samuel Scheffler, "The Division of Moral Labor: Egalitarian Liberalism as Moral Pluralism" (*Proceedings of the Aristotelian Society*, 2005), ~25 pp. — a sophisticated response from within the liberal-egalitarian tradition that argues Rawls's restriction of justice to the "basic structure" is defensible, not a deficiency. Alternatively, G.A. Cohen, *Rescuing Justice and Equality* (2008), chs. 1–4 — a rigorous critique of Rawls from the *other* direction (Rawls's principles are insufficiently egalitarian), which would give the reader a three-way debate rather than a two-way one. **No text has been added pending your decision.**
-
-**Comprehension indicator:** After this module, you should be able to (a) state Rawls's two principles of justice and explain why Sozialphilosophie objects to the restriction of justice to the "basic structure"; (b) reconstruct Young's argument that justice is about domination and oppression, not only distribution; (c) explain Mills's concept of "epistemologies of ignorance" and evaluate whether it is a form of social pathology in Zurn's sense.
+> [!warning] ⚠ [Revision flag — Rawlsian counterweight]:
+> The current framing treats Rawls almost exclusively as a target for Frankfurt-style critique (through Young, Anderson, Mills, and the general contrast with normative reconstruction). This risks producing a one-sided understanding. A reader who completes this module can explain why the Frankfurt tradition objects to Rawls but cannot defend Rawls against those objections. **Consider adding:** Samuel Scheffler, "The Division of Moral Labor: Egalitarian Liberalism as Moral Pluralism" (*Proceedings of the Aristotelian Society*, 2005), ~25 pp. — a sophisticated response from within the liberal-egalitarian tradition that argues Rawls's restriction of justice to the "basic structure" is defensible, not a deficiency. Alternatively, G.A. Cohen, *Rescuing Justice and Equality* (2008), chs. 1–4 — a rigorous critique of Rawls from the *other* direction (Rawls's principles are insufficiently egalitarian), which would give the reader a three-way debate rather than a two-way one. **No text has been added pending your decision.**
 
 ### Module 13: Marxist Theoretical Foundations — Value-Form, Hegemony, and Ideology as Material Practice
 
 **Why this matters for Sozialphilosophie:** Three strands of Marxist theory provide foundations that the Frankfurt tradition draws on but does not itself develop in sufficient depth. (1) The *neue Marx-Lektüre* (Backhaus, Reichelt) argues that Marx's critique targets the *social forms* (commodity, money, capital) rather than quantitative magnitudes — this is the philosophical framework that Postone's *Time, Labor, and Social Domination* (Module 14, item 14.5) presupposes and that transforms how you read *Kapital* ch. 1 §4 on commodity fetishism (Module 2). (2) Gramsci's concept of *hegemony* fills a gap the syllabus's own Marxist-deepening cross-references at Module 8 identify: if forms of life can be pathological without their inhabitants recognising the pathology (Jaeggi's problem-solving model), what *mechanism* stabilises this non-recognition? Gramsci provides the most developed answer: domination through consent, secured by the cultural and institutional organisation of civil society. (3) Althusser's ISA essay poses the sharpest formulation of the problem that Module 9 (Celikates's "lay normativity," Jaeggi's ideology critique) responds to: if ideology *constitutes* subjects rather than distorting pre-existing consciousness, where does the standpoint for critique come from?
+
+> **What this module answers**
+> What theoretical resources does the broader Marxist tradition provide that the Frankfurt School itself does not develop — and what does their absence cost? After this module you should be able to (a) state the neue Marx-Lektüre's value-form reading of *Kapital* and distinguish it from both the quantitative labour-theory-of-value reading and the Frankfurt tradition's commodity-fetishism appropriation; (b) explain Gramsci's concept of hegemony as a mechanism for the stabilisation of social pathology, and identify where Jaeggi's framework has a gap that hegemony fills; (c) articulate Althusser's interpellation thesis and explain why it poses a sharper version of the problem Celikates's "lay normativity" tries to solve.
 
 **Dependencies:** Module 2 (Marx); Module 4 (Frankfurt School, especially 4.6–4.7 Adorno/Freyenhagen for the Reichelt connection). Soft dependency on Module 5 (Positivismusstreit) for the epistemological context of ideology critique. **Forward connections:** Module 14 (Capitalism as Social Form, especially 14.5 Postone); Module 9 (Social Epistemology, 9.3 Celikates and 9.4 Jaeggi on ideology critique); Module 11A (Foucault — Althusser's subject-constitution is the genealogical ancestor of Foucault's analytics of power); Module 11C (Bourdieu — habitus as embodied interpellation).
 
@@ -602,20 +653,21 @@ The following four modules each present a major alternative framework that conte
 
 **Module 13 total: 58–81 hours**
 
-> [!question] What this module answers
-> What theoretical resources does the broader Marxist tradition provide that the Frankfurt School itself does not develop — and what does their absence cost? After this module you should be able to (a) state the neue Marx-Lektüre's value-form reading of *Kapital* and distinguish it from both the quantitative labour-theory-of-value reading and the Frankfurt tradition's commodity-fetishism appropriation; (b) explain Gramsci's concept of hegemony as a mechanism for the stabilisation of social pathology, and identify where Jaeggi's framework has a gap that hegemony fills; (c) articulate Althusser's interpellation thesis and explain why it poses a sharper version of the problem Celikates's "lay normativity" tries to solve.
-
 > [!tip] Economist's note
 > The neue Marx-Lektüre (13.1–13.2) is the most philosophically demanding material in this module but the most productive for an economist. Backhaus's central argument — that the value-form, not labour-value as a quantitative magnitude, is the key analytical category — directly challenges the way economists (including heterodox economists) read *Kapital*. The question is not "is the labour theory of value empirically correct?" but "what does it mean for social relations to take the *form* of relations between commodities?" This is the philosophical foundation for Postone's reinterpretation (Module 14, 14.5) and for Jaeggi's insistence on criticising capitalism as a *form of life* rather than as an inefficient allocation.
 
-> [!example] Marxist deepening
-> *Module 13 extracts the core instrumental texts from Appendix C (Marxist Traditions — Deepening). For further depth: the Budapest School (Heller, Márkus, Kosík) in Appendix C.V provides alternative critical-Marxist resources that parallel Frankfurt-tradition moves; operaismo (Tronti, Negri/Hardt, Federici) in Appendix C.VI provides the most important strand of post-1968 Marxism not covered here; analytical Marxism (Cohen, Roemer, Wright) in Appendix C.VII provides the methodological pole closest to the economist-reader's training.*
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state the neue Marx-Lektüre's value-form reading and distinguish it from quantitative labour-theory-of-value approaches; (b) explain Gramsci's concept of hegemony and identify where it fills a gap in Jaeggi's framework; (c) articulate Althusser's interpellation thesis and explain why it sharpens the problem Celikates's "lay normativity" addresses.
 
-**Comprehension indicator:** After this module, you should be able to (a) state the neue Marx-Lektüre's value-form reading and distinguish it from quantitative labour-theory-of-value approaches; (b) explain Gramsci's concept of hegemony and identify where it fills a gap in Jaeggi's framework; (c) articulate Althusser's interpellation thesis and explain why it sharpens the problem Celikates's "lay normativity" addresses.
+> [!important] Marxist deepening
+> *Module 13 extracts the core instrumental texts from Appendix C (Marxist Traditions — Deepening). For further depth: the Budapest School (Heller, Márkus, Kosík) in Appendix C.V provides alternative critical-Marxist resources that parallel Frankfurt-tradition moves; operaismo (Tronti, Negri/Hardt, Federici) in Appendix C.VI provides the most important strand of post-1968 Marxism not covered here; analytical Marxism (Cohen, Roemer, Wright) in Appendix C.VII provides the methodological pole closest to the economist-reader's training.*
 
 ### Module 14: Capitalism as Social Form — Systematic Critiques
 
 **Why this matters for Sozialphilosophie:** "Capitalism" has returned as a central category in social philosophy — not merely "inequality" or "injustice" but capitalism as a *social form* with a distinctive logic. The core syllabus covers Marx's foundational critique (Module 2), Jaeggi's application of the forms-of-life framework to capitalism (Module 8, item 8.5), Fraser's dialogue with Jaeggi (Module 8, item 8.5), and Polanyi's historical-institutional analysis (Module 15, item 15.6). This module collects the remaining essential texts for the capitalism-as-social-form debate. Streeck provides the institutional-political-economy diagnosis; Postone provides the most philosophically ambitious post-Frankfurt-School Marx reinterpretation; Fraser's *Cannibal Capitalism* extends the "expanded" conception of capitalism; Honneth's *Idee des Sozialismus* attempts a recognition-theoretic rehabilitation of socialism; and the Régulation school provides the macroeconomic-institutional bridge between Marxist value-form analysis and empirical capitalism analysis. Non-essential items (institutional background, global/decolonial perspectives, digital capitalism) are in Appendix D.
+
+> **What this module answers**
+> What does it mean to critique capitalism as a *social form* — a distinctive logic of value, accumulation, and impersonal domination — rather than as a distribution of inequalities or injustices? And can the recognition-theoretic spine reach *abstract* domination at all (Streeck's institutional diagnosis, Postone's abstract labour, Fraser's expanded conception), or does the value-form wing mark the limit of normative reconstruction?
 
 **Dependencies:** Module 2 (Marx); Module 8 (Jaeggi, especially 8.2 and 8.5); Module 7 (Honneth, especially 7.5); Module 13 (Marxist Theoretical Foundations, especially 13.1–13.2 for Postone). Soft dependency on Module 15 (Zeitdiagnose, especially 15.6 Polanyi). **Forward connections:** Part IV §2 (live debate on critical theory and capitalism); Part V Craft Block W2.1 (Honneth market chapter as diagnostic specimen).
 
@@ -643,12 +695,13 @@ The following four modules each present a major alternative framework that conte
 > [!tip] Economist's note
 > This module is where your professional identity most directly provides leverage. Two items warrant special attention: (a) **Streeck 14.2** diagnoses post-2008 capitalism's crisis-management using concepts (time-buying, institutional decay, democratic-capitalist tension) that an ECB economist navigates professionally. (b) **Aglietta 14.10 and Lordon 14.11** (Régulation school) are the closest neighbours of macroeconomics within the Marxist tradition. The productive friction: where the Frankfurt social-form critique treats capitalism as a coherent unity to be evaluated against immanent norms, the Régulation school treats it as a sequence of historically distinct stabilisations whose immanent logic *varies* — the post-war Fordist regime is not the post-1980 financialised regime. Read with the question: does the Frankfurt tradition's diagnostic vocabulary (alienation, reification, recognition pathology) sit at the right level of generality, or does it conflate distinct accumulation regimes that warrant distinct critiques?
 
-**Comprehension indicator:** After this module, you should be able to (a) state Streeck's diagnosis of the post-war class compromise's breakdown and identify his implicit concept of pathology; (b) explain Postone's reinterpretation — why he thinks Marx's critique targets abstract labour as impersonal domination, not exploitation as unfair distribution; (c) reconstruct Fraser's "expanded" conception of capitalism and explain how it differs from Jaeggi's forms-of-life approach; (d) explain why Honneth thinks socialism can be rehabilitated as extension of social freedom, and identify at least one point where Postone, Fraser, or Streeck would object.
+> [!note] Comprehension indicator
+> After this module, you should be able to (a) state Streeck's diagnosis of the post-war class compromise's breakdown and identify his implicit concept of pathology; (b) explain Postone's reinterpretation — why he thinks Marx's critique targets abstract labour as impersonal domination, not exploitation as unfair distribution; (c) reconstruct Fraser's "expanded" conception of capitalism and explain how it differs from Jaeggi's forms-of-life approach; (d) explain why Honneth thinks socialism can be rehabilitated as extension of social freedom, and identify at least one point where Postone, Fraser, or Streeck would object.
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Backhaus and Reichelt (Module 13, items 13.1–13.2) are Postone's direct German-language predecessors. The neue Marx-Lektüre's value-form analysis provides the philosophical framework that Postone's historical argument presupposes. For Régulation school deepening beyond the Module 14 entries, see Appendix C.IX (Boyer, Lipietz).*
 
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > ***Companion syllabus.** The economic-theoretic wing of this material — transformation problem, crisis and profit-rate theory, imperialism-as-economics, the régulation school, money and central banking — lives in a separate standalone "Marxist Political Economy" syllabus: the **[→ spine B] toolkit** to this programme's philosophical target. Modules 13–14 here own the value-form / social-form reading; that document owns the quantitative apparatus. The two overlap only at Heinrich, Lapavitsas (14.15), and the régulation school (14.10 / App. C.IX) — read those once.*
 
 ### Module 15: Soziologische Zeitdiagnose — Instrumental Readings
@@ -656,6 +709,9 @@ The following four modules each present a major alternative framework that conte
 **Why this matters for Sozialphilosophie:** Zeitdiagnosen provide the empirical-diagnostic material that Sozialphilosophie evaluates and critiques. Jaeggi's question — does this form of life solve the problems it generates? — requires concrete accounts of what "this form of life" actually looks like.
 
 **How to use this module:** Module 15 is a menu, not a sequence. Each reading below connects to specific debates in the core programme. Use the "Connects to" notes to identify which items are most relevant to questions that emerged during your work on Parts I–III. If a Zeitdiagnose connects to a debate you've already entered (e.g., Reckwitz connects to the *Lebensform* debate in Module 8; Illouz connects to whether intimate life constitutes an independent recognition-sphere in Module 7; Streeck [Module 14 item 14.2] connects to the capitalism-critique debate), prioritise it. If it opens a new domain (digital governance, ecological crisis), defer unless the topic grips you independently.
+
+> **What this module answers**
+> What does the contemporary social world actually look like, as described by sociologists who combine empirical sensitivity with diagnostic ambition? Jaeggi's question — "does this form of life solve the problems it generates?" — is empty without concrete accounts of the form of life in question. This module provides the empirical-diagnostic raw material.
 
 **Context-Layer note (unnumbered):** before the book review (~M28–30), one orientation read of the current IfS director generation — Stephan Lessenich (since 2021 director of the Institut für Sozialforschung and Professor at the Goethe-Universität Frankfurt): *Grenzen der Demokratie* (Reclam 2019, 141 pp.) or *Nicht mehr normal: Gesellschaft am Rande der Selbstzerstörung* (Hanser 2022) — lands the venue's house conversation (the *WestEnd* / IfS milieu the book review targets). No item ID; read at orientation tier from Context-Layer headroom. [Added 2026-07-14 (QA pass).]
 
@@ -672,9 +728,6 @@ The following four modules each present a major alternative framework that conte
 
 **Module total: 126–155 hours**
 
-> [!question] What this module answers
-> What does the contemporary social world actually look like, as described by sociologists who combine empirical sensitivity with diagnostic ambition? Jaeggi's question — "does this form of life solve the problems it generates?" — is empty without concrete accounts of the form of life in question. This module provides the empirical-diagnostic raw material.
-
 > [!tip] Economist's note
 > Polanyi's *The Great Transformation* (15.6) will be especially productive reading. The concept of "embeddedness" — that markets are not natural self-regulating systems but are always institutionally embedded and politically constituted — challenges the implicit assumption of much economic modelling that markets are the default condition and regulation is an intervention. Streeck's *Gekaufte Zeit* (Module 14, item 14.2) extends this analysis directly to post-2008 fiscal and monetary policy — terrain you navigate professionally. Read these two together.
 
@@ -684,6 +737,9 @@ The following four modules each present a major alternative framework that conte
 
 **Why this matters for Sozialphilosophie:** Habermas's concept of the *Lebenswelt* comes from Husserl via Schütz. Honneth's concept of pre-theoretical experiences of disrespect presupposes a phenomenological account of how social reality is experienced prior to theoretical reflection. Jaeggi's argument that forms of life are not chosen but "inhabited" — they constitute the background against which choices are made — also rests on phenomenological insights.
 
+> **What this module answers**
+> When Habermas, Honneth, and Jaeggi talk about the "Lebenswelt," "pre-theoretical experience," and forms of life as "inhabited," what philosophical account of everyday social experience are they drawing on? This module provides the conceptual infrastructure — typification, stocks of knowledge, the social construction of reality — that makes those claims precise rather than metaphorical.
+
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
 | 16.1 | Alfred Schütz, *Der sinnhafte Aufbau der sozialen Welt* (1932), chs. 1–3 | [P] | 15–20 | ~150 | The foundational text of social phenomenology. Provides a phenomenological reconstruction of Weber's concept of *Verstehen*. Key concepts: typification, stocks of knowledge, relevance structures. |
@@ -692,17 +748,18 @@ The following four modules each present a major alternative framework that conte
 
 **Module total: 27–35 hours (core without [NE]: 27–35 hours)**
 
-> [!question] What this module answers
-> When Habermas, Honneth, and Jaeggi talk about the "Lebenswelt," "pre-theoretical experience," and forms of life as "inhabited," what philosophical account of everyday social experience are they drawing on? This module provides the conceptual infrastructure — typification, stocks of knowledge, the social construction of reality — that makes those claims precise rather than metaphorical.
+> [!note] Comprehension note
+> After this module, you should be able to (a) explain Schütz's phenomenological reconstruction of *Verstehen* and how it differs from Weber's methodological use of the concept; (b) state what Berger and Luckmann mean by "the social construction of reality" (and why this is not the same as the claim that reality is subjective); (c) explain how *Verdinglichung* in Berger and Luckmann relates to the same concept in Lukács and Honneth.
 
-**Comprehension indicator:** After this module, you should be able to (a) explain Schütz's phenomenological reconstruction of *Verstehen* and how it differs from Weber's methodological use of the concept; (b) state what Berger and Luckmann mean by "the social construction of reality" (and why this is not the same as the claim that reality is subjective); (c) explain how *Verdinglichung* in Berger and Luckmann relates to the same concept in Lukács and Honneth.
-
-> [!example] Marxist deepening
+> [!important] Marxist deepening
 > *Kosík's Dialektik des Konkreten (Appendix C item C.12) provides a Marxist counterpart to the Schützian project: a phenomenological account of how the "world of pseudoconcreteness" (everyday reified experience) conceals the real structure of social relations. Where Schütz describes the lifeworld's typification structures neutrally, Kosík asks how those structures can be ideologically distorted — a question closer to the Frankfurt tradition's concerns.*
 
 ### Module 17: Social Ontology — What Is the Social World Made Of?
 
 **Why this matters for Sozialphilosophie:** Sozialphilosophie presupposes an account of what social entities are (institutions, practices, norms, relations of recognition). The analytic social ontology literature provides rigorous accounts that can sharpen or challenge the assumptions built into the Frankfurt tradition.
+
+> **What this module answers**
+> When Jaeggi says forms of life are "ensembles of social practices," or when Honneth talks about "relations of recognition," what *kind of thing* are practices and relations? Do they reduce to individual mental states, or are they irreducibly social? The answer matters because the Frankfurt tradition's diagnostic claims — "this institution is pathological," "this practice fails on its own terms" — presuppose that social entities have properties (norms, contradictions, pathologies) that are not simply aggregations of individual properties.
 
 | # | Text | Type | Est. hours | ~pp. | Notes |
 |---|------|------|-----------|------|-------|
@@ -712,13 +769,11 @@ The following four modules each present a major alternative framework that conte
 
 **Module total: 33–40 hours (core without [NE]: 33–40 hours)**
 
-> [!question] What this module answers
-> When Jaeggi says forms of life are "ensembles of social practices," or when Honneth talks about "relations of recognition," what *kind of thing* are practices and relations? Do they reduce to individual mental states, or are they irreducibly social? The answer matters because the Frankfurt tradition's diagnostic claims — "this institution is pathological," "this practice fails on its own terms" — presuppose that social entities have properties (norms, contradictions, pathologies) that are not simply aggregations of individual properties.
-
 > [!tip] Economist's note
 > This is the module where your training provides both the sharpest leverage and the most interesting friction. List & Pettit's "discursive dilemma" (17.2) is a social-choice-theoretic argument — an impossibility result structurally analogous to Arrow's theorem — showing that group attitudes need not reduce to any aggregation of individual attitudes. You can engage with this at an expert level. Epstein's *The Ant Trap* (17.1) uses formal tools from the metaphysics of grounding that will feel familiar in their precision. The deeper challenge: standard economic methodology assumes methodological individualism (macro-level phenomena are explained by micro-level individual behaviour). Both Epstein and List & Pettit argue that this assumption is, under certain conditions, *formally incorrect* — not merely inconvenient but logically untenable. Take this argument seriously.
 
-**Comprehension indicator:** After this module, you should be able to (a) state Epstein's argument for why even sophisticated individualism gets the grounding of social facts wrong; (b) explain the discursive dilemma and its implications for methodological individualism; (c) identify which ontological assumptions the Frankfurt tradition's concept of "social pathology" presupposes.
+> [!note] Comprehension note
+> After this module, you should be able to (a) state Epstein's argument for why even sophisticated individualism gets the grounding of social facts wrong; (b) explain the discursive dilemma and its implications for methodological individualism; (c) identify which ontological assumptions the Frankfurt tradition's concept of "social pathology" presupposes.
 
 ### Module 18: Philosophical Anthropology — Deferred References
 **Note on dissolution:** This module's core readings have been redistributed. Mead (*Mind, Self, and Society*, Part III) is now in Module 4A.3. Jessica Benjamin (*The Bonds of Love*, chs. 1–3) is now Module 7.11 [RS]. The remaining texts — Plessner, Gehlen, and Graeber & Wengrow — are important for the history of German philosophical anthropology and for contemporary challenges to standard narratives of human social evolution, but not directly mobilised in current Sozialphilosophie debates. They are retained below as [NE] references.
