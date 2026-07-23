@@ -4,15 +4,75 @@
 
 **Why a separate document:** The mode of engagement that produces philosophical competence is fundamentally different from the mode that produces competence in quantitative social science. In economics, you learn by doing problem sets, replicating empirical exercises, and building models — the text is a vehicle for technique. In philosophy, the text *is* the technique: the argument's structure, its moves, its presuppositions, and its vulnerabilities are the object of study. "Reading" a philosophical text without an active practice around it is like reading a textbook on econometrics without ever running a regression — you'll recognise vocabulary but you won't be able to do anything with it.
 
-## Contents
+## How to use this document
 
-**[Revised 2026-07-13 (practices audit):** table of contents added; long worked examples relocated to Appendix D so the practice sections stay scannable.**]**
+This is a reference to consult, not a document to re-read. Three layers, by how often you'll need them:
+
+- **Weekly / operational** — the three loops and the per-text table just below, the protocols section, and the practice sections (A–J).
+- **Reference** — Appendix C (time budgets), Appendix A (tags), Appendix B (concept horizon), Appendix D (worked examples), Appendix E (extended marginalia).
+- **Read once, at programme start** — Appendix F (Obsidian vault setup and lifecycle).
+
+Full Claude-usage guidance is the single table under [Using Claude as an interlocutor](#using-claude-as-an-interlocutor--general-principles); vault create / revisit / hygiene triggers are the lifecycle table at the head of **Appendix F**. Revision history lives in `reading_practices_changelog.md`.
+
+### The three loops
+
+**Per reading session** (~1 h read + 60–120 min close — the all-in workflow, §L.12):
+1. Read to the section boundary. No running content notes; mark with the six tags only.
+2. Close the book. Write the Practice A reconstruction from memory (Full: four parts, 500–800 w · Light: claim + directed-against, 200–300 w).
+3. Targeted re-consultation — look up only the gaps, don't re-read linearly.
+4. *Full only:* + forward-looking closing sentence, empirical-presuppositions sub-heading, 2–3 C1 seminar questions, concept-entry updates, vault links.
+5. *First-of-author Full only:* Claude Use 1 reconstruction check.
+
+**Per module close** (~5–6.5 h standard · ~7–9.5 h on QM weeks):
+- First confirm every text read in the module has its filed output (§L.12 step 8).
+- Comprehension check (~2–3 h; compresses to ~1 h from ~M25).
+- Adversarial module note = Translation + Objection + Positioning (~1 h).
+- Debate map (~1.5–2 h; negative-space note only when a constructible position is visible).
+- Spaced-repetition prompts, 5–8 (~20 min).
+- *QM weeks only:* field-test against one recent journal article (~2–3 h, replaces that week's bonus reading).
+
+**When behind** (practice side; reading-side slippage is the execution plan's cascade):
+- ≥ 2 tier-mandated notes missing at a weekly review = **practice debt** → degrade **in place, same week**: Full → Light → reading-log line. Never defer, never catch-up-write.
+- Protect in order: **(1)** Full reconstructions on MUST-Anchor texts · **(2)** the Anwendung → Skizze → Zwischenstück production pipeline · **(3)** Practice B entries on the ~10 load-bearing concepts. Everything else degrades first.
+
+### Resolving a single text (protocol · pace · output · budget)
+
+Look up the text's prose class (`reading_speed_classes.md`) and its tier (execution-plan Inventory), then read across:
+
+| Prose class *(examples)* | Protocol | Read DE / EN (pp/h) | Full α | Light α |
+|---|---|---|---|---|
+| **Dense** — Hegel, Marx, Adorno, Lukács | 2 *(2a if aphoristic)* | 5 / 6 | 1.0 | 0.4 |
+| **Systematic** — Habermas, Forst/Honneth monographs | 1 *(2 for TKH Bd. 2 ch. VI)* | 8 / 10 | 0.5 | 0.2 |
+| **Layered** — Honneth essays, Jaeggi, Celikates | 1 | 10 / 13 | 0.4 | 0.15 |
+| **Analytic** — Forst/Fraser articles, Fricker, Zurn | 1 *(3 if < 30 pp)* | 15 / 18 | 0.3 | 0.12 |
+| **Transparent** — Neuhouser, Dewey, Streeck | 1 *(3 if short)* | 18 / 20 | 0.3 | 0.12 |
+
+- *Tier → output:* **Full** = four parts, 500–800 w, per chapter/major section · **Light** = claim + directed-against, 200–300 w, per text · **Orientation** = reading-log line, no filed note.
+- *Budget:* Reading = pages ÷ pp/h; Writing = Reading × α, capped at n_chapters × (2 h Full / 0.75 h Light).
+- *Special rules:* Honneth monographs read at Systematic pp/h but write at Layered α · aphoristic texts stay Dense pp/h, use Protocol 2a, n_chapters = clusters of ~5–8 aphorisms.
+- *Worked lookups:* Hegel *Rechtsphilosophie* §§182–256 (~75 pp DE, Dense + Full) → Protocol 2, ~15 h read + 2 h write (the cap binds) ≈ **17 h**. · A 25-pp Fricker chapter (EN, Analytic + Light) → Protocol 3, ~1.4 h read + 0.2 h write ≈ **1.5 h**. Full derivation: [Appendix C §C.2](#c2-style--tier-matrix-and-time-formula).
+- *First months:* for texts whose difficulty is unfamiliar *content* rather than prose — especially [ES] scaffolds read ahead of their primary (Neuhouser before Hegel) — budget the **slow** pp/h row, not the bottom, and expect a near-full second read. See [The first months: reading before you have a schema](#the-first-months-reading-before-you-have-a-schema).
+
+### The four concept structures (don't conflate them)
+
+| Structure | Job | Operate it when… |
+|---|---|---|
+| **Concept entry** (Practice B, `Konzepte/`) | *Defines & tracks* one term's mutation across thinkers | a term recurs/mutates and you're tracking the drift |
+| **Tag** (Appendix A, ~25 stable) | *Marks* that a note engages a theme; cross-note query | pulling "everything touching X" across modules |
+| **Synthesis note** (`Synthesen/`) | *Your* cross-source proposition, titled as a claim | the same connective claim recurs in 2+ reconstructions |
+| **Appendix B inventory** | A *horizon* of likely concepts — not a checklist | never "operated"; consulted to recognise a trackable term |
+
+**When you meet a term:** engaging it in a note → add the tag; sensing it will recur/mutate → open a concept entry (write yours *first*, then compare — Practice B); the same connective claim written twice → extract a synthesis note; in doubt → tag only, upgrade later. **Load-bearing** (protect under practice debt): concept entries on the ~10 core terms, and synthesis notes. **Optional convenience:** tags, the inventory, module indices.
+
+---
+
+## Contents
 
 - **[Reading protocols by text type](#reading-protocols-by-text-type)** — the shared principle; Protocols 1, 2, 2a (aphoristic/paratactic), 3; operative marginalia tags (six)
 - **[Part I — Reading protocols and receptive practices](#part-i--reading-protocols-and-receptive-practices)** — A written reconstruction · B conceptual tracking · C seminar questions · D debate maps · E synthesis notes + monthly vault walk · F strategic re-reading · G translation comparison
 - **[Part II — Productive practices](#part-ii--productive-practices)** — H critical evaluations (H1 adversarial module note; H2 full evaluation) · I Anwendung · J Skizze · the Zwischenstück · practice-transformation in Phase III
-- **[Part III — Infrastructure and discipline](#part-iii--infrastructure-and-discipline)** — module-close practices, canonical definitions (comprehension check, quarterly milestone, spaced-repetition prompts) · discipline — what not to do · [time allocation](#time-allocation-rule-of-thumb), incl. practice debt and the degradation floor · [Claude principles](#using-claude-as-an-interlocutor--general-principles) · Obsidian vault infrastructure (§L.1–L.12) · craft bibliography
-- **Appendices** — A tag vocabulary · B anticipated concept inventory · [C practices overview and time budgets](#appendix-c-practices-overview-and-time-budgets) · D worked examples (Honneth reconstruction, Hegel scaffold, *immanente Kritik* entry, C1 questions, Skizze scaffold) · E extended marginalia vocabulary (reference)
+- **[Part III — Infrastructure and discipline](#part-iii--infrastructure-and-discipline)** — module-close practices, canonical definitions (comprehension check, quarterly milestone, spaced-repetition prompts) · discipline — what not to do · [time allocation](#time-allocation-rule-of-thumb), incl. practice debt and the degradation floor · [how the method sustains itself](#how-the-method-sustains-itself) · [Claude principles](#using-claude-as-an-interlocutor--general-principles) (consolidated use table) · [external calibration — the Phase I tutor](#external-calibration--the-phase-i-tutor-touchpoints) · craft bibliography
+- **Appendices** — A tag vocabulary · B anticipated concept inventory · [C practices overview and time budgets](#appendix-c-practices-overview-and-time-budgets) · D worked examples (Honneth reconstruction, Hegel scaffold, *immanente Kritik* entry, C1 questions, Skizze scaffold) · E extended marginalia vocabulary (reference) · F Obsidian vault — setup and lifecycle (§L.1–L.12)
 
 ---
 
@@ -22,13 +82,32 @@ The practices below apply to all texts, but the *reading protocol* — how you a
 
 ### The principle the three protocols share
 
-What varies across the three protocols is only how much structural marking a text needs; what does *not* vary is the prohibition. Across all three the rule is the same — do not produce running *content* notes, a parallel summary tracking the text's order that you could read in place of the book. Marking is allowed; building an external copy of the argument is not. The reason is mechanical: the deliverable of this work is not a captured artifact but the internalised capacity to reconstruct and pressure-test the argument from memory, and notes that contain the full argument substitute for that capacity rather than build it. The from-memory regeneration is what installs the skill — see Roediger & Karpicke (cited under Protocol 1) and, book-length, Brown, Roediger & McDaniel, *Das merk ich mir!* (German edition of *Make It Stick*).
+What varies across the three protocols is only how much structural marking a text needs; what does *not* vary is the prohibition. Across all three the rule is the same — do not produce running *content* notes, a parallel summary tracking the text's order that you could read in place of the book. Marking is allowed; building an external copy of the argument is not. The reason is mechanical: the deliverable of this work is not a captured artifact but the internalised capacity to reconstruct and pressure-test the argument from memory, and notes that contain the full argument substitute for that capacity rather than build it. The from-memory regeneration is what installs the skill — see Roediger & Karpicke and Karpicke & Blunt (cited under Protocol 1; the latter shows retrieval beats concept-mapping specifically, which is the elaborative form an external copy would take) and, book-length, Brown, Roediger & McDaniel, *Das merk ich mir!* (German edition of *Make It Stick*).
 
 This makes the division of labour between skeleton and reconstruction precise. The skeleton entry under Protocol 2 — and the lighter marginal annotation under Protocol 3 — is a *pointer*: a type and a location, with at most a gist of the upshot. It can carry compressed content (the premise the author leans on, the opponent named with the concept) but never the *development* by which the author gets there. The reconstruction (Practice A) is a separate prose artifact, written from memory after closing the book, where the *meat* goes: the connective reasoning, why the premise supports the claim, how the move works, what is at stake against the opponent. You return to a marked passage only when memory fails — the skeleton tells you exactly where to look.
 
 The hazard the practice is built against is the *fluency illusion*. Page-by-page content notes raise *encoding fluency* — the text feels mastered as you write — but encoding fluency is a poor predictor of retrieval, and the felt mastery is precisely what the cognitive science warns against. You cannot adjudicate this by introspection; only the closed-book reconstruction reveals what you actually built. A working test: a skeleton or a set of marginal marks that a colleague could learn the argument from has stopped being an index and become a summary, and the internalisation step has quietly been skipped.
 
 For a reader crossing over from quantitative social science, the asymmetry is sharp. Capturing a paper's full derivation is productive in that work — the captured object is itself a re-runnable artifact and the deliverable. In philosophy the deliverable is the capacity to reconstruct and evaluate the argument; an external copy does not build it, so capturing-in-full substitutes for the very thing being trained. The instinct that serves you elsewhere misfires here.
+
+### The first months: reading before you have a schema
+
+The protocols below assume a skill you do not yet have in the first months: telling, on one pass, *where the action is*. Until you have a schema to hang an argument on, your closed-book reconstruction will come back mostly gaps — not because you read badly but because there is no scaffolding yet to catch what you read. This is expected, and it changes how the earliest texts are read, especially the [ES] scaffolds read *ahead* of the primary they prepare (Neuhouser before Hegel, McCarthy before Habermas).
+
+The trap is the prose-class table: it rates Neuhouser *Transparent* and routes it to Protocol 1, but effective difficulty is **prose difficulty × conceptual novelty**, and the table prices only the first. A scaffold read before its primary does double duty — teaching the secondary author's reading *and* introducing the primary's concepts — so for a first-timer it reads a class or two harder than its prose suggests. Two consequences:
+
+- **Budget the slow row, not the bottom row** (Style × Tier matrix, Appendix C §C.2). The bottom column is your fluent-reader self; the first Hegel-adjacent texts are not that yet — Transparent DE at ~11 pp/h, not 18.
+- **Expect the second read to be near-full, not targeted.** The protocols' "targeted re-consultation" assumes *localised* gaps ("I can't state premise three"); early on your gaps are *pervasive*, so the return pass is legitimately most of the text again (not word-for-word, but real re-engagement). That is the correct response to pervasive gaps, not a failure of the method.
+
+**The beginner read, in five steps** (it converges to the standard protocol as your schema fills, usually within the first handful of texts):
+
+1. **Orientation skim, ~15–20 min, write nothing.** Table of contents and headings, the introduction, the first and last sentence of each section, the conclusion. Get the *terrain* — what the parts are, where it lands — not the gist of the argument.
+2. **Full read with marks, denser than the mature protocol.** `[def]` / `[dist]` on every new concept the scaffold introduces (this is where those two earn their reinstatement); `[claim]` / `[prem]` / `[gegen]` on the author's own argument.
+3. **Reconstruction attempt — expect mostly gaps, and treat that as the diagnostic.** Write what you have.
+4. **Second read**, guided by your marks and the gaps — near-full for now.
+5. **Reconstruction, filled.**
+
+This does not breach the from-memory discipline: the skim is terrain-mapping, not a content note; the denser marks are still pointers (the colleague-test still binds); the second read is re-reading, which the schedule budgets at 15–20%; and the closed-book reconstruction still happens. Two guardrails: the skim is **time-boxed and note-free** — if it slides into a slow first read, you have lost it to fluency illusion; and this mode is for the first months, not a standing licence — the W9–W13 calibration gate is where you check whether you can compress toward the standard targeted protocol (if the external calibrator finds your first reconstructions basically sound, compress sooner).
 
 ### Protocol 1: Systematic argumentative texts
 
@@ -40,11 +119,11 @@ For a reader crossing over from quantitative social science, the asymmetry is sh
 
 **Time calibration:** The syllabus hour estimates for these texts assume this protocol. A text estimated at 35–45 hours means roughly 75–80% reading time and 20–25% reconstruction writing and re-consultation.
 
-The cognitive science supporting this approach — retrieval practice produces stronger retention and deeper understanding than re-reading, even when re-reading feels more fluent — is well established. See Henry Roediger & Jeffrey Karpicke, "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention" (*Psychological Science* 17(3), 2006).
+The cognitive science supporting this approach — retrieval practice produces stronger retention and deeper understanding than re-reading, even when re-reading feels more fluent — is well established. See Henry Roediger & Jeffrey Karpicke, "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention" (*Psychological Science* 17(3), 2006); Jeffrey Karpicke & Janell Blunt, "Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping" (*Science* 331, 2011) — the result most directly relevant to the running-content-note prohibition, since concept-mapping is the elaborative strategy retrieval beats; and, on why the harder, less fluent read retains better, Robert & Elizabeth Bjork on *desirable difficulties*.
 
 ### Protocol 2: Dense, allusive, or anti-systematic texts
 
-**Applies to:** Hegel (*Rechtsphilosophie*, *Phänomenologie*), Adorno (*Negative Dialektik*), Lukács (*Geschichte und Klassenbewußtsein*), parts of Habermas's TKH (especially Bd. 2, ch. VI). **[Revised 2026-07-13 (practices audit):** Adorno's and Benjamin's aphoristic/paratactic texts (*Minima Moralia*, *Dialektik der Aufklärung*, the Geschichtsphilosophische Thesen) read per this protocol's two-pass method but reconstruct per **Protocol 2a** below — the standard four-part reconstruction misfires on them for reasons stated there.**]**
+**Applies to:** Hegel (*Rechtsphilosophie*, *Phänomenologie*), Adorno (*Negative Dialektik*), Lukács (*Geschichte und Klassenbewußtsein*), parts of Habermas's TKH (especially Bd. 2, ch. VI). Adorno's and Benjamin's aphoristic/paratactic texts (*Minima Moralia*, *Dialektik der Aufklärung*, the Geschichtsphilosophische Thesen) read per this protocol's two-pass method but reconstruct per **Protocol 2a** below — the standard four-part reconstruction misfires on them for reasons stated there.
 
 **Method:** Two passes with different purposes. First pass: read for the *shape* of the argument — what is this chapter about, where does it start, where does it end up, what are the major transitions? Do not try to understand every sentence; mark the passages that seem crucial and the ones you cannot yet parse. Second pass (which can be partial — focus on the marked passages and their surroundings): read for the *detail* of the argument, with the relevant [ES] secondary text (Neuhouser, Freyenhagen, McCarthy) open alongside, building a running skeleton as you go. The skeleton is one line per argumentative move — not per paragraph — and each line records a *type* and a location rather than the content itself: a premise the argument leans on, a transition between stages (*§141 move: Moralität → Sittlichkeit*), the opponent being engaged (*§135 vs. Kantian empty formalism*), a definition (*§142 def. Sittlichkeit*), or a passage you still cannot follow (*§156 ?? return*). Keep each entry short enough to point rather than paraphrase — mark *that* there is a move at §141, never the reasoning behind it. The test: a skeleton someone could learn the argument from has stopped being an index and become the paragraph-by-paragraph compression Protocol 1 warns against. Then close the book and write the Practice A reconstruction from the skeleton — it gives you the spine and the locations, but you reconstruct the *content* of the support from memory, returning to a marked passage only where memory fails.
 
@@ -52,12 +131,11 @@ The [ES] secondary is meant to be read *before* the primary precisely so that yo
 
 **Time calibration:** The syllabus hour estimates for these texts already build in the two-pass structure. Hegel's *Rechtsphilosophie* at 40–60 hours is roughly 25–35 hours of first-pass reading, 10–15 hours of targeted second-pass work, and 5–10 hours of reconstruction writing. Do not be discouraged if your first pass through Adorno or Hegel produces less retained structure than your first pass through Honneth — this is a property of the texts, not a failure of your reading.
 
-**Treatise-architecture note [added 2026-07-13 (practices audit)].** For treatise-scale works — *Theorie des kommunikativen Handelns* at ~1,200 pages over ~6 months is the paradigm — one running **one-page architecture map** is permitted: where the *Zwischenbetrachtungen* sit, where the colonisation-of-the-lifeworld thesis will land, which volume carries which half of the argument. This is *structural* marking, not a violation of the content-notes prohibition: the map records where things are, never what they argue, and the per-chapter closed-book reconstruction discipline is unchanged. Without this permission stated explicitly, a reader will feel the map is forbidden and lose the arc between sessions.
+**Treatise-architecture note.** For treatise-scale works — *Theorie des kommunikativen Handelns* at ~1,200 pages over ~6 months is the paradigm — one running **one-page architecture map** is permitted: where the *Zwischenbetrachtungen* sit, where the colonisation-of-the-lifeworld thesis will land, which volume carries which half of the argument. This is *structural* marking, not a violation of the content-notes prohibition: the map records where things are, never what they argue, and the per-chapter closed-book reconstruction discipline is unchanged. Without this permission stated explicitly, a reader will feel the map is forbidden and lose the arc between sessions.
 
-> [!note] Claude — Use 2: Targeted clarification
-> When you hit a passage you cannot parse after two careful readings — common with Hegel, Adorno, and parts of Habermas — bring the specific passage to Claude *with your best attempt at interpretation* and ask: *"Here is how I'm reading this passage. Am I on the right track, or is Hegel/Adorno doing something I'm not seeing?"* This is different from asking "What does this passage mean?" — the latter outsources the work; the former uses Claude to calibrate your existing interpretation. Always include your attempt. If you can't produce any interpretation at all, that itself is diagnostic — usually you're missing a piece of context (a concept from an earlier section, a position being implicitly targeted) rather than the passage being simply hard. Distinguished from Use 5 (language assistance) below: Use 2 is for philosophical opacity after grammar is parsed; Use 5 is for grammatical opacity.
+> [!note] Claude — **Use 2 (Targeted clarification)** applies here: a passage you can't parse after two reads, brought *with your best attempt*. Full guidance and the risk/anchor discipline are in the [Claude-use table](#using-claude-as-an-interlocutor--general-principles).
 
-### Protocol 2a: Aphoristic and paratactic texts **[added 2026-07-13 (practices audit)]**
+### Protocol 2a: Aphoristic and paratactic texts
 
 **Applies to:** *Minima Moralia* aphorism clusters, *Dialektik der Aufklärung*, Benjamin's Geschichtsphilosophische Thesen — the texts carrying the aphoristic flag in the Style × Tier matrix (Appendix C §C.2). Hegel stays on Protocol 2: his prose strains the four-part reconstruction, but a transition-thesis *can* be extracted (see the scaffold at Appendix D.2). Adorno's parataxis is a different case — it rejects the claim/support form *as a philosophical position*, not as a stylistic difficulty.
 
@@ -83,14 +161,13 @@ The closing-sentence rule (Practice A) applies unchanged. Time-budgeting for the
 
 **Time calibration:** The syllabus estimates 5–12 hours for these texts, which includes the careful read plus reconstruction.
 
-> [!note] Claude — Use 5: Language assistance
-> When you encounter a syntactically tortured German sentence — routine in Hegel, Adorno, and parts of Habermas — it is legitimate to ask Claude to unpack the sentence *linguistically* without asking for the philosophical interpretation. *"Can you parse the grammatical structure of this sentence and identify what the main clause is, what the subordinate clauses modify, and what the referents of the pronouns are?"* This is language assistance, not philosophical outsourcing. Adorno in particular writes sentences where the difficulty is partly syntactic (nested subordinate clauses, displaced predicates, ambiguous pronoun reference) and partly philosophical — separating the two lets you focus your cognitive effort on the philosophical difficulty rather than fighting grammar simultaneously. Always attempt the sentence yourself first. If you can parse the grammar but not the argument, that's a philosophical difficulty (Use 2 above), not Use 5.
+> [!note] Claude — **Use 5 (Language assistance)** applies here: a syntactically tortured German sentence, parsed *linguistically* only (main clause, referents), never for the philosophical reading. Full guidance in the [Claude-use table](#using-claude-as-an-interlocutor--general-principles).
 
 ### Marginalia vocabulary (shared across all protocols)
 
 A stable tag set for marking *at read-time* — the positive complement to the running-content-note prohibition above. A mark is a pointer: a *type* and a *location*, never the *development*. Annotate in the language of the text (German tags in a German text keep you inside its vocabulary); normalise to the English tag when a mark graduates into a vault note, so the searchable vocabulary does not fragment.
 
-**[Revised 2026-07-13 (practices audit):** the operative set is cut from 19 tags to **six**. Marking is the lowest-yield activity in the learning-science literature this document itself cites, and at read-time in a 60-minute evening session a 19-tag ontology collapses to a handful within a month — maintaining the rest is annotation theatre. The full vocabulary is retained as a reference in **Appendix E**, clearly marked as extended.**]**
+The operative set is **six** tags, not more. Marking is the lowest-yield activity in the learning-science literature this document cites, and at read-time in a 60-minute evening session a larger ontology collapses to a handful within a month. The full 19-tag vocabulary is retained as reference in **Appendix E**.
 
 **Operative set (first six months):**
 
@@ -103,7 +180,7 @@ A stable tag set for marking *at read-time* — the positive complement to the r
 | `[??]` | — | opaque; return |
 | `[→]` | — | connects to another text or concept in the vault — `[→X]` with the target named |
 
-**Reinstatement rule.** A tag from the extended vocabulary (Appendix E) is reinstated only when its absence demonstrably costs something at reconstruction time — e.g., if immanent-critique texts (Marx, Jaeggi) prove hard to reconstruct without premise-attribution bookkeeping, reinstate `[prem:X]`. The burden of proof is on the tag, not on the six-tag set.
+**Reinstatement rule.** A tag from the extended vocabulary (Appendix E) is reinstated only when its absence demonstrably costs something at reconstruction time — e.g., if immanent-critique texts (Marx, Jaeggi) prove hard to reconstruct without premise-attribution bookkeeping, reinstate `[prem:X]`. The burden of proof is on the tag, not on the six-tag set. In practice `[def]`, `[dist]`, and `[Bsp]` are the common early reinstatements alongside `[prem:X]`: `[def]` / `[dist]` while new concepts are still being introduced (see *The first months* above), `[Bsp]` as a location-pointer to examples you will look up rather than retain (closed-book on structure, open-book on detail).
 
 ---
 
@@ -135,7 +212,7 @@ After finishing a chapter or section, close the book and write — in your own w
 
 *Closed-book on structure, open-book on detail.* "From memory" (Protocols 1–3) means the *skeleton* — the claim and the inferential spine — must be reconstructible with the book shut; that is the comprehension test, and it fails to test anything if the book is open. It does *not* mean recalling which example the author used, the exact technical term, or the section number — reopen freely for those. Structure is your-words and stays closed-book; terms and specifics are their-words and are looked up. Requiring closed-book recall of detail merely reintroduces the memorisation pressure the from-memory practice exists to defeat.
 
-**Target length.** *Full tier:* 500–800 words per chapter or major section. *Light tier:* 200–300 words per text (not per chapter). 30–45 minutes per Full reconstruction on top of reading time, 10–15 minutes per Light. **[Revised 2026-07-13 (practices audit):** the 30–45 minutes is the *reconstruction-writing component only*. The canonical all-in figure for a Full-tier session close — template and metadata, the reconstruction itself, targeted re-consultation, seminar questions, concept-entry updates, vault-linking, index update — is **60–120 minutes** (§L.12 steps 1–7). Budget and calibrate on the workflow-inclusive number; the execution plan's week-13 calibration now measures it (amended there 2026-07-13).**]** The Full reconstruction is the philosophical analogue of replicating an econometric exercise — you discover what you actually understand versus what you merely followed along with. Roughly 30% of what you thought you understood dissolves when you try to reconstruct it; the point is identifying the gaps *during study* rather than discovering them in use. See *When and at what depth* below for tier routing.
+**Target length.** *Full tier:* 500–800 words per chapter or major section. *Light tier:* 200–300 words per text (not per chapter). 30–45 minutes per Full reconstruction on top of reading time, 10–15 minutes per Light — but that 30–45 minutes is the *reconstruction-writing component only*. The canonical all-in figure for a Full-tier session close — template and metadata, the reconstruction itself, targeted re-consultation, seminar questions, concept-entry updates, vault-linking, index update — is **60–120 minutes** (§L.12 steps 1–7). Budget and calibrate on this workflow-inclusive number; the execution plan's week-13 calibration measures it. The Full reconstruction is the philosophical analogue of replicating an econometric exercise — you discover what you actually understand versus what you merely followed along with. A substantial fraction of what you thought you understood dissolves when you try to reconstruct it; the point is identifying the gaps *during study* rather than discovering them in use. See *When and at what depth* below for tier routing.
 
 **Which reading protocol to use.** See "Reading protocols by text type" above. The protocol differs depending on whether the text is systematic-argumentative (Protocol 1), dense/anti-systematic (Protocol 2), aphoristic/paratactic (Protocol 2a, with its own reconstruction format), or a short programmatic piece (Protocol 3). The worked example (Appendix D.1, Honneth's "Pathologien des Sozialen") follows Protocol 3. After your first Full-tier reconstruction (W5 Honneth "Pathologien" per the execution plan), bring it to Claude for a Use 1 check (see the `> [!note] Claude — Use 1` callout below in this practice). The Use 1 check is part of Practice A's first-instance protocol, not a separate practice.
 
@@ -163,12 +240,11 @@ Reconstruction depth is tiered. The syllabus marks every text with a tag ([P\*],
 
 **One closing sentence — the forward-looking move (Full tier required; optional at Light).** After completing the four-part reconstruction, add a single sentence in the form: *"If I were making this argument, the move I would change is X."* Be specific — name a premise, a method, an example, or a directed-against opponent. This is not yet an evaluation (Practice H) and does not require defence. The point is to plant a small seed of disagreement that you'll either nurture into a productive intervention later (Practice I Anwendung, Practice J Skizze) or discard as ill-considered once you read further. Across 60+ texts these sentences compound into a record of *your own* judgments, distinct from the reconstructive voice. Without this closing move, the four-part reconstruction is purely backward-looking — it asks only what the author does, never what *you* would do differently. At Light tier, file a closing sentence only where the text actually provokes one; do not force generic dissent.
 
-> [!note] Claude — Use 1: Reconstruction check
-> After you've written your Full or Light reconstruction, bring both the text and your reconstruction to Claude with a prompt like: *"Here is my reconstruction of the argument in chapter X. What have I gotten wrong, what have I missed, and where have I stated something ambiguously?"* This is the highest-value use because *you've already done the hard cognitive work*; Claude functions as a knowledgeable interlocutor who checks your output, not as a source of input. Claude can identify structural misreadings (wrong-step attribution, premise/conclusion conflation, missed qualifications) and gaps. Run the check after the first Full reconstruction (W5 Honneth "Pathologien") and after first-of-author Full reconstructions thereafter; ad hoc beyond that. See [Using Claude as an interlocutor — general principles](#using-claude-as-an-interlocutor--general-principles) for the governing sequencing rule.
+> [!note] Claude — **Use 1 (Reconstruction check)** applies here: bring your written reconstruction for an error/gap/ambiguity check — the highest-value use, run after the first Full (W5 Honneth) and first-of-author thereafter. Full guidance in the [Claude-use table](#using-claude-as-an-interlocutor--general-principles).
 
 ### Worked examples (relocated to Appendix D, 2026-07-13)
 
-**[Revised 2026-07-13 (practices audit):** the two Practice A worked examples moved to Appendix D so the practice section stays scannable; content unchanged.**]** A **completed** Full reconstruction of Honneth, "Pathologien des Sozialen" (1994) — the first [P*] text on the accelerated path; use it to calibrate grain and structure — is at **Appendix D.1**. The deliberately **unfilled** Protocol-2 scaffold on Hegel, *Rechtsphilosophie* §§142–157, to be completed when you reach RP (~W14–16), is at **Appendix D.2**.
+A **completed** Full reconstruction of Honneth, "Pathologien des Sozialen" (1994) — the first [P*] text on the accelerated path; use it to calibrate grain and structure — is at **Appendix D.1**. The deliberately **unfilled** Protocol-2 scaffold on Hegel, *Rechtsphilosophie* §§142–157, to be completed when you reach RP (~W14–16), is at **Appendix D.2**.
 
 ---
 
@@ -194,7 +270,7 @@ This document becomes increasingly valuable as you progress through the syllabus
 
 ## Practice C: Seminar questions (every major text)
 
-Practice C has two complementary sub-practices: C1 internal-tension questions written per text, and C2 cross-thinker or translation questions written at module boundaries. Both train the capacity to identify *where the action is* — distinct from comprehension (do I understand?) and from critique (do I object?). **[Revised 2026-07-13 (practices audit):** C1 is unchanged. The C2 question is no longer a separate module-close artifact: it is filed as the *Positioning* subsection of the adversarial module note (Practice H1). The question forms and the skill described under C2 below are unchanged; only the filing location and count (one question, not 1–2) change.**]**
+Practice C has two complementary sub-practices: C1 internal-tension questions written per text, and C2 cross-thinker or translation questions written at module boundaries. Both train the capacity to identify *where the action is* — distinct from comprehension (do I understand?) and from critique (do I object?). The C2 question is not a separate module-close artifact: it is filed as the *Positioning* subsection of the adversarial module note (Practice H1) — one question, not 1–2.
 
 ### C1: Internal-tension questions (every major text)
 
@@ -204,9 +280,9 @@ For each major text, write 2–3 questions that you would ask if presenting the 
 
 **Examples (relocated to Appendix D, 2026-07-13).** Two calibration-grade C1 questions — Jaeggi (the circularity of evaluating a form of life by its own standards) and Honneth (the autonomy criterion in "Anerkennung als Ideologie") — are at **Appendix D.4**.
 
-**Relationship to the Translation move (post-Pass-6 audit clarification, 2026-05-19; updated 2026-07-13).** The Translation subsection of the adversarial module note (Practice H1 — formerly the standalone H1 light-discrimination note) starts from an *external* objection you were tempted to make, then translates it into an internal one. If the translation succeeds, the resulting internal version *is* a C1 seminar question — file it under whichever you reach first, not both. The distinction is *direction of generation* (C1 = tension noticed *in the text*; Translation = external impulse *in the reader*, translated inward), not artifact form. Reserve C1 for tensions you notice without having been tempted to attack the author externally. Running both faithfully on the same text duplicates work. (This file-once rule is the precedent for the 2026-07-13 module-close consolidation: these practices always shared boundaries; now they share a file.)
+**Relationship to the Translation move.** The Translation subsection of the adversarial module note (Practice H1 — formerly the standalone H1 light-discrimination note) starts from an *external* objection you were tempted to make, then translates it into an internal one. If the translation succeeds, the resulting internal version *is* a C1 seminar question — file it under whichever you reach first, not both. The distinction is *direction of generation* (C1 = tension noticed *in the text*; Translation = external impulse *in the reader*, translated inward), not artifact form. Reserve C1 for tensions you notice without having been tempted to attack the author externally. Running both faithfully on the same text duplicates work.
 
-**Cadence taper (post-Pass-10 audit addition 2026-05-19).** C1 is "every major text" indefinitely as originally specified, but by Phase II the in-author-tension move is consolidated. Recommended taper: every major text M1–M12 (Phase I + early Phase II — training); from M13 onward (mid-Phase II), file C1 questions only where the chapter genuinely surfaces a substantive tension you can name in 2–3 sentences; pro-forma C1 questions on every major text become busy-work. By Phase III, C1 is reserved for texts where the tension is load-bearing for the W3.2 piece. Cadence guidance is consistent with the Translation-subsection + Practice D taper rationale — productive moves consolidate at similar pace once trained.
+**Cadence taper.** C1 is "every major text" *while the in-author-tension move is being trained*. **Exit criterion (competence, not calendar):** once you can name a genuine internal tension in 2–3 sentences without straining, drop to filing C1 only where a chapter actually surfaces a substantive tension — pro-forma questions on every text become busy-work; by Phase III, reserve C1 for tensions load-bearing for the W3.2 piece. Expected timing is full cadence roughly M1–M12 and tapering from mid-Phase II, but the skill triggers the taper, not the month. Consistent with the Translation-subsection and Practice D tapers — productive moves consolidate at similar pace once trained.
 
 ### C2: Cross-thinker and translation questions (once per module; filed in the adversarial module note)
 
@@ -246,7 +322,7 @@ In Obsidian, use the Canvas feature: create a new canvas file, add cards for eac
 
 **Practical tip:** Start each module's debate map with the "why this matters" framing from the syllabus as a skeleton — it already identifies the key positions and disagreements. Then revise and complicate as you read. The syllabus says, e.g., that Honneth's recognition theory is a correction of Habermas (recognition vs. communication as the fundamental normative category) — begin with that axis, then add Fraser (redistribution vs. recognition), Forst (justification vs. recognition), and the internal tension (genuine vs. ideological recognition) as you encounter them.
 
-**Name the negative space (~200 words — opportunistic, not mandatory). [Revised 2026-07-13 (practices audit):** formerly required on every map; requiring one per module manufactures forced pseudo-positions in modules that don't have one (Weber; philosophy of social science). The rule is now: **write one when you see a constructible unoccupied position; otherwise record "no credible negative space found" in one line** on the map and move on.**]** When you do see one, write a short note naming *one constructible position no current thinker occupies in this debate*, plus a sentence on why no one occupies it. Three diagnostic possibilities:
+**Name the negative space (~200 words — opportunistic, not mandatory).** Requiring one per module manufactures forced pseudo-positions in modules that don't have one (Weber; philosophy of social science). The rule: **write one when you see a constructible unoccupied position; otherwise record "no credible negative space found" in one line** on the map and move on. When you do see one, write a short note naming *one constructible position no current thinker occupies in this debate*, plus a sentence on why no one occupies it. Three diagnostic possibilities:
 
 - *Incoherent:* the position can be stated but combines commitments that cannot consistently be held together. (E.g., a "genealogical normative reconstruction" — a Frankfurt-style developmental story explicitly disavowing its developmental commitments.)
 - *Unmotivated:* the position is coherent but no live problem currently presses anyone toward it.
@@ -254,12 +330,11 @@ In Obsidian, use the Canvas feature: create a new canvas file, add cards for eac
 
 This is the most generative move in the practice — which is exactly why it must not be quota-fied into pseudo-positions. Identifying the *occupied* corners is comprehension; identifying the *unoccupied* corner is the seed of an original contribution. The 200-word note is short on purpose — it's an exercise in *naming* a position you might develop, not in developing it.
 
-**Cadence taper (post-Pass-10 audit addition 2026-05-19).** Like the Translation move, Practice D should taper once the move is in the toolkit. Recommended cadence: every module M1–M9 (training period — the cross-thinker positioning move is being learned); alternating modules M10 onward (consolidation); in Phase III, Practice D survives only as input to the M37–38 Comparison Exercise rather than as per-module routine. By the time you can produce a usable debate map in ~1h without effort, the practice has done its work.
+**Cadence taper.** Practice D tapers once the move is in the toolkit. **Exit criterion:** when you can produce a usable debate map in ~1h without effort, the practice has done its training work. Until then, draw one every module (roughly M1–M9); after, alternating modules; in Phase III, D survives only as input to the M37–38 Comparison Exercise, not as per-module routine. The month markers are expected-not-mandatory — the competence triggers the taper.
 
 Apply this alongside the Translation-subsection taper specified in Practice H1 (adversarial module note) — both productive moves consolidate at similar pace.
 
-> [!note] Claude — Use 3: Connection mapping
-> Once you've finished a module and drawn your debate map, bring it to Claude and ask: *"I've just completed Module 7. Here is my understanding of the debate landscape. What connections to other thinkers or debates am I missing? Are there positions I've mislocated?"* This is where Claude is genuinely useful in a way solitary reading cannot match — it can flag that your reading of Forst connects to a debate in Module 11A you haven't reached yet, or that an objection you've formulated against Honneth was already made by someone you'll encounter in Module 8. The use enriches the *relational* structure of your knowledge; it does not replace comprehension of individual texts. Run after the debate map is filed, not before — the discrimination move is yours to make first.
+> [!note] Claude — **Use 3 (Connection mapping)** applies here: after the debate map is filed, ask what connections or mislocations you're missing. Full guidance in the [Claude-use table](#using-claude-as-an-interlocutor--general-principles).
 
 ---
 
@@ -276,7 +351,7 @@ While Practice D (debate maps) captures the integration of thinkers *within* a s
 
 **Filing.** Under `Synthesen/` in the Obsidian vault. Link to the relevant module-level reconstructions, concept entries (Practice B), and debate maps (Practice D). Tag the connection in the concept-tracking document (Practice B) under "Live disputes" if it surfaces a contestation worth tracking.
 
-**Budget and cadence. [Revised 2026-07-13 (practices audit):** the former quota — "expect ~3–5 per module-close week pair (mid-Phase II onwards)" — is deleted. Insight on a schedule is ritual by definition; the quota was also absent from the module-close budget it silently inflated. The practice itself is load-bearing (see *Cumulative function* below) and stays. Two replacements:**]** ~30 min – 1h per synthesis note, written when triggered — plus:
+**Budget and cadence.** There is no synthesis quota — insight on a schedule is ritual by definition, and the practice is load-bearing (see *Cumulative function* below) without one. Budget ~30 min – 1h per synthesis note, written when triggered — plus:
 
 - **(a) Monthly vault walk (30 min, scheduled).** Once a month, reread three old notes: one reconstruction, one concept entry, and one synthesis or debate-map note. Exit criterion: either **one synthesis note**, if a cross-module connection is live, or **one logged line** — "no connection worth a note this month." The walk is the scheduled loop over your own vault that the encoding-side practices do not provide, and it doubles as this document's explicit **vault-hygiene budget**: broken links, stale statuses, and missing index entries found on the walk are fixed inside the same 30 minutes, not queued. (Distinct from the module-close spaced-repetition prompts, which are active recall of distinctions; the walk is rereading of connective tissue. The two are complementary — see *Module-close practices* in Part III.)
 - **(b) Training-period soft target (Modules 1–9).** At each module close, *attempt* one synthesis note. Attempt ≠ deliver: the skill of noticing cross-module connections is what is being trained, and "nothing connects yet" is a legitimate outcome while the corpus is small — log it and stop.
@@ -318,7 +393,7 @@ Since you read fluently in both German and English, you have access to a practic
 
 **(iii) Register loss.** Habermas's German distinguishes sharply between *Verstand* (understanding in the Kantian sense: rule-following, categorising) and *Vernunft* (reason in the Hegelian sense: self-reflective, dialectical). Both are often translated as "reason" or "rationality" in English, collapsing a distinction that does real philosophical work.
 
-**Practical implementation:** Keep both the German and English editions accessible. **[Revised 2026-07-13 (practices audit):** the language default is aligned with bridge §5.C, which this paragraph previously contradicted ("whichever language is faster, probably English").**]** Read Frankfurt-tradition primary texts (Hegel, Marx, Adorno, Habermas, Honneth, Jaeggi) **in German** — the conceptual vocabulary is canonical in German, and the Style × Tier pacing matrix (Appendix C §C.2) already prices the slower DE pp/h. English is acceptable for secondary literature, analytic-philosophy texts, and non-German-original authors (Dewey, Fricker, Taylor, List & Pettit). Translation comparison stays selective as designed: when a passage matters — it contains a key claim, a crucial transition, or a definition you'll use in your conceptual-tracking document — check the other language. Note significant translation discrepancies in your Practice A reconstruction with a brief gloss: "Ashton translates X as Y; the German Z carries the additional connotation of W." This takes 5–10 minutes per chapter and occasionally saves hours of confusion.
+**Practical implementation:** Keep both the German and English editions accessible. Read Frankfurt-tradition primary texts (Hegel, Marx, Adorno, Habermas, Honneth, Jaeggi) **in German** — the conceptual vocabulary is canonical in German, and the Style × Tier pacing matrix (Appendix C §C.2) already prices the slower DE pp/h. English is acceptable for secondary literature, analytic-philosophy texts, and non-German-original authors (Dewey, Fricker, Taylor, List & Pettit). Translation comparison stays selective as designed: when a passage matters — it contains a key claim, a crucial transition, or a definition you'll use in your conceptual-tracking document — check the other language. Note significant translation discrepancies in your Practice A reconstruction with a brief gloss: "Ashton translates X as Y; the German Z carries the additional connotation of W." This takes 5–10 minutes per chapter and occasionally saves hours of confusion.
 
 **Time budget.** Translation comparison is absorbed into per-chapter reading time, not separately budgeted. The 5–10 minutes per chapter figure applies only when a passage actually warrants the check; most chapters don't trigger it.
 
@@ -336,7 +411,7 @@ Critical evaluation has two scales: the **adversarial module note** (H1) written
 
 ### H1: Adversarial module note (every module close, ~1h, 300–450 words)
 
-**[Revised 2026-07-13 (practices audit):** the former H1 light-discrimination note, the Dialogue Moment (formerly canonical in bridge §3.6, absorbed here per the single-ownership rule), and the C2 cross-thinker question are consolidated into **one** module-close artifact. All three cognitive moves are preserved in full; what shrinks is the artifact count (three → one) and the per-artifact startup cost (template, framing, filing × 3 → × 1). The precedent is the C1/Translation file-once rule under Practice C1 — these practices already shared boundaries; now they share a file.**]**
+This note consolidates three cognitive moves into **one** module-close artifact: the light-discrimination note (Translation), the Dialogue Moment (Objection, formerly bridge §3.6), and the C2 cross-thinker question (Positioning). All three are preserved in full; only the artifact count (three → one) and per-artifact startup cost shrink.
 
 One note per module close, filed under `Evaluationen/`, with three **mandatory** subsections:
 
@@ -346,10 +421,12 @@ One note per module close, filed under `Evaluationen/`, with three **mandatory**
 
 **(iii) Positioning** (the former C2 function). One cross-thinker or translation question, in the two forms specified under Practice C2 above. Write it before asking Claude for comparisons (write-then-compare, per Practice B).
 
-**Cadence and taper (post-Pass-6 recommendation 2026-05-19, updated 2026-07-13).** The note itself is written at every module close; subsections (ii) and (iii) do not taper. The **Translation subsection inherits the former H1 taper** — the external→internal move either consolidates by ~Module 7 or it doesn't:
+**Cadence and taper.** The note is written at every module close; subsections (ii) Objection and (iii) Positioning do not taper. The **Translation subsection (i)** tapers on a competence criterion — **once you catch the external→internal distinction reliably and translation has become effortless**:
 
-- **Every module M1–M6 (training period)** — write subsection (i) in full, no exceptions. Early modules are where economist-instincts most strongly produce external objections.
-- **From Module 7 onward (consolidation → ad hoc)** — subsection (i) may thin: write it in full only where you noticed a substantive external impulse during reading; where translation was effortless, one line ("no substantive external impulse this module") satisfies the mandatory-subsection rule.
+- *While still training* (expected M1–M6, where economist-instincts most strongly produce external objections) — write subsection (i) in full, no exceptions.
+- *Once consolidated* (expected from ~Module 7) — write it in full only where you noticed a substantive external impulse during reading; where translation was effortless, one line ("no substantive external impulse this module") satisfies the mandatory-subsection rule.
+
+The month markers are expected-not-mandatory; consolidation of the move, not the calendar, triggers the thinning.
 
 Filed at module close, the Translation subsections later feed into full H2 evaluations from Module 6 onward.
 
@@ -371,10 +448,7 @@ After the reconstruction (Practice A), write a separate 300–500 word evaluatio
 
 **(iv) Where could you intervene?** Is there a question the author doesn't ask that you could ask, given your background? Is there an empirical claim you could strengthen, challenge, or reformulate with greater precision? Is there a structural analogy to something in your own field that the author misses? This is the seed of original contribution — and the natural input to Practice I (Anwendung) and Practice J (Skizze). Keep a running list of these.
 
-> [!note] Claude — Use 4: Sparring partner
-> When you've written your H2 evaluation — identifying the weakest premise and constructing your objection — bring it to Claude and ask Claude to steelman the author's position against your objection. *"Here is what I think the weakest premise in Jaeggi's problem-solving model is, and here is my objection. Can you construct the strongest possible defence of Jaeggi's position against this objection?"* This simulates the graduate-seminar dynamic of having your criticism tested, which is otherwise nearly impossible to replicate in solitary study.
->
-> **Hallucination risk for Use 4.** When Claude steelmans an author's position, it is *generating* argumentative prose, not reporting on the author's actual writing. The defence Claude constructs may be a plausible fiction — fluent, internally coherent, and not anywhere in the author's text. This risk is higher than for Use 1 (reconstruction check) because Use 1 has both your reconstruction and the author's text as anchors, while Use 4 asks Claude to invent a defence. **Specific discipline:** when asking Claude to steelman, explicitly require Claude to point to either (a) a specific passage in the author's own work where this defence is made or implied, or (b) a specific secondary author whose defence this is. Treat any uncited defence as Claude's invention rather than the author's. Without this discipline, you risk training your sense of "what defenders say" on prose Claude made up.
+> [!note] Claude — **Use 4 (Sparring partner)** applies here, and it carries the **highest hallucination risk** in the document: a steelman may be plausible fiction. Require a cited passage or named secondary; treat any uncited defence as invention. Full discipline in the [Claude-use table](#using-claude-as-an-interlocutor--general-principles).
 
 ---
 
@@ -439,7 +513,7 @@ Beginning in Phase II (after Honneth, ~M25), at roughly 6–8 week intervals, wr
 
 ### Worked-example scaffold (relocated to Appendix D, 2026-07-13)
 
-**[Revised 2026-07-13 (practices audit):** the Skizze worked-example scaffold — kept in full per user decision — moved to **Appendix D.5**, deliberately, so that its substantive placeholder content does not anchor your first real Skizze. ⚠ Write your first Skizze at ~M25 *before* rereading the scaffold's substantive content; the strengthened anchoring warning at D.5 states why.**]**
+The Skizze worked-example scaffold is at **Appendix D.5**. ⚠ Write your first Skizze at ~M25 *before* rereading the scaffold's substantive content, so it does not anchor your first attempt; the anchoring warning at D.5 states why.
 
 ---
 
@@ -453,7 +527,7 @@ A small standalone exercise, not a lettered practice. The Skizze and the Phase I
 
 ---
 
-## The Zwischenstück: cross-disciplinary short essay (~M29–M34) **[added 2026-07-13 (practices audit)]**
+## The Zwischenstück: cross-disciplinary short essay (~M29–M34)
 
 The *Zwischenstück* (intermediate piece) is the **mandatory rung between the Skizze and the publishable piece**: one essay of 2,000–3,000 words with a single argumentative arc, built from 2–3 prior Skizzen, written at ~M29–M34 for a *Soziopolis*/*WestEnd*-type venue. It is the bridge document's cross-disciplinary short essay — venue options, timing, submission logistics, and community-track function live in **bridge §2.4** (cite, don't restate) — promoted here into the practice ladder. What changes is its status: it is part of the production pipeline, not optional community garnish, and it may not be dropped as such.
 
@@ -463,7 +537,7 @@ The *Zwischenstück* (intermediate piece) is the **mandatory rung between the Sk
 
 ---
 
-## Practice-transformation in Phase III (post-Pass-10 audit addition 2026-05-19)
+## Practice-transformation in Phase III
 
 The practices above are calibrated to Phase I (training) and Phase II (consolidation + apprenticeship). **Phase III is structurally different**: from M35 R5 onward, the W3.2 publishable piece is the *primary text* the practices serve. Receptive practices (A reconstructions, B concept tracking, C1 seminar questions, D debate maps, the adversarial module note) cannot continue at Phase II cadence during the writing-block weeks (W1 at M40, W2 at M47) or during the M41–M43 frontier-reading-cum-informal-presentation stretch. Three transformations:
 
@@ -483,7 +557,7 @@ The sections in this part are not first-order practices in the way that Parts I 
 
 ## Module-close practices — canonical definitions
 
-**[Revised 2026-07-13 (practices audit):** two structural changes. *First*, the module close is consolidated from five artifacts to three (plus one small scheduled item): the former Dialogue Moment, H1 light-discrimination note, and C2 cross-thinker question are merged into the adversarial module note (Practice H1). *Second*, per the single-ownership rule, the canonical definitions of the **comprehension check** and the **quarterly milestone** move here from programme_parameters.md §3.3; the Dialogue Moment's content is absorbed into the adversarial module note's Objection subsection (formerly bridge §3.6). This document now owns all module-close practice definitions; the bridge retains only the structural requirement, and the execution plan's §D.2 checklist carries the scheduling.**]**
+This document owns all module-close practice definitions; `programme_parameters.md` retains only the structural requirement, and the execution plan's §D.2 checklist carries the scheduling. The close is three artifacts (plus one small scheduled item): the **adversarial module note** (Practice H1) consolidates the former Dialogue Moment, H1 light-discrimination note, and C2 cross-thinker question; the **comprehension check** and **quarterly milestone** are defined here (moved from programme_parameters.md §3.3), the Dialogue Moment absorbed into H1's Objection subsection.
 
 The standard module close comprises:
 
@@ -506,7 +580,7 @@ A field-test self-assessment, ~5 across the programme, anchored to module bounda
 
 ### Spaced-repetition prompts (module close ~20 min; review ~10 min/week)
 
-**[Revised 2026-07-13 (practices audit):** promoted from an optional plugin recommendation (§L.8) to a scheduled module-close item — the cheapest high-yield item in the regime. Encoding-side retrieval practice (Practice A) installs the *skill* of reconstruction; it does not keep Module 2's *Warenfetischismus*/*Verdinglichung* distinction alive at month 30 without re-exposure.**]** At each module close, write **5–8 retrieval prompts** (question/answer pairs) on the module's confusable distinctions. The model: "Lukács's *Verdinglichung* vs. Honneth's — what does each locate the pathology in?" Prompts test *distinctions* and *argumentative moves*, never bare definitions ("Define *Verdinglichung*" is not a prompt). Review ~10 min/week thereafter via the Obsidian Spaced Repetition plugin (§L.8). This is **active recall** — flashcard-style retrieval — and is distinct from the monthly vault walk (Practice E), which is *rereading* of your own notes; the two are complementary: prompts keep fine-grained distinctions retrievable, the walk keeps the vault's connective tissue alive.
+This is a scheduled module-close item — the cheapest high-yield item in the regime. Encoding-side retrieval practice (Practice A) installs the *skill* of reconstruction; it does not keep Module 2's *Warenfetischismus*/*Verdinglichung* distinction alive at month 30 without re-exposure. At each module close, write **5–8 retrieval prompts** (question/answer pairs) on the module's confusable distinctions. The model: "Lukács's *Verdinglichung* vs. Honneth's — what does each locate the pathology in?" Prompts test *distinctions* and *argumentative moves*, never bare definitions ("Define *Verdinglichung*" is not a prompt). Review ~10 min/week thereafter via the Obsidian Spaced Repetition plugin (§L.8). This is **active recall** — flashcard-style retrieval — and is distinct from the monthly vault walk (Practice E), which is *rereading* of your own notes; the two are complementary: prompts keep fine-grained distinctions retrievable, the walk keeps the vault's connective tissue alive.
 
 ---
 
@@ -538,7 +612,7 @@ A field-test self-assessment, ~5 across the programme, anchored to module bounda
 
 For each hour of reading, budget approximately 20–30 minutes of active writing (reconstructions, evaluations, seminar questions). This average is calibrated to the Full tier on systematic texts; Light tier runs ~10–15 min/h of filed writing and Orientation tier ~0 min/h (the reading-log line is incidental). Debate maps and conceptual tracking entries are done at module boundaries and take 1–2 hours per module. Re-reading is built into the schedule at 15–20% of total time. In total, the active practices add roughly 40–50% to the raw reading time, and re-reading adds another 15–20%.
 
-**Module-boundary additions on top of the per-text rate [Revised 2026-07-13 (practices audit): consolidated — see *Module-close practices — canonical definitions* above; the previous version summed five artifacts to a real ~7–11h against a stated 5–7h cap]:** comprehension check (~2–3h) + adversarial module note (~1h) + Practice D debate map with opportunistic negative-space note (~1.5–2h) + spaced-repetition prompt-writing (~20 min).
+**Module-boundary additions on top of the per-text rate** (see *Module-close practices — canonical definitions* above)**:** comprehension check (~2–3h) + adversarial module note (~1h) + Practice D debate map with opportunistic negative-space note (~1.5–2h) + spaced-repetition prompt-writing (~20 min).
 
 **Full module-close load summed:**
 
@@ -549,12 +623,12 @@ For each hour of reading, budget approximately 20–30 minutes of active writing
 
 The standard close now genuinely fits inside a module-close week's budget rather than nominally so. The execution plan's §D.2 module-close checklist carries the scheduling of this load; the canonical definitions live in this document.
 
-**Peak-week guidance (post-Pass-10 audit addition; slip priority revised 2026-07-13).** Some weeks combine module-close load with a due Anwendung (~3.5–4.5h) or due Skizze (~4.5–6h). A module-close + due-Skizze week is structurally ~10–12h — far above the 7.5h baseline. The execution plan's §D.1 §D Layer 1–2 cut list handles this if it bites; the practice rule is: **do not co-schedule Anwendung or Skizze with a module-close week if possible.** If schedule forces co-scheduling:
+**Peak-week guidance.** Some weeks combine module-close load with a due Anwendung (~3.5–4.5h) or due Skizze (~4.5–6h). A module-close + due-Skizze week is structurally ~10–12h — far above the 7.5h baseline. The execution plan's §D.1 §D Layer 1–2 cut list handles this if it bites; the practice rule is: **do not co-schedule Anwendung or Skizze with a module-close week if possible.** If schedule forces co-scheduling:
 
 - **Phase I to ~M24:** the Anwendung or Skizze slips to the following week rather than the module-close items dropping — the receptive module-close practices are still in training and hold.
-- **[Revised 2026-07-13 (practices audit): from ~M25 onward the priority inverts.** The production pipeline (Skizze, Anwendung, Zwischenstück) **holds**; the comprehension check compresses to ~1h and the adversarial module note slips instead. Rationale: by month 25 the receptive module-close artifacts are consolidation of a trained skill, while the production pipeline is the scarce asset on the month-48 critical path — a slipped Skizze delays W3.2 material; a compressed comprehension check does not.**]**
+- **From ~M25 onward the priority inverts.** The production pipeline (Skizze, Anwendung, Zwischenstück) **holds**; the comprehension check compresses to ~1h and the adversarial module note slips instead. Rationale: by month 25 the receptive module-close artifacts are consolidation of a trained skill, while the production pipeline is the scarce asset on the month-48 critical path — a slipped Skizze delays W3.2 material; a compressed comprehension check does not.
 
-**Practice debt and the degradation floor [added 2026-07-13 (practices audit)].** The falling-behind protocols (execution_plan §A) measure weeks-behind on the *reading* schedule; a reader can be perfectly on schedule and have silently stopped writing — which, by this document's own theory, is the programme's core failure mode (a passive reader accumulating fluency illusion). Three rules close the gap on the method side; the corresponding protocol row lives in the execution plan's Appendix A.
+**Practice debt and the degradation floor.** The falling-behind protocols (execution_plan §A) measure weeks-behind on the *reading* schedule; a reader can be perfectly on schedule and have silently stopped writing — which, by this document's own theory, is the programme's core failure mode (a passive reader accumulating fluency illusion). Three rules close the gap on the method side; the corresponding protocol row lives in the execution plan's Appendix A.
 
 *(a) Degradation ladder.* A Full reconstruction that cannot get its writing time becomes a **Light note** (claim + directed-against, 150 words, 10 minutes) **in the same week as the read** — never deferred to a later week, and never nothing. A Light note degrades to a reading-log line. Rationale: Practice A is retrieval practice, and retrieval decays within days — a reconstruction shifted two weeks is no longer a memory test but an essay about your marginalia. *Reading* pressure is handled by shifting weeks (the execution plan's falling-behind cascade); *practice* pressure is handled by same-week degradation. The Full → Light → log-line ladder already exists as the tier system; here it is repurposed as the compliance floor.
 
@@ -585,11 +659,24 @@ Don't panic if your first Hegel reconstruction takes 90 minutes — this is on t
 
 **Important note on syllabus hour estimates:** The syllabus's per-text hour estimates are calibrated to reading plus basic comprehension, not to the full active practice regime described here. If the syllabus says a text takes 30 hours, expect closer to 45–55 hours with systematic written reconstruction, evaluation, and re-reading. This means the core programme's ~1,230–1,640 estimated hours becomes more like ~1,900–2,500 hours in practice. A legitimate calibration decision is to reserve the full regime (Practices A–G) for the [P] and [P*] texts in Parts I–II (the historical foundations and systematic core), while adopting a lighter touch — reconstruction only, no evaluation, no re-reading — for the instrumental readings in Part III. The Part II productive practices (H, I, J) are commitments at a different scale: their hours are budgeted in the execution plan directly, not absorbed into the per-text reading-plus-writing ratio.
 
-**Note on the learning curve:** The 20–30 minutes of writing per hour of reading is an *average across the programme*. Your first few reconstructions (Hegel, early Marx) will take 45–60 minutes each; by the time you reach Jaeggi, a year or more in, you may need only 15–20 minutes because you've developed the skill of identifying argumentative structure quickly. Don't panic if the first months feel slow — the ratio improves, and the early investment in slow, careful reconstruction pays compound returns. See also "Reading protocols by text type" for how the reading-plus-writing time breaks down differently for systematic texts (Protocol 1), dense texts requiring two passes (Protocol 2), aphoristic/paratactic texts (Protocol 2a), and short programmatic texts (Protocol 3).
+**Note on the learning curve:** The 20–30 minutes of writing per hour of reading is an *average across the programme*. Your first few reconstructions (Hegel, early Marx) will take 45–60 minutes each; by the time you reach Jaeggi, a year or more in, you may need only 15–20 minutes because you've developed the skill of identifying argumentative structure quickly. Don't panic if the first months feel slow — the ratio improves, and the early investment in slow, careful reconstruction pays compound returns. For the earliest texts specifically — where the difficulty is unfamiliar *content*, not prose — see [The first months: reading before you have a schema](#the-first-months-reading-before-you-have-a-schema). See also "Reading protocols by text type" for how the reading-plus-writing time breaks down differently for systematic texts (Protocol 1), dense texts requiring two passes (Protocol 2), aphoristic/paratactic texts (Protocol 2a), and short programmatic texts (Protocol 3).
 
 **On word counts for orientation:** 500–800 words (Full tier per the *When and at what depth* section above) is roughly 1–2 single-spaced pages — something you could read aloud in 3–5 minutes. 200–300 words (Light tier) is roughly half to one page, a single dense paragraph. Orientation tier produces no filed reconstruction — see [Appendix C §C.2 Style × Tier matrix](#c2-style--tier-matrix-and-time-formula). These are not essays; they are compressed, high-density notes-to-self.
 
 **Calibration hook.** The writing-time multipliers in [Appendix C §C.2 Style × Tier matrix](#c2-style--tier-matrix-and-time-formula) (class-dependent α; Full Dense 1.0 / Systematic 0.5 / Layered 0.4 / Analytic 0.3 / Transparent 0.3; corresponding Light at α ÷ ~2.5) are *planning estimates*, not empirical measurements. Validate them against actual time spent on the first Hegel chapter reconstruction (around W5, Honneth "Pathologien") and the first systematic-primary reconstruction (around W14, Neuhouser). **The execution plan's W9–W13 calibration log already measures these metrics** (see [execution_plan.md](execution_plan.md) and the W13 two-gate trigger). If the measured overhead deviates by more than 20% from the figures here, revise both this section and the corresponding entry in Appendix C §C.2, then propagate to execution_plan Appendix A (which mirrors C.2). If the *When and at what depth* tier definitions above are revised (e.g., RS promoted to Light, or Light per-text changed to per-chapter), Appendix C §C.2 and execution plan Appendix A must be updated in the same pass. Without this hook, the multipliers are unfalsifiable estimates; with it, the practices document and the execution plan form a self-revising system.
+
+---
+
+## How the method sustains itself
+
+The regime is demanding and largely solitary, and the programme's dominant failure mode is motivational collapse via slippage (bridge §5.E), not intellectual difficulty. Four of the practices are load-bearing here precisely because they make the payoff *visible* rather than deferred to M48:
+
+- **The closing sentence** (Practice A) accumulates, across 60+ texts, into a record of *your own* judgments — the first thing in the regime that is yours rather than the author's.
+- **The self-disagreement re-read** (Practice F) is the closest thing to a record of your intellectual development you will produce: it isolates *what understanding moved* between a month-3 reconstruction and its month-18 revisit.
+- **The vault graph** (Appendix F) becomes, by month 12, a visual map of your growing command of the field — the compounding return the daily overhead buys.
+- **Anwendung failure is informative** (Practice I): a concept that won't bind tells you something real about the concept *and* the phenomenon. Log it as a result, not a defeat.
+
+When the mid-programme stretch (roughly M18–M28) feels like unrewarded overhead, this is the section to reread — the overhead is buying a compounding apparatus, and these four are where you can watch it compound.
 
 ---
 
@@ -599,380 +686,48 @@ The sequencing matters enormously. The governing principle: **after your own wri
 
 The reason is that the cognitive work of reconstructing an argument — struggling with what the claim actually is, discovering that you can't state premise three, realising you've conflated two distinct arguments — *is* the learning. If you ask Claude to explain a chapter before writing your own reconstruction, you get a fluent summary that feels like understanding but hasn't produced the neural pathways that constitute understanding. You'll nod along, think "yes, that's what I thought," and retain very little. This is the philosophical equivalent of reading someone else's solution to a problem set: it looks obvious in retrospect but you couldn't have produced it, and the capacity to produce it is what you're trying to build.
 
-*Specific Uses 1–5 are distributed inline at the relevant practices (A, D, H) and reading-protocol sections. See `> [!note] Claude — Use N:` callouts throughout this document. What NOT to use Claude for is in [Discipline — what not to do](#discipline--what-not-to-do).*
+The five specific uses are consolidated in the table below; each practice carries a one-line pointer back here. **What NOT to use Claude for** is in [Discipline — what not to do](#discipline--what-not-to-do).
+
+| Use | For | Which practice / where | Prompt shape | Halluc. risk | Mandatory anchor |
+|---|---|---|---|---|---|
+| **1 — Reconstruction check** | Checking a reconstruction you've written | Practice A; §L.12 step 9 — after first-of-author Full | "What have I got wrong / missed / stated ambiguously?" | Low — your text + primary both anchor | — |
+| **2 — Targeted clarification** | A passage opaque after two careful reads | Protocol 2 (dense texts) | "Here's *my* reading — am I on track, or is X doing something I'm missing?" | Medium | Include your own attempt |
+| **3 — Connection mapping** | Enriching a finished debate map | Practice D — after the map is filed | "What connections / mislocations am I missing?" | Medium | Map filed first |
+| **4 — Sparring partner** | Steelmanning against your own objection | Practice H2 (full evaluation) | "Construct the strongest defence of X against my objection" | **High — Claude generates prose** | Require a cited passage or named secondary; treat uncited defence as invention |
+| **5 — Language assistance** | Grammatically tortured German | Protocol 3 / any dense sentence | "Parse the syntax — main clause, subordinate modifiers, pronoun referents" | Low | Attempt the sentence first |
+
+**Use 1 — Reconstruction check.** After writing your Full or Light reconstruction, bring both the text and your reconstruction: *"What have I gotten wrong, what have I missed, and where have I stated something ambiguously?"* Highest-value use, because *you've already done the hard cognitive work* — Claude checks your output, not supplies input, and catches structural misreadings (wrong-step attribution, premise/conclusion conflation, missed qualifications) and gaps. Run after the first Full reconstruction (W5 Honneth "Pathologien") and after first-of-author Full reconstructions thereafter; ad hoc beyond that.
+
+**Use 2 — Targeted clarification.** A passage you cannot parse after two careful reads — common with Hegel, Adorno, parts of Habermas — brought *with your best attempt*: *"Here is how I'm reading this. Am I on track, or is the author doing something I'm not seeing?"* Not "what does this mean?" (that outsources the work). Always include your attempt; if you can produce none at all, that is itself diagnostic — usually a missing piece of context (a concept from earlier, a position implicitly targeted), not sheer difficulty. Distinct from Use 5: Use 2 is philosophical opacity after the grammar is parsed.
+
+**Use 3 — Connection mapping.** After a debate map is filed: *"Here is my map of the module's landscape. What connections or mislocations am I missing?"* Enriches the *relational* structure — it can flag that your reading of Forst connects to a debate you haven't reached, or that an objection you formed was already made by someone downstream. Run after the map is filed; the discrimination is yours to make first.
+
+**Use 4 — Sparring partner (highest hallucination risk).** After an H2 evaluation: *"Here is the weakest premise and my objection. Construct the strongest defence against it."* This simulates the seminar dynamic of having criticism tested. **But when Claude steelmans, it is *generating* argumentative prose, not reporting the author's writing — the defence may be a plausible fiction, fluent and nowhere in the text.** Higher risk than Use 1 (which has both your text and the author's as anchors). Discipline: require Claude to point to (a) a specific passage where the defence is made or implied, or (b) a specific secondary author whose defence it is; treat any uncited defence as Claude's invention. Without this, you train your sense of "what defenders say" on prose Claude made up.
+
+**Use 5 — Language assistance.** A syntactically tortured German sentence — parse it *linguistically* only: *"What is the main clause, what do the subordinate clauses modify, what are the pronoun referents?"* Not the philosophical interpretation. Separating grammatical from philosophical difficulty lets you spend effort on the latter. Attempt the sentence yourself first; if you can parse the grammar but not the argument, that's Use 2, not Use 5.
 
 ---
 
-## Note-taking infrastructure (Obsidian vault)
+## External calibration — the Phase I tutor touchpoints
 
-The practices above specify *what* to write but not *where*. For a project of this scale — 4–5 years, 60+ texts, hundreds of reconstructions, dozens of concept entries and debate maps — the choice of tool matters. A plain folder of markdown files will become unsearchable by year two; a disorganised system will undermine the cross-referencing that makes Practice B (conceptual tracking) and Practice D (debate maps) valuable.
+Claude checks your output but cannot be trusted on contested interpretation (Use 4), and community engagement (bridge §2.4) is deliberately deferred to Phase II. That leaves Phase I — ~15 months of building the foundational apparatus — with no external error-detection: a systematic misreading of Hegel in month 3 would not surface until the W59–61 external-calibration letter. Three cheap touchpoints close the gap.
 
-### L.1: Tool choice and core vault structure
+**What it is.** A paid *calibrator of your written reconstructions*, not a teacher. They see your reconstruction *after* you have written it — the same position as the Claude Use 1 check, so it is fully consistent with the "after your own work, never before" rule and does not touch the from-memory discipline. It is emphatically not "explain Hegel to me."
 
-**Recommended setup: Obsidian vault with manual linking.**
+**Who.** An advanced doctoral student or postdoc in *praktische Philosophie* / *Sozialphilosophie* / German idealism — **not** a scholar from the interlocutor map (those are reserved for Phase II–III community engagement; recruiting a future interlocutor as a paid tutor is the wrong relationship and a low-status opening move). Frankfurt/Goethe is ideal terrain, and German-speaking matters so they can check the German original, not a translation.
 
-Use [Obsidian](https://obsidian.md) (free, local-first, markdown-based) as your knowledge vault. The key properties for this project: it stores everything as plain markdown files (future-proof, portable, works with Git), it supports bidirectional linking between notes (`[[note name]]`), and it renders markdown including LaTeX. Structure the vault as follows:
+**How to find one.** Email a relevant Goethe chair's secretariat or professor asking whether a doctoral student would take a paid gig commenting on reconstructions (higher-yield and lower-awkwardness than cold-emailing students directly); fallback, email one or two doctoral researchers whose page lists Hegel or critical theory. The ask is short, bounded, paid, and explicitly *calibration, not tutoring*.
 
-**Note on folder names (post-Pass-10 audit clarification 2026-05-19):** the folder-name schematic below uses English names for clarity in this English-language methods document. The **canonical vault at `/Users/michael/Obsidian/Sozialphilosophie/`** uses German folder names (`Module/`, `Konzepte/`, `Evaluationen/`, `Debatten-Karte/`, `Synthesen/`, `Wöchentliche Reviews/`, `Empirical/`, `templates/`) per the project's bilingual workflow — see `CLAUDE.md` for the canonical listing. Treat the English names below as schematic; the German names in the vault are the operative ones.
+**Cadence — three touchpoints, ~1.5 h of your time each:**
+1. **~W16** — after the first Hegel *Rechtsphilosophie* reconstruction (Dense / Protocol 2; the highest-value check, on resistant prose and contested interpretation).
+2. **~M6** — after the first Habermas systematic reconstruction (TKH; a different failure mode — architecture-tracking, not opacity).
+3. **W59–61** — folded into the Motivational-Checkpoint external-calibration letter (recruit the tutor as its calibrator; this pulls external error-detection from month 15 back to month 4).
 
-**Folder architecture — one folder per practice type, plus per-module folders:**
+**What to send.** The reconstruction (500–800 w), the primary passage it covers, three lines of context (what the programme is, the tier/protocol, and specifically what you want checked), and a pointed question set mapping onto the four parts: *is the directed-against aimed at the right opponent? which of the four parts is weakest? where have I imported a premise the text does not license (the pointing-constraint failure)?*
 
-```
-vault-root/
-├── _index.md                         # master navigation hub (see §L.4)
-├── modules/
-│   ├── Module-01-Hegel/
-│   │   ├── _index.md                 # module-level MOC
-│   │   ├── Hegel-Rechtsphilosophie-142-180.md   # Practice A reconstruction
-│   │   ├── Hegel-Rechtsphilosophie-181-256.md
-│   │   └── ...
-│   ├── Module-07-Honneth/
-│   │   ├── _index.md
-│   │   ├── Honneth-KuA-ch1.md
-│   │   └── ...
-│   └── ...
-├── concepts/                          # Practice B entries
-│   ├── Verdinglichung.md
-│   ├── Anerkennung.md
-│   ├── Immanente-Kritik.md
-│   └── ...
-├── evaluations/                       # Practice H evaluations
-│   ├── eval-Honneth-KuA-ch1.md
-│   └── ...
-├── debate-maps/                       # Practice D maps
-│   ├── Module-07-recognition-debate.md
-│   └── ...
-├── synthesis/                         # cross-source permanent notes
-│   ├── Honneth-psychologises-structural-categories.md
-│   └── ...
-├── reviews/                           # periodic review notes
-│   ├── 2026-W21.md
-│   └── ...
-├── field-reports/                     # motivational checkpoints (Craft Block, Part V)
-├── templates/                         # note templates (see §L.6)
-│   ├── tpl-reconstruction.md
-│   ├── tpl-concept.md
-│   ├── tpl-evaluation.md
-│   ├── tpl-debate-map.md
-│   ├── tpl-synthesis.md
-│   └── tpl-review.md
-└── .obsidian/                         # Obsidian config (auto-generated)
-```
+**Cost and boundary.** ~€300–500 for all three touchpoints in Phase I — cheap insurance against months of compounding error. One caveat: a philosophy PhD carries their own interpretive line (Pippin vs. Neuhouser on Hegel); treat the tutor as *one calibration point, not ground truth on contested interpretation* — the Use 4 status caveat, but far more reliable. Ask which reading they come from.
 
-The governing principle: **reconstructions live with their module** (because they are source-bound and read in module order), **everything else lives in a practice-type folder** (because concepts, evaluations, synthesis notes, and debate maps are cross-modular by nature — a concept entry on *Verdinglichung* spans Modules 2, 3, 5, 7, and 8). Seminar questions (Practice C) are embedded at the bottom of the reconstruction file they belong to, not split into a separate folder, because they are short and tightly coupled to the reconstruction.
-
-**Synthesis notes** go in `synthesis/` because they are the notes most likely to be linked from many places and least bound to any single module. A synthesis note like `Honneth-psychologises-structural-categories.md` will be linked from the Lukács reconstruction, the Honneth reconstruction, and the Jaeggi reconstruction — it doesn't belong in any one module folder. Title them as propositions ("The Frankfurt tradition's concept of social pathology oscillates between medical and developmental metaphors"), not as source references. These are Luhmann's *permanente Notizen* — the notes that express your own thinking rather than tracking someone else's argument. They emerge from reconstructions but are not bound to any single source.
-
-### L.2: Standardised YAML frontmatter (removed in Pass 10; canonical in vault)
-
-The detailed YAML frontmatter schema previously documented here has been removed. Canonical schemas live in the vault templates themselves (`tpl-reconstruction.md`, `tpl-concept.md`, `tpl-evaluation.md`, `tpl-debate-map.md`, `tpl-synthesis.md`, `tpl-review.md`, `tpl-universal.md`) at `/Users/michael/Obsidian/Sozialphilosophie/templates/`. **Schema-evolution principle preserved:** do not add fields speculatively. When you encounter a concrete query you cannot answer with existing fields (e.g., "show all notes where I identified an empirical presupposition"), that is the moment to add a field (e.g., `has_empirical_presuppositions: true`). Unused fields create friction and pollute queries.
-
-[Detailed YAML examples and type-specific extensions previously documented here have been removed in Pass 10; the canonical schemas live in the vault templates. See `/Users/michael/Obsidian/Sozialphilosophie/templates/`.]
-
-<!-- Original L.2 body removed Pass 10 per user decision. Below kept as comment for git history reference only -->
-<!--
-**Universal core (every note):**
-
-```yaml
 ---
-type:          # reconstruction | concept | evaluation | debate-map | seminar-qs | synthesis | review
-module:        # e.g., "07" — omit for cross-modular notes (concepts, synthesis)
-date_created:  # ISO date, e.g., 2026-05-16
-status:        # draft | revised | mature
-tags:          # drawn from stable tag vocabulary (20–30 tags)
----
-```
-
-**Practice A reconstruction:**
-
-```yaml
----
-type: reconstruction
-module: "07"
-author: Honneth
-work: Kampf um Anerkennung
-work_short: KuA
-chapter: 1
-bibtex_key: honneth1992kampf
-protocol: 1
-date_created: 2026-05-16
-date_revised:
-revision_trigger:
-status: draft
-tags: [Anerkennung, Missachtung]
----
-```
-
-The `protocol` field records which reading protocol (1/2/3) you used — useful for later reflection on why certain reconstructions feel thinner (Protocol 2 texts are harder by nature, not by failure). The `date_revised` and `revision_trigger` fields are left blank on creation and filled when Practice F (strategic re-reading) generates a return visit. The `bibtex_key` synchronises the note with your BibTeX file for eventual citation.
-
-**Practice B concept entry:**
-
-```yaml
----
-type: concept
-term_de: Verdinglichung
-term_en: reification
-originator: Lukács
-originator_work: Geschichte und Klassenbewußtsein
-originator_year: 1923
-tradition: Western Marxism / Frankfurt School
-date_created: 2026-07-20
-status: draft
-tags: [Verdinglichung, capitalism-critique]
----
-```
-
-No `module` field — concept entries are cross-modular by design. The `tradition` field enables queries like "show me all concepts originating in pragmatism." Do *not* add a `related_concepts` list in frontmatter: the nature of conceptual relations matters (Verdinglichung relates to Entfremdung differently than to instrumentelle Vernunft), and that relational content belongs in the note body as inline prose with bidirectional links, not in a flat YAML list. Frontmatter is for filterable attributes; conceptual relations are for the note body.
-
-**Practice H evaluation:**
-
-```yaml
----
-type: evaluation
-module: "07"
-target_note: "[[Honneth-KuA-ch1]]"
-author: Honneth
-work_short: KuA
-date_created: 2027-01-15
-status: draft
-tags: [Anerkennung, empirical-presuppositions]
----
-```
-
-The `target_note` field creates a machine-queryable link to the reconstruction being evaluated, enabling Dataview queries like "show all reconstructions in Module 7 that have an associated evaluation."
-
-**Practice D debate map:**
-
-```yaml
----
-type: debate-map
-module: "07"
-axes: [monist-vs-pluralist, reconstructive-vs-genealogical]
-thinkers: [Honneth, Fraser, Forst, Allen]
-date_created: 2027-02-01
-status: draft
-tags: [Anerkennung, recognition-debate]
----
-```
-
-**Synthesis note:**
-
-```yaml
----
-type: synthesis
-date_created: 2027-03-10
-source_notes: ["[[Honneth-KuA-ch3]]", "[[Jaeggi-Entfremdung-ch3]]", "[[Lukacs-GuK-ch1]]"]
-status: draft
-tags: [Verdinglichung, Entfremdung, structural-vs-psychological]
----
-```
-
-The `source_notes` field tracks which reconstructions generated this synthesis — useful for tracing the provenance of your own ideas.
-
-**Schema evolution principle:** Start with this schema. Do not add fields speculatively. When you encounter a concrete query you cannot answer with existing fields — "I want to see all notes where I identified an empirical presupposition" — that is the moment to add a field (e.g., `has_empirical_presuppositions: true`). Unused fields create friction and pollute queries.
--->
-
-### L.3: Linking practice — the two-layer architecture
-
-The vault operates on two layers, and the linking practice connects them.
-
-**Layer 1: Source-bound composite notes (Practice A reconstructions).** One file per chapter or major section, titled by source (`Honneth-KuA-ch1.md`), containing all four reconstruction components under markdown headers (`## Claim`, `## Support`, `## Directed against`, `## Presuppositions`). Seminar questions (Practice C) are embedded at the bottom of the same file. These are *Literaturnotizen* — bound to a source, tracking what an author argued.
-
-**Layer 2: Concept-bound atomic notes (Practice B entries and synthesis notes).** These are where atomicity earns its keep. A concept entry tracks one concept across multiple sources; a synthesis note crystallises an insight spanning multiple sources, titled as a proposition. These are *permanente Notizen* — they express your own thinking.
-
-**When you write a reconstruction and notice a conceptual connection, do two things:**
-
-1. Create a bidirectional link to the relevant concept entry: "Honneth's concept of *[[Missachtung]]* motivates social struggle."
-2. Check whether the connection involves a *claim* that recurs across multiple reconstructions. If you find yourself writing the same parenthetical gloss in two different reconstructions — "(this parallels Jaeggi's critique that Honneth psychologises structural categories)" — extract it into a synthesis note. Until that recurrence, the inline link suffices. This prevents premature proliferation of thin notes while ensuring cross-cutting insights get their own addressable location once they prove their weight.
-
-**Link manually.** The act of linking is a form of thinking — it forces you to articulate *what the connection is*, not just that one exists. When you write a reconstruction of Honneth's *Kampf um Anerkennung* and notice that his concept of *Missachtung* connects to Fricker's hermeneutical injustice, create that link yourself: `[[Fricker-Epistemic-Injustice]]`. By month 12, the graph of links in your vault will constitute a visual map of your understanding of the field.
-
-**Heading-level links for composite notes:** Obsidian supports linking to specific headings within a note: `[[Honneth-KuA-ch1#Presuppositions]]`. Use this when you need to reference a specific component of a reconstruction from an evaluation or debate map, but don't make it your primary linking unit — the reconstruction as a whole is the natural unit of reference.
-
-### L.4: Navigation — index notes and Maps of Content (MOCs)
-
-Without explicit navigation hubs, you will rely on search and memory to find notes. This works at 50 notes; it fails at 200+.
-
-**Master index (`_index.md` at vault root):** Links to every module index, the `concepts/` folder, the `synthesis/` folder, and any active debate maps. Include a brief annotation for each module ("Module 7: Honneth's recognition theory — reconstructive method, three-sphere architecture, *Missachtung* as motor of social struggle"). Update this note at the end of each module.
-
-**Module indices (optional, post-Pass-6 audit demotion 2026-05-19): create on demand.** Module indices (`modules/Module-07-Honneth/_index.md`) can serve as entry points when you return to a module after months away — but maintaining them pre-emptively for every module is aspirational scaffolding the user is unlikely to sustain. **Rule:** if you find yourself searching for "what was in Module X" more than twice in a single month, build a module index then. Until that trigger fires, the folder listing plus a `TABLE author, work, status FROM "modules/Module-XX"` Dataview query is sufficient. Pre-creating module indices is upkeep that buys nothing if you don't return to the module.
-
-**Review notes (`reviews/2026-W21.md`):** A brief weekly or fortnightly note (200–300 words) capturing what you read, what connections you noticed, and what questions remain open. These provide a chronological layer complementing the topical organisation. They are the low-pressure space for emergent thoughts — "I keep noticing that every thinker who invokes *Sittlichkeit* is doing something slightly different with it" — that then trigger new concept entries or synthesis notes. Title them by ISO week (`2026-W21.md`) for easy chronological browsing.
-
-### L.5: Note maturation and revision protocol (optional, post-Pass-6 audit demotion 2026-05-19)
-
-Practice F (strategic re-reading) generates revisions to earlier notes. The infrastructure can support this, but the formal protocol is **optional** — it had high upkeep and low consumer in practice.
-
-The `status` field in frontmatter (`draft` / `revised` / `mature`) and the `date_revised` / `revision_trigger` fields are useful where the revision was substantial enough that you'd want to find it later by Dataview query ("show me all notes I revisited after Module 8 because Jaeggi's problem-solving model reframed them"). **For minor edits, just edit and move on** — don't fill the maturation fields out of obligation.
-
-The `status: revised/mature` distinction is also optional and should be applied only when you actively need to query for it. The doc's own principle holds (§L.2): *do not add fields speculatively. Unused fields create friction and pollute queries.* That principle applies to this section's own design.
-
-**Synthesis notes as a maturation stage.** Reconstructions are *Literaturnotizen*; they mature into *permanente Notizen* (synthesis notes) when insights crystallise across sources. A reconstruction of Hegel §§142–180 written in month 3 should generate revisions after reading Honneth in month 14. But the *insight* — "Honneth's love-sphere maps onto Hegel's family but diverges at the point where Hegel insists on the family's dissolution into civil society" — belongs in a synthesis note, not buried in a revised reconstruction. The reconstruction records what Hegel argued; the synthesis note records what *you* now see.
-
-**Version history via Git.** Use the [obsidian-git](https://github.com/denolehov/obsidian-git) plugin to automate periodic commits. You already use Git professionally, so the overhead is minimal. The payoff: you can diff your month-3 Hegel reconstruction against your month-18 revision and see concretely what changed in your understanding. This also provides a safety net — you can revise freely knowing earlier versions are recoverable.
-
-### L.6: Templates (removed in Pass 10; canonical in vault)
-
-The detailed template examples (Templater syntax, fully-worked `tpl-reconstruction.md` and `tpl-concept.md` examples) previously documented here have been removed. **Canonical templates live in the vault at** `/Users/michael/Obsidian/Sozialphilosophie/templates/` (fixed in Pass 1 of Path D' application 2026-05-19): `tpl-reconstruction.md`, `tpl-concept.md`, `tpl-evaluation.md`, `tpl-debate-map.md`, `tpl-synthesis.md`, `tpl-review.md`, `tpl-universal.md`. The **Templater** community plugin (not Obsidian's built-in Templates) is recommended for variable-field prompts at note creation; the bare-frontmatter templates currently in the vault work without Templater as well.
-
-<!-- Original L.6 body removed Pass 10 per user decision. Below kept as comment for git history reference only -->
-<!--
-Use the **Templater** community plugin (not Obsidian's built-in Templates, which is less flexible) to create note templates that auto-populate frontmatter, datestamps, and structural scaffolding. Store templates in the `templates/` folder. When you create a new note, invoke the template (hotkey or command palette) and it generates the frontmatter and section headers automatically.
-
-**Example template for Practice A reconstruction (`tpl-reconstruction.md`):**
-
-```markdown
----
-type: reconstruction
-module: "<% tp.system.prompt("Module number") %>"
-author: "<% tp.system.prompt("Author") %>"
-work: "<% tp.system.prompt("Work title") %>"
-work_short: "<% tp.system.prompt("Short title") %>"
-chapter: "<% tp.system.prompt("Chapter/section") %>"
-bibtex_key: "<% tp.system.prompt("BibTeX key") %>"
-protocol: <% tp.system.prompt("Protocol (1/2/3)") %>
-date_created: <% tp.date.now("YYYY-MM-DD") %>
-date_revised:
-revision_trigger:
-status: draft
-tags: []
----
-
-# <% tp.system.prompt("Author") %>, *<% tp.system.prompt("Work title") %>*, <% tp.system.prompt("Chapter/section") %>
-
-## Claim
-
-
-## Support
-
-
-## Directed against
-
-
-## Presuppositions
-
-
-## Empirical presuppositions
-*(component ii of Practice H — track from the start)*
-
-
-## Key passages
-*(page references + one-sentence gloss of why each matters)*
-
-
-## Translation notes
-*(Practice G — only when relevant)*
-
-
-## Seminar questions (Practice C)
-
-
-## Open difficulties
-*(passages or steps you cannot yet resolve — revisit later)*
-
-```
-
-**Example template for Practice B concept entry (`tpl-concept.md`):**
-
-```markdown
----
-type: concept
-term_de: "<% tp.system.prompt("German term") %>"
-term_en: "<% tp.system.prompt("English term") %>"
-originator: "<% tp.system.prompt("Originator") %>"
-originator_work: "<% tp.system.prompt("Originator work") %>"
-originator_year: <% tp.system.prompt("Year") %>
-tradition:
-date_created: <% tp.date.now("YYYY-MM-DD") %>
-status: draft
-tags: []
----
-
-# <% tp.system.prompt("German term") %> / <% tp.system.prompt("English term") %>
-
-## Definition in context
-
-
-## Transformations
-
-
-## Live disputes
-
-
-## Disputed definitions
-*(if the term is used in genuinely incompatible ways)*
-
-```
-
-Create analogous templates for evaluations, debate maps, synthesis notes, and review notes. The point is to eliminate the friction of setting up frontmatter manually — you should never be typing YAML fields from memory. The Templater prompts let you fill in the variable fields (author, work, module) at creation time while the structural scaffolding is pre-built.
--->
-
-### L.7: Tags — cross-cutting thematic vocabulary
-
-Tags like `#social-pathology`, `#immanent-critique`, `#verdinglichung`, `#capitalism-critique` let you pull up all notes related to a theme regardless of which module or practice folder they belong to. Keep the tag vocabulary small (20–30 tags) and stable — adding tags is easy, renaming them later is painful. Prefer conceptual tags (`#Anerkennung`, `#immanent-critique`) over structural tags (`#important`, `#revisit`) — the latter are better served by the `status` field in frontmatter.
-
-**Use tags for cross-cutting concerns that don't warrant their own concept entry.** For instance, `#empirical-presuppositions` tags every reconstruction or evaluation where you identified an empirical claim worth scrutinising — useful for pulling up all such instances when you begin Practice H evaluations systematically in Module 6. The tag is lighter than a concept entry because "empirical presuppositions" is not a concept in the tradition; it's a cross-cutting analytical lens *you* bring to the material.
-
-### L.8: Essential Obsidian plugins
-
-Beyond the core Obsidian installation, these plugins earn their place for this project:
-
-**Templater** (community plugin): Note templates with dynamic fields — see §L.6 above. Install this first; it eliminates the most significant daily friction point.
-
-**Dataview** (community plugin): SQL-like queries against your frontmatter. This is the single most important plugin for a vault of this scale. Example queries you'll use regularly:
-
-- All unfinished reconstructions in a module: `TABLE author, work, status FROM "modules/Module-07-Honneth" WHERE type = "reconstruction" AND status = "draft"`
-- All concept entries mentioning a specific tradition: `TABLE term_de, originator FROM "concepts" WHERE tradition = "Western Marxism / Frankfurt School"`
-- Progress dashboard: `TABLE length(rows) AS count FROM "" WHERE type = "reconstruction" GROUP BY status`
-
-Create a `dashboards/` note containing your most-used Dataview queries for at-a-glance project tracking.
-
-**obsidian-git** (community plugin): Automated periodic commits. Provides version history and backup. Configure to auto-commit every 30 minutes or on vault close.
-
-**Zotero Integration** (community plugin, by mgmeyers): If you manage your bibliography in Zotero (recommended over a raw `.bib` file for a project of this scale), this plugin lets you create Obsidian notes from Zotero entries with pre-populated metadata. When you start reading Jaeggi's *Kritik von Lebensformen*, you create a note from the Zotero entry and get a pre-filled template with the correct author, title, year, and BibTeX key. This is mechanical scaffolding, not AI-assisted organisation — the document's concern about outsourcing cognitive work does not apply.
-
-**Obsidian Spaced Repetition** (community plugin, by st3v3nmw): Embeds flashcard-style review prompts in notes and schedules them on an SRS algorithm. Needed to retain the distinction between Lukács's structural *Verdinglichung* and Honneth's psychologised *Verdinglichung* eighteen months after writing the entries. The cards should test *distinctions* and *argumentative moves*, not definitions: "What does Jaeggi's critique of Honneth's *Verdinglichung* consist in?" is a productive retrieval prompt; "Define *Verdinglichung*" is not. **[Revised 2026-07-13 (practices audit):** no longer optional/selective. Prompt-writing is a **scheduled module-close item** — 5–8 prompts per module on the module's confusable distinctions, ~10 min/week review thereafter; canonical definition under *Module-close practices — canonical definitions* in this Part. The design principle above stands: distinctions and moves, never bare definitions.**]**
-
-### L.9: BibTeX synchronisation
-
-Each reconstruction note should reference the BibTeX key of the text it reconstructs (the `bibtex_key` field in frontmatter). This makes it easy to generate reading lists, track what you've covered, and eventually cite properly when you begin writing. If you use Zotero, the Zotero Integration plugin handles this automatically. If you maintain a raw `.bib` file, keep it in the vault root and ensure the keys match between frontmatter and `.bib` entries.
-
-### L.10: Writing pipeline — from notes to output
-
-The practices above describe note-taking, but if the project aims at eventual scholarly output (papers, contributions to debates), the vault should support the transition. Create a `drafts/` folder for paper drafts. A draft note consists primarily of links to existing reconstructions, concept entries, and synthesis notes, arranged in argumentative order, with bridging prose written around them. This mirrors the Zettelkasten workflow described in Ahrens: Luhmann's permanent notes *were* his manuscript drafts — he assembled papers by selecting and sequencing existing notes. Without this pathway, you accumulate a rich vault but face a blank page when writing.
-
-### L.11: What about AI-assisted linking and organisation?
-
-Distinguish three levels:
-
-**(a) Full-text search** (use from day one): Obsidian's built-in search (Ctrl/Cmd+Shift+F) lets you find every note mentioning a term. This is basic file management, not outsourcing — use it whenever you need to check whether you've encountered a concept before or find a passage you remember writing. This is no different from using `grep` on a codebase.
-
-**(b) AI-generated links, suggestions, and organisation** (defer for 18–24 months): The "dump everything and let the LLM organise" approach — associated with tools like NotebookLM and various Obsidian AI plugins — solves a retrieval problem, not a learning problem. For the first 18–24 months, when building understanding is the primary goal, do your own linking and structuring. The cognitive work of deciding that Lukács's *Verdinglichung* connects to Honneth's *Verdinglichung* but in a *different way* than it connects to Jaeggi's critique of Honneth is precisely the work that produces philosophical command. If an LLM generates that connection for you, it looks the same on screen but you haven't done the work.
-
-**(c) AI-assisted retrieval and similarity search** (useful after 12+ months): After your vault contains 80+ notes, tools like Obsidian's Smart Connections plugin or periodically querying your vault contents through Claude become genuinely useful for surfacing connections you missed — not because you couldn't have made them but because the corpus exceeds what you can hold in working memory. The principle: *human-created structure, AI-assisted retrieval*. Never the reverse. The trigger for introducing this level is not a calendar date but a felt experience: when you find yourself writing a reconstruction and thinking "I know I wrote something about this concept six months ago but I can't find it," that's when retrieval assistance earns its place.
-
-### L.12: Typical workflow after a reading session
-
-The following is a concrete step-by-step for what happens between closing a book and moving on to the next text. Adapt it as you develop your own rhythm; the sequence matters more than the exact timing.
-
-1. **Close the book. Open Obsidian.** Invoke the reconstruction template (Templater hotkey), fill in the metadata prompts (author, work, chapter, module, protocol, BibTeX key).
-2. **Write the Practice A reconstruction from memory** (30–60 min depending on text difficulty). Fill in the four sections: Claim, Support, Directed against, Presuppositions. Write the Empirical presuppositions subsection if anything is identifiable.
-3. **Targeted re-consultation.** Return to the text to fill gaps in your reconstruction. Don't re-read linearly — look up the specific passages where your reconstruction has holes. Update the reconstruction. Add Key passages (page references + one-sentence gloss). Add Translation notes if you checked the German/English.
-4. **Write 2–3 seminar questions** (Practice C) at the bottom of the same file.
-5. **Update or create concept entries.** Open each concept note that the reconstruction touches (or create new ones from the concept template). Add the current author's use of the concept under "Transformations." Link the concept note from your reconstruction using `[[concept-name]]`.
-6. **Link to existing notes.** Scan your reconstruction for connections to other texts you've already reconstructed. Create bidirectional links where connections exist. If you notice a cross-cutting claim recurring across multiple reconstructions, consider whether it warrants a synthesis note.
-7. **Update the module index.** Add a link to the new reconstruction in `modules/Module-XX/_index.md` with a one-line annotation.
-8. **If this is the last text in a module:** *confirm every text read during the module has its filed output (Full reconstruction, Light note, or reading-log line) before any module-close artifacts are produced.* Then run the module close per *Module-close practices — canonical definitions* (Part III): comprehension check, adversarial module note (Practice H1), debate map (Practice D), spaced-repetition prompts; update the master index and write a review note (`reviews/YYYY-WNN.md`) capturing the module-level picture. **[Revised 2026-07-13 (practices audit):** list updated to the consolidated three-artifact close.**]**
-9. **Optional — Claude check.** Bring your reconstruction to Claude for a Use 1 check ("What have I gotten wrong, missed, or stated ambiguously?"). Revise accordingly.
-10. **Commit.** If obsidian-git isn't set to auto-commit, do a manual commit with a descriptive message ("Module 07: Honneth KuA ch1 reconstruction + Anerkennung concept entry").
-
-**Time budget for steps 1–7:** 60–120 minutes on top of reading time, depending on text difficulty. **[Revised 2026-07-13 (practices audit):** this workflow-inclusive figure is the **canonical** cost of a Full-tier session close; the "30–45 minutes per Full reconstruction" under Practice A is the reconstruction-writing component (step 2) only. The execution plan's week-13 calibration measures this all-in number.**]** Step 8 initiates the module-close block (~5–6.5h standard; see *Module-close practices — canonical definitions*).
-
-### References
-
-Sönke Ahrens, *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking* (2nd ed., 2022) — the standard treatment of the Zettelkasten method adapted for academic work. Ahrens's core argument is structurally identical to what this document recommends: notes must be written in your own words, linked by you to other notes through explicit conceptual connections, and organised by argument rather than by source.
-
-Andy Matuschak's online notes on "Evergreen Notes" (https://notes.andymatuschak.org) develop a similar framework with more attention to digital implementation, including the distinction between literature notes and permanent notes and the principle that notes should be titled as propositions.
 
 ## Books on the craft of reading and argument
 
@@ -1228,7 +983,7 @@ The writing-time multiplier includes: body draft (500–800w Full / 150–250w L
 
 ### C.3 Practices defined outside this document
 
-**[Revised 2026-07-13 (practices audit):** the comprehension check, the Dialogue Moment (absorbed into the adversarial module note), and the quarterly milestone no longer belong in this table — this document is now their canonical owner (see §C.1 and *Module-close practices — canonical definitions*, Part III).**]**
+*(The comprehension check, Dialogue Moment, and quarterly milestone are not in this table — this document is now their canonical owner; see §C.1 and Module-close practices, Part III.)*
 
 | *Practice* | *Scope / when* | *Time budget* | *Canonical source* |
 |---|---|---|---|
@@ -1242,7 +997,7 @@ The writing-time multiplier includes: body draft (500–800w Full / 150–250w L
 
 ## Appendix D: Worked examples
 
-**[Added 2026-07-13 (practices audit):** the long worked examples formerly embedded in the practice sections live here, so the practice sections read as scannable instructions while the exemplars remain available at full length. Each is pointed to from its practice. The write-then-compare protocol (Practice B) governs all of them: your own attempt first, the exemplar afterwards.**]**
+The long worked examples live here, pointed to from each practice, so the practice sections stay scannable. The write-then-compare protocol (Practice B) governs all of them: your own attempt first, the exemplar afterwards.
 
 ### D.1 Worked example — Practice A applied to Honneth, "Pathologien des Sozialen" (1994; Protocol 3, completed)
 
@@ -1300,9 +1055,9 @@ Two C1 internal-tension questions at calibration grade (short setup stating the 
 
 ---
 
-### D.5 Worked-example scaffold — Practice J Skizze applied to the Honneth-vs-Jaeggi recognition-of-suffering hinge (placeholder, post-Pass-10 audit addition)
+### D.5 Worked-example scaffold — Practice J Skizze applied to the Honneth-vs-Jaeggi recognition-of-suffering hinge (placeholder)
 
-**⚠ Placeholder example.** This scaffold is a *structural* illustration of the Skizze form, not a model of substantive content. The substantive content here is sketched in placeholder phrasing because (a) the user has not yet attempted a Skizze at M25+, and (b) writing a substantive Skizze pre-emptively risks either being wrong (the apparatus is still being built) or being an LLM artefact. **At M25, replace this scaffold with your actual first Skizze and treat the replacement as the canonical worked example.** Until then, the form below illustrates the genre's *shape* — claim precision, what-against framing, defence proportion, what-cannot-yet-do honesty. **[Revised 2026-07-13 (practices audit): anchoring warning strengthened on relocation to this appendix.** The write-then-compare protocol (Practice B) predicts what happens if you read this scaffold immediately before drafting: your first real Skizze will unconsciously reproduce its shape — the pre-discursiveness/legibility dilemma, the Renault resolution, the named steelman — and this substantive content is plausibly an LLM artefact, as the box above half-admits. Write your first Skizze *first*; consult the scaffold afterwards, and for **form only** (section functions, proportions, the four quality criteria) — never for the argumentative move.**]**
+**⚠ Placeholder example.** This scaffold is a *structural* illustration of the Skizze form, not a model of substantive content. The substantive content here is sketched in placeholder phrasing because (a) the user has not yet attempted a Skizze at M25+, and (b) writing a substantive Skizze pre-emptively risks either being wrong (the apparatus is still being built) or being an LLM artefact. **At M25, replace this scaffold with your actual first Skizze and treat the replacement as the canonical worked example.** Until then, the form below illustrates the genre's *shape* — claim precision, what-against framing, defence proportion, what-cannot-yet-do honesty. The write-then-compare protocol (Practice B) predicts what happens if you read this scaffold immediately before drafting: your first real Skizze will unconsciously reproduce its shape — the pre-discursiveness/legibility dilemma, the Renault resolution, the named steelman — and this substantive content is plausibly an LLM artefact, as the box above half-admits. Write your first Skizze *first*; consult the scaffold afterwards, and for **form only** (section functions, proportions, the four quality criteria) — never for the argumentative move.
 
 ---
 
@@ -1324,7 +1079,7 @@ Two C1 internal-tension questions at calibration grade (short setup stating the 
 
 ## Appendix E: Extended marginalia vocabulary (reference)
 
-**[Moved here 2026-07-13 (practices audit):** this is the extended 19-tag vocabulary, formerly the operative read-time set. The **operative set is the six tags** defined under "Marginalia vocabulary" in the protocols section; a tag below is reinstated only when its absence demonstrably costs something at reconstruction time. The normalisation rule is unchanged: annotate in the language of the text; normalise to the English tag when a mark graduates into a vault note, so the searchable vocabulary does not fragment.**]**
+This is the extended 19-tag vocabulary — reference only. The **operative set is the six tags** defined under "Marginalia vocabulary" in the protocols section; a tag below is reinstated only when its absence demonstrably costs something at reconstruction time. Normalisation rule: annotate in the language of the text; normalise to the English tag when a mark graduates into a vault note, so the searchable vocabulary does not fragment.
 
 **Spine — Practice A parts**
 
@@ -1359,3 +1114,395 @@ Two C1 internal-tension questions at calibration grade (short setup stating the 
 | `[Einw]` | your own objection (*Einwand*) — seed of the adversarial module note's Objection subsection; feeds Practice H |
 | `[??]` | opaque; return |
 | `[→X]` | connects to another text or concept in the vault |
+
+## Appendix F: Obsidian vault — setup and lifecycle
+
+*(Read once, at programme start; return to the lifecycle table below whenever a vault question arises — "when do I start a concept entry / revisit a reconstruction / clean up?". The `§L.x` anchors are preserved so cross-references elsewhere in this document still resolve.)*
+
+The practices above specify *what* to write but not *where*. For a project of this scale — 4–5 years, 60+ texts, hundreds of reconstructions, dozens of concept entries and debate maps — the choice of tool matters. A plain folder of markdown files will become unsearchable by year two; a disorganised system will undermine the cross-referencing that makes Practice B (conceptual tracking) and Practice D (debate maps) valuable.
+
+### Vault lifecycle — when to create, revisit, and maintain each artifact
+
+The vault is ultimately a Zettelkasten aimed at the W3.2 piece: reconstructions are the *Literaturnotizen*, synthesis notes the *permanente Notizen*, and Phase III assembles the piece *from* them (§L.10). This table gathers the create/revisit/hygiene triggers otherwise scattered across Practices B, E, and §L.1–L.12.
+
+| Artifact | Create when | Revisit / update when | Its job for W3.2 |
+|---|---|---|---|
+| **Reconstruction** (Practice A) | Same session you close a chapter/major section, from memory | Practice F named re-reads (post-M7 Hegel, post-M8 Dewey, post-M11B Habermas, post-Zurn/L-S) + ad-hoc self-disagreement; *not* routinely | Source-bound raw material; the Comparison Exercise (M37–38) re-reads your Module 7 + 8 reconstructions |
+| **Concept entry** (Practice B) | A term recurs/mutates and warrants tracking — *not* upfront; write yours before consulting any exemplar | A **new thinker** uses the term (add to *Transformations*, §L.12 step 5); module-boundary sweep | The **disputed-definitions** sub-section is where contributions hide — a term used incompatibly across thinkers is a paper hinge |
+| **Synthesis note** (Practice E) | A cross-source claim **recurs** (the same gloss in two reconstructions), or surfaces on the monthly walk / a re-read / an Anwendung | As more sources connect in | **The spine.** A W3.2 candidate not leaning on ≥ 3–4 synthesis notes is under-integrated |
+| **Debate map** (Practice D) | Module close | Tapers: every module M1–9, alternating M10+; Phase III → feeds the Comparison Exercise | Locates your contribution's *negative space* |
+| **Tags** (Appendix A) | Start from the 25; add only when 5+ existing notes would take it | Effectively never (stable vocabulary) | Retrieval when drafting ("pull all `#empirical-presuppositions` for the intro") |
+| **Index / MOC** (§L.4) | Master index at each module close; module MOCs on demand (> 2 searches/month) | — | Navigation once the vault passes ~200 notes |
+
+**The one hygiene loop: the monthly vault walk (30 min, Practice E).** Reread three old notes (one reconstruction, one concept entry, one synthesis or map); fix any broken links, stale statuses, or missing index entries *in the same 30 minutes*, not queued; exit with either one synthesis note or one logged line, "nothing connected this month." That single loop is the entire maintenance budget — everything else is per-session (§L.12) or per-module-close.
+
+**Watch the ratio.** A Zettelkasten pays back only if Layer 2 — the synthesis/permanent notes — actually gets populated. The realistic failure mode: arriving at end-of-Phase-II with ~40 reconstructions but ~3 synthesis notes, at which point the vault is a well-organised *library*, W3.2 starts from a blank page anyway, and the whole apparatus is defeated. The deposit side (reconstructions) is forced by the schedule; the synthesis side is only triggered — so **if the synthesis-to-reconstruction ratio is near zero deep into Phase II, the monthly walk is not doing its job.** This is the single number to watch.
+
+**Phase arc.** *Phase I (M1–15):* mostly depositing; the vault is small and "nothing connects yet" is a legitimate outcome (the M1–9 soft target is to *attempt* one synthesis per module close, not to deliver). Deliberately under-maintain — module MOCs on demand, maturation fields optional. *Phase II (M16–34):* the payback phase — concept entries thicken as *Transformations* accumulate, synthesis notes land, debate maps taper. *Phase III (M35+):* the vault *is* the draft substrate (§L.10) — W3.2 and the Comparison Exercise are assembled *from* it, links-in-argument-order with bridging prose.
+
+### L.1: Tool choice and core vault structure
+
+**Recommended setup: Obsidian vault with manual linking.**
+
+Use [Obsidian](https://obsidian.md) (free, local-first, markdown-based) as your knowledge vault. The key properties for this project: it stores everything as plain markdown files (future-proof, portable, works with Git), it supports bidirectional linking between notes (`[[note name]]`), and it renders markdown including LaTeX. Structure the vault as follows:
+
+**Note on folder names:** the folder-name schematic below uses English names for clarity in this English-language methods document. The **canonical vault at `/Users/michael/Obsidian/Sozialphilosophie/`** uses German folder names (`Module/`, `Konzepte/`, `Evaluationen/`, `Debatten-Karte/`, `Synthesen/`, `Wöchentliche Reviews/`, `Empirical/`, `templates/`) per the project's bilingual workflow — see `CLAUDE.md` for the canonical listing. Treat the English names below as schematic; the German names in the vault are the operative ones.
+
+**Folder architecture — one folder per practice type, plus per-module folders:**
+
+```
+vault-root/
+├── _index.md                         # master navigation hub (see §L.4)
+├── modules/
+│   ├── Module-01-Hegel/
+│   │   ├── _index.md                 # module-level MOC
+│   │   ├── Hegel-Rechtsphilosophie-142-180.md   # Practice A reconstruction
+│   │   ├── Hegel-Rechtsphilosophie-181-256.md
+│   │   └── ...
+│   ├── Module-07-Honneth/
+│   │   ├── _index.md
+│   │   ├── Honneth-KuA-ch1.md
+│   │   └── ...
+│   └── ...
+├── concepts/                          # Practice B entries
+│   ├── Verdinglichung.md
+│   ├── Anerkennung.md
+│   ├── Immanente-Kritik.md
+│   └── ...
+├── evaluations/                       # Practice H evaluations
+│   ├── eval-Honneth-KuA-ch1.md
+│   └── ...
+├── debate-maps/                       # Practice D maps
+│   ├── Module-07-recognition-debate.md
+│   └── ...
+├── synthesis/                         # cross-source permanent notes
+│   ├── Honneth-psychologises-structural-categories.md
+│   └── ...
+├── reviews/                           # periodic review notes
+│   ├── 2026-W21.md
+│   └── ...
+├── field-reports/                     # motivational checkpoints (Craft Block, Part V)
+├── templates/                         # note templates (see §L.6)
+│   ├── tpl-reconstruction.md
+│   ├── tpl-concept.md
+│   ├── tpl-evaluation.md
+│   ├── tpl-debate-map.md
+│   ├── tpl-synthesis.md
+│   └── tpl-review.md
+└── .obsidian/                         # Obsidian config (auto-generated)
+```
+
+The governing principle: **reconstructions live with their module** (because they are source-bound and read in module order), **everything else lives in a practice-type folder** (because concepts, evaluations, synthesis notes, and debate maps are cross-modular by nature — a concept entry on *Verdinglichung* spans Modules 2, 3, 5, 7, and 8). Seminar questions (Practice C) are embedded at the bottom of the reconstruction file they belong to, not split into a separate folder, because they are short and tightly coupled to the reconstruction.
+
+**Synthesis notes** go in `synthesis/` because they are the notes most likely to be linked from many places and least bound to any single module. A synthesis note like `Honneth-psychologises-structural-categories.md` will be linked from the Lukács reconstruction, the Honneth reconstruction, and the Jaeggi reconstruction — it doesn't belong in any one module folder. Title them as propositions ("The Frankfurt tradition's concept of social pathology oscillates between medical and developmental metaphors"), not as source references. These are Luhmann's *permanente Notizen* — the notes that express your own thinking rather than tracking someone else's argument. They emerge from reconstructions but are not bound to any single source.
+
+### L.2: Frontmatter schema (canonical in vault templates)
+
+The detailed YAML frontmatter schema previously documented here has been removed. Canonical schemas live in the vault templates themselves (`tpl-reconstruction.md`, `tpl-concept.md`, `tpl-evaluation.md`, `tpl-debate-map.md`, `tpl-synthesis.md`, `tpl-review.md`, `tpl-universal.md`) at `/Users/michael/Obsidian/Sozialphilosophie/templates/`. **Schema-evolution principle preserved:** do not add fields speculatively. When you encounter a concrete query you cannot answer with existing fields (e.g., "show all notes where I identified an empirical presupposition"), that is the moment to add a field (e.g., `has_empirical_presuppositions: true`). Unused fields create friction and pollute queries.
+
+The canonical schemas live in the vault templates. See `/Users/michael/Obsidian/Sozialphilosophie/templates/`.
+
+<!-- Original L.2 body removed Pass 10 per user decision. Below kept as comment for git history reference only -->
+<!--
+**Universal core (every note):**
+
+```yaml
+---
+type:          # reconstruction | concept | evaluation | debate-map | seminar-qs | synthesis | review
+module:        # e.g., "07" — omit for cross-modular notes (concepts, synthesis)
+date_created:  # ISO date, e.g., 2026-05-16
+status:        # draft | revised | mature
+tags:          # drawn from stable tag vocabulary (20–30 tags)
+---
+```
+
+**Practice A reconstruction:**
+
+```yaml
+---
+type: reconstruction
+module: "07"
+author: Honneth
+work: Kampf um Anerkennung
+work_short: KuA
+chapter: 1
+bibtex_key: honneth1992kampf
+protocol: 1
+date_created: 2026-05-16
+date_revised:
+revision_trigger:
+status: draft
+tags: [Anerkennung, Missachtung]
+---
+```
+
+The `protocol` field records which reading protocol (1/2/3) you used — useful for later reflection on why certain reconstructions feel thinner (Protocol 2 texts are harder by nature, not by failure). The `date_revised` and `revision_trigger` fields are left blank on creation and filled when Practice F (strategic re-reading) generates a return visit. The `bibtex_key` synchronises the note with your BibTeX file for eventual citation.
+
+**Practice B concept entry:**
+
+```yaml
+---
+type: concept
+term_de: Verdinglichung
+term_en: reification
+originator: Lukács
+originator_work: Geschichte und Klassenbewußtsein
+originator_year: 1923
+tradition: Western Marxism / Frankfurt School
+date_created: 2026-07-20
+status: draft
+tags: [Verdinglichung, capitalism-critique]
+---
+```
+
+No `module` field — concept entries are cross-modular by design. The `tradition` field enables queries like "show me all concepts originating in pragmatism." Do *not* add a `related_concepts` list in frontmatter: the nature of conceptual relations matters (Verdinglichung relates to Entfremdung differently than to instrumentelle Vernunft), and that relational content belongs in the note body as inline prose with bidirectional links, not in a flat YAML list. Frontmatter is for filterable attributes; conceptual relations are for the note body.
+
+**Practice H evaluation:**
+
+```yaml
+---
+type: evaluation
+module: "07"
+target_note: "[[Honneth-KuA-ch1]]"
+author: Honneth
+work_short: KuA
+date_created: 2027-01-15
+status: draft
+tags: [Anerkennung, empirical-presuppositions]
+---
+```
+
+The `target_note` field creates a machine-queryable link to the reconstruction being evaluated, enabling Dataview queries like "show all reconstructions in Module 7 that have an associated evaluation."
+
+**Practice D debate map:**
+
+```yaml
+---
+type: debate-map
+module: "07"
+axes: [monist-vs-pluralist, reconstructive-vs-genealogical]
+thinkers: [Honneth, Fraser, Forst, Allen]
+date_created: 2027-02-01
+status: draft
+tags: [Anerkennung, recognition-debate]
+---
+```
+
+**Synthesis note:**
+
+```yaml
+---
+type: synthesis
+date_created: 2027-03-10
+source_notes: ["[[Honneth-KuA-ch3]]", "[[Jaeggi-Entfremdung-ch3]]", "[[Lukacs-GuK-ch1]]"]
+status: draft
+tags: [Verdinglichung, Entfremdung, structural-vs-psychological]
+---
+```
+
+The `source_notes` field tracks which reconstructions generated this synthesis — useful for tracing the provenance of your own ideas.
+
+**Schema evolution principle:** Start with this schema. Do not add fields speculatively. When you encounter a concrete query you cannot answer with existing fields — "I want to see all notes where I identified an empirical presupposition" — that is the moment to add a field (e.g., `has_empirical_presuppositions: true`). Unused fields create friction and pollute queries.
+-->
+
+### L.3: Linking practice — the two-layer architecture
+
+The vault operates on two layers, and the linking practice connects them.
+
+**Layer 1: Source-bound composite notes (Practice A reconstructions).** One file per chapter or major section, titled by source (`Honneth-KuA-ch1.md`), containing all four reconstruction components under markdown headers (`## Claim`, `## Support`, `## Directed against`, `## Presuppositions`). Seminar questions (Practice C) are embedded at the bottom of the same file. These are *Literaturnotizen* — bound to a source, tracking what an author argued.
+
+**Layer 2: Concept-bound atomic notes (Practice B entries and synthesis notes).** These are where atomicity earns its keep. A concept entry tracks one concept across multiple sources; a synthesis note crystallises an insight spanning multiple sources, titled as a proposition. These are *permanente Notizen* — they express your own thinking.
+
+**When you write a reconstruction and notice a conceptual connection, do two things:**
+
+1. Create a bidirectional link to the relevant concept entry: "Honneth's concept of *[[Missachtung]]* motivates social struggle."
+2. Check whether the connection involves a *claim* that recurs across multiple reconstructions. If you find yourself writing the same parenthetical gloss in two different reconstructions — "(this parallels Jaeggi's critique that Honneth psychologises structural categories)" — extract it into a synthesis note. Until that recurrence, the inline link suffices. This prevents premature proliferation of thin notes while ensuring cross-cutting insights get their own addressable location once they prove their weight.
+
+**Link manually.** The act of linking is a form of thinking — it forces you to articulate *what the connection is*, not just that one exists. When you write a reconstruction of Honneth's *Kampf um Anerkennung* and notice that his concept of *Missachtung* connects to Fricker's hermeneutical injustice, create that link yourself: `[[Fricker-Epistemic-Injustice]]`. By month 12, the graph of links in your vault will constitute a visual map of your understanding of the field.
+
+**Heading-level links for composite notes:** Obsidian supports linking to specific headings within a note: `[[Honneth-KuA-ch1#Presuppositions]]`. Use this when you need to reference a specific component of a reconstruction from an evaluation or debate map, but don't make it your primary linking unit — the reconstruction as a whole is the natural unit of reference.
+
+### L.4: Navigation — index notes and Maps of Content (MOCs)
+
+Without explicit navigation hubs, you will rely on search and memory to find notes. This works at 50 notes; it fails at 200+.
+
+**Master index (`_index.md` at vault root):** Links to every module index, the `concepts/` folder, the `synthesis/` folder, and any active debate maps. Include a brief annotation for each module ("Module 7: Honneth's recognition theory — reconstructive method, three-sphere architecture, *Missachtung* as motor of social struggle"). Update this note at the end of each module.
+
+**Module indices (optional): create on demand.** Module indices (`modules/Module-07-Honneth/_index.md`) can serve as entry points when you return to a module after months away — but maintaining them pre-emptively for every module is aspirational scaffolding the user is unlikely to sustain. **Rule:** if you find yourself searching for "what was in Module X" more than twice in a single month, build a module index then. Until that trigger fires, the folder listing plus a `TABLE author, work, status FROM "modules/Module-XX"` Dataview query is sufficient. Pre-creating module indices is upkeep that buys nothing if you don't return to the module.
+
+**Review notes (`reviews/2026-W21.md`):** A brief weekly or fortnightly note (200–300 words) capturing what you read, what connections you noticed, and what questions remain open. These provide a chronological layer complementing the topical organisation. They are the low-pressure space for emergent thoughts — "I keep noticing that every thinker who invokes *Sittlichkeit* is doing something slightly different with it" — that then trigger new concept entries or synthesis notes. Title them by ISO week (`2026-W21.md`) for easy chronological browsing.
+
+### L.5: Note maturation and revision protocol (optional)
+
+Practice F (strategic re-reading) generates revisions to earlier notes. The infrastructure can support this, but the formal protocol is **optional** — it had high upkeep and low consumer in practice.
+
+The `status` field in frontmatter (`draft` / `revised` / `mature`) and the `date_revised` / `revision_trigger` fields are useful where the revision was substantial enough that you'd want to find it later by Dataview query ("show me all notes I revisited after Module 8 because Jaeggi's problem-solving model reframed them"). **For minor edits, just edit and move on** — don't fill the maturation fields out of obligation.
+
+The `status: revised/mature` distinction is also optional and should be applied only when you actively need to query for it. The doc's own principle holds (§L.2): *do not add fields speculatively. Unused fields create friction and pollute queries.* That principle applies to this section's own design.
+
+**Synthesis notes as a maturation stage.** Reconstructions are *Literaturnotizen*; they mature into *permanente Notizen* (synthesis notes) when insights crystallise across sources. A reconstruction of Hegel §§142–180 written in month 3 should generate revisions after reading Honneth in month 14. But the *insight* — "Honneth's love-sphere maps onto Hegel's family but diverges at the point where Hegel insists on the family's dissolution into civil society" — belongs in a synthesis note, not buried in a revised reconstruction. The reconstruction records what Hegel argued; the synthesis note records what *you* now see.
+
+**Version history via Git.** Use the [obsidian-git](https://github.com/denolehov/obsidian-git) plugin to automate periodic commits. You already use Git professionally, so the overhead is minimal. The payoff: you can diff your month-3 Hegel reconstruction against your month-18 revision and see concretely what changed in your understanding. This also provides a safety net — you can revise freely knowing earlier versions are recoverable.
+
+### L.6: Templates (canonical in vault)
+
+The detailed template examples (Templater syntax, fully-worked `tpl-reconstruction.md` and `tpl-concept.md` examples) previously documented here have been removed. **Canonical templates live in the vault at** `/Users/michael/Obsidian/Sozialphilosophie/templates/`: `tpl-reconstruction.md`, `tpl-concept.md`, `tpl-evaluation.md`, `tpl-debate-map.md`, `tpl-synthesis.md`, `tpl-review.md`, `tpl-universal.md`. The **Templater** community plugin (not Obsidian's built-in Templates) is recommended for variable-field prompts at note creation; the bare-frontmatter templates currently in the vault work without Templater as well.
+
+<!-- Original L.6 body removed Pass 10 per user decision. Below kept as comment for git history reference only -->
+<!--
+Use the **Templater** community plugin (not Obsidian's built-in Templates, which is less flexible) to create note templates that auto-populate frontmatter, datestamps, and structural scaffolding. Store templates in the `templates/` folder. When you create a new note, invoke the template (hotkey or command palette) and it generates the frontmatter and section headers automatically.
+
+**Example template for Practice A reconstruction (`tpl-reconstruction.md`):**
+
+```markdown
+---
+type: reconstruction
+module: "<% tp.system.prompt("Module number") %>"
+author: "<% tp.system.prompt("Author") %>"
+work: "<% tp.system.prompt("Work title") %>"
+work_short: "<% tp.system.prompt("Short title") %>"
+chapter: "<% tp.system.prompt("Chapter/section") %>"
+bibtex_key: "<% tp.system.prompt("BibTeX key") %>"
+protocol: <% tp.system.prompt("Protocol (1/2/3)") %>
+date_created: <% tp.date.now("YYYY-MM-DD") %>
+date_revised:
+revision_trigger:
+status: draft
+tags: []
+---
+
+# <% tp.system.prompt("Author") %>, *<% tp.system.prompt("Work title") %>*, <% tp.system.prompt("Chapter/section") %>
+
+## Claim
+
+
+## Support
+
+
+## Directed against
+
+
+## Presuppositions
+
+
+## Empirical presuppositions
+*(component ii of Practice H — track from the start)*
+
+
+## Key passages
+*(page references + one-sentence gloss of why each matters)*
+
+
+## Translation notes
+*(Practice G — only when relevant)*
+
+
+## Seminar questions (Practice C)
+
+
+## Open difficulties
+*(passages or steps you cannot yet resolve — revisit later)*
+
+```
+
+**Example template for Practice B concept entry (`tpl-concept.md`):**
+
+```markdown
+---
+type: concept
+term_de: "<% tp.system.prompt("German term") %>"
+term_en: "<% tp.system.prompt("English term") %>"
+originator: "<% tp.system.prompt("Originator") %>"
+originator_work: "<% tp.system.prompt("Originator work") %>"
+originator_year: <% tp.system.prompt("Year") %>
+tradition:
+date_created: <% tp.date.now("YYYY-MM-DD") %>
+status: draft
+tags: []
+---
+
+# <% tp.system.prompt("German term") %> / <% tp.system.prompt("English term") %>
+
+## Definition in context
+
+
+## Transformations
+
+
+## Live disputes
+
+
+## Disputed definitions
+*(if the term is used in genuinely incompatible ways)*
+
+```
+
+Create analogous templates for evaluations, debate maps, synthesis notes, and review notes. The point is to eliminate the friction of setting up frontmatter manually — you should never be typing YAML fields from memory. The Templater prompts let you fill in the variable fields (author, work, module) at creation time while the structural scaffolding is pre-built.
+-->
+
+### L.7: Tags — cross-cutting thematic vocabulary
+
+Tags like `#social-pathology`, `#immanent-critique`, `#verdinglichung`, `#capitalism-critique` let you pull up all notes related to a theme regardless of which module or practice folder they belong to. Keep the tag vocabulary small (20–30 tags) and stable — adding tags is easy, renaming them later is painful. Prefer conceptual tags (`#Anerkennung`, `#immanent-critique`) over structural tags (`#important`, `#revisit`) — the latter are better served by the `status` field in frontmatter.
+
+**Use tags for cross-cutting concerns that don't warrant their own concept entry.** For instance, `#empirical-presuppositions` tags every reconstruction or evaluation where you identified an empirical claim worth scrutinising — useful for pulling up all such instances when you begin Practice H evaluations systematically in Module 6. The tag is lighter than a concept entry because "empirical presuppositions" is not a concept in the tradition; it's a cross-cutting analytical lens *you* bring to the material.
+
+### L.8: Essential Obsidian plugins
+
+Beyond the core Obsidian installation, these plugins earn their place for this project:
+
+**Templater** (community plugin): Note templates with dynamic fields — see §L.6 above. Install this first; it eliminates the most significant daily friction point.
+
+**Dataview** (community plugin): SQL-like queries against your frontmatter. This is the single most important plugin for a vault of this scale. Example queries you'll use regularly:
+
+- All unfinished reconstructions in a module: `TABLE author, work, status FROM "modules/Module-07-Honneth" WHERE type = "reconstruction" AND status = "draft"`
+- All concept entries mentioning a specific tradition: `TABLE term_de, originator FROM "concepts" WHERE tradition = "Western Marxism / Frankfurt School"`
+- Progress dashboard: `TABLE length(rows) AS count FROM "" WHERE type = "reconstruction" GROUP BY status`
+
+Create a `dashboards/` note containing your most-used Dataview queries for at-a-glance project tracking.
+
+**obsidian-git** (community plugin): Automated periodic commits. Provides version history and backup. Configure to auto-commit every 30 minutes or on vault close.
+
+**Zotero Integration** (community plugin, by mgmeyers): If you manage your bibliography in Zotero (recommended over a raw `.bib` file for a project of this scale), this plugin lets you create Obsidian notes from Zotero entries with pre-populated metadata. When you start reading Jaeggi's *Kritik von Lebensformen*, you create a note from the Zotero entry and get a pre-filled template with the correct author, title, year, and BibTeX key. This is mechanical scaffolding, not AI-assisted organisation — the document's concern about outsourcing cognitive work does not apply.
+
+**Obsidian Spaced Repetition** (community plugin, by st3v3nmw): Embeds flashcard-style review prompts in notes and schedules them on an SRS algorithm. Needed to retain the distinction between Lukács's structural *Verdinglichung* and Honneth's psychologised *Verdinglichung* eighteen months after writing the entries. The cards should test *distinctions* and *argumentative moves*, not definitions: "What does Jaeggi's critique of Honneth's *Verdinglichung* consist in?" is a productive retrieval prompt; "Define *Verdinglichung*" is not. Prompt-writing is a **scheduled module-close item** — 5–8 prompts per module on the module's confusable distinctions, ~10 min/week review thereafter; canonical definition under *Module-close practices — canonical definitions*.
+
+### L.9: BibTeX synchronisation
+
+Each reconstruction note should reference the BibTeX key of the text it reconstructs (the `bibtex_key` field in frontmatter). This makes it easy to generate reading lists, track what you've covered, and eventually cite properly when you begin writing. If you use Zotero, the Zotero Integration plugin handles this automatically. If you maintain a raw `.bib` file, keep it in the vault root and ensure the keys match between frontmatter and `.bib` entries.
+
+### L.10: Writing pipeline — from notes to output
+
+The practices above describe note-taking, but if the project aims at eventual scholarly output (papers, contributions to debates), the vault should support the transition. Create a `drafts/` folder for paper drafts. A draft note consists primarily of links to existing reconstructions, concept entries, and synthesis notes, arranged in argumentative order, with bridging prose written around them. This mirrors the Zettelkasten workflow described in Ahrens: Luhmann's permanent notes *were* his manuscript drafts — he assembled papers by selecting and sequencing existing notes. Without this pathway, you accumulate a rich vault but face a blank page when writing.
+
+### L.11: What about AI-assisted linking and organisation?
+
+Distinguish three levels:
+
+**(a) Full-text search** (use from day one): Obsidian's built-in search (Ctrl/Cmd+Shift+F) lets you find every note mentioning a term. This is basic file management, not outsourcing — use it whenever you need to check whether you've encountered a concept before or find a passage you remember writing. This is no different from using `grep` on a codebase.
+
+**(b) AI-generated links, suggestions, and organisation** (defer for 18–24 months): The "dump everything and let the LLM organise" approach — associated with tools like NotebookLM and various Obsidian AI plugins — solves a retrieval problem, not a learning problem. For the first 18–24 months, when building understanding is the primary goal, do your own linking and structuring. The cognitive work of deciding that Lukács's *Verdinglichung* connects to Honneth's *Verdinglichung* but in a *different way* than it connects to Jaeggi's critique of Honneth is precisely the work that produces philosophical command. If an LLM generates that connection for you, it looks the same on screen but you haven't done the work.
+
+**(c) AI-assisted retrieval and similarity search** (useful after 12+ months): After your vault contains 80+ notes, tools like Obsidian's Smart Connections plugin or periodically querying your vault contents through Claude become genuinely useful for surfacing connections you missed — not because you couldn't have made them but because the corpus exceeds what you can hold in working memory. The principle: *human-created structure, AI-assisted retrieval*. Never the reverse. The trigger for introducing this level is not a calendar date but a felt experience: when you find yourself writing a reconstruction and thinking "I know I wrote something about this concept six months ago but I can't find it," that's when retrieval assistance earns its place.
+
+### L.12: Typical workflow after a reading session
+
+The following is a concrete step-by-step for what happens between closing a book and moving on to the next text. Adapt it as you develop your own rhythm; the sequence matters more than the exact timing.
+
+1. **Close the book. Open Obsidian.** Invoke the reconstruction template (Templater hotkey), fill in the metadata prompts (author, work, chapter, module, protocol, BibTeX key).
+2. **Write the Practice A reconstruction from memory** (30–60 min depending on text difficulty). Fill in the four sections: Claim, Support, Directed against, Presuppositions. Write the Empirical presuppositions subsection if anything is identifiable.
+3. **Targeted re-consultation.** Return to the text to fill gaps in your reconstruction. Don't re-read linearly — look up the specific passages where your reconstruction has holes. Update the reconstruction. Add Key passages (page references + one-sentence gloss). Add Translation notes if you checked the German/English.
+4. **Write 2–3 seminar questions** (Practice C) at the bottom of the same file.
+5. **Update or create concept entries.** Open each concept note that the reconstruction touches (or create new ones from the concept template). Add the current author's use of the concept under "Transformations." Link the concept note from your reconstruction using `[[concept-name]]`.
+6. **Link to existing notes.** Scan your reconstruction for connections to other texts you've already reconstructed. Create bidirectional links where connections exist. If you notice a cross-cutting claim recurring across multiple reconstructions, consider whether it warrants a synthesis note.
+7. **Update the module index.** Add a link to the new reconstruction in `modules/Module-XX/_index.md` with a one-line annotation.
+8. **If this is the last text in a module:** *confirm every text read during the module has its filed output (Full reconstruction, Light note, or reading-log line) before any module-close artifacts are produced.* Then run the module close per *Module-close practices — canonical definitions* (Part III): comprehension check, adversarial module note (Practice H1), debate map (Practice D), spaced-repetition prompts; update the master index and write a review note (`reviews/YYYY-WNN.md`) capturing the module-level picture.
+9. **Optional — Claude check.** Bring your reconstruction to Claude for a Use 1 check ("What have I gotten wrong, missed, or stated ambiguously?"). Revise accordingly.
+10. **Commit.** If obsidian-git isn't set to auto-commit, do a manual commit with a descriptive message ("Module 07: Honneth KuA ch1 reconstruction + Anerkennung concept entry").
+
+**Time budget for steps 1–7:** 60–120 minutes on top of reading time, depending on text difficulty. This workflow-inclusive figure is the **canonical** cost of a Full-tier session close; the "30–45 minutes per Full reconstruction" under Practice A is the reconstruction-writing component (step 2) only, and the execution plan's week-13 calibration measures this all-in number. Step 8 initiates the module-close block (~5–6.5h standard; see *Module-close practices — canonical definitions*).
+
+### References
+
+Sönke Ahrens, *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking* (2nd ed., 2022) — the standard treatment of the Zettelkasten method adapted for academic work. Ahrens's core argument is structurally identical to what this document recommends: notes must be written in your own words, linked by you to other notes through explicit conceptual connections, and organised by argument rather than by source.
+
+Andy Matuschak's online notes on "Evergreen Notes" (https://notes.andymatuschak.org) develop a similar framework with more attention to digital implementation, including the distinction between literature notes and permanent notes and the principle that notes should be titled as propositions.
