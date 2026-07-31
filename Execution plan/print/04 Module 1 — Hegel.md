@@ -8,14 +8,14 @@
 
 | Wk | Activities | Pages | Read h | Practice h |
 |---|---|---|---|---|
-| W9 · 10 Aug | 📚 1.1 Neuhouser Intro + chs. 1–2 | ~90 | ~4.5 | — |
+| W9 · 10 Aug | 📚 1.1 Neuhouser Intro + chs. 1–2 | ~80 | ~4.5 | — |
 | | 📝 per-chapter Fulls begin (running) | — | — | ~0.75 |
-| W10 · 17 Aug | 📚 1.1 Neuhouser chs. 3–4 | ~80 | ~4 | — |
+| W10 · 17 Aug | 📚 1.1 Neuhouser chs. 3–5 | ~95 | ~4.5 | — |
 | | 📝 per-chapter Fulls continue | — | — | ~0.75 |
-| W11 · 24 Aug | 📚 1.1 Neuhouser chs. 5–6 | ~60 | ~3 | — |
+| W11 · 24 Aug | 📚 1.1 Neuhouser ch. 6 | ~50 | ~2.5 | — |
 | | 📚 1.2 RP Preface + §§1–33 begins | ~40 | ~4 | — |
 | | 📝 per-chapter Fulls + thesis paragraph | — | — | ~1 |
-| W12 · 31 Aug | 📚 1.1 Neuhouser chs. 7–8 | ~50 | ~2.5 | — |
+| W12 · 31 Aug | 📚 1.1 Neuhouser ch. 7 | ~60 | ~3 | — |
 | | 📚 1.2 Preface re-read + RP §§1–33 continue | ~40 | ~4 | — |
 | | 📝 per-chapter Fulls; ✍ RP segment-Lights ×2 | — | — | ~1.55 |
 | W13 · 7 Sep | 📚 1.2 RP §§142–181 (*Familie*) + 1.1 wrap | ~50 | ~8 | — |
@@ -28,15 +28,15 @@
 | | 📝 Full Recon 1.3 + C1 set | — | — | ~2.5 |
 | W17 · 5 Oct | 🎯 Module 1 close (check + ✏ note + 🗺 map + SR) | — | — | ~5.5 |
 | | 📋 QM1 | — | — | ~2.5 |
-| | **Week sums** | | **~47** | **~18.5** |
+| | **Week sums** | | **~47.5** | **~18.5** |
 
-*Sums: Read ~47h + Practice ~18.5h = ~65.5h — Inventory ~58h less 1.7 Khurana ~2.5h (read W18, in the Module 2 table) = ~55.5h texts incl. writing-α + ~9.75h module practice items (C1 ×2 · calibration tally · QM1 planning · close set + QM1).*
+*Sums: Read ~47.5h + Practice ~18.5h = ~66h — Inventory ~58h less 1.7 Khurana ~2.5h (read W18, in the Module 2 table) = ~55.5h texts incl. writing-α + ~9.75h module practice items (C1 ×2 · calibration tally · QM1 planning · close set + QM1).*
 
 ### Inventory
 
 | ID | Text | Lang | Pages | Hrs | Class/Tier | Weeks |
 |---|---|---|---|---|---|---|
-| 1.1 | Neuhouser, *Foundations of Hegel's Social Theory* | EN | ~300 | ~19.5 | [ES*] → Full (MUST-Anchor) | W9–14 |
+| 1.1 | Neuhouser, *Foundations of Hegel's Social Theory* | EN | ~285 | ~19.5 | [ES*] → Full (MUST-Anchor) | W9–14 |
 | 1.2 | Hegel, *Rechtsphilosophie* Preface + §§1–33 + §§142–256 | DE | ~130 | ~28 | [P] → Full (MUST-Anchor) — executed as 5 segment-Lights + apparatus carried by the 1.1 Fulls | W11–15 |
 | 1.3 | Hegel, *Phänomenologie* IV.A (Herr/Knecht) | DE | ~30 | ~8 | [P] → Full (MUST-Anchor) | W16 |
 | 1.7 | Khurana, *Das Leben der Freiheit*, **Einleitung only** (*Teil II* → Module 7 pre-block) | DE | ~20 | ~2.5 | [O] → Orientation (SHOULD) | W18 |
@@ -54,9 +54,9 @@
 ---
 
 ### Week 9 (Mon 2026-08-10) | 📚⚖ Module 1 — Neuhouser begins (~5.25h: 4.5R + 0.75P)
-- **Core:** 1.1 Neuhouser, *Foundations* Intro + chs. 1–2 (~90pp) — Full (per-chapter Recons) · P1.
+- **Core:** 1.1 Neuhouser, *Foundations* Intro + chs. 1–2 (~80pp, to p. 81) — Full (per-chapter Recons) · P1.
   ↳ 1.1: *Leads to 1.2 (read RP with Neuhouser in hand)*
-- **Practice:** Light running notes only; per-chapter Fulls filed as chapters complete (W9–W14).
+- **Practice:** Light running notes only; per-chapter Fulls filed as chapters complete (W9–W14). The Intro takes no four-part Recon (nothing recon-shaped there) — file a **promissory ledger** instead: the five principles verbatim with page refs + the directed-against (which rival readings the book is set against), annotated as later chapters cash them; raw material for the W13–W14 closing project-statement Full.
 - **Session shape:** 6×1h systematic (Intro at orientation rate ~15pp/h; chs. 1–2 at systematic rate).
 - **Approach:** Neuhouser reads Hegel as a social philosopher, not a metaphysician — the reconstruction that saves you the most time on the primary. Heaviest week of the Module 1 opening run — absorbs the Part 0 ramp shift; if overloaded, push ch. 2's denser passages into early W10.
 - **Watch:** ⚖ **Calibration log starts this week:** hours + Transparent-EN pp/h on Neuhouser (bands: bottom 15–20, midpoint 13–15).
@@ -64,18 +64,18 @@
   - [ ] hours + pp/h entries
   - [ ] completed chapter Fulls (as chapters complete)
 
-### Week 10 (Mon 2026-08-17) | 📚 Neuhouser — the will + Sittlichkeit emerging (~4.75h: 4R + 0.75P)
-- **Core:** 1.1 chs. 3–4 (~80pp).
+### Week 10 (Mon 2026-08-17) | 📚 Neuhouser — the core: subjective + objective freedom (~5.25h: 4.5R + 0.75P)
+- **Core:** 1.1 chs. 3–5 (~95pp: subjective component + objective freedom I–II, to p. 174).
 - **Practice:** Per-chapter Fulls in progress; track Neuhouser's thesis that Hegel's freedom is *institutional*, not metaphysical.
 - **Session shape:** 5×1h + one 2h sitting on ch. 3.
-- **Notes:** Ch. 3 (on the will) is denser — give it one 2h sitting.
+- **Notes:** Heaviest Neuhouser page-week, deliberately placed before RP starts; ch. 3 (the subjective component) is denser — give it one 2h sitting.
 - **Filed by Sunday:**
   - [ ] chapter Fulls current
   - [ ] metrics
 - **Bonus:** 1.5 Pippin, *Hegel's Practical Philosophy* ch. 1 (~2–3h) [L0 — spent] — comparative reading on rational agency; strictly optional.
 
-### Week 11 (Mon 2026-08-24) | 📚⚖ Neuhouser mid + RP begins (~8h: 7R + 1P)
-- **Core:** 1.1 chs. 5–6 (~60pp). 1.2 *Rechtsphilosophie* Preface + §§1–33 begins (~40pp; Suhrkamp Werke 7 / stw) — MUST-Anchor executed as segment-Lights · P2.
+### Week 11 (Mon 2026-08-24) | 📚⚖ Neuhouser mid + RP begins (~7.5h: 6.5R + 1P)
+- **Core:** 1.1 ch. 6 (~50pp — the methodological-atomism chapter). 1.2 *Rechtsphilosophie* Preface + §§1–33 begins (~40pp; Suhrkamp Werke 7 / stw) — MUST-Anchor executed as segment-Lights · P2.
   ↳ 1.2: *Builds on 1.1 · Leads to 1.4, 7.5, 7.24, App. I.4.1*
 - **Practice:** Mid-week: one-paragraph statement of Neuhouser's core thesis ("freedom realised through participation in rational social institutions") in your own words. Per-chapter Fulls continue.
 - **Session shape:** 3×1h EN + 3×1h DE dense (don't skip >1 day).
@@ -89,9 +89,9 @@
 > [!tip] Economist's note
 > Pre-load for W14–15: §§182–256 will look formally like institutional economics — Hegel on market dynamics, the tendency toward inequality, *Korporationen* as mediating institutions. It will need active translation effort to keep the *normative* frame: the content of freedom is constituted by institutional participation, not instrumentally related to pre-given preferences.
 
-### Week 12 (Mon 2026-08-31) | 📚 Neuhouser wrap + RP Preface re-read (~8h: 6.5R + 1.55P)
-- **Core:** 1.1 chs. 7–8 (~50pp). 1.2 Preface re-read (with Neuhouser's framing in mind) + §§1–33 continue.
-- **Practice:** Neuhouser per-chapter Fulls current through ch. 6. RP segment-Lights: Preface + §§1–33 filed (2 of 5).
+### Week 12 (Mon 2026-08-31) | 📚 Neuhouser wrap + RP Preface re-read (~8.5h: 7R + 1.55P)
+- **Core:** 1.1 ch. 7 (~60pp — moral subjectivity in *Sittlichkeit*). 1.2 Preface re-read (with Neuhouser's framing in mind) + §§1–33 continue.
+- **Practice:** Neuhouser per-chapter Fulls current through ch. 6; the ch. 7 Full lands with the W13 wrap. RP segment-Lights: Preface + §§1–33 filed (2 of 5).
 - **Session shape:** 2×1h EN + 4×1h DE dense.
 - **Notes:** Don't let the two texts blur: Neuhouser is the apparatus-carrier (Fulls), RP the primary encounter (segment-Lights) — the division of labour is deliberate.
 - **Filed by Sunday:**
@@ -117,11 +117,11 @@
 
 ### Week 14 (Mon 2026-09-14) | 📝 Sittlichkeit II — System der Bedürfnisse (~5.65h: 4R + 1.65P)
 - **Core:** 1.2 §§182–208 (*System der Bedürfnisse*, ~30pp).
-- **Practice:** 📝 Neuhouser Fulls completed (Intro + chs. 1–8 = 9, incl. the project-statement note) + C1 set. RP segment-Light §§182–208.
+- **Practice:** 📝 Neuhouser Fulls completed (Intro + chs. 1–7 = 8, incl. the project-statement note, which stands in for the Intro) + C1 set. RP segment-Light §§182–208.
 - **Session shape:** 4×1h dense + one 2h Sat sitting on §§189–208 + writing.
 - **Notes:** Take §§189–208 in a single sitting — the market-society analysis is one argumentative arc.
 - **Filed by Sunday:**
-  - [ ] Neuhouser Fulls (9 of 9) + C1 set
+  - [ ] Neuhouser Fulls (8 of 8) + C1 set
   - [ ] §§182–208 segment-Light
 
 > [!tip] Economist's note

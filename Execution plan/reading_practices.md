@@ -17,15 +17,15 @@ Full Claude-usage guidance is the single table under [Using Claude as an interlo
 ### The three loops
 
 **Per reading session** (~1 h read + 60–120 min close — the all-in workflow, §L.12):
-1. Read to the section boundary. No running content notes; mark with the six tags only.
-2. Close the book. Write the Practice A reconstruction from memory (Full: four parts, 500–800 w · Light: claim + directed-against, 200–300 w).
+1. Read to the section boundary. No running content notes; mark with the six tags only (+ `[prem:X]` on immanent-critique texts, from Module 2).
+2. Close the book. Write the Practice A reconstruction from memory (Full: four parts, 500–800 w · Light: claim + directed-against, 150–250 w). Both are **per chapter / major section**.
 3. Targeted re-consultation — look up only the gaps, don't re-read linearly.
 4. *Full only:* + forward-looking closing sentence, empirical-presuppositions sub-heading, 2–3 C1 seminar questions, concept-entry updates, vault links.
-5. *First-of-author Full only:* Claude Use 1 reconstruction check.
+5. *Every Full in Phase I:* Claude Use 1 reconstruction check (~10 min). Tapers to first-of-author from Phase II.
 
-**Per module close** (~5–6.5 h standard · ~7–9.5 h on QM weeks):
+**Per module close** (~4–5 h standard · ~6–8 h on QM weeks):
 - First confirm every text read in the module has its filed output (§L.12 step 8).
-- Comprehension check (~2–3 h; compresses to ~1 h from ~M25).
+- Comprehension check (~1.5 h: 45 min closed-book + 45 min gap repair; compresses to ~1 h from ~M25).
 - Adversarial module note = Translation + Objection + Positioning (~1 h).
 - Debate map (~1.5–2 h; negative-space note only when a constructible position is visible).
 - Spaced-repetition prompts, 5–8 (~20 min).
@@ -33,7 +33,7 @@ Full Claude-usage guidance is the single table under [Using Claude as an interlo
 
 **When behind** (practice side; reading-side slippage is the execution plan's cascade):
 - ≥ 2 tier-mandated notes missing at a weekly review = **practice debt** → degrade **in place, same week**: Full → Light → reading-log line. Never defer, never catch-up-write.
-- Protect in order: **(1)** Full reconstructions on MUST-Anchor texts · **(2)** the Anwendung → Skizze → Zwischenstück production pipeline · **(3)** Practice B entries on the ~10 load-bearing concepts. Everything else degrades first.
+- Protect in order: **(1)** Full reconstructions on MUST-Anchor texts · **(2)** the Anwendung → Skizze → Zwischenstück production pipeline, incl. the ~20-min register harvests that feed it · **(3)** Practice B entries on the ~10 load-bearing concepts. Everything else degrades first.
 
 ### Resolving a single text (protocol · pace · output · budget)
 
@@ -47,11 +47,11 @@ Look up the text's prose class (`reading_speed_classes.md`) and its tier (execut
 | **Analytic** — Forst/Fraser articles, Fricker, Zurn | 1 *(3 if < 30 pp)* | 15 / 18 | 0.3 | 0.12 |
 | **Transparent** — Neuhouser, Dewey, Streeck | 1 *(3 if short)* | 18 / 20 | 0.3 | 0.12 |
 
-- *Tier → output:* **Full** = four parts, 500–800 w, per chapter/major section · **Light** = claim + directed-against, 200–300 w, per text · **Orientation** = reading-log line, no filed note.
+- *Tier → output:* **Full** = four parts, 500–800 w · **Light** = claim + directed-against, 150–250 w — both **per chapter / major section** (single-essay texts = one note) · **Orientation** = reading-log line, no filed note.
 - *Budget:* Reading = pages ÷ pp/h; Writing = Reading × α, capped at n_chapters × (2 h Full / 0.75 h Light).
 - *Special rules:* Honneth monographs read at Systematic pp/h but write at Layered α · aphoristic texts stay Dense pp/h, use Protocol 2a, n_chapters = clusters of ~5–8 aphorisms.
 - *Worked lookups:* Hegel *Rechtsphilosophie* §§182–256 (~75 pp DE, Dense + Full) → Protocol 2, ~15 h read + 2 h write (the cap binds) ≈ **17 h**. · A 25-pp Fricker chapter (EN, Analytic + Light) → Protocol 3, ~1.4 h read + 0.2 h write ≈ **1.5 h**. Full derivation: [Appendix C §C.2](#c2-style--tier-matrix-and-time-formula).
-- *First months:* for texts whose difficulty is unfamiliar *content* rather than prose — especially [ES] scaffolds read ahead of their primary (Neuhouser before Hegel) — budget the **slow** pp/h row, not the bottom, and expect a near-full second read. See [The first months: reading before you have a schema](#the-first-months-reading-before-you-have-a-schema).
+- *First months:* for texts whose difficulty is unfamiliar *content* rather than prose — especially [ES] scaffolds read ahead of their primary (Neuhouser before Hegel) — expect to run at the **mid-to-slow** pp/h row and to need a near-full second read. The execution plan's weekly page targets are built on bottom-of-range; do not close the gap by reading faster — log it and let the W9–W13 gate price it. See [The first months: reading before you have a schema](#the-first-months-reading-before-you-have-a-schema).
 
 ### The four concept structures (don't conflate them)
 
@@ -59,7 +59,7 @@ Look up the text's prose class (`reading_speed_classes.md`) and its tier (execut
 |---|---|---|
 | **Concept entry** (Practice B, `Konzepte/`) | *Defines & tracks* one term's mutation across thinkers | a term recurs/mutates and you're tracking the drift |
 | **Tag** (Appendix A, ~25 stable) | *Marks* that a note engages a theme; cross-note query | pulling "everything touching X" across modules |
-| **Synthesis note** (`Synthesen/`) | *Your* cross-source proposition, titled as a claim | the same connective claim recurs in 2+ reconstructions |
+| **Synthesis note** (`Synthesen/`) | *Your* cross-source proposition, titled as a claim | the same connective claim recurs in 2+ reconstructions — but if it is a claim you would *defend at a seminar* rather than a connection you noticed, it belongs in the candidate register (`Ideen/`) instead |
 | **Appendix B inventory** | A *horizon* of likely concepts — not a checklist | never "operated"; consulted to recognise a trackable term |
 
 **When you meet a term:** engaging it in a note → add the tag; sensing it will recur/mutate → open a concept entry (write yours *first*, then compare — Practice B); the same connective claim written twice → extract a synthesis note; in doubt → tag only, upgrade later. **Load-bearing** (protect under practice debt): concept entries on the ~10 core terms, and synthesis notes. **Optional convenience:** tags, the inventory, module indices.
@@ -70,8 +70,8 @@ Look up the text's prose class (`reading_speed_classes.md`) and its tier (execut
 
 - **[Reading protocols by text type](#reading-protocols-by-text-type)** — the shared principle; Protocols 1, 2, 2a (aphoristic/paratactic), 3; operative marginalia tags (six)
 - **[Part I — Reading protocols and receptive practices](#part-i--reading-protocols-and-receptive-practices)** — A written reconstruction · B conceptual tracking · C seminar questions · D debate maps · E synthesis notes + monthly vault walk · F strategic re-reading · G translation comparison
-- **[Part II — Productive practices](#part-ii--productive-practices)** — H critical evaluations (H1 adversarial module note; H2 full evaluation) · I Anwendung · J Skizze · the Zwischenstück · practice-transformation in Phase III
-- **[Part III — Infrastructure and discipline](#part-iii--infrastructure-and-discipline)** — module-close practices, canonical definitions (comprehension check, quarterly milestone, spaced-repetition prompts) · discipline — what not to do · [time allocation](#time-allocation-rule-of-thumb), incl. practice debt and the degradation floor · [how the method sustains itself](#how-the-method-sustains-itself) · [Claude principles](#using-claude-as-an-interlocutor--general-principles) (consolidated use table) · [external calibration — the Phase I tutor](#external-calibration--the-phase-i-tutor-touchpoints) · craft bibliography
+- **[Part II — Productive practices](#part-ii--productive-practices)** — [the candidate register](#the-candidate-register--where-contribution-seeds-accumulate) (+ the positioning check) · H critical evaluations (H1 adversarial module note; H2 full evaluation) · I Anwendung · J Skizze · the Zwischenstück · practice-transformation in Phase III
+- **[Part III — Infrastructure and discipline](#part-iii--infrastructure-and-discipline)** — module-close practices, canonical definitions (comprehension check, quarterly milestone, spaced-repetition prompts) · discipline — what not to do · [time allocation](#time-allocation-rule-of-thumb), incl. practice debt and the degradation floor · [how the method sustains itself](#how-the-method-sustains-itself) · [Claude principles](#using-claude-as-an-interlocutor--general-principles) (consolidated use table) · [external calibration — the paid calibrator](#external-calibration--the-paid-calibrator-touchpoints) · craft bibliography
 - **Appendices** — A tag vocabulary · B anticipated concept inventory · [C practices overview and time budgets](#appendix-c-practices-overview-and-time-budgets) · D worked examples (Honneth reconstruction, Hegel scaffold, *immanente Kritik* entry, C1 questions, Skizze scaffold) · E extended marginalia vocabulary (reference) · F Obsidian vault — setup and lifecycle (§L.1–L.12)
 
 ---
@@ -96,7 +96,8 @@ The protocols below assume a skill you do not yet have in the first months: tell
 
 The trap is the prose-class table: it rates Neuhouser *Transparent* and routes it to Protocol 1, but effective difficulty is **prose difficulty × conceptual novelty**, and the table prices only the first. A scaffold read before its primary does double duty — teaching the secondary author's reading *and* introducing the primary's concepts — so for a first-timer it reads a class or two harder than its prose suggests. Two consequences:
 
-- **Budget the slow row, not the bottom row** (Style × Tier matrix, Appendix C §C.2). The bottom column is your fluent-reader self; the first Hegel-adjacent texts are not that yet — Transparent DE at ~11 pp/h, not 18.
+- **Expect the mid-to-slow row, but do not re-budget the week** (Style × Tier matrix, Appendix C §C.2). The bottom column is your fluent-reader self; the first Hegel-adjacent texts are not read by that reader yet — Neuhouser is Transparent *English*, so expect the ~16.5 mid / ~13.5 slow rows rather than the 20 the plan's page targets assume.
+  **How this interacts with the W9–W13 calibration gate — read this before W9.** The gate measures exactly these texts (Transparent-EN Neuhouser, Dense-DE *Rechtsphilosophie*), and Gate 1 fires when a metric lands at midpoint or slower. So the first-scaffold effect and a genuine pacing problem produce the *same number*, and the gate cannot tell them apart on its own. Three rules follow. (1) **Do not compensate by reading faster** — that converts a measurement problem into a comprehension problem and corrupts the one datum Phase I exists to produce. (2) **Log the deficit and annotate it** `first-scaffold` in the reading log, so the W13 tally can separate scaffold-reads from the *Rechtsphilosophie* segments read after Neuhouser has done its work. (3) **Let the gate decide.** If the annotated pace is still at or below midpoint at W13 with capacity at steady state, that is not the schema effect — that is the M50 cascade doing its job, and it is a cheaper answer than a year of quiet overrun.
 - **Expect the second read to be near-full, not targeted.** The protocols' "targeted re-consultation" assumes *localised* gaps ("I can't state premise three"); early on your gaps are *pervasive*, so the return pass is legitimately most of the text again (not word-for-word, but real re-engagement). That is the correct response to pervasive gaps, not a failure of the method.
 
 **The beginner read, in five steps** (it converges to the standard protocol as your schema fills, usually within the first handful of texts):
@@ -180,7 +181,9 @@ The operative set is **six** tags, not more. Marking is the lowest-yield activit
 | `[??]` | — | opaque; return |
 | `[→]` | — | connects to another text or concept in the vault — `[→X]` with the target named |
 
-**Reinstatement rule.** A tag from the extended vocabulary (Appendix E) is reinstated only when its absence demonstrably costs something at reconstruction time — e.g., if immanent-critique texts (Marx, Jaeggi) prove hard to reconstruct without premise-attribution bookkeeping, reinstate `[prem:X]`. The burden of proof is on the tag, not on the six-tag set. In practice `[def]`, `[dist]`, and `[Bsp]` are the common early reinstatements alongside `[prem:X]`: `[def]` / `[dist]` while new concepts are still being introduced (see *The first months* above), `[Bsp]` as a location-pointer to examples you will look up rather than retain (closed-book on structure, open-book on detail).
+**The one standing exception: `[prem:X]` on immanent-critique texts, from Module 2.** This tag is *not* held behind the reinstatement rule below. Practice A's premise-attribution rule (asserted by the author / attributed to the target / presupposed) identifies mis-attribution — reading a target's professed norm as the author's own commitment — as the commonest reconstruction error on immanent-critique texts, and those start at Module 2 (Marx), not at some later point where you would have earned the tag by failing. Marking the attribution at read-time is what makes the rule executable at writing-time. Use it on Marx, Lukács, Adorno's ideology-critical passages, Stahl, and Jaeggi; drop it where a text simply asserts its own premises.
+
+**Reinstatement rule (for the rest of Appendix E).** A tag from the extended vocabulary is reinstated only when its absence demonstrably costs something at reconstruction time. The burden of proof is on the tag, not on the six-tag set. In practice `[def]`, `[dist]`, and `[Bsp]` are the common early reinstatements: `[def]` / `[dist]` while new concepts are still being introduced (see *The first months* above), `[Bsp]` as a location-pointer to examples you will look up rather than retain (closed-book on structure, open-book on detail).
 
 ---
 
@@ -212,9 +215,9 @@ After finishing a chapter or section, close the book and write — in your own w
 
 *Closed-book on structure, open-book on detail.* "From memory" (Protocols 1–3) means the *skeleton* — the claim and the inferential spine — must be reconstructible with the book shut; that is the comprehension test, and it fails to test anything if the book is open. It does *not* mean recalling which example the author used, the exact technical term, or the section number — reopen freely for those. Structure is your-words and stays closed-book; terms and specifics are their-words and are looked up. Requiring closed-book recall of detail merely reintroduces the memorisation pressure the from-memory practice exists to defeat.
 
-**Target length.** *Full tier:* 500–800 words per chapter or major section. *Light tier:* 200–300 words per text (not per chapter). 30–45 minutes per Full reconstruction on top of reading time, 10–15 minutes per Light — but that 30–45 minutes is the *reconstruction-writing component only*. The canonical all-in figure for a Full-tier session close — template and metadata, the reconstruction itself, targeted re-consultation, seminar questions, concept-entry updates, vault-linking, index update — is **60–120 minutes** (§L.12 steps 1–7). Budget and calibrate on this workflow-inclusive number; the execution plan's week-13 calibration measures it. The Full reconstruction is the philosophical analogue of replicating an econometric exercise — you discover what you actually understand versus what you merely followed along with. A substantial fraction of what you thought you understood dissolves when you try to reconstruct it; the point is identifying the gaps *during study* rather than discovering them in use. See *When and at what depth* below for tier routing.
+**Target length.** *Full tier:* 500–800 words per chapter or major section. *Light tier:* 150–250 words, **also per chapter or major section** (a single-essay text is one note). 30–45 minutes per Full reconstruction on top of reading time, 10–15 minutes per Light — but that 30–45 minutes is the *reconstruction-writing component only*. The canonical all-in figure for a Full-tier session close — template and metadata, the reconstruction itself, targeted re-consultation, seminar questions, concept-entry updates, vault-linking, index update — is **60–120 minutes** (§L.12 steps 1–7). Budget and calibrate on this workflow-inclusive number; the execution plan's week-13 calibration measures it. The Full reconstruction is the philosophical analogue of replicating an econometric exercise — you discover what you actually understand versus what you merely followed along with. A substantial fraction of what you thought you understood dissolves when you try to reconstruct it; the point is identifying the gaps *during study* rather than discovering them in use. See *When and at what depth* below for tier routing.
 
-**Which reading protocol to use.** See "Reading protocols by text type" above. The protocol differs depending on whether the text is systematic-argumentative (Protocol 1), dense/anti-systematic (Protocol 2), aphoristic/paratactic (Protocol 2a, with its own reconstruction format), or a short programmatic piece (Protocol 3). The worked example (Appendix D.1, Honneth's "Pathologien des Sozialen") follows Protocol 3. After your first Full-tier reconstruction (W5 Honneth "Pathologien" per the execution plan), bring it to Claude for a Use 1 check (see the `> [!note] Claude — Use 1` callout below in this practice). The Use 1 check is part of Practice A's first-instance protocol, not a separate practice.
+**Which reading protocol to use.** See "Reading protocols by text type" above. The protocol differs depending on whether the text is systematic-argumentative (Protocol 1), dense/anti-systematic (Protocol 2), aphoristic/paratactic (Protocol 2a, with its own reconstruction format), or a short programmatic piece (Protocol 3). The worked example (Appendix D.1, Honneth's "Pathologien des Sozialen") follows Protocol 3. Bring every Phase I Full-tier reconstruction to Claude for a Use 1 check (see the `> [!note] Claude — Use 1` callout below in this practice), starting with W5 Honneth "Pathologien." The Use 1 check is part of Practice A's session-close protocol in Phase I, not a separate practice.
 
 ### When and at what depth
 
@@ -223,14 +226,14 @@ Reconstruction depth is tiered. The syllabus marks every text with a tag ([P\*],
 | Syllabus tag | Default tier | Filed output |
 |---|---|---|
 | [P\*], [ES\*] | **Full** | One reconstruction note per chapter or major section. 500–800 words. Full four-part structure (claim / support / directed-against / presuppositions) + forward-looking closing sentence + `## Empirical presuppositions` sub-heading + 2–3 C1 seminar questions filed at the bottom of the same note. |
-| [P], [ES] | **Light** | One reconstruction note per text (not per chapter). 200–300 words. Two parts only: claim + directed-against. No empirical-presuppositions sub-heading required (add inline if salient); no C1 questions required (file if a tension surfaces). Closing sentence optional. |
+| [P], [ES] | **Light** | One reconstruction note per chapter or major section, same unit as Full. 150–250 words. Two parts only: claim + directed-against. No empirical-presuppositions sub-heading required (add inline if salient); no C1 questions required (file if a tension surfaces). Closing sentence optional. |
 | [O\*], [O], [RS] | **Orientation** | No filed reconstruction note. A 1–2 sentence entry in the reading log (date, text, "main point I want to retain") is sufficient — provenance without artifact. |
 | [NE] | — | Out of scope. If a [NE] item is read, treat as Orientation. |
 
 **Definitions.**
 
 - *Chapter or major section.* A "major section" is a Roman-numeral or §-numbered division that the author themselves treats as a self-contained argumentative unit (e.g., RP §§142–181 *Familie*, §§182–256 *bürgerliche Gesellschaft*; TKH Bd. 2 ch. VI; KuA chs. 1, 2, 3). When in doubt, one note per chapter; subdivide further only if a chapter exceeds ~80 pages.
-- *Per text vs. per chapter.* Full tier is per chapter / major section. Light tier is per text. A Light-tier text running over multiple weeks generates one filed note at the end, not running notes folded into a later artifact.
+- *The filing unit is the same at Full and Light: the chapter or major section.* Only the depth differs (four parts / 500–800 w vs. two parts / 150–250 w). A Light-tier text running over several weeks therefore files a note as each chapter closes — not one summary note at the end, and never running notes folded into a later artifact. This is what the hour formula prices (`n_chapters` in `reading_speed_classes.md` is assigned per text irrespective of tier, and the Light writing cap is `n_chapters × 0.75 h`), and it is what keeps the same-week retrieval discipline intact on long Light texts. *Resolved 2026-07-30: Practice A previously said "per text," while Appendix C, the execution plan's Appendix A mirror, and the plan's own week rows (e.g. "Heinrich Kap. 1–2 Lights," "Dewey Lights complete (5 of 5)") all worked per chapter. Per chapter wins; the hour tables never assumed anything else.*
 
 **The execution plan is canonical for tier assignment.** The default rule above is the routing; the execution plan's Inventory tables (Tier column) carry the actual per-text tier. Where the plan deviates from the default (e.g., a [P] upgraded to Full because the text is structurally load-bearing for Module 7 — see Phänomenologie IV.A 1.3 — or a [P*] downgraded to Light for capacity reasons), the plan's assignment governs, and the deviation must appear explicitly in the Inventory column. Silent deviation breaks the practices ↔ bridge ↔ plan triangle.
 
@@ -238,9 +241,9 @@ Reconstruction depth is tiered. The syllabus marks every text with a tag ([P\*],
 
 *Time-budget consequences of the tier choice (per-author writing-time multipliers, peak-week guidance, productive-practice budgeting) live in the [Time allocation rule of thumb](#time-allocation-rule-of-thumb) section below.*
 
-**One closing sentence — the forward-looking move (Full tier required; optional at Light).** After completing the four-part reconstruction, add a single sentence in the form: *"If I were making this argument, the move I would change is X."* Be specific — name a premise, a method, an example, or a directed-against opponent. This is not yet an evaluation (Practice H) and does not require defence. The point is to plant a small seed of disagreement that you'll either nurture into a productive intervention later (Practice I Anwendung, Practice J Skizze) or discard as ill-considered once you read further. Across 60+ texts these sentences compound into a record of *your own* judgments, distinct from the reconstructive voice. Without this closing move, the four-part reconstruction is purely backward-looking — it asks only what the author does, never what *you* would do differently. At Light tier, file a closing sentence only where the text actually provokes one; do not force generic dissent.
+**One closing sentence — the forward-looking move (Full tier required; optional at Light).** After completing the four-part reconstruction, add a single sentence in the form: *"If I were making this argument, the move I would change is X."* Be specific — name a premise, a method, an example, or a directed-against opponent. This is not yet an evaluation (Practice H) and does not require defence. The point is to plant a small seed of disagreement that you'll either nurture into a productive intervention later (Practice I Anwendung, Practice J Skizze) or discard as ill-considered once you read further. Across 60+ texts these sentences compound into a record of *your own* judgments, distinct from the reconstructive voice — and they are the primary feedstock of [the candidate register](#the-candidate-register--where-contribution-seeds-accumulate), read in bulk at R2, R3, and the M32 Phase II review rather than one at a time. Without this closing move, the four-part reconstruction is purely backward-looking — it asks only what the author does, never what *you* would do differently. At Light tier, file a closing sentence only where the text actually provokes one; do not force generic dissent.
 
-> [!note] Claude — **Use 1 (Reconstruction check)** applies here: bring your written reconstruction for an error/gap/ambiguity check — the highest-value use, run after the first Full (W5 Honneth) and first-of-author thereafter. Full guidance in the [Claude-use table](#using-claude-as-an-interlocutor--general-principles).
+> [!note] Claude — **Use 1 (Reconstruction check)** applies here: bring your written reconstruction for an error/gap/ambiguity check — the highest-value and lowest-risk use. Standing for **every Full in Phase I** (from W5 Honneth), first-of-author from Phase II. Full guidance in the [Claude-use table](#using-claude-as-an-interlocutor--general-principles).
 
 ### Worked examples (relocated to Appendix D, 2026-07-13)
 
@@ -401,7 +404,35 @@ Since you read fluently in both German and English, you have access to a practic
 
 # Part II — Productive practices
 
-The practices in Part I produce understanding *of* a text or *across* a debate. The practices in this part produce something different: claims, arguments, and applications in your own voice. They depend on Part I — you cannot defend a position you don't yet understand, and you cannot apply an apparatus you haven't reconstructed — but they exercise a distinct skill that pure receptive practice does not build. The productive practices are graded by escalating commitment: Practice H evaluates *someone else's* argument (low commitment); Practice I applies a single concept-tool to a phenomenon (medium); Practice J defends *your own* positive claim against objection (high); the *Zwischenstück* (intermediate piece — see its own section below) extends the ladder to a mid-length public arc. The Phase III publishable piece (W3.2) is the natural culmination — but the muscle for it has to be built earlier, on smaller stakes.
+The practices in Part I produce understanding *of* a text or *across* a debate. The practices in this part produce something different: claims, arguments, and applications in your own voice. They depend on Part I — you cannot defend a position you don't yet understand, and you cannot apply an apparatus you haven't reconstructed — but they exercise a distinct skill that pure receptive practice does not build. The productive practices are graded by escalating commitment: Practice H evaluates *someone else's* argument (low commitment); Practice I applies a single concept-tool to a phenomenon (medium); Practice J defends *your own* positive claim against objection (high); the *Zwischenstück* (intermediate piece — see its own section below) extends the ladder to a mid-length public arc. The Phase III publishable piece (W3.2 — writing exercise 2 of syllabus Module W3) is the natural culmination — but the muscle for it has to be built earlier, on smaller stakes.
+
+---
+
+## The candidate register — where contribution seeds accumulate
+
+The productive ladder needs an input, and the receptive practices generate one continuously without anywhere to put it. Six practices produce contribution seeds — the Practice A closing sentence ("the move I would change is X," 60+ instances by M35), Practice H2 component (iv) *where could you intervene*, Practice D's negative-space note, Practice E synthesis notes, failed Anwendungen (a concept that won't bind is a result), and the occasional C1/C2 question that turns out to be a paper rather than a seminar question. Without a register these scatter across sixty files and are recoverable only by memory at R5 (the M35 transition retreat opening Phase III), which is where the three W3.2 candidate topics are supposed to come from. Thirty-five months of deposits, one withdrawal, no ledger.
+
+**The register already exists — use it, don't rebuild it.** `Ideen/` in the vault, with `templates/tpl-research-idea.md`: one file per candidate, frontmatter `status` (seed → scoping → active → parked → dead → published), `confidence`, `target`, `module_hook`, `revisit_when`; body sections *Claim (one sentence) / Foil / Gap it exploits / Positive contribution / Kill criteria / Must-answer objections / Minimal viable reading / Scope boundary / Provenance / Log*. Nothing about it needs changing. What was missing is the method side: what feeds it, when it is worked, and what kills an entry.
+
+**What feeds it, and at what threshold.** Do not open a file for every closing sentence — that is a folder of moods, and the template's own rule (a claim you cannot state in one sentence is a mood, not a seed) is the filter. Open an entry when *the same disagreement shows up twice* — a closing sentence that returns as an H2(iv) intervention point, a negative-space note that a later synthesis note re-describes, an Anwendung failure that names a limit you keep hitting. Until then the seed stays where it was written. Two live entries at any time is healthy; ten is a symptom.
+
+**When it is worked (the harvest).** The register is not a weekly practice. It is touched at five scheduled points, ~20–30 minutes each:
+
+- **R2** (W35–36, the post-Hegel/Marx/Weber/Lukács retreat) and **R3** (W63–64, end of Phase I) — read the accumulated closing sentences from the phase, and ask only: does any disagreement recur? Open or update entries; expect zero to two.
+- **The M32 Phase II review** — the substantive one. By here you have Honneth, Jaeggi, Forst, and the social-epistemology module in hand, which is the first point at which "gap it exploits" is a checkable claim rather than a guess. Run the positioning check (below) on every entry at `scoping` or above.
+- **R5** (M35) — the register *is* the input to the three-candidate exercise. If it has been kept, that session is a selection problem rather than a generation problem.
+- **The monthly vault walk** (Practice E) — no separate step; if the walk surfaces a connection that is really a claim, it lands here instead of in `Synthesen/`.
+
+**The positioning check — the kill test.** The template's *Kill criteria* field asks for "specific texts whose existence would pre-empt or sink the idea." This is the protocol that answers it, ~90 minutes, and it is the one thing in this document that guards against the single most likely rejection outcome for W3.2: *this has been argued, and better, by someone you hadn't read.*
+
+1. **Forward-citation sweep.** Take the 2–3 texts your claim is closest to; run Google Scholar "cited by," filtered to the last five years, and skim titles for your move.
+2. **Venue sweep.** The last five years of tables of contents at the target venue plus one adjacent (*WestEnd*, *DZfPh*, *ZkSP*, *Constellations*, *Critical Horizons*). German-language venues are the ones an English-only search misses, and they are where this tradition's near neighbours publish.
+3. **Topic browse.** PhilPapers category for the terrain, plus the relevant *SEP*/*Handbuch* article's bibliography — cheap, and it catches the analytic-side literature the Frankfurt-tradition search will not surface.
+4. **One human.** Put the one-sentence claim to the calibrator (see *External calibration* below) or to one interlocutor-map scholar: *"is this already someone's argument?"* — the question a search cannot answer, because the answer is often an unpublished dissertation or a paper in review.
+
+Date every check in the entry's `Log`; searches go stale within a year, so re-run on revival. **Mandatory before the M38 W3.2 topic lock-in**, and run from Skizze #3 (~M29) onward — a claim killed at M29 costs five hours, the same claim killed at M40 costs the writing block. Do not run it on `seed`-status entries: an idea too unformed to state in a sentence is too unformed to search for, and you will only reassure yourself with irrelevant hits.
+
+*Claude's role here is bounded, and this is the practice where the bound matters most.* Ask it to generate *search terms*, name candidate near-neighbours, and suggest which literature the claim borders on. Do not accept "no one has made this move" as an answer at any confidence — that judgement is exactly the patchy-training-data failure Practice J warns about. The output of asking Claude is a list of things to check, never a verdict.
 
 ---
 
@@ -446,7 +477,7 @@ After the reconstruction (Practice A), write a separate 300–500 word evaluatio
 
 **(iii) What would a defender say?** Steelman the argument against your own objection. If you can't construct a plausible defence, your objection probably misses the point — or attacks a position the author doesn't actually hold. This practice guards against the most common failure mode in interdisciplinary reading: criticising a philosophical argument for not doing something it was never trying to do. The Translation subsections you've been writing in the adversarial module note since Module 1 are training for exactly this move.
 
-**(iv) Where could you intervene?** Is there a question the author doesn't ask that you could ask, given your background? Is there an empirical claim you could strengthen, challenge, or reformulate with greater precision? Is there a structural analogy to something in your own field that the author misses? This is the seed of original contribution — and the natural input to Practice I (Anwendung) and Practice J (Skizze). Keep a running list of these.
+**(iv) Where could you intervene?** Is there a question the author doesn't ask that you could ask, given your background? Is there an empirical claim you could strengthen, challenge, or reformulate with greater precision? Is there a structural analogy to something in your own field that the author misses? This is the seed of original contribution — and the natural input to Practice I (Anwendung) and Practice J (Skizze). File these in the evaluation itself; when the same intervention point recurs, promote it to [the candidate register](#the-candidate-register--where-contribution-seeds-accumulate).
 
 > [!note] Claude — **Use 4 (Sparring partner)** applies here, and it carries the **highest hallucination risk** in the document: a steelman may be plausible fiction. Require a cited passage or named secondary; treat any uncited defence as invention. Full discipline in the [Claude-use table](#using-claude-as-an-interlocutor--general-principles).
 
@@ -507,7 +538,7 @@ Beginning in Phase II (after Honneth, ~M25), at roughly 6–8 week intervals, wr
 3. **The defence.** 500–800 words. Develop your claim. This is the core. Apply the Translation discipline (adversarial module note, subsection i) — make sure your argument engages the alternative on its own terms.
 4. **What your claim cannot yet do.** 150–250 words. Honest acknowledgement of what the *Versuch* leaves unfinished. This is not weakness; it is the genre. A Skizze that claims to have resolved everything is overreaching.
 
-**Iteration with Claude — a specific caveat.** This is the practice where my (Claude's) hallucination risk is highest. I can pressure-test internal coherence, flag unstated premises, construct the strongest objection to your claim, and ask whether you've smuggled in commitments. What I *cannot* reliably do is tell you whether your positive claim is *novel* — i.e., whether the move you're making has already been made by a secondary author you haven't yet read. My training-data view of "who occupies what position in this debate" is patchy and confidently wrong in places. **Specific workaround:** when you ask me "has this move been made before?", treat my answer as a starting hypothesis for *you* to verify, not as ground truth. Until you have done the verification, treat my claim of "no one has made this move" as a claim of moderate confidence at best. This is the one practice where solitary study without external feedback creates a real gap; the deferral to Phase II helps because by then you'll have read enough secondary literature to do parts of the novelty-check yourself.
+**Iteration with Claude — a specific caveat.** This is the practice where my (Claude's) hallucination risk is highest. I can pressure-test internal coherence, flag unstated premises, construct the strongest objection to your claim, and ask whether you've smuggled in commitments. What I *cannot* reliably do is tell you whether your positive claim is *novel* — i.e., whether the move you're making has already been made by a secondary author you haven't yet read. My training-data view of "who occupies what position in this debate" is patchy and confidently wrong in places. **Specific workaround:** when you ask me "has this move been made before?", treat my answer as a starting hypothesis for *you* to verify — the verification is the four-step positioning check under [The candidate register](#the-candidate-register--where-contribution-seeds-accumulate), run from Skizze #3 onward and mandatory before the M38 topic lock-in. Until you have done it, treat my claim of "no one has made this move" as a claim of moderate confidence at best. This is the one practice where solitary study without external feedback creates a real gap; the deferral to Phase II helps because by then you'll have read enough secondary literature to do parts of the novelty-check yourself.
 
 **Filing.** Skizzen accumulate as candidate W3.2 *spines*. The best ones — claims that survived your own pressure-testing and Claude's objections, and that you still believe months later — are the natural raw material for the Zwischenstück (next section) and, through it, the publishable piece. File in a `drafts/skizze-XX.md` folder.
 
@@ -563,16 +594,25 @@ The standard module close comprises:
 
 | Item | Time | Canonical definition |
 |---|---|---|
-| Comprehension check | ~2–3h | below |
+| Comprehension check (45 min closed-book + 45 min gap repair) | ~1.5h | below |
 | Adversarial module note (Translation + Objection + Positioning) | ~1h | Practice H1 |
 | Debate map (negative-space note opportunistic) | ~1.5–2h | Practice D |
 | Spaced-repetition prompt-writing | ~20 min | below |
 
-Total ~5–6.5h; a quarterly milestone (~2–3h, below) is additional where scheduled. Before any module-close artifact is produced, confirm every text read during the module has its filed output (§L.12 step 8); the master-index update and weekly review note remain standing §L.12 hygiene, not separate artifacts.
+Total ~4–5h; a quarterly milestone (~2–3h, below) is additional where scheduled. Before any module-close artifact is produced, confirm every text read during the module has its filed output (§L.12 step 8); the master-index update and weekly review note remain standing §L.12 hygiene, not separate artifacts.
 
-### Comprehension check (canonical definition — moved from bridge §3.3(a), 2026-07-13)
+### Comprehension check (canonical definition — moved from bridge §3.3(a), 2026-07-13; restructured 2026-07-30)
 
-At each module close, write brief answers (~2–3 hours — the full budget is deliberate; this is the module's capstone self-test) to the capability targets listed at module start ("after this module you should be able to..."). The check tests argumentative understanding, not recall, and answers one question: *do I have the apparatus?* It complements, and does not duplicate, the adversarial module note (which pressure-tests the apparatus against objection) and Practice D (which locates it in the debate landscape). Module-close cadence per execution_plan.md §D.2. Under peak-week collision from ~M25 onward, the check compresses to ~1h (see peak-week guidance below); it is never dropped.
+At each module close, answer the capability targets listed at module start ("after this module you should be able to...") in **two timed halves, ~1.5 h total**:
+
+1. **Closed-book, 45 minutes.** Book shut, notes shut, vault shut, timer on. Write against the module's capability targets — telegraphic prose is fine, completeness is not the point. Stop at 45 minutes wherever you are.
+2. **Gap repair, 45 minutes.** Open the texts and your reconstructions. Mark every place the closed-book pass was blank, vague, or wrong, and repair *those* — in a different colour, or under a `## Repaired` heading, so the two passes stay visually distinct. What you had to look up is the actual output of the exercise.
+
+**Why timed and closed-book** (this replaces the former untimed ~2–3 h written self-test). The check answers one question — *do I have the apparatus?* — and that question is only answerable under retrieval conditions. An untimed, open-ish self-test measures whether you can *assemble* an answer from materials you still have; the closed-book half measures whether the apparatus is *in you*, which is the property the Comparison Exercise (M37–38) and the W3.2 piece actually draw on. The visible gap between the two passes is also the module's most honest diagnostic: a check that comes back near-complete at 45 minutes says the module landed; one that comes back mostly blank says which texts need the Practice F re-read. Same instrument, ~1.5 h instead of ~2.5 h, and more information per hour.
+
+The check complements, and does not duplicate, the adversarial module note (which pressure-tests the apparatus against objection) and Practice D (which locates it in the debate landscape). Module-close cadence per execution_plan.md §D.2. Under peak-week collision from ~M25 onward it compresses to ~1h by dropping the repair half to 15 minutes and filing the gap list for the following week; the closed-book 45 minutes is never dropped and never becomes open-book.
+
+*Where the freed time goes.* The change frees ~1 h per module close (~12–15 h across the programme). It is not spare capacity: it funds the paid calibration touchpoints and the positioning checks added on the same date (see *External calibration* below and *The candidate register*). The execution plan's per-week close-week figures and module tallies still carry the old ~5.5–6 h close; they are now conservative by ~1 h per close, and the two changes roughly cancel at the phase level.
 
 ### Quarterly milestone (QM — canonical definition — moved from bridge §3.3(b), 2026-07-13)
 
@@ -612,14 +652,14 @@ This is a scheduled module-close item — the cheapest high-yield item in the re
 
 For each hour of reading, budget approximately 20–30 minutes of active writing (reconstructions, evaluations, seminar questions). This average is calibrated to the Full tier on systematic texts; Light tier runs ~10–15 min/h of filed writing and Orientation tier ~0 min/h (the reading-log line is incidental). Debate maps and conceptual tracking entries are done at module boundaries and take 1–2 hours per module. Re-reading is built into the schedule at 15–20% of total time. In total, the active practices add roughly 40–50% to the raw reading time, and re-reading adds another 15–20%.
 
-**Module-boundary additions on top of the per-text rate** (see *Module-close practices — canonical definitions* above)**:** comprehension check (~2–3h) + adversarial module note (~1h) + Practice D debate map with opportunistic negative-space note (~1.5–2h) + spaced-repetition prompt-writing (~20 min).
+**Module-boundary additions on top of the per-text rate** (see *Module-close practices — canonical definitions* above)**:** comprehension check (~1.5h) + adversarial module note (~1h) + Practice D debate map with opportunistic negative-space note (~1.5–2h) + spaced-repetition prompt-writing (~20 min).
 
 **Full module-close load summed:**
 
 | Module-close week type | Items | Load |
 |---|---|---|
-| Standard module close | Comp check + adversarial module note + 🗺 Practice D + SR prompts | ~5–6.5h |
-| QM module close (W17, W30, M20, M32, M41) | Above + QM article comparison | ~7–9.5h |
+| Standard module close | Comp check + adversarial module note + 🗺 Practice D + SR prompts | ~4–5h |
+| QM module close (W17, W30, M20, M32, M41) | Above + QM article comparison | ~6–8h |
 
 The standard close now genuinely fits inside a module-close week's budget rather than nominally so. The execution plan's §D.2 module-close checklist carries the scheduling of this load; the canonical definitions live in this document.
 
@@ -630,11 +670,11 @@ The standard close now genuinely fits inside a module-close week's budget rather
 
 **Practice debt and the degradation floor.** The falling-behind protocols (execution_plan §A) measure weeks-behind on the *reading* schedule; a reader can be perfectly on schedule and have silently stopped writing — which, by this document's own theory, is the programme's core failure mode (a passive reader accumulating fluency illusion). Three rules close the gap on the method side; the corresponding protocol row lives in the execution plan's Appendix A.
 
-*(a) Degradation ladder.* A Full reconstruction that cannot get its writing time becomes a **Light note** (claim + directed-against, 150 words, 10 minutes) **in the same week as the read** — never deferred to a later week, and never nothing. A Light note degrades to a reading-log line. Rationale: Practice A is retrieval practice, and retrieval decays within days — a reconstruction shifted two weeks is no longer a memory test but an essay about your marginalia. *Reading* pressure is handled by shifting weeks (the execution plan's falling-behind cascade); *practice* pressure is handled by same-week degradation. The Full → Light → log-line ladder already exists as the tier system; here it is repurposed as the compliance floor.
+*(a) Degradation ladder.* A Full reconstruction that cannot get its writing time becomes a **Light note** (claim + directed-against, ~150 words — the bottom of the Light band — 10 minutes) **in the same week as the read** — never deferred to a later week, and never nothing. A Light note degrades to a reading-log line. Rationale: Practice A is retrieval practice, and retrieval decays within days — a reconstruction shifted two weeks is no longer a memory test but an essay about your marginalia. *Reading* pressure is handled by shifting weeks (the execution plan's falling-behind cascade); *practice* pressure is handled by same-week degradation. The Full → Light → log-line ladder already exists as the tier system; here it is repurposed as the compliance floor.
 
 *(b) Practice-debt trigger.* **Two or more tier-mandated filed notes missing at a weekly review = practice debt.** The sanctioned response is degradation-in-place — file the Light note or log line for the affected texts now, at the degraded tier — not catch-up writing: catch-up reconstructions of texts read weeks ago fail the retrieval rationale in (a) and cost hours the schedule doesn't have.
 
-*(c) What to protect.* Under degraded compliance, the priority order is: **(1) Full reconstructions on MUST-Anchor texts; (2) the Anwendung → Skizze production pipeline; (3) Practice B entries on the ~10 load-bearing concepts** — *Anerkennung*, *Verdinglichung*, *immanente Kritik*, *Lebensform*, *Pathologie*, *Sittlichkeit*, *Lebenswelt*, *Rechtfertigung*, *Entfremdung*, *Kritik*. Everything else — positioning questions, adversarial module notes post-taper, negative-space notes, review notes, dashboards, most marginalia — is scaffolding and may degrade first. This is stated bluntly because under time pressure the natural drop order is the reverse: the high-value items live in the highest-friction slots, and without a stated priority order the wrong practices get shed silently.
+*(c) What to protect.* Under degraded compliance, the priority order is: **(1) Full reconstructions on MUST-Anchor texts; (2) the Anwendung → Skizze production pipeline, including the register harvests (~20 min) and any scheduled calibrator touchpoint — both are cheap and both are on the M48 critical path; (3) Practice B entries on the ~10 load-bearing concepts** — *Anerkennung*, *Verdinglichung*, *immanente Kritik*, *Lebensform*, *Pathologie*, *Sittlichkeit*, *Lebenswelt*, *Rechtfertigung*, *Entfremdung*, *Kritik*. Everything else — positioning questions, adversarial module notes post-taper, negative-space notes, review notes, dashboards, most marginalia — is scaffolding and may degrade first. This is stated bluntly because under time pressure the natural drop order is the reverse: the high-value items live in the highest-friction slots, and without a stated priority order the wrong practices get shed silently.
 
 **Productive practices (Part II) are budgeted separately:**
 - *Practice I Anwendung:* ~3.5–4.5h per instance (including Claude iteration). Phase I target: 3–4 Anwendungen (~12–18h). Phase II–Phase III: continued at 8–10 week cadence.
@@ -653,7 +693,7 @@ These productive-practice hours are not absorbed by the reading-plus-writing rat
 - **Jaeggi and Celikates** (clear but conceptually layered): budget 2:1 to 3:1. The prose is accessible but the arguments involve multiple levels (empirical, conceptual, normative) that require careful disentangling.
 - **Orientation and secondary texts** (McCarthy, Outhwaite, Neuhouser, Feenberg): budget 3:1 to 4:1. These are designed to be transparent; reconstruction is mostly tracking the author's own structure.
 
-*These per-author multipliers describe how time-per-page-read varies with text difficulty; they are independent of the Full/Light tier choice (which describes the **output**, not the **input**). A Light-tier Hegel reconstruction still incurs the 1:1 input multiplier — Hegel is Hegel — but the lighter output (200–300 words, two parts) is what reduces the all-in overhead.*
+*These per-author multipliers describe how time-per-page-read varies with text difficulty; they are independent of the Full/Light tier choice (which describes the **output**, not the **input**). A Light-tier Hegel reconstruction still incurs the 1:1 input multiplier — Hegel is Hegel — but the lighter output (150–250 words, two parts) is what reduces the all-in overhead.*
 
 Don't panic if your first Hegel reconstruction takes 90 minutes — this is on track, not a sign that you're failing.
 
@@ -661,7 +701,7 @@ Don't panic if your first Hegel reconstruction takes 90 minutes — this is on t
 
 **Note on the learning curve:** The 20–30 minutes of writing per hour of reading is an *average across the programme*. Your first few reconstructions (Hegel, early Marx) will take 45–60 minutes each; by the time you reach Jaeggi, a year or more in, you may need only 15–20 minutes because you've developed the skill of identifying argumentative structure quickly. Don't panic if the first months feel slow — the ratio improves, and the early investment in slow, careful reconstruction pays compound returns. For the earliest texts specifically — where the difficulty is unfamiliar *content*, not prose — see [The first months: reading before you have a schema](#the-first-months-reading-before-you-have-a-schema). See also "Reading protocols by text type" for how the reading-plus-writing time breaks down differently for systematic texts (Protocol 1), dense texts requiring two passes (Protocol 2), aphoristic/paratactic texts (Protocol 2a), and short programmatic texts (Protocol 3).
 
-**On word counts for orientation:** 500–800 words (Full tier per the *When and at what depth* section above) is roughly 1–2 single-spaced pages — something you could read aloud in 3–5 minutes. 200–300 words (Light tier) is roughly half to one page, a single dense paragraph. Orientation tier produces no filed reconstruction — see [Appendix C §C.2 Style × Tier matrix](#c2-style--tier-matrix-and-time-formula). These are not essays; they are compressed, high-density notes-to-self.
+**On word counts for orientation:** 500–800 words (Full tier per the *When and at what depth* section above) is roughly 1–2 single-spaced pages — something you could read aloud in 3–5 minutes. 150–250 words (Light tier) is roughly half a page, a single dense paragraph. Orientation tier produces no filed reconstruction — see [Appendix C §C.2 Style × Tier matrix](#c2-style--tier-matrix-and-time-formula). These are not essays; they are compressed, high-density notes-to-self.
 
 **Calibration hook.** The writing-time multipliers in [Appendix C §C.2 Style × Tier matrix](#c2-style--tier-matrix-and-time-formula) (class-dependent α; Full Dense 1.0 / Systematic 0.5 / Layered 0.4 / Analytic 0.3 / Transparent 0.3; corresponding Light at α ÷ ~2.5) are *planning estimates*, not empirical measurements. Validate them against actual time spent on the first Hegel chapter reconstruction (around W5, Honneth "Pathologien") and the first systematic-primary reconstruction (around W14, Neuhouser). **The execution plan's W9–W13 calibration log already measures these metrics** (see [execution_plan.md](execution_plan.md) and the W13 two-gate trigger). If the measured overhead deviates by more than 20% from the figures here, revise both this section and the corresponding entry in Appendix C §C.2, then propagate to execution_plan Appendix A (which mirrors C.2). If the *When and at what depth* tier definitions above are revised (e.g., RS promoted to Light, or Light per-text changed to per-chapter), Appendix C §C.2 and execution plan Appendix A must be updated in the same pass. Without this hook, the multipliers are unfalsifiable estimates; with it, the practices document and the execution plan form a self-revising system.
 
@@ -690,13 +730,17 @@ The five specific uses are consolidated in the table below; each practice carrie
 
 | Use | For | Which practice / where | Prompt shape | Halluc. risk | Mandatory anchor |
 |---|---|---|---|---|---|
-| **1 — Reconstruction check** | Checking a reconstruction you've written | Practice A; §L.12 step 9 — after first-of-author Full | "What have I got wrong / missed / stated ambiguously?" | Low — your text + primary both anchor | — |
+| **1 — Reconstruction check** | Checking a reconstruction you've written | Practice A; §L.12 step 9 — **every Full in Phase I**, first-of-author from Phase II | "What have I got wrong / missed / stated ambiguously?" | Low — your text + primary both anchor | — |
 | **2 — Targeted clarification** | A passage opaque after two careful reads | Protocol 2 (dense texts) | "Here's *my* reading — am I on track, or is X doing something I'm missing?" | Medium | Include your own attempt |
 | **3 — Connection mapping** | Enriching a finished debate map | Practice D — after the map is filed | "What connections / mislocations am I missing?" | Medium | Map filed first |
 | **4 — Sparring partner** | Steelmanning against your own objection | Practice H2 (full evaluation) | "Construct the strongest defence of X against my objection" | **High — Claude generates prose** | Require a cited passage or named secondary; treat uncited defence as invention |
 | **5 — Language assistance** | Grammatically tortured German | Protocol 3 / any dense sentence | "Parse the syntax — main clause, subordinate modifiers, pronoun referents" | Low | Attempt the sentence first |
 
-**Use 1 — Reconstruction check.** After writing your Full or Light reconstruction, bring both the text and your reconstruction: *"What have I gotten wrong, what have I missed, and where have I stated something ambiguously?"* Highest-value use, because *you've already done the hard cognitive work* — Claude checks your output, not supplies input, and catches structural misreadings (wrong-step attribution, premise/conclusion conflation, missed qualifications) and gaps. Run after the first Full reconstruction (W5 Honneth "Pathologien") and after first-of-author Full reconstructions thereafter; ad hoc beyond that.
+**Use 1 — Reconstruction check.** After writing your Full or Light reconstruction, bring both the text and your reconstruction: *"What have I gotten wrong, what have I missed, and where have I stated something ambiguously?"* Highest-value use, because *you've already done the hard cognitive work* — Claude checks your output, not supplies input, and catches structural misreadings (wrong-step attribution, premise/conclusion conflation, missed qualifications) and gaps. The `/recon-check` skill runs this protocol (it reads the primary first, then applies the tier-aware rubric).
+
+**Cadence — every Full reconstruction in Phase I; first-of-author from Phase II.** This is deliberately more frequent than the previous first-of-author-only rule, on the document's own evidence base: the retrieval-practice results the protocols rest on are results about *tested* retrieval **with corrective feedback**. Retrieval without feedback consolidates errors as efficiently as it consolidates correct structure, and a misread premise in month 3 is cheap to fix and expensive to carry. Phase I is otherwise a 15-month closed loop — three calibrator touchpoints and nothing else — so this is where the marginal check is worth most. It costs ~10 minutes on top of a 60–120-minute session close; if that 10 minutes is not there, the practice-debt rule applies to it last, not first. From Phase II the calibrator, the community track, and your own calibrated judgement take over the error-detection load, and Use 1 reverts to first-of-author plus ad hoc.
+
+*The hallucination discipline is unchanged and matters more at this frequency:* Claude checks your reconstruction *against a text it may misremember*. Treat any claim about what the author says at a specific section as a hypothesis to verify in the German, not as a correction to absorb — especially on Hegel and Adorno, where interpretation is genuinely contested (Use 4 caveat).
 
 **Use 2 — Targeted clarification.** A passage you cannot parse after two careful reads — common with Hegel, Adorno, parts of Habermas — brought *with your best attempt*: *"Here is how I'm reading this. Am I on track, or is the author doing something I'm not seeing?"* Not "what does this mean?" (that outsources the work). Always include your attempt; if you can produce none at all, that is itself diagnostic — usually a missing piece of context (a concept from earlier, a position implicitly targeted), not sheer difficulty. Distinct from Use 5: Use 2 is philosophical opacity after the grammar is parsed.
 
@@ -708,30 +752,39 @@ The five specific uses are consolidated in the table below; each practice carrie
 
 ---
 
-## External calibration — the Phase I tutor touchpoints
+## External calibration — the paid calibrator touchpoints
 
-Claude checks your output but cannot be trusted on contested interpretation (Use 4), and community engagement (bridge §2.4) is deliberately deferred to Phase II. That leaves Phase I — ~15 months of building the foundational apparatus — with no external error-detection: a systematic misreading of Hegel in month 3 would not surface until the W59–61 external-calibration letter. Three cheap touchpoints close the gap.
+Claude checks your output but cannot be trusted on contested interpretation (Use 4), and community engagement (bridge §2.4) is deliberately deferred to Phase II. That leaves Phase I — ~15 months of building the foundational apparatus — with no external error-detection: a systematic misreading of Hegel in month 3 would otherwise not surface until Phase II, and the W59–61 external-calibration *letter* will not catch it either (that letter is a substantive question about a scholar's own work, sent with no attachment — a contact move, not a check on your reading; see the plan's W61 row). **Five touchpoints across Phases I–III close the gap: three on reconstructions, two on your own claims.**
 
-**What it is.** A paid *calibrator of your written reconstructions*, not a teacher. They see your reconstruction *after* you have written it — the same position as the Claude Use 1 check, so it is fully consistent with the "after your own work, never before" rule and does not touch the from-memory discipline. It is emphatically not "explain Hegel to me."
+**What it is.** A paid *calibrator of your written work*, not a teacher. They see the artifact *after* you have written it — the same position as the Claude Use 1 check, so it is fully consistent with the "after your own work, never before" rule and does not touch the from-memory discipline. It is emphatically not "explain Hegel to me."
+
+**Why it extends past Phase I (added 2026-07-30).** The original design put all three touchpoints on Phase I reconstructions. That is the wrong allocation: reconstructions are the artifact you can self-check most reliably, because the text is in front of you and Claude Use 1 anchors on it. The artifacts that decide whether M48 produces something publishable are the productive ones — Skizze, *Zwischenstück*, and the claim behind them — and under the original design those received no external reading at all until the informal presentation at M41–M43, three months before submission, when the argument is already a draft. Two touchpoints move onto that side of the ladder. The question changes with them: on a reconstruction it is *did I read this right?*; on a Skizze it is *is this claim already someone's, and would a referee think it is worth making?*
 
 **Who.** An advanced doctoral student or postdoc in *praktische Philosophie* / *Sozialphilosophie* / German idealism — **not** a scholar from the interlocutor map (those are reserved for Phase II–III community engagement; recruiting a future interlocutor as a paid tutor is the wrong relationship and a low-status opening move). Frankfurt/Goethe is ideal terrain, and German-speaking matters so they can check the German original, not a translation.
 
-**How to find one.** Email a relevant Goethe chair's secretariat or professor asking whether a doctoral student would take a paid gig commenting on reconstructions (higher-yield and lower-awkwardness than cold-emailing students directly); fallback, email one or two doctoral researchers whose page lists Hegel or critical theory. The ask is short, bounded, paid, and explicitly *calibration, not tutoring*.
+**How to find one.** Email a relevant Goethe chair's secretariat or professor asking whether a doctoral student would take a paid gig commenting on reconstructions (higher-yield and lower-awkwardness than cold-emailing students directly); fallback, email one or two doctoral researchers whose page lists Hegel or critical theory. The ask is short, bounded, paid, and explicitly *calibration, not tutoring*. **Lead time:** touchpoint 1 at ~W16 means the email goes out around **W12** — draft it at R1 (W8) while the retreat is already in planning mode, and treat a silent chair as a signal to try the second one immediately rather than to postpone.
 
-**Cadence — three touchpoints, ~1.5 h of your time each:**
-1. **~W16** — after the first Hegel *Rechtsphilosophie* reconstruction (Dense / Protocol 2; the highest-value check, on resistant prose and contested interpretation).
-2. **~M6** — after the first Habermas systematic reconstruction (TKH; a different failure mode — architecture-tracking, not opacity).
-3. **W59–61** — folded into the Motivational-Checkpoint external-calibration letter (recruit the tutor as its calibrator; this pulls external error-detection from month 15 back to month 4).
+**Cadence — five touchpoints, ~1.5 h of your time each** (~15 min to send, ~1.25 h working through the reply when it arrives a week or two later — the cost never lands whole on the week you send, which is why a touchpoint can sit on a module-close week):
 
-**What to send.** The reconstruction (500–800 w), the primary passage it covers, three lines of context (what the programme is, the tier/protocol, and specifically what you want checked), and a pointed question set mapping onto the four parts: *is the directed-against aimed at the right opponent? which of the four parts is weakest? where have I imported a premise the text does not license (the pointing-constraint failure)?*
+| # | When | Artifact sent | What it catches |
+|---|---|---|---|
+| 1 | **~W16–17** | First Hegel Full — 1.3 *Phänomenologie* IV.A, Herr/Knecht (Dense / Protocol 2) | Resistant prose + contested interpretation — the highest-value single check |
+| 2 | **~W23–24** | First *Kapital* Full (2.3a §4, *Fetischcharakter*) | Premise mis-attribution on an immanent-critique text — a different failure mode from opacity (this is what `[prem:X]` marks at read-time) |
+| 3 | **W61** | The Field Report (1,500–2,000 w) | The first productive artifact and the primary W3.2 seed: does the immanent-critique move actually work on an ECB phenomenon? Sent *separately* from the W61 letter — different act, different recipient |
+| 4 | **~M29** | Skizze #3 (the Honneth↔Jaeggi disagreement — Comparison-Exercise pre-work) | Is the claim defensible, and is it already someone's? First external reading of your own voice |
+| 5 | **~M34** | *Zwischenstück* draft | Arc and register at 2,000–3,000 w, before the 7,000–10,000 w jump — and, landing just before R5 (M35), the last cheap point at which the W3.2 direction can still change |
 
-**Cost and boundary.** ~€300–500 for all three touchpoints in Phase I — cheap insurance against months of compounding error. One caveat: a philosophy PhD carries their own interpretive line (Pippin vs. Neuhouser on Hegel); treat the tutor as *one calibration point, not ground truth on contested interpretation* — the Use 4 status caveat, but far more reliable. Ask which reading they come from.
+Touchpoint 2 replaces the original "~M6, after the first Habermas reconstruction," which was unschedulable: TKH is Module 6 at ~M18, in Phase II, whereas M6 is the Marx module. Marx is the right Phase I text for a second check anyway — immanent critique is where the reconstruction fails in a way you cannot detect yourself.
+
+**What to send.** *Touchpoints 1–3:* the reconstruction (500–800 w), the primary passage it covers, three lines of context (what the programme is, the tier/protocol, and specifically what you want checked), and a pointed question set mapping onto the four parts: *is the directed-against aimed at the right opponent? which of the four parts is weakest? where have I imported a premise the text does not license (the pointing-constraint failure)?* *Touchpoints 4–5:* the piece, its one-sentence claim, and three questions — *is the claim already made, and by whom? which premise would a referee attack first? is the register right for the venue?* Note that (4) and (5) are also the human step of the positioning check.
+
+**Cost and boundary.** ~€500–900 for all five — cheap insurance against months of compounding error, and against arriving at M40 with a claim someone published in 2027. Recruitment happens once, in Phase I, and the same person carries through if they are willing; a second recruit at ~M27 is the fallback and is not a problem, since touchpoints 4–5 need a different competence anyway (current-debate awareness rather than Hegel philology). One caveat throughout: a philosophy PhD carries their own interpretive line (Pippin vs. Neuhouser on Hegel); treat the calibrator as *one calibration point, not ground truth on contested interpretation* — the Use 4 status caveat, but far more reliable. Ask which reading they come from.
 
 ---
 
 ## Books on the craft of reading and argument
 
-The texts collected in [Part V of the syllabus](sozialphilosophie_syllabus.md) — Stahl, Celikates, Jaeggi's and Honneth's methodological chapters — train the Frankfurt-tradition craft from within. The books below address a different question: the meta-skill of reading philosophical texts and reconstructing arguments as such, mostly from the analytic-pedagogical tradition. They ground the practices in this document rather than the substantive critique you are working toward. German editions are listed where they exist.
+The texts collected in [Part VII of the syllabus](sozialphilosophie_syllabus.md) — Stahl, Celikates, Jaeggi's and Honneth's methodological chapters — train the Frankfurt-tradition craft from within. The books below address a different question: the meta-skill of reading philosophical texts and reconstructing arguments as such, mostly from the analytic-pedagogical tradition. They ground the practices in this document rather than the substantive critique you are working toward. German editions are listed where they exist.
 
 ### Tier 1 — buy and read in the first three months
 
@@ -892,7 +945,7 @@ Practices defined in this document are listed in normal weight; practices define
 
 | Practice | Scope / when | Time budget | Notes |
 |---|---|---|---|
-| **A. Written argument reconstruction** | Per chapter / major section (Full) or per chapter / major section (Light); reading-log line only for Orientation | See **§C.2 Style × Tier matrix and time formula** below for the full computation (Reading = Pages/pp/h; Writing = Reading × α with per-Recon cap). | Class-dependent α (5 prose classes × tier); Honneth-monograph decouple rule; aphoristic flag rule all in §C.2. |
+| **A. Written argument reconstruction** | Per chapter / major section at both Full and Light (only the depth differs); reading-log line only for Orientation | See **§C.2 Style × Tier matrix and time formula** below for the full computation (Reading = Pages/pp/h; Writing = Reading × α with per-Recon cap). | Class-dependent α (5 prose classes × tier); Honneth-monograph decouple rule; aphoristic flag rule all in §C.2. |
 | **B. Conceptual tracking** | Per concept encountered + module-boundary update | ~10–15 min per new entry; ~30 min – 1h per module update | Continuous during reading. |
 | **C1. Internal-tension seminar questions** | Per Full Recon week (2–3 questions filed with the reconstruction) | 20–30 min total | Bundled with Practice A Full tier only. |
 | **C2. Cross-thinker / translation question** | Per module close, filed as the Positioning subsection of the adversarial module note (H1) | within the note's ~1h | Apprenticeship for Comparison Exercise. No longer a separate artifact (2026-07-13). |
@@ -900,12 +953,15 @@ Practices defined in this document are listed in normal weight; practices define
 | **E. Synthesis notes + monthly vault walk** | Trigger-based synthesis; vault walk monthly (scheduled); soft target M1–M9: *attempt* one synthesis per module close | 30 min – 1h per synthesis; 30 min/month vault walk | Cross-module integration + vault hygiene. Quota deleted 2026-07-13. |
 | **F. Strategic re-reading** | Named module-transition events (post-M7, post-M8, post-M11B, post-Zurn/L-S) + ad-hoc self-disagreement re-reads | ~5–10h per named event (~30–50h Phase II–III total); ~30 min per self-disagreement re-read | Explicit Schedule rows at trigger weeks. General 15–20% comprehension re-reading is subsumed under reading pace, not budgeted here. |
 | **G. Translation comparison** | Ad hoc during reading | 5–10 min per chapter when triggered; absorbed into reading time | No separate budget. German default for Frankfurt primaries per bridge §5.C. |
+| **Candidate register** (`Ideen/`) | Entry opened when a disagreement recurs; harvested at R2, R3, M32 review, R5 | ~20–30 min per harvest (~2h total); positioning check ~1.5h per run | Feeds the whole productive ladder; the M35 three-candidate exercise draws on it. Added 2026-07-30. |
+| **Positioning check** (kill test) | Per register entry at `scoping`+; from Skizze #3 (~M29); **mandatory before M38 lock-in** | ~1.5h per run (~4–6h across Phases II–III) | Four steps: forward-citation sweep · venue sweep · topic browse · one human. Added 2026-07-30. |
+| **External calibration** (paid calibrator) | 5 touchpoints: ~W16–17, ~W23–24, W61, ~M29, ~M34 | ~1.5h each (~7.5h) + ~€500–900 | Recruit at ~W12. Touchpoints 4–5 are also the positioning check's human step. Extended past Phase I 2026-07-30. |
 | **H1. Adversarial module note (Translation + Objection + Positioning)** | Per module close | ~1h (300–450 words) | Merges former H1 + Dialogue Moment + C2 (2026-07-13). Translation subsection may thin from M7. |
 | **H2. Full structured evaluation** | ~1 in 3 major texts from Module 6 onward | 2–3h per instance | Phase II+. |
 | **I. Anwendung (apply concept to ECB phenomenon)** | ~8–10 week cadence | 3.5–4.5h per instance (incl. Claude iteration) | Phase I onwards (M2+). |
 | **J. Skizze (defend a positive claim)** | ~6–8 week cadence, Phase II+ | 4.5–6h per instance | Phase II–III: ~6–8 Skizzen before W3.2. |
 | **Zwischenstück (cross-disciplinary short essay)** | Once, ~M29–M34 | ~10–20h (per bridge §2.4) | Mandatory rung Skizze → W3.2 (2026-07-13). Venue/community details: bridge §2.4. |
-| **Comprehension check** | Per module close | 2–3h (compresses to ~1h on peak weeks from ~M25) | Canonical here since 2026-07-13 (formerly bridge §3.3(a)). |
+| **Comprehension check** | Per module close | 1.5h — 45 min closed-book + 45 min gap repair (compresses to ~1h on peak weeks from ~M25) | Canonical here since 2026-07-13 (formerly bridge §3.3(a)); restructured to the timed two-half form 2026-07-30. |
 | **Quarterly milestone (QM)** | ~5 across programme, module-boundary anchored | 2–3h (replaces that week's bonus reading) | Canonical here since 2026-07-13 (formerly bridge §3.3(b)); scheduling in execution_plan §D.2. |
 | **Spaced-repetition prompts** | Per module close + weekly review | ~20 min/module + ~10 min/week | Scheduled since 2026-07-13 (formerly optional per §L.8). |
 | *Discipline — what not to do* | — | — | Non-time practice (rules of thumb). |
@@ -1131,6 +1187,7 @@ The vault is ultimately a Zettelkasten aimed at the W3.2 piece: reconstructions 
 | **Concept entry** (Practice B) | A term recurs/mutates and warrants tracking — *not* upfront; write yours before consulting any exemplar | A **new thinker** uses the term (add to *Transformations*, §L.12 step 5); module-boundary sweep | The **disputed-definitions** sub-section is where contributions hide — a term used incompatibly across thinkers is a paper hinge |
 | **Synthesis note** (Practice E) | A cross-source claim **recurs** (the same gloss in two reconstructions), or surfaces on the monthly walk / a re-read / an Anwendung | As more sources connect in | **The spine.** A W3.2 candidate not leaning on ≥ 3–4 synthesis notes is under-integrated |
 | **Debate map** (Practice D) | Module close | Tapers: every module M1–9, alternating M10+; Phase III → feeds the Comparison Exercise | Locates your contribution's *negative space* |
+| **Register entry** (`Ideen/`, `tpl-research-idea.md`) | A disagreement **recurs** across two artifacts — not on first noticing (a claim you can't state in one sentence is a mood, not a seed) | Harvest at R2, R3, the M32 Phase II review, R5; positioning check re-run on revival (searches go stale) | **The shortlist.** R5's three W3.2 candidates are selected from it, not generated at the retreat |
 | **Tags** (Appendix A) | Start from the 25; add only when 5+ existing notes would take it | Effectively never (stable vocabulary) | Retrieval when drafting ("pull all `#empirical-presuppositions` for the intro") |
 | **Index / MOC** (§L.4) | Master index at each module close; module MOCs on demand (> 2 searches/month) | — | Navigation once the vault passes ~200 notes |
 
@@ -1181,7 +1238,7 @@ vault-root/
 ├── reviews/                           # periodic review notes
 │   ├── 2026-W21.md
 │   └── ...
-├── field-reports/                     # motivational checkpoints (Craft Block, Part V)
+├── field-reports/                     # motivational checkpoints (Craft Block, Part VII)
 ├── templates/                         # note templates (see §L.6)
 │   ├── tpl-reconstruction.md
 │   ├── tpl-concept.md
@@ -1496,13 +1553,66 @@ The following is a concrete step-by-step for what happens between closing a book
 6. **Link to existing notes.** Scan your reconstruction for connections to other texts you've already reconstructed. Create bidirectional links where connections exist. If you notice a cross-cutting claim recurring across multiple reconstructions, consider whether it warrants a synthesis note.
 7. **Update the module index.** Add a link to the new reconstruction in `modules/Module-XX/_index.md` with a one-line annotation.
 8. **If this is the last text in a module:** *confirm every text read during the module has its filed output (Full reconstruction, Light note, or reading-log line) before any module-close artifacts are produced.* Then run the module close per *Module-close practices — canonical definitions* (Part III): comprehension check, adversarial module note (Practice H1), debate map (Practice D), spaced-repetition prompts; update the master index and write a review note (`reviews/YYYY-WNN.md`) capturing the module-level picture.
-9. **Optional — Claude check.** Bring your reconstruction to Claude for a Use 1 check ("What have I gotten wrong, missed, or stated ambiguously?"). Revise accordingly.
+9. **Claude Use 1 check** — standing for every Full in Phase I, first-of-author from Phase II (`/recon-check`, or "What have I gotten wrong, missed, or stated ambiguously?"). Revise accordingly, verifying any section-specific claim against the text before you absorb it.
 10. **Commit.** If obsidian-git isn't set to auto-commit, do a manual commit with a descriptive message ("Module 07: Honneth KuA ch1 reconstruction + Anerkennung concept entry").
 
-**Time budget for steps 1–7:** 60–120 minutes on top of reading time, depending on text difficulty. This workflow-inclusive figure is the **canonical** cost of a Full-tier session close; the "30–45 minutes per Full reconstruction" under Practice A is the reconstruction-writing component (step 2) only, and the execution plan's week-13 calibration measures this all-in number. Step 8 initiates the module-close block (~5–6.5h standard; see *Module-close practices — canonical definitions*).
+**Time budget for steps 1–7:** 60–120 minutes on top of reading time, depending on text difficulty. This workflow-inclusive figure is the **canonical** cost of a Full-tier session close; the "30–45 minutes per Full reconstruction" under Practice A is the reconstruction-writing component (step 2) only, and the execution plan's week-13 calibration measures this all-in number. Step 8 initiates the module-close block (~4–5h standard; see *Module-close practices — canonical definitions*).
 
 ### References
 
 Sönke Ahrens, *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking* (2nd ed., 2022) — the standard treatment of the Zettelkasten method adapted for academic work. Ahrens's core argument is structurally identical to what this document recommends: notes must be written in your own words, linked by you to other notes through explicit conceptual connections, and organised by argument rather than by source.
 
 Andy Matuschak's online notes on "Evergreen Notes" (https://notes.andymatuschak.org) develop a similar framework with more attention to digital implementation, including the distinction between literature notes and permanent notes and the principle that notes should be titled as propositions.
+
+---
+
+## Appendix G: Prose-difficulty classes and reading rates
+
+**[Moved here 2026-07-31 from `reading_speed_classes.md`, which is retired.]** The per-text
+classification (which class each syllabus item falls in, with language, page count and section
+count) now lives in the module tables of
+[sozialphilosophie_syllabus.md](sozialphilosophie_syllabus.md) — those are intrinsic properties of
+a text and belong next to the text. What remains here is the *framework*: how the classes are
+defined and what rates they imply. It sits in this document because it is a canonical input, and
+[execution_plan.md](execution_plan.md) is a derivative document — rebuilding the plan must not
+destroy the rates.
+
+**The hour formula.** Downstream, per-text hour budgets are computed as:
+
+`Total Hrs = (Pages ÷ pp/h) + α × reading_hrs`
+
+where `Pages` and the prose class come from the syllabus tables, `pp/h` from the class table
+below, and α (the writing-overhead multiplier) from the practice tier assigned in
+[importance_tiers.md](importance_tiers.md). The computation itself, and every derived total,
+belongs to [execution_plan.md](execution_plan.md) — not here and not in the syllabus.
+
+**Recalibration.** The pp/h figures below are *bottom-of-range* (the fast end). They are an
+empirical estimate of your actual reading speed, not a fixed parameter: recalibrate against
+observed pace after Month 1 and at each transition retreat, and update this table when you do.
+
+### The five prose-difficulty classes
+
+Five prose-difficulty classes, bottom-of-range pp/h:
+
+| Class | DE pp/h | EN pp/h | Indicative authors |
+|---|---|---|---|
+| **Dense** | 4–5 | 5–6 | Hegel (RP, Phän), Marx (Kapital, ÖpM), Adorno (DdA, MM, ND), Lukács, Mannheim, Horkheimer 1937, Weber methodological essays, Husserl |
+| **Systematic** | 6–8 | 8–10 | Habermas (TKH, EuI, *Philosophische Diskurs*), Gadamer, Forst monographs (RauR, *Normativität und Macht*, *Noumenal Republic*), Honneth monographs (KuA, RdF, *Anerkennung* 2018, *Arbeitende Souverän*), Khurana, Postone, Luhmann, Bourdieu monographs, Schütz, Boltanski/Thévenot |
+| **Layered** | 8–10 | 10–13 | Honneth essays (*Pathologien*, "Anerkennung als Ideologie"), Jaeggi (*Entfremdung*, KvL, *Fortschritt und Regression*), Celikates, Rosa, Renault, Stahl, Joas, Bedorf, Allen, Boltanski, Heinrich, Reckwitz, Federici, Beckert, Vogelmann, Wright, Brown, Henning, Heller, Márkus, Kosík, Heydorn, Mollenhauer, Freud, Nietzsche (*Genealogie*), Marcuse, Fromm, Mitscherlich |
+| **Analytic** | 12–15 | 14–18 | Forst articles (Noumenal Power), Fricker, Fraser articles, Zurn, Laitinen-Särkelä, Taylor, Hollis, Mead, Woodward, Anderson, Mills, List & Pettit, Epstein, Pettit, Cohen, Roemer, Putnam, Hempel, Elster, Coady, Searle, Bratman, Gilbert, Tuomela, Hindriks, Bicchieri, Hodgson, Guala, Hartsock, Harding, Khalidi, Hacking, Sugden, Reiss, Hausman, Goldman, Lackey, Felitti, Frega, Stojanov, Drerup/Schweiger, English |
+| **Transparent** | 15–18 | 15–20 | Neuhouser, McCarthy, Outhwaite, Feenberg, Jay, Dewey, Polanyi, Streeck, Pippin, Wood, Heinrich (intro text), Wiggershaus, Ringer, Freyenhagen, Hickel, Sennett, Bauman, Bell, Beck, Schimank/Volkmann, Joas/Knöbl, Hurrelmann/Bauer, Siegler textbook, Bowlby, Cassidy/Shaver, Vygotsky, Gerhardt, Shonkoff/Phillips, Freeman, Sayer, Bhaskar, SEP entries, Routledge handbooks, Graeber, Scott, Mbembe (relatively), Mignolo (relatively) |
+
+**Special rules:**
+1. **Heinrich** *Kritik der politischen Ökonomie* (2.4) → **Transparent** (deliberate intro text; ~14 pp/h)
+2. **Weber** 3.1 "Wissenschaft als Beruf" + 3.2 "Objektivität" → **Dense** (slow methodological prose); 3.3 *W&G* I.1 §§1–17 → **Systematic**
+3. **Honneth** split: monographs → Systematic; essays → Layered
+4. **Aphoristic structure** is a *flag* (column Flag = `Aphoristic`), not a class — applied to Benjamin "Theses on History" + Adorno *Minima Moralia* (both kept Dense). Benjamin "Kunstwerk" = Dense essay, no flag.
+
+**Flag conventions:**
+- `Aphoristic` — non-systematic, fragmentary structure
+- `(est)` after pages — page count estimated, not in syllabus
+- `(?)` — page count unknown
+
+**n_chapters:** scope as scheduled per syllabus. "chs. 1–5" → 5; "Intro + chs. 1–3" → 4; single essay → 1; "Part I, chs. 1–2" → 2; orientation/reference-only entries → 1 (treated as one notional section).
+
+---

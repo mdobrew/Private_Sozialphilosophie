@@ -9,6 +9,55 @@ Naming conventions used historically in the plan body:
 
 ---
 
+
+## 2026-07-31 — classification merge, Forst extraction, Part restructure
+
+**ID changes (old → new).** Two renames and two retirements. Item IDs elsewhere are unchanged.
+
+| Old | New | Why |
+|---|---|---|
+| 7.7 | 7A.1 | Forst extracted to **Module 7A**. His lineage runs to Habermas (6.6 Diskursethik, 6.8 F&G), not to *Kampf um Anerkennung* — the Module 7 placement contradicted the dependency graph. Letter suffix avoids cascading Modules 8–18. |
+| 7.8 | 7A.2 | " |
+| 7.9 | 7A.3 | " |
+| 7.10 | 7A.4 | " |
+| 6.7 | 6.8 | **Swap.** 6.8 *Strukturwandel* (1962) leads to 6.7 *Faktizität und Geltung* (1992), so the earlier text carried the later ID — an accretion artefact from the 2026-05-22 addition. IDs and physical row order now both ascend with reading order. |
+| 6.8 | 6.7 | " |
+| C.1–C.5 | 13.1–13.5 | Appendix C strands C.I–C.III extracted to Module 13; the C-side rows were verbatim duplicates. **C.1–C.5 retired and left vacant** rather than cascading C.6–C.25. |
+| 7.7–7.10 | *(vacant)* | Retired; not reused. |
+
+**Structural.** Part IV (Topical Readings: Modules 12–15) and Part V (Deferred and Reference Modules: 16–18) created; former Part IV → **VI**, former Part V → **VII**. Parts are not part of the ID scheme, so no item IDs changed. New syllabus row 1.7F (Khurana Teil II) and a matching tier row. 12.2 Rawls promoted [NE] → [P] and re-scoped, discharging the Rawlsian-counterweight revision flag.
+
+**Schema.** `reading_speed_classes.md` retired to a redirect; its per-text columns merged into the syllabus tables (`Lang` / `pages` / `chapters` / `Klasse`) and its framework moved to `reading_practices.md` § Appendix G. **The syllabus no longer carries hour estimates or totals** — they are derived and belong to the execution plan. New third dependency field, **Contested by:**, on 58 items.
+
+
+## 2026-07-30 — Practices goal-fitness pass: scheduling the calibrator, the candidate register, and the positioning check
+
+Implements the plan-side half of the `reading_practices.md` revision of the same date (full rationale in `reading_practices_changelog.md`). No reading scope, tier, or module boundary changed; nothing moved in the calendar.
+
+- **§B gains two standing entries.** *External calibration* — 5 paid calibrator touchpoints (~1.5h each, ~€500–900), recruited at W12 with the email drafted at R1. *Candidate register* — `Ideen/` harvests at R2, R3, the M32 Phase II review and R5, plus the positioning check.
+- **Inline rows added:** R1 W8 (draft the calibrator email + new Filed-by-Sunday box) · W12 (send) · W17 (touchpoint 1 — the 1.3 Herr/Knecht Full; the plan's first Hegel *Full* is Phänomenologie IV.A, not an RP segment-Light, so the practices doc's "first RP reconstruction" anchor resolves here) · W24 (touchpoint 2 — 2.3a §4 fetishism Full, premise attribution) · W61 (touchpoint 3 — Field Report, sent separately from the W61 letter) · W36 R2 + W64 R3 (register harvests #1–2) · M29 (touchpoint 4 + positioning check #1, alongside Skizze #3) · M32 (harvest #3, inside the Phase II review) · M34 (touchpoint 5 — *Zwischenstück* draft, landing before R5) · R5 M35 (harvest #4 — the three-candidate exercise now selects from the register) · **M38 topic lock-in is now gated on a dated positioning check.**
+- **§D.1:** Claude Use-1 check promoted from "at W5 only" to **every Phase I Full** (first-of-author from Phase II).
+- **§D.2:** comprehension check restructured to 45 min closed-book + 45 min gap repair (~1.5h, was ~2–3h); standard close ≈ 4–5h, QM close ≈ 6–8h.
+- **§A calibration window:** the Neuhouser Transparent-EN metric is now annotated `first-scaffold` — the scaffold is read ahead of the Hegel it prepares, so it carries conceptual novelty the prose class does not price. The annotation lets the W13 tally separate it from post-Neuhouser RP segments; it does not exempt it from Gate 1.
+- **Known reconciliation debt:** per-week close-week practice figures (~5.5–6h) and the module/phase tallies still carry the pre-restructure comprehension check. They are conservative by ~1h per close (~12–15h programme-wide), which is approximately what the new touchpoints and positioning checks consume — the two roughly cancel at phase level. Flagged in §B; recompile at the next full pass rather than patching ~12 week rows by hand.
+
+---
+
+## 2026-07-17 — B.0.2 citation fix + social-ontology labelling pass (Appendix F.4, 7.25 Taylor, DM calibration)
+
+Two user-flagged items.
+
+**(1) B.0.2 mis-citation corrected.** The syllabus cited B.0.2 as *Daniel Little, "Philosophy of Social Science," Stanford Encyclopedia of Philosophy* — no SEP entry of that title exists (verified against plato.stanford.edu). Little's SEP entry is "Philosophy of History" (2007, rev. 2020); his field-survey work is the book already correctly cited at B.1.4 (*Varieties of Social Explanation*, 1991). The article the user found is the real one: **William A. Gorton, "The Philosophy of Social Science," *Internet Encyclopedia of Philosophy* (2010)**, iep.utm.edu/soc-sci/ — same orientation function, so B.0.2 re-pointed to it. Fixed in three docs: `sozialphilosophie_syllabus.md` (B.0.2 row + the "encyclopedia entry" prose at B.0 + the recommendation line), `reading_speed_classes.md` (B.0.2 row), `importance_tiers.md` (B.0 row).
+
+**(2) Social-ontology labelling pass (no new module; no tier promotions).** User observation: the syllabus is slim on social ontology, yet Celikates/Jaeggi and Stahl lean on it when defining the field. Diagnosis — the docs *label* only sense (a), analytic social ontology (Module 17 + App F: Searle/Epstein/collective intentionality, mostly [NE]/Phase IV, correctly kept lean because adopting it as a *lens* is "exit" from Sozialphilosophie), and leave sense (b), critical theory's *own* constructive social-ontological commitments, present-but-unlabelled across the spine. Fix is labelling + availability, not load:
+- **Syllabus:** Module 17 gains a "Two senses of social ontology" note (the exit rationale + a thread-map: fetishism 2 / recognition 7.1, 7.15, 7.25 / *Lebensform* 8.2 / Stahl §3.4 8.8 & W1.1 / stratified-ontology 11D) with target (c) as the hinge; breadcrumbs added to 7.15 and 8.8; **new item 7.25 Charles Taylor, "Irreducibly Social Goods" [O]/COULD (~2–3h)**; **new Appendix F.4 "Critical-/practice-theoretic social ontology"** — F.4.1 Fischbach *Sans objet* [O] (cross-lists to 8.1 alienation), F.4.2 Descombes *Institutions of Meaning* [O], F.4.3 late Lukács *Zur Ontologie des gesellschaftlichen Seins* [NE], named negative space; App F total ~120–170 → ~140–195h.
+- **reading_speed_classes / importance_tiers:** 7.25 + F.4.1–F.4.3 rows added; F.4 tier row (COULD; Lukács DISCRETIONARY).
+- **Execution plan (DM calibration per user's feasibility challenge):** the Module-8-close DM would have been unanswerable at that point in its strong form (the sharpest objection to immanent critique's implicit ontology lives in the analytic literature the programme deliberately skips). Split: Module 8 gets a **gap-surfacing DM** capability target (name a *sozialontologische Frage* you can't yet answer, and why); the **demanding version relocated to Craft-Block W1.1** (M35–37), whose method-note target now explicitly includes the strongest objection + reply, where Stahl Teil II–III + Celikates + F.4/7.25 supply the resources.
+
+## 2026-07-16 — Neuhouser ToC correction (7 chapters, not 8) + Module 2 Jaeggi check rescoped to preview depth
+
+Two user-flagged corrections. **(1) Neuhouser 1.1:** the plan's W9–W14 slicing assumed 8 chapters; the book (Harvard UP 2000, verified against the published ToC) has **Intro + 7 chapters, ~282 pp. main text** (ch. 6 *Methodological Atomism* pp. 175–224; ch. 7 *The Place of Moral Subjectivity in Ethical Life* pp. 225–282). Weekly blocks re-sliced chapter-clean: W9 Intro + chs. 1–2 (~80pp) · W10 chs. 3–5 (~95pp, the heaviest Neuhouser week, deliberately pre-RP) · W11 ch. 6 (~50pp) · W12 ch. 7 (~60pp). Fulls count 9→8 (Intro + chs. 1–7; the W13–14 project-statement note stands in for the Intro, which gets a promissory ledger at W9 instead of a four-part Recon — nothing recon-shaped in it). Module 1 read sum ~47→~47.5h; inventory pages ~300→~285; W10–W12 headers re-summed. Mirrored in `print/04`; syllabus 1.1 row page count corrected. **(2) Module 2 capability target (a):** "explain why Jaeggi rejects the essentialist anthropology" tested Module 8 material at M2-close — no Jaeggi alienation reading is booked before 8.1 (M25–26); only 0.1 + module notes are available. Reworded (plan capability list, W26 close item 1, syllabus comprehension indicator, `print/05`) to preview depth: state the four dimensions + identify the *Gattungswesen* assumption a rehabilitation must drop; the full "why" recurs as the existing Module 8 target ("relation of relationlessness — no fixed essence needed").
+
 ## 2026-07-15 — Calendar-date columns + Stilübung + two Context-Layer pointers + session_state slimmed
 
 Four small approved changes across the working set. **(1) Dates:** every Phase I module-schedule Wk cell now carries the week's Monday date (`W9 · 10 Aug`; anchor M1 W1 = 2026-06-15; year shown only where it changes within a table — `W30 · 4 Jan 27`), and the Phase II month-level schedule tables plus the Phase III at-a-glance table carry calendar months (`M19 · Dec 2027`; M1 = Jun 2026). Derived from the existing week-block headings and programme-calendar anchors; no hour or content changes. **(2) Stilübung (register imitation):** new small standalone exercise in reading_practices Part II (near Practice J) — take a ~300-word Jaeggi/Honneth passage, write one paragraph in the same register on your own material, diff the two; ~0.75h per instance; scheduled twice in the plan (M22, immediately before Skizze #1; Craft Block M35–37 alongside W3.1); not tapered, not repeated beyond these unless Skizze feedback flags voice. Closes the reading-practices-audit finding that genre voice was asserted but never trained. **(3) Syllabus Context-Layer sentences** (no new item IDs): Ricoeur, *Parcours de la reconnaissance* (2004) appended at 7.18; Honneth/Rancière, *Recognition or Disagreement* (eds. Genel & Deranty, 2016) appended at 7.21 — both tagged [Added 2026-07-15 (audit follow-up)]. **(4) session_state.md** rewritten as a slim current-position snapshot (W5 of Part 0 as of 2026-07-15; active-documents line; next landmarks; open items) — session history and document descriptions dropped; the live docs and this changelog own both.

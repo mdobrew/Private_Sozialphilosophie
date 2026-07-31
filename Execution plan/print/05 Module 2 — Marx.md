@@ -51,7 +51,7 @@
 
 ### Capability targets — by end of Module 2 you should be able to:
 
-- [ ] State the four dimensions of alienation in the 1844 Manuscripts and explain why Jaeggi rejects the essentialist anthropology but retains the diagnostic category.
+- [ ] State the four dimensions of alienation in the 1844 Manuscripts and identify the assumption a rehabilitation of the concept must drop — the essentialist *Gattungswesen* anthropology — while keeping the diagnostic category. *(Preview depth: the only Jaeggi available by M2-close is 0.1 + the module notes; her own account is 8.1, M25–26 — the full "why" recurs as a Module 8 capability target.)*
 - [ ] Explain commodity fetishism as a *social-ontological* claim (not merely a psychological error or false belief).
 - [ ] Distinguish Marx's critique of capitalism-as-social-form from a critique of capitalism-as-inefficient-allocation, and articulate why this distinction matters for the Frankfurt tradition's approach to economic critique.
 - [ ] State Heinrich's distinction between *value-form* and *labour-value-as-quantity*, and explain what this distinction protects Marx from.
@@ -171,7 +171,7 @@
 ### Week 26 (Mon 2026-12-07) | 🎯 Module 2 close (~8.1h: 0R + 8.1P)
 - **Core:** 🎯 **Module 2 close** per §D.2 — no new reading.
 - **Practice:**
-  1. Comprehension check (~2.5h) against the capability targets below: four dimensions + why Jaeggi keeps the diagnostic; fetishism as *social-ontological* claim; social-form vs. inefficient-allocation critique.
+  1. Comprehension check (~2.5h) against the capability targets below: four dimensions + the assumption a rehabilitation must drop (preview depth — the full Jaeggi version recurs at Module 8, after 8.1); fetishism as *social-ontological* claim; social-form vs. inefficient-allocation critique.
   2. ✏ Adversarial note (~1h) — Objection: "this is a critique of social meaning, not economic outcomes — capitalism's defenders never claimed it was about meaning" → defend the meaning-level critique as non-reducible; Translation: does Marx need the welfare-economic case to be *wrong*, or is the welfare frame itself part of what needs critique?; Positioning: one cross-thinker question.
   3. 🗺 Map + SR prompts (~2.1h).
   4. Re-read ÖpM Recon against Heinrich's framing (~1.5h).
